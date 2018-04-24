@@ -468,7 +468,7 @@
 
 \section{Generating Random Networks}
 \subsection{Create random networks using Erd\"os-R\'enyi model}
-(a) By creating the undirected networks with number of nodes $N=1000$ and $p=0.003$, $0.004$, $0.01$, $0.05$, and $0.1$, we observe the binomial distribution.
+(a) By creating the undirected networks with number of nodes $N=1000$ and $p=0.003$, $0.004$, $0.01$, $0.05$, and $0.1$, we observe the binomial distribution. The results are shown in Fig \ref{fig1}, \ref{fig2}, \ref{fig3}, \ref{fig4}, \ref{fig5}, \ref{fig6}, \ref{fig7}, \ref{fig8}, \ref{fig9}, \ref{figten}.
 \begin{figure}[H]
 \centering
 \begin{minipage}[t]{0.48\textwidth}
@@ -508,13 +508,13 @@
 \centering
 \includegraphics[scale=0.2]{figures_part1_1/output_5_0.png}
 \caption{Random network $G_3$ with $N=1000$ and $p=0.01$.}
-\label{fig1}
+\label{fig5}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[scale=0.2]{figures_part1_1/output_10_1.png}
 \caption{Degree distribution of $G_3$}
-\label{fig2}
+\label{fig6}
 \end{minipage}
 \end{figure}
 
@@ -524,13 +524,13 @@
 \centering
 \includegraphics[scale=0.2]{figures_part1_1/output_6_0.png}
 \caption{Random network $G_4$ with $N=1000$ and $p=0.05$.}
-\label{fig1}
+\label{fig7}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[scale=0.2]{figures_part1_1/output_11_1.png}
 \caption{Degree distribution of $G_4$}
-\label{fig2}
+\label{fig8}
 \end{minipage}
 \end{figure}
 
@@ -541,13 +541,13 @@
 \centering
 \includegraphics[scale=0.2]{figures_part1_1/output_7_0.png}
 \caption{Random network $G_5$ with $N=1000$ and $p=0.05$.}
-\label{fig1}
+\label{fig9}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[scale=0.2]{figures_part1_1/output_12_1.png}
 \caption{Degree distribution of $G_5$}
-\label{fig2}
+\label{figten}
 \end{minipage}
 \end{figure}
 
@@ -678,7 +678,8 @@ deg(i)=m(\frac{t}{i})^{\frac{1}{2}}=(\frac{1000}{i})^{\frac{1}{2}}
 \end{align*}
 
 The Plot of relationship between the age of nodes and their expected degree is shown below.
-\begin{figure}[H]
+
+\begin{figure}[h]
 \centering
 \includegraphics[width=0.5\textwidth]{1_2_f.pdf}
 \caption{relationship between the age of nodes and their expected degree}
@@ -729,7 +730,8 @@ The regular and randomly walking degree distribution of the networks are shown b
 \end{figure}
 
 And the relationship between the age of nodes and expected degree is shown below.
-\begin{figure}[H]
+
+\begin{figure}[h]
 \centering
 \includegraphics[width=0.5\textwidth]{img/2_g_1_relat}
 \caption{relationship between the age of nodes and expected degree}
@@ -751,6 +753,7 @@ And the relationship between the age of nodes and expected degree is shown below
 \end{figure}
 
 The regular and randomly walking degree distribution of the networks are shown below.
+
 \begin{figure}[htbp]
 \centering
 \begin{minipage}[t]{0.48\textwidth}
@@ -778,11 +781,13 @@ The regular and randomly walking degree distribution of the networks are shown b
 \end{minipage}
 \end{figure}
 
-And the relationship between the age of nodes and expected degree is shown below.
-\begin{figure}[H]
+And the relationship between the age of nodes and expected degree is shown in Fig \ref{2g2relat}.
+
+\begin{figure}[h]
 \centering
 \includegraphics[width=0.5\textwidth]{img/2_g_2_relat}
 \caption{relationship between the age of nodes and expected degree}
+\label{2g2relat}
 \end{figure}
 
 We can see from the comparison that the network with $m = 1$ has the highest modularity. Since the higher $m$, the higher the total degree of all the nodes, there is no doubt that the nodes in the network with higher total degree connect to each other much more closely, which means the network becomes a whole instead of several communities.
@@ -837,13 +842,13 @@ By linear regression, the practical slope of degree distribution log-log plot eq
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{2_1_b_distance.png}
-\caption{⟨s(t)⟩ v.s. t with $N = 1000$}
+\caption{$s(t)$ v.s. t with $N = 1000$}
 \label{fig01}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{2_1_b_deviation.png}
-\caption{σ2(t) v.s. t with $N = 1000$}
+\caption{$\sigma^2(t)$ v.s. t with $N = 1000$}
 \label{fig02}
 \end{minipage}
 \end{figure}
@@ -879,13 +884,13 @@ The diameter of the nodes $N = 100$, $N = 1000$ and $N = 10000$ is about $2.0$, 
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{2_1_d_100_distance.png}
-\caption{⟨s(t)⟩ v.s. t with nodes = 100}
+\caption{⟨$s(t)$⟩ v.s. t with nodes = 100}
 \label{fig05}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{2_1_d_100_deviation.png}
-\caption{$σ_2(t)$ v.s. t with nodes = 100}
+\caption{$\sigma^2(t)$ v.s. t with nodes = 100}
 \label{fig06}
 \end{minipage}
 \end{figure}
@@ -894,13 +899,13 @@ The diameter of the nodes $N = 100$, $N = 1000$ and $N = 10000$ is about $2.0$, 
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{2_1_d_10000_distance.png}
-\caption{⟨s(t)⟩ v.s. t with nodes = 10000}
+\caption{⟨$s(t)$⟩ v.s. t with nodes = 10000}
 \label{fig07}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{2_1_d_10000_deviation.png}
-\caption{$σ2(t)$ v.s. t with nodes = 10000}
+\caption{$\sigma^2(t)$ v.s. t with nodes = 10000}
 \label{fig08}
 \end{minipage}
 \end{figure}
@@ -914,20 +919,20 @@ The diameter of the nodes $N = 100$, $N = 1000$ and $N = 10000$ is about $2.0$, 
 \label{fig09}
 \end{figure}
 
-(b) As what we have dealt with Erdös-Rényi networks, we also simulated random walk on preferential attachment network and Figure 11 and 12 demonstrate the plot ⟨s(t)⟩ v.s. t and σ2(t) v.s. t respectively.
+(b) As what we have dealt with Erd\"os-R\'enyi networks, we also simulated random walk on preferential attachment network and Fig \ref{fig50} and \ref{fig51} demonstrate the plot ⟨$s(t)$⟩ v.s. $t$ and $\sigma^2(t)$ v.s. $t$ respectively.
 \begin{figure}[htbp]
 \centering
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{2_2_b_distance.png}
-\caption{⟨s(t)⟩ v.s. t with nodes = 1000}
-\label{fig10}
+\caption{⟨$s(t)$⟩ v.s. t with nodes = 1000}
+\label{fig50}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{2_2_b_deviation.png}
-\caption{$σ2(t)$ v.s. t with nodes = 1000}
-\label{fig11}
+\caption{$\sigma^2(t)$ v.s. t with nodes = 1000}
+\label{fig51}
 \end{minipage}
 \end{figure}
 (c) After running several times to get several figures(shown bellow), we could see that after a certain large number of steps of random walk, the results of two kinds of degree distribution are similar to each other.
@@ -949,19 +954,19 @@ The diameter of the nodes $N = 100$, $N = 1000$ and $N = 10000$ is about $2.0$, 
 
 (d) Repeated the process in (b), we got the diameters of graphs with 100 and 10000 nodes are 4.5 and 5 respectively. Though we got this result, according to the theory, we knew that this seemed incorrect. Therefore, we generate network several times and calculate the average of the diameter. Then, we got the conclusion that in general, the graph with more nodes has smaller diameter, which means it also has smaller average distance.
 
-The results also illustrate some differences between two different graph generation models. Considering the graph with 1000 nodes, in previous model(Erdös-Rényi Model), we can see that the average distance increases dramatically within not more than 10 steps, and then the value keeps fluctuating along the step t and gradually converges. However in Barabasi-Albert Model, the average distance shows a slight increase along the step t.
+The results also illustrate some differences between two different graph generation models. Considering the graph with 1000 nodes, in previous model(Erd\"os-R\'enyi Model), we can see that the average distance increases dramatically within not more than 10 steps, and then the value keeps fluctuating along the step t and gradually converges. However in Barabasi-Albert Model, the average distance shows a slight increase along the step t.
 \begin{figure}[htbp]
 \centering
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{2_2_d_100_distance.png}
-\caption{⟨s(t)⟩ v.s. t with nodes = 100}
+\caption{⟨$s(t)$⟩ v.s. t with nodes = 100}
 \label{fig14}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{2_2_d_100_deviation.png}
-\caption{$σ2(t)$ v.s. t with nodes = 100}
+\caption{$\sigma^2(t)$ v.s. t with nodes = 100}
 \label{fig15}
 \end{minipage}
 \end{figure}
@@ -970,13 +975,13 @@ The results also illustrate some differences between two different graph generat
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{2_2_d_10000_distance.png}
-\caption{⟨s(t)⟩ v.s. t with nodes = 10000}
+\caption{⟨$s(t)$⟩ v.s. t with nodes = 10000}
 \label{fig16}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{2_2_d_10000_deviation.png}
-\caption{$σ2(t)$ v.s. t with nodes = 10000}
+\caption{$\sigma^2(t)$ v.s. t with nodes = 10000}
 \label{fig17}
 \end{minipage}
 \end{figure}
