@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.23)  23 APR 2018 20:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.23)  23 APR 2018 21:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -499,254 +499,218 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Try loading font information for U+msb on input line 471.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) <figures_part1_1/output_3_0.png, id=36, 843.15pt x 843.15pt>
+) <figures_part1_1/output_3_0.png, id=40, 843.15pt x 843.15pt>
 File: figures_part1_1/output_3_0.png Graphic file (type png)
  <use figures_part1_1/output_3_0.png>
 Package pdftex.def Info: figures_part1_1/output_3_0.png used on input line 476.
 (pdftex.def)             Requested size: 168.627pt x 168.627pt.
- <figures_part1_1/output_8_0.png, id=38, 843.15pt x 843.15pt>
+ <figures_part1_1/output_8_0.png, id=42, 843.15pt x 843.15pt>
 File: figures_part1_1/output_8_0.png Graphic file (type png)
  <use figures_part1_1/output_8_0.png>
 Package pdftex.def Info: figures_part1_1/output_8_0.png used on input line 482.
 (pdftex.def)             Requested size: 168.627pt x 168.627pt.
- <figures_part1_1/output_4_0.png, id=39, 843.15pt x 843.15pt>
+ <figures_part1_1/output_4_0.png, id=43, 843.15pt x 843.15pt>
 File: figures_part1_1/output_4_0.png Graphic file (type png)
  <use figures_part1_1/output_4_0.png>
 Package pdftex.def Info: figures_part1_1/output_4_0.png used on input line 493.
 (pdftex.def)             Requested size: 168.627pt x 168.627pt.
- <figures_part1_1/output_9_0.png, id=40, 843.15pt x 843.15pt>
+ <figures_part1_1/output_9_0.png, id=44, 843.15pt x 843.15pt>
 File: figures_part1_1/output_9_0.png Graphic file (type png)
  <use figures_part1_1/output_9_0.png>
 Package pdftex.def Info: figures_part1_1/output_9_0.png used on input line 499.
 (pdftex.def)             Requested size: 168.627pt x 168.627pt.
- [1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./figures_part1_1/output_3_0.png> <./figures_part1_1/output_8_0.png>] <figures_part1_1/output_5_0.png, id=54, 843.15pt x 843.15pt>
+ [1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./figures_part1_1/output_3_0.png> <./figures_part1_1/output_8_0.png>] <figures_part1_1/output_5_0.png, id=58, 843.15pt x 843.15pt>
 File: figures_part1_1/output_5_0.png Graphic file (type png)
  <use figures_part1_1/output_5_0.png>
 Package pdftex.def Info: figures_part1_1/output_5_0.png used on input line 509.
 (pdftex.def)             Requested size: 168.627pt x 168.627pt.
- <figures_part1_1/output_10_1.png, id=55, 843.15pt x 843.15pt>
+ <figures_part1_1/output_10_1.png, id=59, 843.15pt x 843.15pt>
 File: figures_part1_1/output_10_1.png Graphic file (type png)
  <use figures_part1_1/output_10_1.png>
 Package pdftex.def Info: figures_part1_1/output_10_1.png used on input line 515.
 (pdftex.def)             Requested size: 168.627pt x 168.627pt.
- <figures_part1_1/output_6_0.png, id=56, 843.15pt x 843.15pt>
+ <figures_part1_1/output_6_0.png, id=60, 843.15pt x 843.15pt>
 File: figures_part1_1/output_6_0.png Graphic file (type png)
  <use figures_part1_1/output_6_0.png>
 Package pdftex.def Info: figures_part1_1/output_6_0.png used on input line 525.
 (pdftex.def)             Requested size: 168.627pt x 168.627pt.
- <figures_part1_1/output_11_1.png, id=57, 843.15pt x 843.15pt>
+ <figures_part1_1/output_11_1.png, id=61, 843.15pt x 843.15pt>
 File: figures_part1_1/output_11_1.png Graphic file (type png)
  <use figures_part1_1/output_11_1.png>
 Package pdftex.def Info: figures_part1_1/output_11_1.png used on input line 531.
 (pdftex.def)             Requested size: 168.627pt x 168.627pt.
- [2 <./figures_part1_1/output_4_0.png> <./figures_part1_1/output_9_0.png> <./figures_part1_1/output_5_0.png> <./figures_part1_1/output_10_1.png>] <figures_part1_1/output_7_0.png, id=68, 843.15pt x 843.15pt>
+ [2 <./figures_part1_1/output_4_0.png> <./figures_part1_1/output_9_0.png> <./figures_part1_1/output_5_0.png> <./figures_part1_1/output_10_1.png>] <figures_part1_1/output_7_0.png, id=72, 843.15pt x 843.15pt>
 File: figures_part1_1/output_7_0.png Graphic file (type png)
  <use figures_part1_1/output_7_0.png>
 Package pdftex.def Info: figures_part1_1/output_7_0.png used on input line 542.
 (pdftex.def)             Requested size: 168.627pt x 168.627pt.
- <figures_part1_1/output_12_1.png, id=69, 843.15pt x 843.15pt>
+ <figures_part1_1/output_12_1.png, id=73, 843.15pt x 843.15pt>
 File: figures_part1_1/output_12_1.png Graphic file (type png)
  <use figures_part1_1/output_12_1.png>
 Package pdftex.def Info: figures_part1_1/output_12_1.png used on input line 548.
 (pdftex.def)             Requested size: 168.627pt x 168.627pt.
- [3 <./figures_part1_1/output_6_0.png> <./figures_part1_1/output_11_1.png> <./figures_part1_1/output_7_0.png> <./figures_part1_1/output_12_1.png>] <figures_part1_1/output_18_0.png, id=82, 843.15pt x 843.15pt>
+ [3 <./figures_part1_1/output_6_0.png> <./figures_part1_1/output_11_1.png> <./figures_part1_1/output_7_0.png> <./figures_part1_1/output_12_1.png>] <figures_part1_1/output_18_0.png, id=86, 843.15pt x 843.15pt>
 File: figures_part1_1/output_18_0.png Graphic file (type png)
  <use figures_part1_1/output_18_0.png>
 Package pdftex.def Info: figures_part1_1/output_18_0.png used on input line 592.
 (pdftex.def)             Requested size: 252.94695pt x 252.94695pt.
- [4] <figures_part1_1/output_20_0.png, id=89, 843.15pt x 843.15pt>
+ [4] <figures_part1_1/output_20_0.png, id=93, 843.15pt x 843.15pt>
 File: figures_part1_1/output_20_0.png Graphic file (type png)
  <use figures_part1_1/output_20_0.png>
 Package pdftex.def Info: figures_part1_1/output_20_0.png used on input line 600.
 (pdftex.def)             Requested size: 252.94695pt x 252.94695pt.
- <figures_part1_1/output_22_0.png, id=91, 843.15pt x 843.15pt>
+ <figures_part1_1/output_22_0.png, id=95, 843.15pt x 843.15pt>
 File: figures_part1_1/output_22_0.png Graphic file (type png)
  <use figures_part1_1/output_22_0.png>
 Package pdftex.def Info: figures_part1_1/output_22_0.png used on input line 608.
 (pdftex.def)             Requested size: 252.94695pt x 252.94695pt.
- [5 <./figures_part1_1/output_18_0.png> <./figures_part1_1/output_20_0.png>] <figures_part1_1/output_24_0.png, id=102, 843.15pt x 843.15pt>
+ [5 <./figures_part1_1/output_18_0.png> <./figures_part1_1/output_20_0.png>] <figures_part1_1/output_24_0.png, id=106, 843.15pt x 843.15pt>
 File: figures_part1_1/output_24_0.png Graphic file (type png)
  <use figures_part1_1/output_24_0.png>
 Package pdftex.def Info: figures_part1_1/output_24_0.png used on input line 616.
 (pdftex.def)             Requested size: 252.94695pt x 252.94695pt.
- <1_2_a_network.png, id=103, 843.15pt x 843.15pt>
+ <1_2_a_network.png, id=107, 843.15pt x 843.15pt>
 File: 1_2_a_network.png Graphic file (type png)
  <use 1_2_a_network.png>
 Package pdftex.def Info: 1_2_a_network.png used on input line 631.
 (pdftex.def)             Requested size: 234.8775pt x 234.87103pt.
- [6 <./figures_part1_1/output_22_0.png> <./figures_part1_1/output_24_0.png>] <1_2_c_network.png, id=113, 843.15pt x 843.15pt>
+ [6 <./figures_part1_1/output_22_0.png> <./figures_part1_1/output_24_0.png>] <1_2_c_network.png, id=117, 843.15pt x 843.15pt>
 File: 1_2_c_network.png Graphic file (type png)
  <use 1_2_c_network.png>
 Package pdftex.def Info: 1_2_c_network.png used on input line 640.
 (pdftex.def)             Requested size: 234.8775pt x 234.87103pt.
- [7 <./1_2_a_network.png>] <1_2_d_degsmall.png, id=121, 843.15pt x 843.15pt>
+ [7 <./1_2_a_network.png>] <1_2_d_degsmall.png, id=125, 843.15pt x 843.15pt>
 File: 1_2_d_degsmall.png Graphic file (type png)
  <use 1_2_d_degsmall.png>
 Package pdftex.def Info: 1_2_d_degsmall.png used on input line 650.
 (pdftex.def)             Requested size: 213.39566pt x 213.38579pt.
- <1_2_d_deglarge.png, id=122, 843.15pt x 843.15pt>
+ <1_2_d_deglarge.png, id=126, 843.15pt x 843.15pt>
 File: 1_2_d_deglarge.png Graphic file (type png)
  <use 1_2_d_deglarge.png>
 Package pdftex.def Info: 1_2_d_deglarge.png used on input line 655.
 (pdftex.def)             Requested size: 213.39566pt x 213.38579pt.
- <1_2_e_degsmall.pdf, id=123, 505.89pt x 505.89pt>
+ <1_2_e_degsmall.pdf, id=127, 505.89pt x 505.89pt>
 File: 1_2_e_degsmall.pdf Graphic file (type pdf)
  <use 1_2_e_degsmall.pdf>
-Package pdftex.def Info: 1_2_e_degsmall.pdf used on input line 666.
+Package pdftex.def Info: 1_2_e_degsmall.pdf used on input line 665.
 (pdftex.def)             Requested size: 213.39566pt x 213.39865pt.
- <1_2_e_deglarge.pdf, id=124, 505.89pt x 505.89pt>
+ <1_2_e_deglarge.pdf, id=128, 505.89pt x 505.89pt>
 File: 1_2_e_deglarge.pdf Graphic file (type pdf)
  <use 1_2_e_deglarge.pdf>
-Package pdftex.def Info: 1_2_e_deglarge.pdf used on input line 671.
+Package pdftex.def Info: 1_2_e_deglarge.pdf used on input line 670.
 (pdftex.def)             Requested size: 213.39566pt x 213.39865pt.
- [8 <./1_2_c_network.png> <./1_2_d_degsmall.png> <./1_2_d_deglarge.png>] <1_2_f.pdf, id=134, 505.89pt x 505.89pt>
+ <1_2_f.pdf, id=129, 505.89pt x 505.89pt>
 File: 1_2_f.pdf Graphic file (type pdf)
  <use 1_2_f.pdf>
 Package pdftex.def Info: 1_2_f.pdf used on input line 683.
 (pdftex.def)             Requested size: 234.8775pt x 234.88132pt.
- [9 <./1_2_e_degsmall.pdf> <./1_2_e_deglarge.pdf>] <img/2_g_1_network.pdf, id=153, 505.89pt x 505.89pt>
+ [8 <./1_2_c_network.png>]
+Overfull \vbox (144.53848pt too high) has occurred while \output is active []
+
+ [9 <./1_2_d_degsmall.png> <./1_2_d_deglarge.png> <./1_2_e_degsmall.pdf> <./1_2_e_deglarge.pdf> <./1_2_f.pdf>] <img/2_g_1_network.pdf, id=166, 505.89pt x 505.89pt>
 File: img/2_g_1_network.pdf Graphic file (type pdf)
  <use img/2_g_1_network.pdf>
 Package pdftex.def Info: img/2_g_1_network.pdf used on input line 693.
 (pdftex.def)             Requested size: 213.39566pt x 213.39865pt.
- <img/2_g_1_network2.pdf, id=154, 505.89pt x 505.89pt>
+ <img/2_g_1_network2.pdf, id=167, 505.89pt x 505.89pt>
 File: img/2_g_1_network2.pdf Graphic file (type pdf)
  <use img/2_g_1_network2.pdf>
 Package pdftex.def Info: img/2_g_1_network2.pdf used on input line 698.
 (pdftex.def)             Requested size: 213.39566pt x 213.39865pt.
- <img/2_g_1_degree1.png, id=155, 843.15pt x 843.15pt>
+ <img/2_g_1_degree1.png, id=168, 843.15pt x 843.15pt>
 File: img/2_g_1_degree1.png Graphic file (type png)
  <use img/2_g_1_degree1.png>
-Package pdftex.def Info: img/2_g_1_degree1.png used on input line 707.
+Package pdftex.def Info: img/2_g_1_degree1.png used on input line 708.
 (pdftex.def)             Requested size: 213.39566pt x 213.38579pt.
- <img/2_g_1_degree2.png, id=156, 843.15pt x 843.15pt>
+ <img/2_g_1_degree2.png, id=169, 843.15pt x 843.15pt>
 File: img/2_g_1_degree2.png Graphic file (type png)
  <use img/2_g_1_degree2.png>
-Package pdftex.def Info: img/2_g_1_degree2.png used on input line 712.
+Package pdftex.def Info: img/2_g_1_degree2.png used on input line 713.
 (pdftex.def)             Requested size: 213.39566pt x 213.38579pt.
- <img/2_g_1_degree3.png, id=157, 843.15pt x 843.15pt>
+ <img/2_g_1_degree3.png, id=170, 843.15pt x 843.15pt>
 File: img/2_g_1_degree3.png Graphic file (type png)
  <use img/2_g_1_degree3.png>
-Package pdftex.def Info: img/2_g_1_degree3.png used on input line 720.
+Package pdftex.def Info: img/2_g_1_degree3.png used on input line 721.
 (pdftex.def)             Requested size: 213.39566pt x 213.38579pt.
- <img/2_g_1_degree4.png, id=158, 843.15pt x 843.15pt>
+ <img/2_g_1_degree4.png, id=171, 843.15pt x 843.15pt>
 File: img/2_g_1_degree4.png Graphic file (type png)
  <use img/2_g_1_degree4.png>
-Package pdftex.def Info: img/2_g_1_degree4.png used on input line 725.
+Package pdftex.def Info: img/2_g_1_degree4.png used on input line 726.
 (pdftex.def)             Requested size: 213.39566pt x 213.38579pt.
- <img/2_g_1_relat.png, id=159, 843.15pt x 843.15pt>
+ <img/2_g_1_relat.png, id=172, 843.15pt x 843.15pt>
 File: img/2_g_1_relat.png Graphic file (type png)
  <use img/2_g_1_relat.png>
-Package pdftex.def Info: img/2_g_1_relat.png used on input line 732.
+Package pdftex.def Info: img/2_g_1_relat.png used on input line 734.
 (pdftex.def)             Requested size: 234.8775pt x 234.87103pt.
- [10 <./1_2_f.pdf> <./img/2_g_1_network.pdf> <./img/2_g_1_network2.pdf>] [11 <./img/2_g_1_degree1.png> <./img/2_g_1_degree2.png> <./img/2_g_1_degree3.png> <./img/2_g_1_degree4.png>]
-
-./EE232_P1_part2.tex:740: LaTeX Error: File `img/2_g_2_network' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.740 ...egraphics[width=7.5cm]{img/2_g_2_network}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-./EE232_P1_part2.tex:745: LaTeX Error: File `img/2_g_2_network2' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.745 ...graphics[width=7.5cm]{img/2_g_2_network2}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-./EE232_P1_part2.tex:754: LaTeX Error: File `img/2_g_2_degree1' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.754 ...egraphics[width=7.5cm]{img/2_g_2_degree1}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-./EE232_P1_part2.tex:759: LaTeX Error: File `img/2_g_2_degree2' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.759 ...egraphics[width=7.5cm]{img/2_g_2_degree2}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-./EE232_P1_part2.tex:767: LaTeX Error: File `img/2_g_2_degree3' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.767 ...egraphics[width=7.5cm]{img/2_g_2_degree3}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-./EE232_P1_part2.tex:772: LaTeX Error: File `img/2_g_2_degree4' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.772 ...egraphics[width=7.5cm]{img/2_g_2_degree4}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-./EE232_P1_part2.tex:779: LaTeX Error: File `img/2_g_2_relat' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.779 ...ics[width=0.5\textwidth]{img/2_g_2_relat}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[12 <./img/2_g_1_relat.png>] <2_1_a_network_1000.png, id=201, 481.8pt x 481.8pt>
+ [10 <./img/2_g_1_network.pdf> <./img/2_g_1_network2.pdf> <./img/2_g_1_degree1.png> <./img/2_g_1_degree2.png>] <img/2_g_2_network.png, id=189, 843.15pt x 843.15pt>
+File: img/2_g_2_network.png Graphic file (type png)
+ <use img/2_g_2_network.png>
+Package pdftex.def Info: img/2_g_2_network.png used on input line 743.
+(pdftex.def)             Requested size: 213.39566pt x 213.38579pt.
+ <img/2_g_2_network2.png, id=190, 843.15pt x 843.15pt>
+File: img/2_g_2_network2.png Graphic file (type png)
+ <use img/2_g_2_network2.png>
+Package pdftex.def Info: img/2_g_2_network2.png used on input line 748.
+(pdftex.def)             Requested size: 213.39566pt x 213.38579pt.
+ <img/2_g_2_degree1.png, id=191, 843.15pt x 843.15pt>
+File: img/2_g_2_degree1.png Graphic file (type png)
+ <use img/2_g_2_degree1.png>
+Package pdftex.def Info: img/2_g_2_degree1.png used on input line 758.
+(pdftex.def)             Requested size: 213.39566pt x 213.38579pt.
+ <img/2_g_2_degree2.png, id=192, 843.15pt x 843.15pt>
+File: img/2_g_2_degree2.png Graphic file (type png)
+ <use img/2_g_2_degree2.png>
+Package pdftex.def Info: img/2_g_2_degree2.png used on input line 763.
+(pdftex.def)             Requested size: 213.39566pt x 213.38579pt.
+ <img/2_g_2_degree3.png, id=193, 843.15pt x 843.15pt>
+File: img/2_g_2_degree3.png Graphic file (type png)
+ <use img/2_g_2_degree3.png>
+Package pdftex.def Info: img/2_g_2_degree3.png used on input line 771.
+(pdftex.def)             Requested size: 213.39566pt x 213.38579pt.
+ <img/2_g_2_degree4.png, id=194, 843.15pt x 843.15pt>
+File: img/2_g_2_degree4.png Graphic file (type png)
+ <use img/2_g_2_degree4.png>
+Package pdftex.def Info: img/2_g_2_degree4.png used on input line 776.
+(pdftex.def)             Requested size: 213.39566pt x 213.38579pt.
+ <img/2_g_2_relat.png, id=195, 843.15pt x 843.15pt>
+File: img/2_g_2_relat.png Graphic file (type png)
+ <use img/2_g_2_relat.png>
+Package pdftex.def Info: img/2_g_2_relat.png used on input line 784.
+(pdftex.def)             Requested size: 234.8775pt x 234.87103pt.
+ [11 <./img/2_g_1_degree3.png> <./img/2_g_1_degree4.png> <./img/2_g_1_relat.png>] [12 <./img/2_g_2_network.png> <./img/2_g_2_network2.png> <./img/2_g_2_degree1.png> <./img/2_g_2_degree2.png>] [13 <./img/2_g_2_degree3.png> <./img/2_g_2_degree4.png> <./img/2_g_2_relat.png>] <img/2_h_1.png, id=226, 843.15pt x 843.15pt>
+File: img/2_h_1.png Graphic file (type png)
+ <use img/2_h_1.png>
+Package pdftex.def Info: img/2_h_1.png used on input line 793.
+(pdftex.def)             Requested size: 234.8775pt x 234.87103pt.
+ <img/2_h_2.png, id=227, 843.15pt x 843.15pt>
+File: img/2_h_2.png Graphic file (type png)
+ <use img/2_h_2.png>
+Package pdftex.def Info: img/2_h_2.png used on input line 798.
+(pdftex.def)             Requested size: 234.8775pt x 234.87103pt.
+ [14 <./img/2_h_1.png>]
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+ <img/3_a_1.png, id=234, 843.15pt x 843.15pt>
+File: img/3_a_1.png Graphic file (type png)
+ <use img/3_a_1.png>
+Package pdftex.def Info: img/3_a_1.png used on input line 813.
+(pdftex.def)             Requested size: 234.8775pt x 234.87103pt.
+ <img/3_a_2.png, id=235, 843.15pt x 843.15pt>
+File: img/3_a_2.png Graphic file (type png)
+ <use img/3_a_2.png>
+Package pdftex.def Info: img/3_a_2.png used on input line 818.
+(pdftex.def)             Requested size: 234.8775pt x 234.87103pt.
+ [15 <./img/2_h_2.png>]
+<2_1_a_network_1000.png, id=242, 481.8pt x 481.8pt>
 File: 2_1_a_network_1000.png Graphic file (type png)
  <use 2_1_a_network_1000.png>
-Package pdftex.def Info: 2_1_a_network_1000.png used on input line 790.
+Package pdftex.def Info: 2_1_a_network_1000.png used on input line 829.
 (pdftex.def)             Requested size: 234.8775pt x 234.87839pt.
- <2_1_b_distance.png, id=202, 481.8pt x 481.8pt>
+ [16 <./img/3_a_1.png> <./img/3_a_2.png>] <2_1_b_distance.png, id=251, 481.8pt x 481.8pt>
 File: 2_1_b_distance.png Graphic file (type png)
  <use 2_1_b_distance.png>
-Package pdftex.def Info: 2_1_b_distance.png used on input line 800.
+Package pdftex.def Info: 2_1_b_distance.png used on input line 839.
 (pdftex.def)             Requested size: 213.39566pt x 213.38947pt.
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no Ÿ in font ptmr7t!
@@ -760,29 +724,29 @@ Missing character: There is no ¨ in font ptmr7t!
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no Ÿ in font ptmr7t!
 Missing character: There is no © in font ptmr7t!
- <2_1_b_deviation.png, id=203, 481.8pt x 481.8pt>
+ <2_1_b_deviation.png, id=252, 481.8pt x 481.8pt>
 File: 2_1_b_deviation.png Graphic file (type png)
  <use 2_1_b_deviation.png>
-Package pdftex.def Info: 2_1_b_deviation.png used on input line 806.
+Package pdftex.def Info: 2_1_b_deviation.png used on input line 845.
 (pdftex.def)             Requested size: 213.39566pt x 213.38947pt.
 Missing character: There is no Ï in font ptmr7t!
 Missing character: There is no ƒ in font ptmr7t!
 Missing character: There is no Ï in font ptmr7t!
 Missing character: There is no ƒ in font ptmr7t!
- <2_1_c_end_nodes_degree.png, id=204, 481.8pt x 481.8pt>
+ <2_1_c_end_nodes_degree.png, id=253, 481.8pt x 481.8pt>
 File: 2_1_c_end_nodes_degree.png Graphic file (type png)
  <use 2_1_c_end_nodes_degree.png>
-Package pdftex.def Info: 2_1_c_end_nodes_degree.png used on input line 817.
+Package pdftex.def Info: 2_1_c_end_nodes_degree.png used on input line 856.
 (pdftex.def)             Requested size: 213.39566pt x 213.38947pt.
- <2_1_c_graph_degree.png, id=205, 481.8pt x 481.8pt>
+ <2_1_c_graph_degree.png, id=254, 481.8pt x 481.8pt>
 File: 2_1_c_graph_degree.png Graphic file (type png)
  <use 2_1_c_graph_degree.png>
-Package pdftex.def Info: 2_1_c_graph_degree.png used on input line 823.
+Package pdftex.def Info: 2_1_c_graph_degree.png used on input line 862.
 (pdftex.def)             Requested size: 213.39566pt x 213.38947pt.
- [13 <./2_1_a_network_1000.png (PNG copy)>] [14 <./2_1_b_distance.png> <./2_1_b_deviation.png> <./2_1_c_end_nodes_degree.png> <./2_1_c_graph_degree.png>] <2_1_d_100_distance.png, id=223, 481.8pt x 481.8pt>
+ [17 <./2_1_a_network_1000.png (PNG copy)>] [18 <./2_1_b_distance.png> <./2_1_b_deviation.png> <./2_1_c_end_nodes_degree.png> <./2_1_c_graph_degree.png>] <2_1_d_100_distance.png, id=273, 481.8pt x 481.8pt>
 File: 2_1_d_100_distance.png Graphic file (type png)
  <use 2_1_d_100_distance.png>
-Package pdftex.def Info: 2_1_d_100_distance.png used on input line 842.
+Package pdftex.def Info: 2_1_d_100_distance.png used on input line 881.
 (pdftex.def)             Requested size: 213.39566pt x 213.38947pt.
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no Ÿ in font ptmr7t!
@@ -796,19 +760,19 @@ Missing character: There is no ¨ in font ptmr7t!
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no Ÿ in font ptmr7t!
 Missing character: There is no © in font ptmr7t!
- <2_1_d_100_deviation.png, id=224, 481.8pt x 481.8pt>
+ <2_1_d_100_deviation.png, id=274, 481.8pt x 481.8pt>
 File: 2_1_d_100_deviation.png Graphic file (type png)
  <use 2_1_d_100_deviation.png>
-Package pdftex.def Info: 2_1_d_100_deviation.png used on input line 848.
+Package pdftex.def Info: 2_1_d_100_deviation.png used on input line 887.
 (pdftex.def)             Requested size: 213.39566pt x 213.38947pt.
 Missing character: There is no Ï in font ptmr7t!
 Missing character: There is no ƒ in font ptmr7t!
 Missing character: There is no Ï in font ptmr7t!
 Missing character: There is no ƒ in font ptmr7t!
- <2_1_d_10000_distance.png, id=225, 481.8pt x 481.8pt>
+ <2_1_d_10000_distance.png, id=275, 481.8pt x 481.8pt>
 File: 2_1_d_10000_distance.png Graphic file (type png)
  <use 2_1_d_10000_distance.png>
-Package pdftex.def Info: 2_1_d_10000_distance.png used on input line 857.
+Package pdftex.def Info: 2_1_d_10000_distance.png used on input line 896.
 (pdftex.def)             Requested size: 213.39566pt x 213.38947pt.
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no Ÿ in font ptmr7t!
@@ -822,24 +786,21 @@ Missing character: There is no ¨ in font ptmr7t!
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no Ÿ in font ptmr7t!
 Missing character: There is no © in font ptmr7t!
- <2_1_d_10000_deviation.png, id=226, 481.8pt x 481.8pt>
+ <2_1_d_10000_deviation.png, id=276, 481.8pt x 481.8pt>
 File: 2_1_d_10000_deviation.png Graphic file (type png)
  <use 2_1_d_10000_deviation.png>
-Package pdftex.def Info: 2_1_d_10000_deviation.png used on input line 863.
+Package pdftex.def Info: 2_1_d_10000_deviation.png used on input line 902.
 (pdftex.def)             Requested size: 213.39566pt x 213.38947pt.
 Missing character: There is no Ï in font ptmr7t!
 Missing character: There is no ƒ in font ptmr7t!
 Missing character: There is no Ï in font ptmr7t!
 Missing character: There is no ƒ in font ptmr7t!
- <2_2_a_network_1000.png, id=227, 481.8pt x 481.8pt>
+ <2_2_a_network_1000.png, id=277, 481.8pt x 481.8pt>
 File: 2_2_a_network_1000.png Graphic file (type png)
  <use 2_2_a_network_1000.png>
-Package pdftex.def Info: 2_2_a_network_1000.png used on input line 873.
+Package pdftex.def Info: 2_2_a_network_1000.png used on input line 912.
 (pdftex.def)             Requested size: 234.8775pt x 234.87839pt.
- [15]
-Overfull \vbox (144.53004pt too high) has occurred while \output is active []
-
- [16 <./2_1_d_100_distance.png> <./2_1_d_100_deviation.png> <./2_1_d_10000_distance.png> <./2_1_d_10000_deviation.png> <./2_2_a_network_1000.png (PNG copy)>]
+ [19 <./2_1_d_100_distance.png> <./2_1_d_100_deviation.png>]
 Missing character: There is no Ã in font ptmr7t!
 Missing character: There is no ¶ in font ptmr7t!
 Missing character: There is no Ã in font ptmr7t!
@@ -852,10 +813,10 @@ Missing character: There is no Ÿ in font ptmr7t!
 Missing character: There is no © in font ptmr7t!
 Missing character: There is no Ï in font ptmr7t!
 Missing character: There is no ƒ in font ptmr7t!
- <2_2_b_distance.png, id=247, 481.8pt x 481.8pt>
+ <2_2_b_distance.png, id=286, 481.8pt x 481.8pt>
 File: 2_2_b_distance.png Graphic file (type png)
  <use 2_2_b_distance.png>
-Package pdftex.def Info: 2_2_b_distance.png used on input line 883.
+Package pdftex.def Info: 2_2_b_distance.png used on input line 922.
 (pdftex.def)             Requested size: 213.39566pt x 213.38947pt.
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no Ÿ in font ptmr7t!
@@ -869,33 +830,34 @@ Missing character: There is no ¨ in font ptmr7t!
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no Ÿ in font ptmr7t!
 Missing character: There is no © in font ptmr7t!
- <2_2_b_deviation.png, id=248, 481.8pt x 481.8pt>
+ <2_2_b_deviation.png, id=287, 481.8pt x 481.8pt>
 File: 2_2_b_deviation.png Graphic file (type png)
  <use 2_2_b_deviation.png>
-Package pdftex.def Info: 2_2_b_deviation.png used on input line 889.
+Package pdftex.def Info: 2_2_b_deviation.png used on input line 928.
 (pdftex.def)             Requested size: 213.39566pt x 213.38947pt.
 Missing character: There is no Ï in font ptmr7t!
 Missing character: There is no ƒ in font ptmr7t!
 Missing character: There is no Ï in font ptmr7t!
 Missing character: There is no ƒ in font ptmr7t!
- <2_2_c_end_nodes_degree.png, id=249, 481.8pt x 481.8pt>
+ <2_2_c_end_nodes_degree.png, id=288, 481.8pt x 481.8pt>
 File: 2_2_c_end_nodes_degree.png Graphic file (type png)
  <use 2_2_c_end_nodes_degree.png>
-Package pdftex.def Info: 2_2_c_end_nodes_degree.png used on input line 899.
+Package pdftex.def Info: 2_2_c_end_nodes_degree.png used on input line 938.
 (pdftex.def)             Requested size: 213.39566pt x 213.38947pt.
- <2_2_c_graph_degree.png, id=250, 481.8pt x 481.8pt>
+ <2_2_c_graph_degree.png, id=289, 481.8pt x 481.8pt>
 File: 2_2_c_graph_degree.png Graphic file (type png)
  <use 2_2_c_graph_degree.png>
-Package pdftex.def Info: 2_2_c_graph_degree.png used on input line 905.
+Package pdftex.def Info: 2_2_c_graph_degree.png used on input line 944.
 (pdftex.def)             Requested size: 213.39566pt x 213.38947pt.
+ [20 <./2_1_d_10000_distance.png> <./2_1_d_10000_deviation.png> <./2_2_a_network_1000.png (PNG copy)>] [21 <./2_2_b_distance.png> <./2_2_b_deviation.png> <./2_2_c_end_nodes_degree.png> <./2_2_c_graph_degree.png>]
 Missing character: There is no Ã in font ptmr7t!
 Missing character: There is no ¶ in font ptmr7t!
 Missing character: There is no Ã in font ptmr7t!
 Missing character: There is no © in font ptmr7t!
- <2_2_d_100_distance.png, id=251, 481.8pt x 481.8pt>
+ <2_2_d_100_distance.png, id=306, 481.8pt x 481.8pt>
 File: 2_2_d_100_distance.png Graphic file (type png)
  <use 2_2_d_100_distance.png>
-Package pdftex.def Info: 2_2_d_100_distance.png used on input line 918.
+Package pdftex.def Info: 2_2_d_100_distance.png used on input line 957.
 (pdftex.def)             Requested size: 213.39566pt x 213.38947pt.
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no Ÿ in font ptmr7t!
@@ -909,19 +871,19 @@ Missing character: There is no ¨ in font ptmr7t!
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no Ÿ in font ptmr7t!
 Missing character: There is no © in font ptmr7t!
- <2_2_d_100_deviation.png, id=252, 481.8pt x 481.8pt>
+ <2_2_d_100_deviation.png, id=307, 481.8pt x 481.8pt>
 File: 2_2_d_100_deviation.png Graphic file (type png)
  <use 2_2_d_100_deviation.png>
-Package pdftex.def Info: 2_2_d_100_deviation.png used on input line 924.
+Package pdftex.def Info: 2_2_d_100_deviation.png used on input line 963.
 (pdftex.def)             Requested size: 213.39566pt x 213.38947pt.
 Missing character: There is no Ï in font ptmr7t!
 Missing character: There is no ƒ in font ptmr7t!
 Missing character: There is no Ï in font ptmr7t!
 Missing character: There is no ƒ in font ptmr7t!
- <2_2_d_10000_distance.png, id=253, 481.8pt x 481.8pt>
+ <2_2_d_10000_distance.png, id=308, 481.8pt x 481.8pt>
 File: 2_2_d_10000_distance.png Graphic file (type png)
  <use 2_2_d_10000_distance.png>
-Package pdftex.def Info: 2_2_d_10000_distance.png used on input line 933.
+Package pdftex.def Info: 2_2_d_10000_distance.png used on input line 972.
 (pdftex.def)             Requested size: 213.39566pt x 213.38947pt.
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no Ÿ in font ptmr7t!
@@ -935,89 +897,88 @@ Missing character: There is no ¨ in font ptmr7t!
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no Ÿ in font ptmr7t!
 Missing character: There is no © in font ptmr7t!
- <2_2_d_10000_deviation.png, id=254, 481.8pt x 481.8pt>
+ <2_2_d_10000_deviation.png, id=309, 481.8pt x 481.8pt>
 File: 2_2_d_10000_deviation.png Graphic file (type png)
  <use 2_2_d_10000_deviation.png>
-Package pdftex.def Info: 2_2_d_10000_deviation.png used on input line 939.
+Package pdftex.def Info: 2_2_d_10000_deviation.png used on input line 978.
 (pdftex.def)             Requested size: 213.39566pt x 213.38947pt.
 Missing character: There is no Ï in font ptmr7t!
 Missing character: There is no ƒ in font ptmr7t!
 Missing character: There is no Ï in font ptmr7t!
 Missing character: There is no ƒ in font ptmr7t!
- [17 <./2_2_b_distance.png> <./2_2_b_deviation.png>] [18 <./2_2_c_end_nodes_degree.png> <./2_2_c_graph_degree.png> <./2_2_d_100_distance.png> <./2_2_d_100_deviation.png>] <3_network.png, id=269, 481.8pt x 481.8pt>
+ <3_network.png, id=310, 481.8pt x 481.8pt>
 File: 3_network.png Graphic file (type png)
  <use 3_network.png>
-Package pdftex.def Info: 3_network.png used on input line 957.
+Package pdftex.def Info: 3_network.png used on input line 996.
 (pdftex.def)             Requested size: 234.8775pt x 234.87839pt.
- <3_a_rw_prob.png, id=270, 481.8pt x 481.8pt>
+ [22 <./2_2_d_100_distance.png> <./2_2_d_100_deviation.png>] <3_a_rw_prob.png, id=317, 481.8pt x 481.8pt>
 File: 3_a_rw_prob.png Graphic file (type png)
  <use 3_a_rw_prob.png>
-Package pdftex.def Info: 3_a_rw_prob.png used on input line 966.
+Package pdftex.def Info: 3_a_rw_prob.png used on input line 1005.
 (pdftex.def)             Requested size: 213.39566pt x 213.38947pt.
- <3_a_rw_prob_by_degree.png, id=271, 481.8pt x 481.8pt>
+ <3_a_rw_prob_by_degree.png, id=318, 481.8pt x 481.8pt>
 File: 3_a_rw_prob_by_degree.png Graphic file (type png)
  <use 3_a_rw_prob_by_degree.png>
-Package pdftex.def Info: 3_a_rw_prob_by_degree.png used on input line 972.
+Package pdftex.def Info: 3_a_rw_prob_by_degree.png used on input line 1011.
 (pdftex.def)             Requested size: 213.39566pt x 213.38947pt.
- <3_b_rw_prob_teleport.png, id=272, 481.8pt x 481.8pt>
+ <3_b_rw_prob_teleport.png, id=319, 481.8pt x 481.8pt>
 File: 3_b_rw_prob_teleport.png Graphic file (type png)
  <use 3_b_rw_prob_teleport.png>
-Package pdftex.def Info: 3_b_rw_prob_teleport.png used on input line 982.
+Package pdftex.def Info: 3_b_rw_prob_teleport.png used on input line 1021.
 (pdftex.def)             Requested size: 213.39566pt x 213.38947pt.
- <3_b_rw_prob_teleport_by_degree.png, id=273, 481.8pt x 481.8pt>
+ <3_b_rw_prob_teleport_by_degree.png, id=320, 481.8pt x 481.8pt>
 File: 3_b_rw_prob_teleport_by_degree.png Graphic file (type png)
  <use 3_b_rw_prob_teleport_by_degree.png>
-Package pdftex.def Info: 3_b_rw_prob_teleport_by_degree.png used on input line 988.
+Package pdftex.def Info: 3_b_rw_prob_teleport_by_degree.png used on input line 1027.
 (pdftex.def)             Requested size: 213.39566pt x 213.38947pt.
- [19 <./2_2_d_10000_distance.png> <./2_2_d_10000_deviation.png> <./3_network.png (PNG copy)>] [20 <./3_a_rw_prob.png> <./3_a_rw_prob_by_degree.png> <./3_b_rw_prob_teleport.png> <./3_b_rw_prob_teleport_by_degree.png>] <4_a_rw_prob.png, id=293, 481.8pt x 481.8pt>
+ [23 <./2_2_d_10000_distance.png> <./2_2_d_10000_deviation.png> <./3_network.png (PNG copy)>] [24 <./3_a_rw_prob.png> <./3_a_rw_prob_by_degree.png> <./3_b_rw_prob_teleport.png> <./3_b_rw_prob_teleport_by_degree.png>] <4_a_rw_prob.png, id=339, 481.8pt x 481.8pt>
 File: 4_a_rw_prob.png Graphic file (type png)
  <use 4_a_rw_prob.png>
-Package pdftex.def Info: 4_a_rw_prob.png used on input line 1001.
+Package pdftex.def Info: 4_a_rw_prob.png used on input line 1040.
 (pdftex.def)             Requested size: 213.39566pt x 213.38947pt.
- <4_a_rw_prob_by_degree.png, id=294, 481.8pt x 481.8pt>
+ <4_a_rw_prob_by_degree.png, id=340, 481.8pt x 481.8pt>
 File: 4_a_rw_prob_by_degree.png Graphic file (type png)
  <use 4_a_rw_prob_by_degree.png>
-Package pdftex.def Info: 4_a_rw_prob_by_degree.png used on input line 1007.
+Package pdftex.def Info: 4_a_rw_prob_by_degree.png used on input line 1046.
 (pdftex.def)             Requested size: 213.39566pt x 213.38947pt.
- <4_b_rw_prob.png, id=295, 481.8pt x 481.8pt>
+ <4_b_rw_prob.png, id=341, 481.8pt x 481.8pt>
 File: 4_b_rw_prob.png Graphic file (type png)
  <use 4_b_rw_prob.png>
-Package pdftex.def Info: 4_b_rw_prob.png used on input line 1019.
+Package pdftex.def Info: 4_b_rw_prob.png used on input line 1058.
 (pdftex.def)             Requested size: 213.39566pt x 213.38947pt.
- <4_b_rw_prob_by_degree.png, id=296, 481.8pt x 481.8pt>
+ <4_b_rw_prob_by_degree.png, id=342, 481.8pt x 481.8pt>
 File: 4_b_rw_prob_by_degree.png Graphic file (type png)
  <use 4_b_rw_prob_by_degree.png>
-Package pdftex.def Info: 4_b_rw_prob_by_degree.png used on input line 1025.
+Package pdftex.def Info: 4_b_rw_prob_by_degree.png used on input line 1064.
 (pdftex.def)             Requested size: 213.39566pt x 213.38947pt.
- [21 <./4_a_rw_prob.png> <./4_a_rw_prob_by_degree.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1040.
-
-[22 <./4_b_rw_prob.png> <./4_b_rw_prob_by_degree.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1040.
+ [25 <./4_a_rw_prob.png> <./4_a_rw_prob_by_degree.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1079.
+ [26 <./4_b_rw_prob.png> <./4_b_rw_prob_by_degree.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1079.
  (/Users/liutianyoroshi/Campus/00_Project/Networks/EE232E_Networks/project1/report part2/.texpadtmp/EE232_P1_part2.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1040.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1040.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1079.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1079.
 Package rerunfilecheck Info: File `EE232_P1_part2.out' has not changed.
 (rerunfilecheck)             Checksum: F81F7A9403EE0CC4D7910678AEA96650;645.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1040.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1079.
  ) 
 Here is how much of TeX's memory you used:
- 9314 strings out of 492995
- 146339 string characters out of 6132704
+ 9360 strings out of 492995
+ 147476 string characters out of 6132704
  232539 words of memory out of 5000000
- 12599 multiletter control sequences out of 15000+600000
+ 12644 multiletter control sequences out of 15000+600000
  37189 words of font info for 84 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 36i,10n,39p,812b,351s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,10n,39p,812b,349s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "/Users/liutianyoroshi/Campus/00_Project/Networks/EE232E_Networks/project1/report part2/.texpadtmp/EE232_P1_part2.pdf" (22 pages, 2073333 bytes).
+Output written on "/Users/liutianyoroshi/Campus/00_Project/Networks/EE232E_Networks/project1/report part2/.texpadtmp/EE232_P1_part2.pdf" (26 pages, 3410474 bytes).
 PDF statistics:
- 366 PDF objects out of 1000 (max. 8388607)
- 221 compressed objects within 3 object streams
- 69 named destinations out of 1000 (max. 500000)
- 340 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 415 PDF objects out of 1000 (max. 8388607)
+ 244 compressed objects within 3 object streams
+ 78 named destinations out of 1000 (max. 500000)
+ 403 words of extra memory for PDF output out of 10000 (max. 10000000)
 

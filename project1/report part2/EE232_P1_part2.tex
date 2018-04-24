@@ -625,58 +625,58 @@ The result for $c=1.1$, $1.2$ and $1.3$ is shown in Fig \ref{fig14}.
 
 
 \subsection{Create networks using preferential attachment model}
-(a) We created an undirected network under preferential attachment model with $( n = 1000 )$ and $( m = 1 )$, i.e. through the generating process, every step a new node joins the network, we pick only one node proportional to its current degree to connect the new node and there are 1000 steps in total. The network is shown below. We can see that the network we generated is always connected from both practical result and theory analysis.
+(a) We created an undirected network under preferential attachment model with $n = 1000$ and $m = 1$, i.e. through the generating process, every step a new node joins the network, we pick only one node proportional to its current degree to connect the new node and there are 1000 steps in total. The network is shown below. We can see that the network we generated is always connected from both practical result and theory analysis.
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.5\textwidth]{1_2_a_network.png}
-\caption{undirected graph with 1000 nodes based on preferential attachment model}
+\caption{undirected graph with $1000$ nodes based on preferential attachment model}
 \end{figure}
 
-(b) We used fast greedy method to find the community structure and the modularity of this network equals to 0.932. The Network has a very high modularity which means it has dense connections between the nodes within modules but sparse connections between nodes in different modules.
+(b) We used fast greedy method to find the community structure and the modularity of this network equals to $0.932$. The Network has a very high modularity which means it has dense connections between the nodes within modules but sparse connections between nodes in different modules.
 
-(c) This time we tried to generate a larger network with 10000 nodes using the same preferential attachment model. And similarly we applied same algorithm to measure modularity. The modularity of this larger network is 0.978, which is higher in comparison to the smaller network.
+(c) This time we tried to generate a larger network with $10000$ nodes using the same preferential attachment model. And similarly we applied same algorithm to measure modularity. The modularity of this larger network is $0.978$, which is higher in comparison to the smaller network.
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.5\textwidth]{1_2_c_network.png}
-\caption{undirected graph with 10000 nodes based on preferential attachment model}
+\caption{undirected graph with $10000$ nodes based on preferential attachment model}
 \end{figure}
 
-(d) We plotted the degree distribution in a log-log scale for both 1000 nodes and 10000 nodes network. Taking advantage of linear regression, we can estimate the slope of those two plots. The slope of the network plot with 1000 nodes is -2.53 the other plot's slope is -2.91. Theoretically, the ideal log-log degree distribution plot's slope of the network generated under preferential attachment model should be -3.
+(d) We plotted the degree distribution in a log-log scale for both 1000 nodes and $10000$ nodes network. Taking advantage of linear regression, we can estimate the slope of those two plots. The slope of the network plot with 1000 nodes is $-2.53$ the other plot's slope is $-2.91$. Theoretically, the ideal log-log degree distribution plot's slope of the network generated under preferential attachment model should be $-3$.
  
 \begin{figure}[htbp]
 \centering
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{1_2_d_degsmall.png}
-\caption{degree distribution with 1000 nodes}
+\caption{degree distribution with $1000$ nodes}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{1_2_d_deglarge.png}
-\caption{degree distribution with 1000 nodes}
+\caption{degree distribution with $10000$ nodes}
 \end{minipage}
 \end{figure}
 
-(e) We randomly picked a node i, and then randomly picked a neighbor j of that node. The degree distribution plot of nodes j that are picked with this process p in the log-log scale is shown below. 
-How does this differ from the node degree distribution?
+(e) We randomly picked a node i, and then randomly picked a neighbor j of that node. The degree distribution plot of nodes j that are picked with this process p in the log-log scale is shown below. This degree distribution is a little bit different from the original degree distribution. The frequency of high degree nodes is higher than the one of original degree distribution.
 \begin{figure}[htbp]
 \centering
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{1_2_e_degsmall.pdf}
-\caption{degree distribution with 1000 nodes}
+\caption{degree distribution with $1000$ nodes}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{1_2_e_deglarge.pdf}
-\caption{degree distribution with 1000 nodes}
+\caption{degree distribution with $10000$ nodes}
 \end{minipage}
 \end{figure}
 
-(f) The expected degree of a node that is added at time step i is given by the function below.
+(f) The expected degree of a node that is added at time step $i$ is given by the function below.
 \begin{align*}
 deg(i)=m(\frac{t}{i})^{\frac{1}{2}}=(\frac{1000}{i})^{\frac{1}{2}}
 \end{align*}
+
 The Plot of relationship between the age of nodes and their expected degree is shown below.
 \begin{figure}[H]
 \centering
@@ -684,33 +684,34 @@ The Plot of relationship between the age of nodes and their expected degree is s
 \caption{relationship between the age of nodes and their expected degree}
 \end{figure}
 
-(g) Now we repeated all the previous parts for m = 2, and m = 5. 
- For m = 2, the networks generated are shown blow. And the modularity of the network plot with 1000 nodes is 0.521, the larger network's modularity is 0.532.
+(g) Now we repeated all the previous parts for $m = 2$, and $m = 5$. 
+ For $m = 2$, the networks generated are shown blow. And the modularity of the network plot with $1000$ nodes is $0.521$, the larger network's modularity is $0.532$.
 \begin{figure}[htbp]
 \centering
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{img/2_g_1_network}
-\caption{network with 1000 nodes}
+\caption{network with $1000$ nodes}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{img/2_g_1_network2}
-\caption{network with 10000 nodes}
+\caption{network with $10000$ nodes}
 \end{minipage}
 \end{figure}
+
 The regular and randomly walking degree distribution of the networks are shown below.
 \begin{figure}[htbp]
 \centering
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{img/2_g_1_degree1}
-\caption{degree distribution with 1000 nodes}
+\caption{degree distribution with $1000$ nodes}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{img/2_g_1_degree2}
-\caption{degree distribution with 10000 nodes}
+\caption{degree distribution with $10000$ nodes}
 \end{minipage}
 \end{figure}
 \begin{figure}[htbp]
@@ -718,46 +719,49 @@ The regular and randomly walking degree distribution of the networks are shown b
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{img/2_g_1_degree3}
-\caption{randomly walking degree distribution with 1000 nodes}
+\caption{randomly walking degree distribution with $1000$ nodes}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{img/2_g_1_degree4}
-\caption{randomly walking degree distribution with 10000 nodes}
+\caption{randomly walking degree distribution with $10000$ nodes}
 \end{minipage}
 \end{figure}
+
 And the relationship between the age of nodes and expected degree is shown below.
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.5\textwidth]{img/2_g_1_relat}
 \caption{relationship between the age of nodes and expected degree}
 \end{figure}
- Similarly, for m = 5, the networks generated are shown blow. And the modularity of the network plot with 1000 nodes is 0.521, the larger network's modularity is 0.532.
+
+ Similarly, for $m = 5$, the networks generated are shown blow. And the modularity of the network plot with $1000$ nodes is $0.279$, the larger network's modularity is $0.272$.
 \begin{figure}[htbp]
 \centering
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{img/2_g_2_network}
-\caption{network with 1000 nodes}
+\caption{network with $1000$ nodes}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{img/2_g_2_network2}
-\caption{network with 10000 nodes}
+\caption{network with $10000$ nodes}
 \end{minipage}
 \end{figure}
+
 The regular and randomly walking degree distribution of the networks are shown below.
 \begin{figure}[htbp]
 \centering
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{img/2_g_2_degree1}
-\caption{degree distribution with 1000 nodes}
+\caption{degree distribution with $1000$ nodes}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{img/2_g_2_degree2}
-\caption{degree distribution with 10000 nodes}
+\caption{degree distribution with $10000$ nodes}
 \end{minipage}
 \end{figure}
 \begin{figure}[htbp]
@@ -765,21 +769,56 @@ The regular and randomly walking degree distribution of the networks are shown b
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{img/2_g_2_degree3}
-\caption{randomly walking degree distribution with 1000 nodes}
+\caption{randomly walking degree distribution with $1000$ nodes}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{img/2_g_2_degree4}
-\caption{randomly walking degree distribution with 10000 nodes}
+\caption{randomly walking degree distribution with $10000$ nodes}
 \end{minipage}
 \end{figure}
+
 And the relationship between the age of nodes and expected degree is shown below.
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.5\textwidth]{img/2_g_2_relat}
 \caption{relationship between the age of nodes and expected degree}
 \end{figure}
-We can see from the comparison that the network with m = 1 has the highest modularity. Since the higher m, the higher the total degree of all the nodes, there is no doubt that the nodes in the network with higher total degree connect to each other much more closely, which means the network becomes a whole instead of several communities.
+
+We can see from the comparison that the network with $m = 1$ has the highest modularity. Since the higher $m$, the higher the total degree of all the nodes, there is no doubt that the nodes in the network with higher total degree connect to each other much more closely, which means the network becomes a whole instead of several communities.
+
+(h) Again, we generated a preferential attachment network with $n = 1000$, $m = 1$ and then took its degree sequence and created a new network with the same degree sequence through submatching procedure. Those two networks marked as communities with different color are shown below. The modularity of original network is $0.926$, on the other hand, the generated through submatching procedure network's modularity is $0.840$.
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.5\textwidth]{img/2_h_1}
+\caption{network marked as communities}
+\end{figure}
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.5\textwidth]{img/2_h_2}
+\caption{generated network marked as communities}
+\end{figure}
+
+The submatching method to create random power law network couldn't guarantee that the network is fully connected. And we can induce from the result plot that this method will create a network with high modularity.
+
+\subsection{Create a modified preferential attachment model that penalizes the age of a node}
+(a) This time, we aimed to penalize the age of a node through creating process under preferential attachment model. That is that each time a new vertex was added, the probability that an old vertex was cited depends on its degree and age. In particular, the probability that a newly added vertex connects to an old vertex was proportional to:
+\begin{align*}
+P(i)\sim (c k_{i}^{\alpha }+a)(d l_{i}^{\beta }+b)
+\end{align*}
+where $k_{i}$ is the degree of vertex $i$ in the current time step, and $li$ is the age of vertex $i$. We created this network with $1000$ nodes and parameters $m = 1$, $\alpha = 1$, $\beta = −1$, and $a = c = d = 1$, $b = 0$. 
+By linear regression, the practical slope of degree distribution log-log plot equals to $-2.745$ that is the power law exponent.
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.5\textwidth]{img/3_a_1}
+\caption{network plot}
+\end{figure}
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.5\textwidth]{img/3_a_2}
+\caption{degree distribution}
+\end{figure}
+(b) Again, we applied fast greedy method to find the community structure. The modularity of this network is $0.935$.
 
 
 \section{Random Walk on Networks}
