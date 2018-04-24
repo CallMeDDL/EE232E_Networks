@@ -350,8 +350,25 @@
 
 \usepackage{graphicx}
 \usepackage{float}
+\usepackage{cite}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{bbm}
+\usepackage{algorithmicx}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{makecell}
+\usepackage{verbatim}
 \usepackage[justification=centering]{caption}
 
+\newcommand{\E}{\mathbb{E}}
+\DeclareMathOperator{\var}{var}
 
 \begin{document}
 %
@@ -405,8 +422,8 @@
 
 
 % The paper headers
-\markboth{Journal of \LaTeX\ Class Files,~Vol.~14, No.~8, August~2015}%
-{Shell \MakeLowercase{\textit{et al.}}: Bare Demo of IEEEtran.cls for IEEE Journals}
+% \markboth{Journal of \LaTeX\ Class Files,~Vol.~14, No.~8, August~2015}%
+% {Shell \MakeLowercase{\textit{et al.}}: Bare Demo of IEEEtran.cls for IEEE Journals}
 % The only time the second header will appear is for the odd numbered pages
 % after the title page when using the twoside option.
 % 
@@ -450,6 +467,163 @@
 \IEEEpeerreviewmaketitle
 
 \section{Generating Random Networks}
+\subsection{Create random networks using Erd\"os-R\'enyi model}
+(a) By creating the undirected networks with number of nodes $N=1000$ and $p=0.003$, $0.004$, $0.01$, $0.05$, and $0.1$, we observe the binomial distribution.
+\begin{figure}[H]
+\centering
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\includegraphics[scale=0.2]{figures_part1_1/output_3_0.png}
+\caption{Random network $G_1$ with $N=1000$ and $p=0.003$.}
+\label{fig1}
+\end{minipage}
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\includegraphics[scale=0.2]{figures_part1_1/output_8_0.png}
+\caption{Degree distribution of $G_1$}
+\label{fig2}
+\end{minipage}
+\end{figure}
+
+
+\begin{figure}[H]
+\centering
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\includegraphics[scale=0.2]{figures_part1_1/output_4_0.png}
+\caption{Random network $G_2$ with $N=1000$ and $p=0.004$.}
+\label{fig3}
+\end{minipage}
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\includegraphics[scale=0.2]{figures_part1_1/output_9_0.png}
+\caption{Degree distribution of $G_2$}
+\label{fig4}
+\end{minipage}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\includegraphics[scale=0.2]{figures_part1_1/output_5_0.png}
+\caption{Random network $G_3$ with $N=1000$ and $p=0.01$.}
+\label{fig1}
+\end{minipage}
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\includegraphics[scale=0.2]{figures_part1_1/output_10_1.png}
+\caption{Degree distribution of $G_3$}
+\label{fig2}
+\end{minipage}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\includegraphics[scale=0.2]{figures_part1_1/output_6_0.png}
+\caption{Random network $G_4$ with $N=1000$ and $p=0.05$.}
+\label{fig1}
+\end{minipage}
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\includegraphics[scale=0.2]{figures_part1_1/output_11_1.png}
+\caption{Degree distribution of $G_4$}
+\label{fig2}
+\end{minipage}
+\end{figure}
+
+
+\begin{figure}[H]
+\centering
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\includegraphics[scale=0.2]{figures_part1_1/output_7_0.png}
+\caption{Random network $G_5$ with $N=1000$ and $p=0.05$.}
+\label{fig1}
+\end{minipage}
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\includegraphics[scale=0.2]{figures_part1_1/output_12_1.png}
+\caption{Degree distribution of $G_5$}
+\label{fig2}
+\end{minipage}
+\end{figure}
+
+Below is the comparison between the empirical and theoretical values of mean and variance for the above $5$ random networks.
+
+For $G_1$
+\begin{align*}
+\tilde{\E}[\deg(G_1)]&=4.122,\quad \tilde\var(\deg(G_1))=3.305116\\
+\E[\deg(G_1)]&=2.997,\quad \var(\deg(G_1))=2.988009
+\end{align*}
+
+For $G_2$
+\begin{align*}
+\tilde{\E}[\deg(G_2)]&=5.028,\quad \tilde\var(\deg(G_2))=4.461216\\
+\E[\deg(G_2)]&=3.996,\quad \var(\deg(G_2))=3.980016
+\end{align*}
+
+For $G_3$
+\begin{align*}
+\tilde{\E}[\deg(G_3)]&=10.796,\quad \tilde\var(\deg(G_3))=9.142384\\
+\E[\deg(G_3)]&=9.99,\quad \var(\deg(G_3))=9.8901
+\end{align*}
+
+For $G_4$
+\begin{align*}
+\tilde{\E}[\deg(G_4)]&=51.222,\quad \tilde\var(\deg(G_4))=45.54472\\
+\E[\deg(G_4)]&=49.95,\quad \var(\deg(G_4))=47.4525
+\end{align*}
+
+For $G_5$
+\begin{align*}
+\tilde{\E}[\deg(G_5)]&=100.772,\quad \tilde\var(\deg(G_5))=97.11202\\
+\E[\deg(G_5)]&=99.9,\quad \var(\deg(G_5))=89.91
+\end{align*}
+
+
+(b) The network $G_1$, $G_2$ and $G_3$ are disconnected whereas the network $G_4$ and $G_5$ are connected. Taking $G_1$ as an instance, the size of GCC is $941$ and the diameter is $13$.
+
+(c) The normalized GCC size versus the probability $p$ in the range of $(0,\frac{\ln n}{n}]$ is given in Fig \ref{fig11}, where $n$ is the number of nodes in the network. The result matches the theoretical values derived in class.
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.3]{figures_part1_1/output_18_0.png}
+\caption{The normalized GCC size versus the probability $p$ in the range of $(0,\frac{\ln n}{n}]$}
+\label{fig11}
+\end{figure}
+
+(d) The expected size of the GCC v.s. the number of nodes $n$ where $c=np=0.5$. 
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.3]{figures_part1_1/output_20_0.png}
+\caption{The expected size of the GCC v.s. the number of nodes $n$ when $c=np=0.5$}
+\label{fig12}
+\end{figure}
+
+The result for $c=np=1$ is shown in Fig \ref{fig13}.
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.3]{figures_part1_1/output_22_0.png}
+\caption{The expected size of the GCC v.s. the number of nodes $n$ when $c=np=1$}
+\label{fig13}
+\end{figure}
+
+The result for $c=1.1$, $1.2$ and $1.3$ is shown in Fig \ref{fig14}.
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.3]{figures_part1_1/output_24_0.png}
+\caption{The expected size of the GCC v.s. the number of nodes $n$ when $c=1.1$, $1.2$ and $1.3$}
+\label{fig14}
+\end{figure}
+
+
+
+
+
+
+
 \subsection{Create networks using preferential attachment model}
 (a) We created an undirected network under preferential attachment model with $( n = 1000 )$ and $( m = 1 )$, i.e. through the generating process, every step a new node joins the network, we pick only one node proportional to its current degree to connect the new node and there are 1000 steps in total. The network is shown below. We can see that the network we generated is always connected from both practical result and theory analysis.
 \begin{figure}[H]
@@ -500,8 +674,9 @@ How does this differ from the node degree distribution?
 \end{figure}
 
 (f) The expected degree of a node that is added at time step i is given by the function below.
+\begin{align*}
 deg(i)=m(\frac{t}{i})^{\frac{1}{2}}=(\frac{1000}{i})^{\frac{1}{2}}
-
+\end{align*}
 The Plot of relationship between the age of nodes and their expected degree is shown below.
 \begin{figure}[H]
 \centering
@@ -606,13 +781,15 @@ And the relationship between the age of nodes and expected degree is shown below
 \end{figure}
 We can see from the comparison that the network with m = 1 has the highest modularity. Since the higher m, the higher the total degree of all the nodes, there is no doubt that the nodes in the network with higher total degree connect to each other much more closely, which means the network becomes a whole instead of several communities.
 
+
 \section{Random Walk on Networks}
-\subsection{Random walk on Erdös-Rényi networks}
-(a) Same as what we have done in the previous part, we generated an undirected random network containing 1000 nodes with the probability of 0.01 to add an edge between any pair of nodes. The graph we got is shown below:
+\subsection{Random walk on Erd\"os-R\'enyi networks}
+(a) Same as what we have done in the previous part, we generated an undirected random network containing $1000$ nodes with the probability of $0.01$ to add an edge between any pair of nodes. The graph we got is shown below:
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.5\textwidth]{2_1_a_network_1000.png}
-\caption{undirected graph with 1000 nodes based on Erdös-Rényi Model}
+\caption{undirected graph with $1000$ nodes based on Erd\"os-R\'enyi Model}
+\label{fig00}
 \end{figure}
 
 (b) After simulating random walk, we got following results:
@@ -621,12 +798,14 @@ We can see from the comparison that the network with m = 1 has the highest modul
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{2_1_b_distance.png}
-\caption{⟨s(t)⟩ v.s. t with nodes = 1000}
+\caption{⟨s(t)⟩ v.s. t with $N = 1000$}
+\label{fig01}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{2_1_b_deviation.png}
-\caption{σ2(t) v.s. t with nodes = 1000}
+\caption{σ2(t) v.s. t with $N = 1000$}
+\label{fig02}
 \end{minipage}
 \end{figure}
 
@@ -637,29 +816,38 @@ We can see from the comparison that the network with m = 1 has the highest modul
 \centering
 \includegraphics[width=7.5cm]{2_1_c_end_nodes_degree.png}
 \caption{degree distribution of the ending node with nodes = 1000 in network}
+\label{fig03}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{2_1_c_graph_degree.png}
 \caption{degree distribution of the graph with nodes = 1000 in network}
+\label{fig04}
 \end{minipage}
 \end{figure}
 
-The results illustrate that the real graph degree distribution has similar trends with the degree distribution of the ending node by random walk. Both of them follows a Gaussian distribution. This could be proved by doing some simple calculation under the Erdös-Rényi Model. Every time a new node joins the network has the same probability (p) to add an edge to each existing nodes. That is to say, for all the nodes, the degree of a node follows binomial distribution. $$p_{k} = \qquad\mathrm{C}_{n-1}^k p^{k} (1-p) ^{n-1-k}$$ When the number of nodes (n) is large, Gaussian distribution could be seen the approximation of binomial distribution. 
+The results illustrate that the real graph degree distribution has similar trends with the degree distribution of the ending node by random walk. Both of them follows a Gaussian distribution. This could be proved by doing some simple calculation under the Erd\"os-R\'enyi Model. Every time a new node joins the network has the same probability (p) to add an edge to each existing nodes. That is to say, for all the nodes, the degree of a node follows binomial distribution.
+ \begin{align}
+ p_{k} = \binom{n-1}{k} p^{k} (1-p) ^{n-1-k}
+ \end{align}
+ When the number of nodes $N$ is large, Gaussian distribution could be seen the approximation of binomial distribution. 
 
-(d) To figure out the difference of the shortest path length with different number of nodes in the network, we repeated what we have done in problem(b) under 100 nodes and 10000 nodes respectively in the network. Figure 6 and 7 show the average distance and standard deviation of distance under 100 nodes respectively, while figure 8 and 9 show the results under 10000 nodes.
-The diameter of the nodes N = 100, N = 1000 and N = 10000 is about 2.0, 3.5 and 2.5 respectively. This seems not what we have expected, so we ran program several times to generate different networks with certain number of nodes. Not surprisingly, we found that graph with more nodes tend to have smaller diameter and smaller average distance. In addition, we can get another consequence from figures bellow that for the graph with 100 nodes, the average distance converge slowly or even cannot converge if we do not set the start node fixed. On the contrary, the results show less fluctuation with 10000 nodes. In conclusion, the smaller the diameter is, the average distance and standard deviation of the distance converge more quickly and turn out to have smaller fluctuation. 
+(d) To figure out the difference of the shortest path length with different number of nodes in the network, we repeated what we have done in problem(b) under 100 nodes and 10000 nodes respectively in the network. The following figures show the average distance and standard deviation of distance under 100 nodes and 10000 nodes respectively.
+
+The diameter of the nodes $N = 100$, $N = 1000$ and $N = 10000$ is about $2.0$, $3.5$ and $2.5$ respectively. This seems not what we have expected, so we ran program several times to generate different networks with certain number of nodes. Not surprisingly, we found that graph with more nodes tend to have smaller diameter and smaller average distance. In addition, we can get another consequence from figures bellow that for the graph with 100 nodes, the average distance converge slowly or even cannot converge if we do not set the start node fixed. On the contrary, the results show less fluctuation with 10000 nodes. In conclusion, the smaller the diameter is, the average distance and standard deviation of the distance converge more quickly and turn out to have smaller fluctuation. 
 \begin{figure}[htbp]
 \centering
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{2_1_d_100_distance.png}
 \caption{⟨s(t)⟩ v.s. t with nodes = 100}
+\label{fig05}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{2_1_d_100_deviation.png}
 \caption{σ2(t) v.s. t with nodes = 100}
+\label{fig06}
 \end{minipage}
 \end{figure}
 \begin{figure}[htbp]
@@ -668,20 +856,23 @@ The diameter of the nodes N = 100, N = 1000 and N = 10000 is about 2.0, 3.5 and 
 \centering
 \includegraphics[width=7.5cm]{2_1_d_10000_distance.png}
 \caption{⟨s(t)⟩ v.s. t with nodes = 10000}
+\label{fig07}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{2_1_d_10000_deviation.png}
 \caption{σ2(t) v.s. t with nodes = 10000}
+\label{fig08}
 \end{minipage}
 \end{figure}
 
 \subsection{Random walk on networks with fat-tailed degree distribution}
-(a) We used function $sample_pa()$ to generate a fat-tailed network according to the Barabasi-Albert Model. The graph we got is shown bellow.
+(a) We used function \emph{sample\_pa()} to generate a fat-tailed network according to the Barabasi-Albert Model. The graph we got is shown bellow.
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.5\textwidth]{2_2_a_network_1000}
 \caption{undirected graph with 1000 nodes based on Barabasi-Albert Model}
+\label{fig09}
 \end{figure}
 
 (b) As what we have dealt with Erdös-Rényi networks, we also simulated random walk on preferential attachment network and Figure 11 and 12 demonstrate the plot ⟨s(t)⟩ v.s. t and σ2(t) v.s. t respectively.
@@ -691,11 +882,13 @@ The diameter of the nodes N = 100, N = 1000 and N = 10000 is about 2.0, 3.5 and 
 \centering
 \includegraphics[width=7.5cm]{2_2_b_distance.png}
 \caption{⟨s(t)⟩ v.s. t with nodes = 1000}
+\label{fig10}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{2_2_b_deviation.png}
 \caption{σ2(t) v.s. t with nodes = 1000}
+\label{fig11}
 \end{minipage}
 \end{figure}
 (c) After running several times to get several figures(shown bellow), we could see that after a certain large number of steps of random walk, the results of two kinds of degree distribution are similar to each other.
@@ -705,11 +898,13 @@ The diameter of the nodes N = 100, N = 1000 and N = 10000 is about 2.0, 3.5 and 
 \centering
 \includegraphics[width=7.5cm]{2_2_c_end_nodes_degree.png}
 \caption{degree distribution of the ending node with nodes = 1000 in network}
+\label{fig12}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{2_2_c_graph_degree.png}
 \caption{degree distribution of the graph with nodes = 1000 in network}
+\label{fig13}
 \end{minipage}
 \end{figure}
 
@@ -722,11 +917,13 @@ The results also illustrate some differences between two different graph generat
 \centering
 \includegraphics[width=7.5cm]{2_2_d_100_distance.png}
 \caption{⟨s(t)⟩ v.s. t with nodes = 100}
+\label{fig14}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{2_2_d_100_deviation.png}
 \caption{σ2(t) v.s. t with nodes = 100}
+\label{fig15}
 \end{minipage}
 \end{figure}
 \begin{figure}[htbp]
@@ -735,13 +932,19 @@ The results also illustrate some differences between two different graph generat
 \centering
 \includegraphics[width=7.5cm]{2_2_d_10000_distance.png}
 \caption{⟨s(t)⟩ v.s. t with nodes = 10000}
+\label{fig16}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{2_2_d_10000_deviation.png}
 \caption{σ2(t) v.s. t with nodes = 10000}
+\label{fig17}
 \end{minipage}
 \end{figure}
+
+
+
+
 
 
 
@@ -753,6 +956,7 @@ PageRank is a famous algorithm designed by Larry Page, one of the founder of Goo
 \centering
 \includegraphics[width=0.5\textwidth]{3_network.png}
 \caption{directed graph with 1000 nodes using preferential attachment }
+\label{fig18}
 \end{figure}
 From the results shown bellow, it could be concluded that the visit probability is proportional to the node degree. The higher the node degree is, the more possible the walker would visit the node.
 \begin{figure}[htbp]
@@ -761,11 +965,13 @@ From the results shown bellow, it could be concluded that the visit probability 
 \centering
 \includegraphics[width=7.5cm]{3_a_rw_prob.png}
 \caption{probability that the walker visits each node}
+\label{fig19}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{3_a_rw_prob_by_degree.png}
 \caption{visit probability v.s. degree}
+\label{fig20}
 \end{minipage}
 \end{figure}
 (b) Considering the teleportation probability of $\alpha = 0.15$, we get slightly different results. 
@@ -775,11 +981,13 @@ From the results shown bellow, it could be concluded that the visit probability 
 \centering
 \includegraphics[width=7.5cm]{3_b_rw_prob_teleport.png}
 \caption{probability that the walker visits each node with teleportation probability $\alpha = 0.15$}
+\label{fig21}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{3_b_rw_prob_teleport_by_degree.png}
 \caption{visit probability v.s. degree with teleportation probability $\alpha = 0.15$}
+\label{fig22}
 \end{minipage}
 \end{figure}
 It demonstrates that the difference of visiting probability along degree of the node is getting larger. 
@@ -792,11 +1000,13 @@ It demonstrates that the difference of visiting probability along degree of the 
 \centering
 \includegraphics[width=7.5cm]{4_a_rw_prob.png}
 \caption{probability that the walker visits each node under Personalized PageRank}
+\label{fig23}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{4_a_rw_prob_by_degree.png}
 \caption{visiting probability v.s. degree under Personalized PageRank}
+\label{fig24}
 \end{minipage}
 \end{figure}
 Comparing to 3(a), the results show that Personalized PageRank can make degree of the node influence more to the visiting probability, which is in fact similar to what we get in 3(b). The higher degree the node is, the more possible it will be visited. In other words, since it is a preferential attachment model, the longer time a node stays in the network, the more possible it will be visited. 
@@ -808,16 +1018,20 @@ Comparing to 3(a), the results show that Personalized PageRank can make degree o
 \centering
 \includegraphics[width=7.5cm]{4_b_rw_prob.png}
 \caption{probability that the walker visits each node under fixed teleportation}
+\label{fig25}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{4_b_rw_prob_by_degree.png}
 \caption{visiting probability v.s. degree under fixed teleportation}
+\label{fig26}
 \end{minipage}
 \end{figure}
 Comparing to all the results we get from PageRank or Personalized PageRank, under this circumstance, the visiting probability varies more significantly along the degree of a node. Specifically, some nodes with less than 100 degree have high probability to be visited than some other nodes with degree around less than 50. Nevertheless, this rarely happens in previous model, where nodes with degree of 300 or higher may be more possible to be visited than other nodes, while nearly most of nodes within the degree of 100 have similar visiting probability of around 0. Though it appears some irregular results within the degree of 100 (the visiting probability does not follow the rule exactly), the general rule that nodes with higher degree have more chance to be visited does not change. 
 (c) Since at this time, nodes can only teleport to trusted nodes, which is similar to the previous problem that only two nodes are allowed to teleport to. Here, only the nodes belong to trusted node set are allowed to teleport to. Thus, the equation would be like this:
-$$ r = \alpha \cdot T \cdot r + (1 - \alpha) \cdot d$$
+\begin{align*}
+ r = \alpha \cdot T \cdot r + (1 - \alpha) \cdot d
+ \end{align*}
 where T is the transition matrix and vector d can be used to assign a non-zero score to the set of trusted pages only. In this way, trusted pages will have higher probability to be visited, and what these trusted pages point to can also be regarded as trustworthy pages, and their visiting probability will increase since we make restriction to teleport to trusted pages only. 
 
 
