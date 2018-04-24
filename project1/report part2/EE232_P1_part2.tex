@@ -748,6 +748,7 @@ The diameter of the nodes $N = 100$, $N = 1000$ and $N = 10000$ is about $2.0$, 
 \centering
 \includegraphics[width=7.5cm]{2_2_b_deviation.png}
 \caption{σ2(t) v.s. t with nodes = 1000}
+\label{fig11}
 \end{minipage}
 \end{figure}
 (c) After running several times to get several figures(shown bellow), we could see that after a certain large number of steps of random walk, the results of two kinds of degree distribution are similar to each other.
@@ -757,11 +758,13 @@ The diameter of the nodes $N = 100$, $N = 1000$ and $N = 10000$ is about $2.0$, 
 \centering
 \includegraphics[width=7.5cm]{2_2_c_end_nodes_degree.png}
 \caption{degree distribution of the ending node with nodes = 1000 in network}
+\label{fig12}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{2_2_c_graph_degree.png}
 \caption{degree distribution of the graph with nodes = 1000 in network}
+\label{fig13}
 \end{minipage}
 \end{figure}
 
@@ -774,11 +777,13 @@ The results also illustrate some differences between two different graph generat
 \centering
 \includegraphics[width=7.5cm]{2_2_d_100_distance.png}
 \caption{⟨s(t)⟩ v.s. t with nodes = 100}
+\label{fig14}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{2_2_d_100_deviation.png}
 \caption{σ2(t) v.s. t with nodes = 100}
+\label{fig15}
 \end{minipage}
 \end{figure}
 \begin{figure}[htbp]
@@ -787,11 +792,13 @@ The results also illustrate some differences between two different graph generat
 \centering
 \includegraphics[width=7.5cm]{2_2_d_10000_distance.png}
 \caption{⟨s(t)⟩ v.s. t with nodes = 10000}
+\label{fig16}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{2_2_d_10000_deviation.png}
 \caption{σ2(t) v.s. t with nodes = 10000}
+\label{fig17}
 \end{minipage}
 \end{figure}
 
@@ -809,6 +816,7 @@ PageRank is a famous algorithm designed by Larry Page, one of the founder of Goo
 \centering
 \includegraphics[width=0.5\textwidth]{3_network.png}
 \caption{directed graph with 1000 nodes using preferential attachment }
+\label{fig18}
 \end{figure}
 From the results shown bellow, it could be concluded that the visit probability is proportional to the node degree. The higher the node degree is, the more possible the walker would visit the node.
 \begin{figure}[htbp]
@@ -817,11 +825,13 @@ From the results shown bellow, it could be concluded that the visit probability 
 \centering
 \includegraphics[width=7.5cm]{3_a_rw_prob.png}
 \caption{probability that the walker visits each node}
+\label{fig19}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{3_a_rw_prob_by_degree.png}
 \caption{visit probability v.s. degree}
+\label{fig20}
 \end{minipage}
 \end{figure}
 (b) Considering the teleportation probability of $\alpha = 0.15$, we get slightly different results. 
@@ -831,11 +841,13 @@ From the results shown bellow, it could be concluded that the visit probability 
 \centering
 \includegraphics[width=7.5cm]{3_b_rw_prob_teleport.png}
 \caption{probability that the walker visits each node with teleportation probability $\alpha = 0.15$}
+\label{fig21}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{3_b_rw_prob_teleport_by_degree.png}
 \caption{visit probability v.s. degree with teleportation probability $\alpha = 0.15$}
+\label{fig22}
 \end{minipage}
 \end{figure}
 It demonstrates that the difference of visiting probability along degree of the node is getting larger. 
@@ -848,11 +860,13 @@ It demonstrates that the difference of visiting probability along degree of the 
 \centering
 \includegraphics[width=7.5cm]{4_a_rw_prob.png}
 \caption{probability that the walker visits each node under Personalized PageRank}
+\label{fig23}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{4_a_rw_prob_by_degree.png}
 \caption{visiting probability v.s. degree under Personalized PageRank}
+\label{fig24}
 \end{minipage}
 \end{figure}
 Comparing to 3(a), the results show that Personalized PageRank can make degree of the node influence more to the visiting probability, which is in fact similar to what we get in 3(b). The higher degree the node is, the more possible it will be visited. In other words, since it is a preferential attachment model, the longer time a node stays in the network, the more possible it will be visited. 
@@ -864,11 +878,13 @@ Comparing to 3(a), the results show that Personalized PageRank can make degree o
 \centering
 \includegraphics[width=7.5cm]{4_b_rw_prob.png}
 \caption{probability that the walker visits each node under fixed teleportation}
+\label{fig25}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=7.5cm]{4_b_rw_prob_by_degree.png}
 \caption{visiting probability v.s. degree under fixed teleportation}
+\label{fig26}
 \end{minipage}
 \end{figure}
 Comparing to all the results we get from PageRank or Personalized PageRank, under this circumstance, the visiting probability varies more significantly along the degree of a node. Specifically, some nodes with less than 100 degree have high probability to be visited than some other nodes with degree around less than 50. Nevertheless, this rarely happens in previous model, where nodes with degree of 300 or higher may be more possible to be visited than other nodes, while nearly most of nodes within the degree of 100 have similar visiting probability of around 0. Though it appears some irregular results within the degree of 100 (the visiting probability does not follow the rule exactly), the general rule that nodes with higher degree have more chance to be visited does not change. 
