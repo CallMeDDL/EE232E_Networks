@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1524548999 "EE232_P1_part2.tex" "EE232_P1_part2.pdf" "EE232_P1_part2" 1524549007
+["pdflatex"] 1524549423 "EE232_P1_part2.tex" "EE232_P1_part2.pdf" "EE232_P1_part2" 1524549430
   "/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc" 1480098666 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1480098689 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -137,9 +137,9 @@
   "4_a_rw_prob_by_degree.png" 1524547356 6070 453b90aa117f2ff48722f5fa17d5468f ""
   "4_b_rw_prob.png" 1524547356 6250 0ba069fbb4676e4209c604a4c518e21a ""
   "4_b_rw_prob_by_degree.png" 1524547356 6518 a2d5589377f6f6afa5dc313afd705983 ""
-  "EE232_P1_part2.aux" 1524549007 16540 c8f29b25648579b2523808c57414dac5 ""
-  "EE232_P1_part2.out" 1524549007 774 401e2606693b5a8de6e3bcd2dbefa9b9 ""
-  "EE232_P1_part2.tex" 1524548991 45122 69c181757e7e6853c8b47e23f197f90d ""
+  "EE232_P1_part2.aux" 1524549430 16543 c6eae0f50d27794fb654751805fd5252 ""
+  "EE232_P1_part2.out" 1524549430 774 401e2606693b5a8de6e3bcd2dbefa9b9 ""
+  "EE232_P1_part2.tex" 1524549414 45150 42250dc8507c2a671785a10ce11ce88d ""
   "figures_part1_1/output_10_1.png" 1524547356 37529 dce1e840799443b752c2af25e109d9a5 ""
   "figures_part1_1/output_11_1.png" 1524547356 37554 c6907bb3d411467793b734062f6a3690 ""
   "figures_part1_1/output_12_1.png" 1524547356 37424 fc6a6031cdc2f9b7b5665422f0a0c390 ""
@@ -173,7 +173,7 @@
   "img/3_a_1.png" 1524547356 134658 ed584005cc86f16abddd1aff54f6a89c ""
   "img/3_a_2.png" 1524547356 35407 da007ac6183585f358686f30de2bda44 ""
   (generated)
-  "EE232_P1_part2.out"
-  "EE232_P1_part2.pdf"
   "EE232_P1_part2.aux"
   "EE232_P1_part2.log"
+  "EE232_P1_part2.pdf"
+  "EE232_P1_part2.out"
