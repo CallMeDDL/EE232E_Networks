@@ -1,8 +1,0 @@
-\BOOKMARK [1][-]{section.1}{Generating Random Networks}{}% 1
-\BOOKMARK [2][-]{subsection.1.1}{Create random networks using Erd\366s-R\351nyi model}{section.1}% 2
-\BOOKMARK [2][-]{subsection.1.2}{Create networks using preferential attachment model}{section.1}% 3
-\BOOKMARK [1][-]{section.2}{Random Walk on Networks}{}% 4
-\BOOKMARK [2][-]{subsection.2.1}{Random walk on Erd\366s-R\351nyi networks}{section.2}% 5
-\BOOKMARK [2][-]{subsection.2.2}{Random walk on networks with fat-tailed degree distribution}{section.2}% 6
-\BOOKMARK [2][-]{subsection.2.3}{PageRank}{section.2}% 7
-\BOOKMARK [2][-]{subsection.2.4}{Personalized PageRank}{section.2}% 8
