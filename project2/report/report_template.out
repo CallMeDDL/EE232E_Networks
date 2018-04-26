@@ -1,0 +1,14 @@
+\BOOKMARK [1][-]{section.1}{Facebook network}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Structural properties of the facebook network}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Personalized network}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Core node\220s personalized network}{section.1}% 4
+\BOOKMARK [3][-]{subsubsection.1.3.1}{Community structure of core node\220s personalized network}{subsection.1.3}% 5
+\BOOKMARK [3][-]{subsubsection.1.3.2}{Community structure with the core node removed}{subsection.1.3}% 6
+\BOOKMARK [3][-]{subsubsection.1.3.3}{Characteristic of nodes in the personalized network}{subsection.1.3}% 7
+\BOOKMARK [2][-]{subsection.1.4}{Friend recommendation in personalized networks}{section.1}% 8
+\BOOKMARK [3][-]{subsubsection.1.4.1}{Neighborhood based measure}{subsection.1.4}% 9
+\BOOKMARK [3][-]{subsubsection.1.4.2}{Friend recommendation using neighborhood based measures}{subsection.1.4}% 10
+\BOOKMARK [3][-]{subsubsection.1.4.3}{Creating the list of users}{subsection.1.4}% 11
+\BOOKMARK [3][-]{subsubsection.1.4.4}{Average accuracy of friend recommendation algorithm}{subsection.1.4}% 12
+\BOOKMARK [1][-]{section.2}{Google+ Network}{}% 13
+\BOOKMARK [2][-]{subsection.2.1}{Community structure of personal networks}{section.2}% 14
