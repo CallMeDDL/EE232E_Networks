@@ -165,11 +165,469 @@ Optimal-16 & \multicolumn{1}{l}{0x1F8FD} & & 0 & 0 & 0 & 0 & 0 & 13240\\\hline
 
 \subsection{Core node’s personalized network}
 
+There are 40 core nodes in the Facebook network, which is the nodes that have more than 200 neighbors i.e. the degree of the nodes is greater than 200. And the average degree of the core nodes is 279.
 \subsubsection{Community structure of core node’s personalized network}
+
+We aim to find the community structure and compute the modularity scores using Fast-Greedy, Edge-Betweenness, and Infomap community detection algorithms for each of some core nodes’ personalized network.
+
+For Node ID 1, the community figures based on different algorithms are shown in Fig \ref{1_3_1_1}, Fig \ref{1_3_1_2} and Fig \ref{1_3_1_3}.
+\begin{figure}[h]
+\centering
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_1_1.png}}
+\caption{community structure using Fast-Greedy algorithms}
+\label{1_3_1_1}
+\end{minipage}
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_1_2.png}}
+\caption{community structure using Edge-Betweenness algorithms}
+\label{1_3_1_2}
+\end{minipage}
+\end{figure}
+\begin{figure}[h]
+\centering
+\scalebox{0.5}{\includegraphics{Figures/1_3_1_3.png}}
+\caption{community structure using Infomap algorithms}
+\label{1_3_1_3}
+\end{figure}
+
+For Node ID 108, the community figures based on different algorithms are shown in Fig \ref{1_3_1_4}, Fig \ref{1_3_1_5} and Fig \ref{1_3_1_6}.
+\begin{figure}[h]
+\centering
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_1_4.png}}
+\caption{community structure using Fast-Greedy algorithms}
+\label{1_3_1_4}
+\end{minipage}
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_1_5.png}}
+\caption{community structure using Edge-Betweenness algorithms}
+\label{1_3_1_5}
+\end{minipage}
+\end{figure}
+\begin{figure}[h]
+\centering
+\scalebox{0.5}{\includegraphics{Figures/1_3_1_6.png}}
+\caption{community structure using Infomap algorithms}
+\label{1_3_1_6}
+\end{figure}
+
+For Node ID 349, the community figures based on different algorithms are shown in Fig \ref{1_3_1_7}, Fig \ref{1_3_1_8} and Fig \ref{1_3_1_9}.
+\begin{figure}[h]
+\centering
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_1_7.png}}
+\caption{community structure using Fast-Greedy algorithms}
+\label{1_3_1_7}
+\end{minipage}
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_1_8.png}}
+\caption{community structure using Edge-Betweenness algorithms}
+\label{1_3_1_8}
+\end{minipage}
+\end{figure}
+\begin{figure}[h]
+\centering
+\scalebox{0.5}{\includegraphics{Figures/1_3_1_9.png}}
+\caption{community structure using Infomap algorithms}
+\label{1_3_1_9}
+\end{figure}
+
+For Node ID 484, the community figures based on different algorithms are shown in Fig \ref{1_3_1_10}, Fig \ref{1_3_1_11} and Fig \ref{1_3_1_12}.
+\begin{figure}[h]
+\centering
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_1_10.png}}
+\caption{community structure using Fast-Greedy algorithms}
+\label{1_3_1_10}
+\end{minipage}
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_1_11.png}}
+\caption{community structure using Edge-Betweenness algorithms}
+\label{1_3_1_11}
+\end{minipage}
+\end{figure}
+\begin{figure}[h]
+\centering
+\scalebox{0.5}{\includegraphics{Figures/1_3_1_12.png}}
+\caption{community structure using Infomap algorithms}
+\label{1_3_1_12}
+\end{figure}
+
+For Node ID 1087, the community figures based on different algorithms are shown in Fig \ref{1_3_1_13}, Fig \ref{1_3_1_14} and Fig \ref{1_3_1_15}.
+\begin{figure}[h]
+\centering
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_1_13.png}}
+\caption{community structure using Fast-Greedy algorithms}
+\label{1_3_1_13}
+\end{minipage}
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_1_14.png}}
+\caption{community structure using Edge-Betweenness algorithms}
+\label{1_3_1_14}
+\end{minipage}
+\end{figure}
+\begin{figure}[h]
+\centering
+\scalebox{0.5}{\includegraphics{Figures/1_3_1_15.png}}
+\caption{community structure using Infomap algorithms}
+\label{1_3_1_15}
+\end{figure}
+
+What's more, all the modularity scores from above core nodes' personalized network computed by different algorithms is shown in Table \ref{modtable}.
+
+\begin{table}[h]
+\center
+\caption{The modularity scores for core nodes' personalized network}
+\begin{tabular}{c|l|l|l} 
+\textbf{Node ID} & \textbf{Fast-Greedy} & \textbf{Edge-Betweenness} & \textbf{Infomap}\\\hline
+1 & 0.41310 & 0.35330 & 0.38912\\
+108 & 0.43592 & - & 0.50842\\
+349 & 0.25171 & 0.13352 & 0.20375\\
+484 & 0.50700 & 0.48909 & 0.51527\\
+1087 & 0.14553 & 0.02762 & 0.02690\\
+\end{tabular}
+\label{modtable}
+\end{table}
 
 \subsubsection{Community structure with the core node removed}
 
+In this part, we aim to explore the effect on the community structure of a core node’s personalized network when the core node itself is removed from the personalized network.
+
+For Node ID 1, the community figures based on different algorithms are shown in Fig \ref{1_3_2_1}, Fig \ref{1_3_2_2} and Fig \ref{1_3_2_3}.
+\begin{figure}[h]
+\centering
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_2_1.png}}
+\caption{community structure using Fast-Greedy algorithms}
+\label{1_3_2_1}
+\end{minipage}
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_2_2.png}}
+\caption{community structure using Edge-Betweenness algorithms}
+\label{1_3_2_2}
+\end{minipage}
+\end{figure}
+\begin{figure}[h]
+\centering
+\scalebox{0.5}{\includegraphics{Figures/1_3_2_3.png}}
+\caption{community structure using Infomap algorithms}
+\label{1_3_2_3}
+\end{figure}
+
+For Node ID 108, the community figures based on different algorithms are shown in Fig \ref{1_3_2_4}, Fig \ref{1_3_2_5} and Fig \ref{1_3_2_6}.
+\begin{figure}[h]
+\centering
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_2_4.png}}
+\caption{community structure using Fast-Greedy algorithms}
+\label{1_3_2_4}
+\end{minipage}
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_2_5.png}}
+\caption{community structure using Edge-Betweenness algorithms}
+\label{1_3_2_5}
+\end{minipage}
+\end{figure}
+\begin{figure}[h]
+\centering
+\scalebox{0.5}{\includegraphics{Figures/1_3_2_6.png}}
+\caption{community structure using Infomap algorithms}
+\label{1_3_2_6}
+\end{figure}
+
+For Node ID 349, the community figures based on different algorithms are shown in Fig \ref{1_3_2_7}, Fig \ref{1_3_2_8} and Fig \ref{1_3_2_9}.
+\begin{figure}[h]
+\centering
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_2_7.png}}
+\caption{community structure using Fast-Greedy algorithms}
+\label{1_3_2_7}
+\end{minipage}
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_2_8.png}}
+\caption{community structure using Edge-Betweenness algorithms}
+\label{1_3_2_8}
+\end{minipage}
+\end{figure}
+\begin{figure}[h]
+\centering
+\scalebox{0.5}{\includegraphics{Figures/1_3_2_9.png}}
+\caption{community structure using Infomap algorithms}
+\label{1_3_2_9}
+\end{figure}
+
+For Node ID 484, the community figures based on different algorithms are shown in Fig \ref{1_3_2_10}, Fig \ref{1_3_2_11} and Fig \ref{1_3_2_12}.
+\begin{figure}[h]
+\centering
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_2_10.png}}
+\caption{community structure using Fast-Greedy algorithms}
+\label{1_3_2_10}
+\end{minipage}
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_2_11.png}}
+\caption{community structure using Edge-Betweenness algorithms}
+\label{1_3_2_11}
+\end{minipage}
+\end{figure}
+\begin{figure}[h]
+\centering
+\scalebox{0.5}{\includegraphics{Figures/1_3_2_12.png}}
+\caption{community structure using Infomap algorithms}
+\label{1_3_2_12}
+\end{figure}
+
+For Node ID 1087, the community figures based on different algorithms are shown in Fig \ref{1_3_2_13}, Fig \ref{1_3_2_14} and Fig \ref{1_3_2_15}.
+\begin{figure}[h]
+\centering
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_2_13.png}}
+\caption{community structure using Fast-Greedy algorithms}
+\label{1_3_2_13}
+\end{minipage}
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_2_14.png}}
+\caption{community structure using Edge-Betweenness algorithms}
+\label{1_3_2_14}
+\end{minipage}
+\end{figure}
+\begin{figure}[h]
+\centering
+\scalebox{0.5}{\includegraphics{Figures/1_3_2_15.png}}
+\caption{community structure using Infomap algorithms}
+\label{1_3_2_15}
+\end{figure}
+
+What's more, all the modularity scores from above core nodes' personalized network computed by different algorithms is shown in Table \ref{modtable2}.
+
+\begin{table}[h]
+\center
+\caption{The modularity scores for core nodes' personalized network}
+\begin{tabular}{c|l|l|l} 
+\textbf{Node ID} & \textbf{Fast-Greedy} & \textbf{Edge-Betweenness} & \textbf{Infomap}\\\hline
+1 & 0.41310 & 0.35330 & 0.38912\\
+108 & 0.45812 & 0.52132 & 0.52068\\
+349 & 0.24569 & 0.15056 & 0.24657\\
+484 & 0.53421 & 0.51544 & 0.54344\\
+1087 & 0.14819 & 0.03249 & 0.02737\\
+\end{tabular}
+\label{modtable2}
+\end{table}
+
 \subsubsection{Characteristic of nodes in the personalized network}
+
+We aim to explore characteristics of nodes in the personalized network using two measures. These are two measures. One is embeddedness of a node that is defined as the number of mutual friends a node shares with the core node. Another that is dispersion of a node is defined as the sum of distances between every pair of the mutual friends the node shares with the core node. The distances should be calculated in a modified graph where the node (whose dispersion is being computed) and the core node are removed.
+
+The expression relating the Embeddedness of a node to it’s degree is given as follows.
+\begin{align}
+Embedd(i) \leq Degree (i) - 1
+\end{align}
+
+For code code 1’s personalized network, the distribution of embeddedness and dispersion is shown in Fig \ref{1_3_3_1} and Fig \ref{1_3_3_2}.
+
+\begin{figure}[h]
+\centering
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_3_1.png}}
+\caption{The distribution of embeddedness}
+\label{1_3_3_1}
+\end{minipage}
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_3_2.png}}
+\caption{The distribution of dispersion}
+\label{1_3_3_2}
+\end{minipage}
+\end{figure}
+
+For code code 108’s personalized network, the distribution of embeddedness and dispersion is shown in Fig \ref{1_3_3_3} and Fig \ref{1_3_3_4}.
+
+\begin{figure}[h]
+\centering
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_3_3.png}}
+\caption{The distribution of embeddedness}
+\label{1_3_3_3}
+\end{minipage}
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_3_4.png}}
+\caption{The distribution of dispersion}
+\label{1_3_3_4}
+\end{minipage}
+\end{figure}
+
+For code code 349’s personalized network, the distribution of embeddedness and dispersion is shown in Fig \ref{1_3_3_5} and Fig \ref{1_3_3_6}.
+
+\begin{figure}[h]
+\centering
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_3_5.png}}
+\caption{The distribution of embeddedness}
+\label{1_3_3_5}
+\end{minipage}
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_3_6.png}}
+\caption{The distribution of dispersion}
+\label{1_3_3_6}
+\end{minipage}
+\end{figure}
+
+For code code 484’s personalized network, the distribution of embeddedness and dispersion is shown in Fig \ref{1_3_3_7} and Fig \ref{1_3_3_8}.
+
+\begin{figure}[h]
+\centering
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_3_7.png}}
+\caption{The distribution of embeddedness}
+\label{1_3_3_7}
+\end{minipage}
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_3_8.png}}
+\caption{The distribution of dispersion}
+\label{1_3_3_8}
+\end{minipage}
+\end{figure}
+
+For code code 1087’s personalized network, the distribution of embeddedness and dispersion is shown in Fig \ref{1_3_3_9} and Fig \ref{1_3_3_10}.
+
+\begin{figure}[h]
+\centering
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_3_9.png}}
+\caption{The distribution of embeddedness}
+\label{1_3_3_9}
+\end{minipage}
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_3_10.png}}
+\caption{The distribution of dispersion}
+\label{1_3_3_10}
+\end{minipage}
+\end{figure}
+
+
+For each of the core node’s personalized network, apply Fast-Greedy algorithm to detect the community structure of the personalized network and use colors and highlight the node with maximum dispersion and the edges incident to this node to plot this community.
+
+For code code 1’s personalized network, the community structure is shown in Fig \ref{1_3_4_1}.
+For code code 108’s personalized network, the community structure is shown in Fig \ref{1_3_4_2}.
+For code code 349’s personalized network, the community structure is shown in Fig \ref{1_3_4_3}.
+For code code 484’s personalized network, the community structure is shown in Fig \ref{1_3_4_4}.
+For code code 1087’s personalized network, the community structure is shown in Fig \ref{1_3_4_5}.
+
+\begin{figure}[h]
+\centering
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_4_1.png}}
+\caption{The community structure of No. 1}
+\label{1_3_4_1}
+\end{minipage}
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_4_2.png}}
+\caption{TThe community structure of No. 108}
+\label{1_3_4_2}
+\end{minipage}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_4_3.png}}
+\caption{The community structure of No. 349}
+\label{1_3_4_3}
+\end{minipage}
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_4_4.png}}
+\caption{The community structure of No. 484}
+\label{1_3_4_4}
+\end{minipage}
+\end{figure}
+\begin{figure}[h]
+\centering
+\scalebox{0.5}{\includegraphics{Figures/1_3_4_5.png}}
+\caption{The community structure of No. 1087}
+\label{1_3_4_5}
+\end{figure}
+
+Similarly, this time we highlight the node with maximum embeddedness and the node with maximum ratio of dispersion to embeddedness. 
+
+For code code 1’s personalized network, the community structure is shown in Fig \ref{1_3_4_6}.
+For code code 108’s personalized network, the community structure is shown in Fig \ref{1_3_4_7}.
+For code code 349’s personalized network, the community structure is shown in Fig \ref{1_3_4_8}.
+For code code 484’s personalized network, the community structure is shown in Fig \ref{1_3_4_9}.
+For code code 1087’s personalized network, the community structure is shown in Fig \ref{1_3_4_10}.
+
+\begin{figure}[h]
+\centering
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_4_6.png}}
+\caption{The community structure of No. 1}
+\label{1_3_4_6}
+\end{minipage}
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_4_7.png}}
+\caption{TThe community structure of No. 108}
+\label{1_3_4_7}
+\end{minipage}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_4_8.png}}
+\caption{The community structure of No. 349}
+\label{1_3_4_8}
+\end{minipage}
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_4_9.png}}
+\caption{The community structure of No. 484}
+\label{1_3_4_9}
+\end{minipage}
+\end{figure}
+\begin{figure}[h]
+\centering
+\scalebox{0.5}{\includegraphics{Figures/1_3_4_10.png}}
+\caption{The community structure of No. 1087}
+\label{1_3_4_10}
+\end{figure}
+
 
 
 \subsection{Friend recommendation in personalized networks}
