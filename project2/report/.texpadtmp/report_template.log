@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.23)  7 MAY 2018 19:56
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.23)  6 MAY 2018 16:56
->>>>>>> 2af97f01ec4811c5ebae83c24662520fb540a9af
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.23)  7 MAY 2018 23:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -714,7 +710,7 @@ LaTeX Info: Redefining \nameref on input line 109.
 
  ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 109.
- <Figures/hj_01.png, id=61, 843.15pt x 843.15pt>
+ <Figures/hj_01.png, id=41, 843.15pt x 843.15pt>
 File: Figures/hj_01.png Graphic file (type png)
  <use Figures/hj_01.png>
 Package pdftex.def Info: Figures/hj_01.png used on input line 164.
@@ -739,17 +735,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 175--176
 
  []
 
-<Figures/hj_02.png, id=75, 843.15pt x 843.15pt>
+<Figures/hj_02.png, id=55, 843.15pt x 843.15pt>
 File: Figures/hj_02.png Graphic file (type png)
  <use Figures/hj_02.png>
 Package pdftex.def Info: Figures/hj_02.png used on input line 182.
 (pdftex.def)             Requested size: 344.005pt x 344.00836pt.
- <Figures/hj_03.png, id=77, 843.15pt x 843.15pt>
+ <Figures/hj_03.png, id=57, 843.15pt x 843.15pt>
 File: Figures/hj_03.png Graphic file (type png)
  <use Figures/hj_03.png>
 Package pdftex.def Info: Figures/hj_03.png used on input line 196.
 (pdftex.def)             Requested size: 344.005pt x 344.00836pt.
- <Figures/hj_04.png, id=78, 843.15pt x 843.15pt>
+ <Figures/hj_04.png, id=58, 843.15pt x 843.15pt>
 File: Figures/hj_04.png Graphic file (type png)
  <use Figures/hj_04.png>
 Package pdftex.def Info: Figures/hj_04.png used on input line 206.
@@ -770,393 +766,381 @@ Underfull \hbox (badness 10000) in paragraph at lines 215--216
 
 [3 <./Figures/hj_03.png>] (/usr/local/texlive/2017/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-) <Figures/1_3_1_1.png, id=100, 843.15pt x 843.15pt>
+) <Figures/1_3_1_1.png, id=80, 843.15pt x 843.15pt>
 File: Figures/1_3_1_1.png Graphic file (type png)
  <use Figures/1_3_1_1.png>
-Package pdftex.def Info: Figures/1_3_1_1.png used on input line 235.
+Package pdftex.def Info: Figures/1_3_1_1.png used on input line 237.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/1_3_1_2.png, id=101, 843.15pt x 843.15pt>
+ <Figures/1_3_1_2.png, id=81, 843.15pt x 843.15pt>
 File: Figures/1_3_1_2.png Graphic file (type png)
  <use Figures/1_3_1_2.png>
-Package pdftex.def Info: Figures/1_3_1_2.png used on input line 241.
+Package pdftex.def Info: Figures/1_3_1_2.png used on input line 243.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/1_3_1_3.png, id=102, 843.15pt x 843.15pt>
+ <Figures/1_3_1_3.png, id=82, 843.15pt x 843.15pt>
 File: Figures/1_3_1_3.png Graphic file (type png)
  <use Figures/1_3_1_3.png>
-Package pdftex.def Info: Figures/1_3_1_3.png used on input line 248.
+Package pdftex.def Info: Figures/1_3_1_3.png used on input line 250.
 (pdftex.def)             Requested size: 344.005pt x 344.00836pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Figures/1_3_1_4.png, id=106, 843.15pt x 843.15pt>
+ <Figures/1_3_1_4.png, id=86, 843.15pt x 843.15pt>
 File: Figures/1_3_1_4.png Graphic file (type png)
  <use Figures/1_3_1_4.png>
-Package pdftex.def Info: Figures/1_3_1_4.png used on input line 258.
+Package pdftex.def Info: Figures/1_3_1_4.png used on input line 262.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/1_3_1_5.png, id=107, 843.15pt x 843.15pt>
+ <Figures/1_3_1_5.png, id=87, 843.15pt x 843.15pt>
 File: Figures/1_3_1_5.png Graphic file (type png)
  <use Figures/1_3_1_5.png>
-Package pdftex.def Info: Figures/1_3_1_5.png used on input line 264.
+Package pdftex.def Info: Figures/1_3_1_5.png used on input line 268.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/1_3_1_6.png, id=108, 843.15pt x 843.15pt>
+ <Figures/1_3_1_6.png, id=88, 843.15pt x 843.15pt>
 File: Figures/1_3_1_6.png Graphic file (type png)
  <use Figures/1_3_1_6.png>
-Package pdftex.def Info: Figures/1_3_1_6.png used on input line 271.
+Package pdftex.def Info: Figures/1_3_1_6.png used on input line 275.
 (pdftex.def)             Requested size: 344.005pt x 344.00836pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Figures/1_3_1_7.png, id=112, 843.15pt x 843.15pt>
+ <Figures/1_3_1_7.png, id=92, 843.15pt x 843.15pt>
 File: Figures/1_3_1_7.png Graphic file (type png)
  <use Figures/1_3_1_7.png>
-Package pdftex.def Info: Figures/1_3_1_7.png used on input line 281.
+Package pdftex.def Info: Figures/1_3_1_7.png used on input line 286.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/1_3_1_8.png, id=113, 843.15pt x 843.15pt>
+ <Figures/1_3_1_8.png, id=93, 843.15pt x 843.15pt>
 File: Figures/1_3_1_8.png Graphic file (type png)
  <use Figures/1_3_1_8.png>
-Package pdftex.def Info: Figures/1_3_1_8.png used on input line 287.
+Package pdftex.def Info: Figures/1_3_1_8.png used on input line 292.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/1_3_1_9.png, id=114, 843.15pt x 843.15pt>
+ <Figures/1_3_1_9.png, id=94, 843.15pt x 843.15pt>
 File: Figures/1_3_1_9.png Graphic file (type png)
  <use Figures/1_3_1_9.png>
-Package pdftex.def Info: Figures/1_3_1_9.png used on input line 294.
+Package pdftex.def Info: Figures/1_3_1_9.png used on input line 299.
 (pdftex.def)             Requested size: 344.005pt x 344.00836pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Figures/1_3_1_10.png, id=118, 843.15pt x 843.15pt>
+ <Figures/1_3_1_10.png, id=98, 843.15pt x 843.15pt>
 File: Figures/1_3_1_10.png Graphic file (type png)
  <use Figures/1_3_1_10.png>
-Package pdftex.def Info: Figures/1_3_1_10.png used on input line 304.
+Package pdftex.def Info: Figures/1_3_1_10.png used on input line 310.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/1_3_1_11.png, id=119, 843.15pt x 843.15pt>
+ <Figures/1_3_1_11.png, id=99, 843.15pt x 843.15pt>
 File: Figures/1_3_1_11.png Graphic file (type png)
  <use Figures/1_3_1_11.png>
-Package pdftex.def Info: Figures/1_3_1_11.png used on input line 310.
+Package pdftex.def Info: Figures/1_3_1_11.png used on input line 316.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/1_3_1_12.png, id=120, 843.15pt x 843.15pt>
+ [4 <./Figures/hj_04.png>] [5 <./Figures/1_3_1_1.png> <./Figures/1_3_1_2.png> <./Figures/1_3_1_3.png>] [6 <./Figures/1_3_1_4.png> <./Figures/1_3_1_5.png> <./Figures/1_3_1_6.png>] [7 <./Figures/1_3_1_7.png> <./Figures/1_3_1_8.png> <./Figures/1_3_1_9.png>] <Figures/1_3_1_12.png, id=133, 843.15pt x 843.15pt>
 File: Figures/1_3_1_12.png Graphic file (type png)
  <use Figures/1_3_1_12.png>
-Package pdftex.def Info: Figures/1_3_1_12.png used on input line 317.
+Package pdftex.def Info: Figures/1_3_1_12.png used on input line 323.
 (pdftex.def)             Requested size: 344.005pt x 344.00836pt.
- [4 <./Figures/hj_04.png>]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Figures/1_3_1_13.png, id=135, 843.15pt x 843.15pt>
+ <Figures/1_3_1_13.png, id=137, 843.15pt x 843.15pt>
 File: Figures/1_3_1_13.png Graphic file (type png)
  <use Figures/1_3_1_13.png>
-Package pdftex.def Info: Figures/1_3_1_13.png used on input line 327.
+Package pdftex.def Info: Figures/1_3_1_13.png used on input line 334.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/1_3_1_14.png, id=136, 843.15pt x 843.15pt>
+ <Figures/1_3_1_14.png, id=138, 843.15pt x 843.15pt>
 File: Figures/1_3_1_14.png Graphic file (type png)
  <use Figures/1_3_1_14.png>
-Package pdftex.def Info: Figures/1_3_1_14.png used on input line 333.
+Package pdftex.def Info: Figures/1_3_1_14.png used on input line 340.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/1_3_1_15.png, id=137, 843.15pt x 843.15pt>
+ <Figures/1_3_1_15.png, id=139, 843.15pt x 843.15pt>
 File: Figures/1_3_1_15.png Graphic file (type png)
  <use Figures/1_3_1_15.png>
-Package pdftex.def Info: Figures/1_3_1_15.png used on input line 340.
+Package pdftex.def Info: Figures/1_3_1_15.png used on input line 347.
 (pdftex.def)             Requested size: 344.005pt x 344.00836pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Figures/1_3_2_1.png, id=142, 843.15pt x 843.15pt>
+ [8 <./Figures/1_3_1_10.png> <./Figures/1_3_1_11.png>] [9 <./Figures/1_3_1_12.png> <./Figures/1_3_1_13.png> <./Figures/1_3_1_14.png>] <Figures/1_3_2_1.png, id=162, 843.15pt x 843.15pt>
 File: Figures/1_3_2_1.png Graphic file (type png)
  <use Figures/1_3_2_1.png>
-Package pdftex.def Info: Figures/1_3_2_1.png used on input line 370.
+Package pdftex.def Info: Figures/1_3_2_1.png used on input line 384.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/1_3_2_2.png, id=143, 843.15pt x 843.15pt>
+ <Figures/1_3_2_2.png, id=163, 843.15pt x 843.15pt>
 File: Figures/1_3_2_2.png Graphic file (type png)
  <use Figures/1_3_2_2.png>
-Package pdftex.def Info: Figures/1_3_2_2.png used on input line 376.
+Package pdftex.def Info: Figures/1_3_2_2.png used on input line 390.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/1_3_2_3.png, id=144, 843.15pt x 843.15pt>
+ <Figures/1_3_2_3.png, id=164, 843.15pt x 843.15pt>
 File: Figures/1_3_2_3.png Graphic file (type png)
  <use Figures/1_3_2_3.png>
-Package pdftex.def Info: Figures/1_3_2_3.png used on input line 383.
+Package pdftex.def Info: Figures/1_3_2_3.png used on input line 397.
 (pdftex.def)             Requested size: 344.005pt x 344.00836pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Figures/1_3_2_4.png, id=148, 843.15pt x 843.15pt>
+ <Figures/1_3_2_4.png, id=168, 843.15pt x 843.15pt>
 File: Figures/1_3_2_4.png Graphic file (type png)
  <use Figures/1_3_2_4.png>
-Package pdftex.def Info: Figures/1_3_2_4.png used on input line 393.
+Package pdftex.def Info: Figures/1_3_2_4.png used on input line 408.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/1_3_2_5.png, id=149, 843.15pt x 843.15pt>
+ <Figures/1_3_2_5.png, id=169, 843.15pt x 843.15pt>
 File: Figures/1_3_2_5.png Graphic file (type png)
  <use Figures/1_3_2_5.png>
-Package pdftex.def Info: Figures/1_3_2_5.png used on input line 399.
+Package pdftex.def Info: Figures/1_3_2_5.png used on input line 414.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/1_3_2_6.png, id=150, 843.15pt x 843.15pt>
+
+<Figures/1_3_2_6.png, id=170, 843.15pt x 843.15pt>
 File: Figures/1_3_2_6.png Graphic file (type png)
  <use Figures/1_3_2_6.png>
-Package pdftex.def Info: Figures/1_3_2_6.png used on input line 406.
+Package pdftex.def Info: Figures/1_3_2_6.png used on input line 421.
 (pdftex.def)             Requested size: 344.005pt x 344.00836pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Figures/1_3_2_7.png, id=154, 843.15pt x 843.15pt>
+ <Figures/1_3_2_7.png, id=174, 843.15pt x 843.15pt>
 File: Figures/1_3_2_7.png Graphic file (type png)
  <use Figures/1_3_2_7.png>
-Package pdftex.def Info: Figures/1_3_2_7.png used on input line 416.
+Package pdftex.def Info: Figures/1_3_2_7.png used on input line 432.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/1_3_2_8.png, id=155, 843.15pt x 843.15pt>
+ <Figures/1_3_2_8.png, id=175, 843.15pt x 843.15pt>
 File: Figures/1_3_2_8.png Graphic file (type png)
  <use Figures/1_3_2_8.png>
-Package pdftex.def Info: Figures/1_3_2_8.png used on input line 422.
+Package pdftex.def Info: Figures/1_3_2_8.png used on input line 438.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/1_3_2_9.png, id=156, 843.15pt x 843.15pt>
+ <Figures/1_3_2_9.png, id=176, 843.15pt x 843.15pt>
 File: Figures/1_3_2_9.png Graphic file (type png)
  <use Figures/1_3_2_9.png>
-Package pdftex.def Info: Figures/1_3_2_9.png used on input line 429.
+Package pdftex.def Info: Figures/1_3_2_9.png used on input line 445.
 (pdftex.def)             Requested size: 344.005pt x 344.00836pt.
- [5 <./Figures/1_3_1_1.png> <./Figures/1_3_1_2.png>]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Figures/1_3_2_10.png, id=175, 843.15pt x 843.15pt>
+ <Figures/1_3_2_10.png, id=180, 843.15pt x 843.15pt>
 File: Figures/1_3_2_10.png Graphic file (type png)
  <use Figures/1_3_2_10.png>
-Package pdftex.def Info: Figures/1_3_2_10.png used on input line 439.
+Package pdftex.def Info: Figures/1_3_2_10.png used on input line 456.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/1_3_2_11.png, id=176, 843.15pt x 843.15pt>
+ <Figures/1_3_2_11.png, id=181, 843.15pt x 843.15pt>
 File: Figures/1_3_2_11.png Graphic file (type png)
  <use Figures/1_3_2_11.png>
-Package pdftex.def Info: Figures/1_3_2_11.png used on input line 445.
+Package pdftex.def Info: Figures/1_3_2_11.png used on input line 462.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/1_3_2_12.png, id=177, 843.15pt x 843.15pt>
+ <Figures/1_3_2_12.png, id=182, 843.15pt x 843.15pt>
 File: Figures/1_3_2_12.png Graphic file (type png)
  <use Figures/1_3_2_12.png>
-Package pdftex.def Info: Figures/1_3_2_12.png used on input line 452.
+Package pdftex.def Info: Figures/1_3_2_12.png used on input line 469.
 (pdftex.def)             Requested size: 344.005pt x 344.00836pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Figures/1_3_2_13.png, id=181, 843.15pt x 843.15pt>
+ [10 <./Figures/1_3_1_15.png>] [11 <./Figures/1_3_2_1.png> <./Figures/1_3_2_2.png> <./Figures/1_3_2_3.png>] [12 <./Figures/1_3_2_4.png> <./Figures/1_3_2_5.png> <./Figures/1_3_2_6.png>] [13 <./Figures/1_3_2_7.png> <./Figures/1_3_2_8.png> <./Figures/1_3_2_9.png>] [14 <./Figures/1_3_2_10.png> <./Figures/1_3_2_11.png> <./Figures/1_3_2_12.png>] <Figures/1_3_2_13.png, id=229, 843.15pt x 843.15pt>
 File: Figures/1_3_2_13.png Graphic file (type png)
  <use Figures/1_3_2_13.png>
-Package pdftex.def Info: Figures/1_3_2_13.png used on input line 462.
+Package pdftex.def Info: Figures/1_3_2_13.png used on input line 480.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/1_3_2_14.png, id=182, 843.15pt x 843.15pt>
+ <Figures/1_3_2_14.png, id=230, 843.15pt x 843.15pt>
 File: Figures/1_3_2_14.png Graphic file (type png)
  <use Figures/1_3_2_14.png>
-Package pdftex.def Info: Figures/1_3_2_14.png used on input line 468.
+Package pdftex.def Info: Figures/1_3_2_14.png used on input line 486.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/1_3_2_15.png, id=183, 843.15pt x 843.15pt>
+ <Figures/1_3_2_15.png, id=231, 843.15pt x 843.15pt>
 File: Figures/1_3_2_15.png Graphic file (type png)
  <use Figures/1_3_2_15.png>
-Package pdftex.def Info: Figures/1_3_2_15.png used on input line 475.
+Package pdftex.def Info: Figures/1_3_2_15.png used on input line 493.
 (pdftex.def)             Requested size: 344.005pt x 344.00836pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[6 <./Figures/1_3_1_3.png>] <Figures/1_3_3_1.png, id=200, 843.15pt x 843.15pt>
+ [15 <./Figures/1_3_2_13.png> <./Figures/1_3_2_14.png>] <Figures/1_3_3_1.png, id=244, 843.15pt x 843.15pt>
 File: Figures/1_3_3_1.png Graphic file (type png)
  <use Figures/1_3_3_1.png>
-Package pdftex.def Info: Figures/1_3_3_1.png used on input line 511.
+Package pdftex.def Info: Figures/1_3_3_1.png used on input line 534.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/1_3_3_2.png, id=201, 843.15pt x 843.15pt>
+ <Figures/1_3_3_2.png, id=245, 843.15pt x 843.15pt>
 File: Figures/1_3_3_2.png Graphic file (type png)
  <use Figures/1_3_3_2.png>
-Package pdftex.def Info: Figures/1_3_3_2.png used on input line 517.
+Package pdftex.def Info: Figures/1_3_3_2.png used on input line 540.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Figures/1_3_3_3.png, id=204, 843.15pt x 843.15pt>
+ <Figures/1_3_3_3.png, id=248, 843.15pt x 843.15pt>
 File: Figures/1_3_3_3.png Graphic file (type png)
  <use Figures/1_3_3_3.png>
-Package pdftex.def Info: Figures/1_3_3_3.png used on input line 529.
+Package pdftex.def Info: Figures/1_3_3_3.png used on input line 552.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/1_3_3_4.png, id=205, 843.15pt x 843.15pt>
+ <Figures/1_3_3_4.png, id=249, 843.15pt x 843.15pt>
 File: Figures/1_3_3_4.png Graphic file (type png)
  <use Figures/1_3_3_4.png>
-Package pdftex.def Info: Figures/1_3_3_4.png used on input line 535.
+Package pdftex.def Info: Figures/1_3_3_4.png used on input line 558.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Figures/1_3_3_5.png, id=208, 843.15pt x 843.15pt>
+ <Figures/1_3_3_5.png, id=252, 843.15pt x 843.15pt>
 File: Figures/1_3_3_5.png Graphic file (type png)
  <use Figures/1_3_3_5.png>
-Package pdftex.def Info: Figures/1_3_3_5.png used on input line 547.
+Package pdftex.def Info: Figures/1_3_3_5.png used on input line 570.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/1_3_3_6.png, id=209, 843.15pt x 843.15pt>
+ <Figures/1_3_3_6.png, id=253, 843.15pt x 843.15pt>
 File: Figures/1_3_3_6.png Graphic file (type png)
  <use Figures/1_3_3_6.png>
-Package pdftex.def Info: Figures/1_3_3_6.png used on input line 553.
+Package pdftex.def Info: Figures/1_3_3_6.png used on input line 576.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Figures/1_3_3_7.png, id=212, 843.15pt x 843.15pt>
+ <Figures/1_3_3_7.png, id=256, 843.15pt x 843.15pt>
 File: Figures/1_3_3_7.png Graphic file (type png)
  <use Figures/1_3_3_7.png>
-Package pdftex.def Info: Figures/1_3_3_7.png used on input line 565.
+Package pdftex.def Info: Figures/1_3_3_7.png used on input line 588.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/1_3_3_8.png, id=213, 843.15pt x 843.15pt>
+ <Figures/1_3_3_8.png, id=257, 843.15pt x 843.15pt>
 File: Figures/1_3_3_8.png Graphic file (type png)
  <use Figures/1_3_3_8.png>
-Package pdftex.def Info: Figures/1_3_3_8.png used on input line 571.
+Package pdftex.def Info: Figures/1_3_3_8.png used on input line 594.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Figures/1_3_3_9.png, id=216, 843.15pt x 843.15pt>
+ <Figures/1_3_3_9.png, id=260, 843.15pt x 843.15pt>
 File: Figures/1_3_3_9.png Graphic file (type png)
  <use Figures/1_3_3_9.png>
-Package pdftex.def Info: Figures/1_3_3_9.png used on input line 583.
+Package pdftex.def Info: Figures/1_3_3_9.png used on input line 606.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/1_3_3_10.png, id=217, 843.15pt x 843.15pt>
+ <Figures/1_3_3_10.png, id=261, 843.15pt x 843.15pt>
 File: Figures/1_3_3_10.png Graphic file (type png)
  <use Figures/1_3_3_10.png>
-Package pdftex.def Info: Figures/1_3_3_10.png used on input line 589.
+Package pdftex.def Info: Figures/1_3_3_10.png used on input line 612.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Figures/1_3_4_1.png, id=223, 843.15pt x 843.15pt>
+ [16 <./Figures/1_3_2_15.png>] [17 <./Figures/1_3_3_1.png> <./Figures/1_3_3_2.png> <./Figures/1_3_3_3.png> <./Figures/1_3_3_4.png>] [18 <./Figures/1_3_3_5.png> <./Figures/1_3_3_6.png> <./Figures/1_3_3_7.png> <./Figures/1_3_3_8.png>] <Figures/1_3_4_1.png, id=295, 843.15pt x 843.15pt>
 File: Figures/1_3_4_1.png Graphic file (type png)
  <use Figures/1_3_4_1.png>
-Package pdftex.def Info: Figures/1_3_4_1.png used on input line 608.
+Package pdftex.def Info: Figures/1_3_4_1.png used on input line 635.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/1_3_4_2.png, id=224, 843.15pt x 843.15pt>
+ <Figures/1_3_4_2.png, id=296, 843.15pt x 843.15pt>
 File: Figures/1_3_4_2.png Graphic file (type png)
  <use Figures/1_3_4_2.png>
-Package pdftex.def Info: Figures/1_3_4_2.png used on input line 614.
+Package pdftex.def Info: Figures/1_3_4_2.png used on input line 641.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Figures/1_3_4_3.png, id=225, 843.15pt x 843.15pt>
+ <Figures/1_3_4_3.png, id=297, 843.15pt x 843.15pt>
 File: Figures/1_3_4_3.png Graphic file (type png)
  <use Figures/1_3_4_3.png>
-Package pdftex.def Info: Figures/1_3_4_3.png used on input line 624.
+Package pdftex.def Info: Figures/1_3_4_3.png used on input line 651.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/1_3_4_4.png, id=226, 843.15pt x 843.15pt>
+ <Figures/1_3_4_4.png, id=298, 843.15pt x 843.15pt>
 File: Figures/1_3_4_4.png Graphic file (type png)
  <use Figures/1_3_4_4.png>
-Package pdftex.def Info: Figures/1_3_4_4.png used on input line 630.
+Package pdftex.def Info: Figures/1_3_4_4.png used on input line 657.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Figures/1_3_4_5.png, id=227, 843.15pt x 843.15pt>
+ <Figures/1_3_4_5.png, id=299, 843.15pt x 843.15pt>
 File: Figures/1_3_4_5.png Graphic file (type png)
  <use Figures/1_3_4_5.png>
-Package pdftex.def Info: Figures/1_3_4_5.png used on input line 637.
+Package pdftex.def Info: Figures/1_3_4_5.png used on input line 664.
 (pdftex.def)             Requested size: 344.005pt x 344.00836pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[7 <./Figures/1_3_1_4.png> <./Figures/1_3_1_5.png>] <Figures/1_3_4_6.png, id=249, 843.15pt x 843.15pt>
+ <Figures/1_3_4_11.png, id=305, 843.15pt x 843.15pt>
+File: Figures/1_3_4_11.png Graphic file (type png)
+ <use Figures/1_3_4_11.png>
+Package pdftex.def Info: Figures/1_3_4_11.png used on input line 685.
+(pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
+ <Figures/1_3_4_12.png, id=306, 843.15pt x 843.15pt>
+File: Figures/1_3_4_12.png Graphic file (type png)
+ <use Figures/1_3_4_12.png>
+Package pdftex.def Info: Figures/1_3_4_12.png used on input line 691.
+(pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
+ <Figures/1_3_4_13.png, id=307, 843.15pt x 843.15pt>
+File: Figures/1_3_4_13.png Graphic file (type png)
+ <use Figures/1_3_4_13.png>
+Package pdftex.def Info: Figures/1_3_4_13.png used on input line 701.
+(pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
+ <Figures/1_3_4_14.png, id=308, 843.15pt x 843.15pt>
+File: Figures/1_3_4_14.png Graphic file (type png)
+ <use Figures/1_3_4_14.png>
+Package pdftex.def Info: Figures/1_3_4_14.png used on input line 707.
+(pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
+ <Figures/1_3_4_15.png, id=309, 843.15pt x 843.15pt>
+File: Figures/1_3_4_15.png Graphic file (type png)
+ <use Figures/1_3_4_15.png>
+Package pdftex.def Info: Figures/1_3_4_15.png used on input line 714.
+(pdftex.def)             Requested size: 344.005pt x 344.00836pt.
+ <Figures/1_3_4_6.png, id=315, 843.15pt x 843.15pt>
 File: Figures/1_3_4_6.png Graphic file (type png)
  <use Figures/1_3_4_6.png>
-Package pdftex.def Info: Figures/1_3_4_6.png used on input line 654.
+Package pdftex.def Info: Figures/1_3_4_6.png used on input line 735.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/1_3_4_7.png, id=250, 843.15pt x 843.15pt>
+ <Figures/1_3_4_7.png, id=316, 843.15pt x 843.15pt>
 File: Figures/1_3_4_7.png Graphic file (type png)
  <use Figures/1_3_4_7.png>
-Package pdftex.def Info: Figures/1_3_4_7.png used on input line 660.
+Package pdftex.def Info: Figures/1_3_4_7.png used on input line 741.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Figures/1_3_4_8.png, id=251, 843.15pt x 843.15pt>
+ <Figures/1_3_4_8.png, id=317, 843.15pt x 843.15pt>
 File: Figures/1_3_4_8.png Graphic file (type png)
  <use Figures/1_3_4_8.png>
-Package pdftex.def Info: Figures/1_3_4_8.png used on input line 670.
+Package pdftex.def Info: Figures/1_3_4_8.png used on input line 751.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/1_3_4_9.png, id=252, 843.15pt x 843.15pt>
+ <Figures/1_3_4_9.png, id=318, 843.15pt x 843.15pt>
 File: Figures/1_3_4_9.png Graphic file (type png)
  <use Figures/1_3_4_9.png>
-Package pdftex.def Info: Figures/1_3_4_9.png used on input line 676.
+Package pdftex.def Info: Figures/1_3_4_9.png used on input line 757.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Figures/1_3_4_10.png, id=253, 843.15pt x 843.15pt>
+ <Figures/1_3_4_10.png, id=319, 843.15pt x 843.15pt>
 File: Figures/1_3_4_10.png Graphic file (type png)
  <use Figures/1_3_4_10.png>
-Package pdftex.def Info: Figures/1_3_4_10.png used on input line 683.
+Package pdftex.def Info: Figures/1_3_4_10.png used on input line 764.
 (pdftex.def)             Requested size: 344.005pt x 344.00836pt.
+ [19 <./Figures/1_3_3_9.png> <./Figures/1_3_3_10.png>] [20 <./Figures/1_3_4_1.png> <./Figures/1_3_4_2.png> <./Figures/1_3_4_3.png> <./Figures/1_3_4_4.png>] [21 <./Figures/1_3_4_5.png> <./Figures/1_3_4_11.png> <./Figures/1_3_4_12.png>] [22 <./Figures/1_3_4_13.png> <./Figures/1_3_4_14.png> <./Figures/1_3_4_15.png>] [23 <./Figures/1_3_4_6.png> <./Figures/1_3_4_7.png> <./Figures/1_3_4_8.png> <./Figures/1_3_4_9.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 785--786
+
+ []
+
+[24 <./Figures/1_3_4_10.png>] [25]
+Underfull \hbox (badness 10000) in paragraph at lines 825--826
+
+ []
+
+<Figures/2_1_1.png, id=378, 481.8pt x 481.8pt>
+File: Figures/2_1_1.png Graphic file (type png)
+ <use Figures/2_1_1.png>
+Package pdftex.def Info: Figures/2_1_1.png used on input line 841.
+(pdftex.def)             Requested size: 165.12093pt x 165.11842pt.
+ <Figures/2_1_2.png, id=379, 481.8pt x 481.8pt>
+File: Figures/2_1_2.png Graphic file (type png)
+ <use Figures/2_1_2.png>
+Package pdftex.def Info: Figures/2_1_2.png used on input line 847.
+(pdftex.def)             Requested size: 165.12093pt x 165.11842pt.
+ <Figures/2_1_3.png, id=382, 481.8pt x 481.8pt>
+File: Figures/2_1_3.png Graphic file (type png)
+ <use Figures/2_1_3.png>
+Package pdftex.def Info: Figures/2_1_3.png used on input line 863.
+(pdftex.def)             Requested size: 165.12093pt x 165.11842pt.
+ <Figures/2_1_4.png, id=383, 481.8pt x 481.8pt>
+File: Figures/2_1_4.png Graphic file (type png)
+ <use Figures/2_1_4.png>
+Package pdftex.def Info: Figures/2_1_4.png used on input line 869.
+(pdftex.def)             Requested size: 165.12093pt x 165.11842pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 712.
-[8 <./Figures/1_3_1_6.png>] [9 <./Figures/1_3_1_7.png> <./Figures/1_3_1_8.png> <./Figures/1_3_1_9.png>] [10 <./Figures/1_3_1_10.png> <./Figures/1_3_1_11.png> <./Figures/1_3_1_12.png>] [11 <./Figures/1_3_1_13.png> <./Figures/1_3_1_14.png> <./Figures/1_3_1_15.png>] [12 <./Figures/1_3_2_1.png> <./Figures/1_3_2_2.png> <./Figures/1_3_2_3.png>] [13 <./Figures/1_3_2_4.png> <./Figures/1_3_2_5.png> <./Figures/1_3_2_6.png>] [14 <./Figures/1_3_2_7.png> <./Figures/1_3_2_8.png> <./Figures/1_3_2_9.png>] [15 <./Figures/1_3_2_10.png> <./Figures/1_3_2_11.png> <./Figures/1_3_2_12.png>] [16 <./Figures/1_3_2_13.png> <./Figures/1_3_2_14.png> <./Figures/1_3_2_15.png>] [17 <./Figures/1_3_3_1.png> <./Figures/1_3_3_2.png> <./Figures/1_3_3_3.png> <./Figures/1_3_3_4.png>] [18 <./Figures/1_3_3_5.png> <./Figures/1_3_3_6.png> <./Figures/1_3_3_7.png> <./Figures/1_3_3_8.png>] [19 <./Figures/1_3_3_9.png> <./Figures/1_3_3_10.png> <./Figures/1_3_4_1.png> <./Figures/1_3_4_2.png>] [20 <./Figures/1_3_4_3.png> <./Figures/1_3_4_4.png> <./Figures/1_3_4_5.png>] [21 <./Figures/1_3_4_6.png> <./Figures/1_3_4_7.png> <./Figures/1_3_4_8.png> <./Figures/1_3_4_9.png>] [22 <./Figures/1_3_4_10.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 712.
+<Figures/2_1_5.png, id=386, 481.8pt x 481.8pt>
+File: Figures/2_1_5.png Graphic file (type png)
+ <use Figures/2_1_5.png>
+Package pdftex.def Info: Figures/2_1_5.png used on input line 885.
+(pdftex.def)             Requested size: 165.12093pt x 165.11842pt.
+ <Figures/2_1_6.png, id=387, 481.8pt x 481.8pt>
+File: Figures/2_1_6.png Graphic file (type png)
+ <use Figures/2_1_6.png>
+Package pdftex.def Info: Figures/2_1_6.png used on input line 891.
+(pdftex.def)             Requested size: 165.12093pt x 165.11842pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[26 <./Figures/2_1_1.png> <./Figures/2_1_2.png>] <Figures/2_2_1.png, id=400, 481.8pt x 481.8pt>
+File: Figures/2_2_1.png Graphic file (type png)
+ <use Figures/2_2_1.png>
+Package pdftex.def Info: Figures/2_2_1.png used on input line 920.
+(pdftex.def)             Requested size: 344.005pt x 344.01387pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figures/2_2_2.png, id=401, 481.8pt x 481.8pt>
+File: Figures/2_2_2.png Graphic file (type png)
+ <use Figures/2_2_2.png>
+Package pdftex.def Info: Figures/2_2_2.png used on input line 927.
+(pdftex.def)             Requested size: 344.005pt x 344.01387pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figures/2_2_3.png, id=402, 481.8pt x 481.8pt>
+File: Figures/2_2_3.png Graphic file (type png)
+ <use Figures/2_2_3.png>
+Package pdftex.def Info: Figures/2_2_3.png used on input line 934.
+(pdftex.def)             Requested size: 344.005pt x 344.01387pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[27 <./Figures/2_1_3.png> <./Figures/2_1_4.png>] [28 <./Figures/2_1_5.png> <./Figures/2_1_6.png>] [29 <./Figures/2_2_1.png (PNG copy)>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 999.
+ [30 <./Figures/2_2_2.png (PNG copy)>] [31 <./Figures/2_2_3.png (PNG copy)>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 999.
  (/Users/liutianyoroshi/Campus/00_Project/Networks/EE232E_Networks/project2/report/.texpadtmp/report_template.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 712.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 712.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 999.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 999.
 Package rerunfilecheck Info: File `report_template.out' has not changed.
-(rerunfilecheck)             Checksum: D5AD0611D35820D6CD8E92A5B7281113;1263.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 712.
+(rerunfilecheck)             Checksum: D0852BE986F25BCC330326C2AF6CA1E3;775.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 999.
  ) 
 Here is how much of TeX's memory you used:
- 12421 strings out of 492995
- 187552 string characters out of 6132704
- 307984 words of memory out of 5000000
- 15642 multiletter control sequences out of 15000+600000
+ 12499 strings out of 492995
+ 189025 string characters out of 6132704
+ 298093 words of memory out of 5000000
+ 15707 multiletter control sequences out of 15000+600000
  15799 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,10n,77p,535b,437s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on /Users/liutianyoroshi/Campus/00_Project/Networks/EE232E_Networks/project2/report/.texpadtmp/report_template.pdf (22 pages, 11743607 bytes).
+ 36i,9n,77p,1045b,433s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on /Users/liutianyoroshi/Campus/00_Project/Networks/EE232E_Networks/project2/report/.texpadtmp/report_template.pdf (31 pages, 13612149 bytes).
 PDF statistics:
- 409 PDF objects out of 1000 (max. 8388607)
- 267 compressed objects within 3 object streams
- 76 named destinations out of 1000 (max. 500000)
- 383 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 482 PDF objects out of 1000 (max. 8388607)
+ 304 compressed objects within 4 object streams
+ 89 named destinations out of 1000 (max. 500000)
+ 413 words of extra memory for PDF output out of 10000 (max. 10000000)
 
