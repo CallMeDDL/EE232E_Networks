@@ -356,11 +356,11 @@ What's more, all the modularity scores from above core nodes' personalized netwo
 \caption{The modularity scores for core nodes' personalized network}
 \begin{tabular}{c|l|l|l} 
 \textbf{Node ID} & \textbf{Fast-Greedy} & \textbf{Edge-Betweenness} & \textbf{Infomap}\\\hline
-1 & 0.41310 & 0.35330 & 0.38912\\
-108 & 0.43592 & - & 0.50842\\
-349 & 0.25171 & 0.13352 & 0.20375\\
-484 & 0.50700 & 0.48909 & 0.51527\\
-1087 & 0.14553 & 0.02762 & 0.02690\\
+$1$ & $0.41310$ & $0.35330$ & $0.38912$\\
+$108$ & $0.43592$ & $0.50675$ & $0.50842$\\
+$349$ & $0.25171$ & $0.13352$ & $0.20375$\\
+$484$ & $0.50700$ & $0.48909$ & $0.51527$\\
+$1087$ & $0.14553$ & $0.02762$ & $0.02690$\\
 \end{tabular}
 \label{modtable}
 \end{table}
@@ -375,7 +375,8 @@ At last, Infomap algorithm is a method minimizing a random walker’s expected t
 
 In this part, we aim to explore the effect on the community structure of a core node’s personalized network when the core node itself is removed from the personalized network.
 
-For Node ID 1, the community figures based on different algorithms are shown in Fig \ref{1_3_2_1}, Fig \ref{1_3_2_2} and Fig \ref{1_3_2_3}.
+For Node ID $1$, the community figures based on different algorithms are shown in Fig \ref{1_3_2_1}, Fig \ref{1_3_2_2} and Fig \ref{1_3_2_3}.
+
 \begin{figure}[h]
 \centering
 \begin{minipage}[t]{0.48\textwidth}
@@ -501,11 +502,11 @@ What's more, all the modularity scores from above core nodes' personalized netwo
 \caption{The modularity scores for core nodes' personalized network}
 \begin{tabular}{c|l|l|l} 
 \textbf{Node ID} & \textbf{Fast-Greedy} & \textbf{Edge-Betweenness} & \textbf{Infomap}\\\hline
-1 & 0.41310 & 0.35330 & 0.38912\\
-108 & 0.45812 & 0.52132 & 0.52068\\
-349 & 0.24569 & 0.15056 & 0.24657\\
-484 & 0.53421 & 0.51544 & 0.54344\\
-1087 & 0.14819 & 0.03249 & 0.02737\\
+$1$ & $0.44185$ & $0.41614$ & $0.41800$\\
+$108$ & $0.45812$ & $0.52132$ & $0.52068$\\
+$349$ & $0.24569$ & $0.15056$ & $0.24657$\\
+$484$ & $0.53421$ & $0.51544$ & $0.54344$\\
+$1087$ & $0.14819$ & $0.03249$ & $0.02737$\\
 \end{tabular}
 \label{modtable2}
 \end{table}
@@ -516,10 +517,10 @@ We aim to explore characteristics of nodes in the personalized network using two
 
 The expression relating the Embeddedness of a node to it’s degree is given as follows.
 \begin{align}
-Embedd(i) \leq Degree (i) - 1
+Embedd(i) = Degree (i) - 1
 \end{align}
 
-For code code 1’s personalized network, the distribution of embeddedness and dispersion is shown in Fig \ref{1_3_3_1} and Fig \ref{1_3_3_2}.
+For code code $1$’s personalized network, the distribution of embeddedness and dispersion is shown in Fig \ref{1_3_3_1} and Fig \ref{1_3_3_2}.
 
 \begin{figure}[h]
 \centering
@@ -537,7 +538,7 @@ For code code 1’s personalized network, the distribution of embeddedness and d
 \end{minipage}
 \end{figure}
 
-For code code 108’s personalized network, the distribution of embeddedness and dispersion is shown in Fig \ref{1_3_3_3} and Fig \ref{1_3_3_4}.
+For code code $108$’s personalized network, the distribution of embeddedness and dispersion is shown in Fig \ref{1_3_3_3} and Fig \ref{1_3_3_4}.
 
 \begin{figure}[h]
 \centering
@@ -555,7 +556,7 @@ For code code 108’s personalized network, the distribution of embeddedness and
 \end{minipage}
 \end{figure}
 
-For code code 349’s personalized network, the distribution of embeddedness and dispersion is shown in Fig \ref{1_3_3_5} and Fig \ref{1_3_3_6}.
+For code code $349$’s personalized network, the distribution of embeddedness and dispersion is shown in Fig \ref{1_3_3_5} and Fig \ref{1_3_3_6}.
 
 \begin{figure}[h]
 \centering
@@ -573,7 +574,7 @@ For code code 349’s personalized network, the distribution of embeddedness and
 \end{minipage}
 \end{figure}
 
-For code code 484’s personalized network, the distribution of embeddedness and dispersion is shown in Fig \ref{1_3_3_7} and Fig \ref{1_3_3_8}.
+For code code $484$’s personalized network, the distribution of embeddedness and dispersion is shown in Fig \ref{1_3_3_7} and Fig \ref{1_3_3_8}.
 
 \begin{figure}[h]
 \centering
@@ -591,7 +592,7 @@ For code code 484’s personalized network, the distribution of embeddedness and
 \end{minipage}
 \end{figure}
 
-For code code 1087’s personalized network, the distribution of embeddedness and dispersion is shown in Fig \ref{1_3_3_9} and Fig \ref{1_3_3_10}.
+For code code $1087$’s personalized network, the distribution of embeddedness and dispersion is shown in Fig \ref{1_3_3_9} and Fig \ref{1_3_3_10}.
 
 \begin{figure}[h]
 \centering
@@ -612,24 +613,24 @@ For code code 1087’s personalized network, the distribution of embeddedness an
 
 For each of the core node’s personalized network, apply Fast-Greedy algorithm to detect the community structure of the personalized network and use colors and highlight the node with maximum dispersion and the edges incident to this node to plot this community.
 
-For code code 1’s personalized network, the community structure is shown in Fig \ref{1_3_4_1}.
-For code code 108’s personalized network, the community structure is shown in Fig \ref{1_3_4_2}.
-For code code 349’s personalized network, the community structure is shown in Fig \ref{1_3_4_3}.
-For code code 484’s personalized network, the community structure is shown in Fig \ref{1_3_4_4}.
-For code code 1087’s personalized network, the community structure is shown in Fig \ref{1_3_4_5}.
+For code code $1$’s personalized network, the community structure is shown in Fig \ref{1_3_4_1}.
+For code code $108$’s personalized network, the community structure is shown in Fig \ref{1_3_4_2}.
+For code code $349$’s personalized network, the community structure is shown in Fig \ref{1_3_4_3}.
+For code code $484$’s personalized network, the community structure is shown in Fig \ref{1_3_4_4}.
+For code code $1087$’s personalized network, the community structure is shown in Fig \ref{1_3_4_5}.
 
 \begin{figure}[h]
 \centering
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \scalebox{1}{\includegraphics{Figures/1_3_4_1.png}}
-\caption{The community structure of No. 1}
+\caption{The community structure of No. $1$}
 \label{1_3_4_1}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \scalebox{1}{\includegraphics{Figures/1_3_4_2.png}}
-\caption{TThe community structure of No. 108}
+\caption{TThe community structure of No. $108$}
 \label{1_3_4_2}
 \end{minipage}
 \end{figure}
@@ -639,30 +640,76 @@ For code code 1087’s personalized network, the community structure is shown in
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \scalebox{1}{\includegraphics{Figures/1_3_4_3.png}}
-\caption{The community structure of No. 349}
+\caption{The community structure of No. $349$}
 \label{1_3_4_3}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \scalebox{1}{\includegraphics{Figures/1_3_4_4.png}}
-\caption{The community structure of No. 484}
+\caption{The community structure of No. $484$}
 \label{1_3_4_4}
 \end{minipage}
 \end{figure}
 \begin{figure}[h]
 \centering
 \scalebox{0.5}{\includegraphics{Figures/1_3_4_5.png}}
-\caption{The community structure of No. 1087}
+\caption{The community structure of No. $1087$}
 \label{1_3_4_5}
 \end{figure}
 
-Similarly, this time we highlight the node with maximum embeddedness and the node with maximum ratio of dispersion to embeddedness. 
+Similarly, this time we highlight the node with maximum embeddedness. 
 
-For code code 1’s personalized network, the community structure is shown in Fig \ref{1_3_4_6}.
-For code code 108’s personalized network, the community structure is shown in Fig \ref{1_3_4_7}.
-For code code 349’s personalized network, the community structure is shown in Fig \ref{1_3_4_8}.
-For code code 484’s personalized network, the community structure is shown in Fig \ref{1_3_4_9}.
-For code code 1087’s personalized network, the community structure is shown in Fig \ref{1_3_4_10}.
+For code code $1$’s personalized network, the community structure is shown in Fig \ref{1_3_4_11}.
+For code code $108$’s personalized network, the community structure is shown in Fig \ref{1_3_4_12}.
+For code code $349$’s personalized network, the community structure is shown in Fig \ref{1_3_4_13}.
+For code code $484$’s personalized network, the community structure is shown in Fig \ref{1_3_4_14}.
+For code code $1087$’s personalized network, the community structure is shown in Fig \ref{1_3_4_15}.
+
+\begin{figure}[h]
+\centering
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_4_11.png}}
+\caption{The community structure of No. 1}
+\label{1_3_4_11}
+\end{minipage}
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_4_12.png}}
+\caption{The community structure of No. 108}
+\label{1_3_4_12}
+\end{minipage}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_4_13.png}}
+\caption{The community structure of No. 349}
+\label{1_3_4_13}
+\end{minipage}
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/1_3_4_14.png}}
+\caption{The community structure of No. 484}
+\label{1_3_4_14}
+\end{minipage}
+\end{figure}
+\begin{figure}[h]
+\centering
+\scalebox{0.5}{\includegraphics{Figures/1_3_4_15.png}}
+\caption{The community structure of No. 1087}
+\label{1_3_4_15}
+\end{figure}
+
+Still, this time we highlight the node with maximum ratio of dispersion to embeddedness. 
+
+For code code $1$’s personalized network, the community structure is shown in Fig \ref{1_3_4_6}.
+For code code $108$’s personalized network, the community structure is shown in Fig \ref{1_3_4_7}.
+For code code $349$’s personalized network, the community structure is shown in Fig \ref{1_3_4_8}.
+For code code $484$’s personalized network, the community structure is shown in Fig \ref{1_3_4_9}.
+For code code $1087$’s personalized network, the community structure is shown in Fig \ref{1_3_4_10}.
 
 \begin{figure}[h]
 \centering
