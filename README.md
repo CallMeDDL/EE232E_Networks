@@ -22,3 +22,9 @@ Large Scale Social and Complex Networks: Design and Algorithms (18 spring)
 4. Friend recommendation in personalized networks
 ### Google+ network
 1. Community structure of personal networks
+
+## Project 3 Reinforcement learning and Inverse Reinforcement learning
+### Optimal policy learning using RL algorithms
+### Inverse Reinforcement learning (IRL)
+1. IRL algorithm
+2. Performance measure
