@@ -223,11 +223,13 @@ The meaning is that: give the core node of the personalized network, when the nu
 \subsection{Core node’s personalized network}
 
 There are $40$ core nodes in the Facebook network, which is the nodes that have more than $200$ neighbors i.e. the degree of the nodes is greater than $200$. And the average degree of the core nodes is $279$.
+
 \subsubsection{Community structure of core node’s personalized network}
 
 We aim to find the community structure and compute the modularity scores using Fast-Greedy, Edge-Betweenness, and Infomap community detection algorithms for each of some core nodes’ personalized network.
 
 For Node ID $1$, the community figures based on different algorithms are shown in Fig \ref{1_3_1_1}, Fig \ref{1_3_1_2} and Fig \ref{1_3_1_3}.
+
 \begin{figure}[h]
 \centering
 \begin{minipage}[t]{0.48\textwidth}
@@ -251,6 +253,7 @@ For Node ID $1$, the community figures based on different algorithms are shown i
 \end{figure}
 
 For Node ID $108$, the community figures based on different algorithms are shown in Fig \ref{1_3_1_4}, Fig \ref{1_3_1_5} and Fig \ref{1_3_1_6}.
+
 \begin{figure}[h]
 \centering
 \begin{minipage}[t]{0.48\textwidth}
@@ -274,6 +277,7 @@ For Node ID $108$, the community figures based on different algorithms are shown
 \end{figure}
 
 For Node ID $349$, the community figures based on different algorithms are shown in Fig \ref{1_3_1_7}, Fig \ref{1_3_1_8} and Fig \ref{1_3_1_9}.
+
 \begin{figure}[h]
 \centering
 \begin{minipage}[t]{0.48\textwidth}
@@ -297,6 +301,7 @@ For Node ID $349$, the community figures based on different algorithms are shown
 \end{figure}
 
 For Node ID $484$, the community figures based on different algorithms are shown in Fig \ref{1_3_1_10}, Fig \ref{1_3_1_11} and Fig \ref{1_3_1_12}.
+
 \begin{figure}[h]
 \centering
 \begin{minipage}[t]{0.48\textwidth}
@@ -320,6 +325,7 @@ For Node ID $484$, the community figures based on different algorithms are shown
 \end{figure}
 
 For Node ID $1087$, the community figures based on different algorithms are shown in Fig \ref{1_3_1_13}, Fig \ref{1_3_1_14} and Fig \ref{1_3_1_15}.
+
 \begin{figure}[h]
 \centering
 \begin{minipage}[t]{0.48\textwidth}
@@ -358,6 +364,12 @@ $1087$ & $0.14553$ & $0.02762$ & $0.02690$\\
 \label{modtable}
 \end{table}
 
+Fast-greedy is very simple hierarchical approach, which is a bottom-up algorithm. It can achieve the goal of optimizing modularity in a greedy manner. This algorithm starts with a state that we treat every single node as a separate community, and communities are merged iteratively such that each merge yields the largest increase of the modularity value until the value would not increase any more. From the result we drew, we can see that this algorithm is pretty fast but extremely not accurate. There is no doubt that it is very common that a greedy method could suck in a local optimal and hardly find global optimal.
+
+In comparison to Fast-greedy algorithm, edge-betweenness is also a hierarchical process but top-down. In this algorithm, network's edges are removed in the decreasing order of the number of shortest paths. The good thing is that this method yields good results since the edges connecting different communities are likely to be contained in multiple shortest paths, which makes this method very effective intuitively. Unfortunately, just like there is no perfect thing in the world, this algorithm is super time-consuming due to the computational complexity. Especially for node $108$'s personalized network, it took more than one hour to detect communities by this algorithm.
+
+At last, Infomap algorithm is a method minimizing a random walker’s expected trajectory based on ideas of information theory. The Infomap method seems to be slightly better at detecting communities than fast-greedy and faster than edge-betweenness. It seems like Infomap is a kind of algorithm that we use when we don't want to wait for a very long time to compute for a large scale network but still want a satisfied result.
+
 \subsubsection{Community structure with the core node removed}
 
 In this part, we aim to explore the effect on the community structure of a core node’s personalized network when the core node itself is removed from the personalized network.
@@ -386,6 +398,7 @@ For Node ID $1$, the community figures based on different algorithms are shown i
 \end{figure}
 
 For Node ID $108$, the community figures based on different algorithms are shown in Fig \ref{1_3_2_4}, Fig \ref{1_3_2_5} and Fig \ref{1_3_2_6}.
+
 \begin{figure}[h]
 \centering
 \begin{minipage}[t]{0.48\textwidth}
@@ -409,6 +422,7 @@ For Node ID $108$, the community figures based on different algorithms are shown
 \end{figure}
 
 For Node ID $349$, the community figures based on different algorithms are shown in Fig \ref{1_3_2_7}, Fig \ref{1_3_2_8} and Fig \ref{1_3_2_9}.
+
 \begin{figure}[h]
 \centering
 \begin{minipage}[t]{0.48\textwidth}
@@ -432,6 +446,7 @@ For Node ID $349$, the community figures based on different algorithms are shown
 \end{figure}
 
 For Node ID $484$, the community figures based on different algorithms are shown in Fig \ref{1_3_2_10}, Fig \ref{1_3_2_11} and Fig \ref{1_3_2_12}.
+
 \begin{figure}[h]
 \centering
 \begin{minipage}[t]{0.48\textwidth}
@@ -455,6 +470,7 @@ For Node ID $484$, the community figures based on different algorithms are shown
 \end{figure}
 
 For Node ID $1087$, the community figures based on different algorithms are shown in Fig \ref{1_3_2_13}, Fig \ref{1_3_2_14} and Fig \ref{1_3_2_15}.
+
 \begin{figure}[h]
 \centering
 \begin{minipage}[t]{0.48\textwidth}
