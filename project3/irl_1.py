@@ -1,3 +1,7 @@
+import numpy as np
+import matplotlib.pyplot as plt
+import cvxopt
+
 def irl_process(state_num, optimal_action, trans_prob_matrix, penalty_lambda):  
     gamma = 0.8
     d = 300
