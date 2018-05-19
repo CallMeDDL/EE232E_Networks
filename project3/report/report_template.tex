@@ -155,7 +155,155 @@
 
 \section{Reinforcement Learning (RL)}
 
+\begin{figure}
+\centering
+\begin{minipage}[h]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/hj_01.png}}
+\caption{Heat map of reward function $1$}
+\label{fig:hm_reward_1}
+\end{minipage}
+\begin{minipage}[h]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/hj_02.png}}
+\caption{Heat map of reward function $2$}
+\label{fig:hm_reward_2}
+\end{minipage}
+\end{figure}
+
+In this project, we implement the RL algorithm to explore its performance. 
+
+\textcolor{red}{Question 1: (10 points) For visualization purpose, generate heat maps of Reward function 1 and Reward function 2. For the heat maps, make sure you display the coloring scale. You will have 2 plots for this question}
+
+The heat map of reward function $1$ and $2$ are plotted in Fig. \ref{fig:hm_reward_1}  and \ref{fig:hm_reward_2}, respectively.
+
+
 \subsection{Optimal policy learning using RL algorithms}
+
+\textcolor{red}{Question 2: (40 points) Create the environment of the agent using the information provided in section 2. To be specific, create the MDP by setting up the state-space, action set, transition probabilities, discount factor, and reward
+function. For creating the environment, use the following set of parameters:}
+\begin{itemize}
+ \item Number of states = $100$ (state space is a 10 by 10 square grid as displayed
+in figure 1)
+\item Number of actions = $4$ (set of possible actions is displayed in figure 2)
+\item $w = 0.1$
+\item Discount factor $\gamma = 0.8$
+\item Reward function $1$
+\end{itemize}
+\textcolor{red}{
+    After you have created the environment, then write an optimal state-value function that takes as input the environment of the agent and outputs the optimal value of each state in the grid. For the optimal state-value function, you have to implement the Initialization (lines 2-4) and Estimation (lines 5-13) steps of the Value Iteration algorithm. For the estimation step, use $\epsilon=0.01$. For visualization purpose, you should generate figure similar to that of figure 1 but with the number of state replaced by the optimal value of that state. In this question, you should have 1 plot.
+}
+
+After implementing the RL algorithm, we obtain the grid of optimal state values in Fig. \ref{fig:optimal_state_value_01}.
+
+
+\begin{figure}
+\centering
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/hj_03.png}}
+\caption{The optimal state value with reward function $1$}
+\label{fig:optimal_state_value_01}
+\end{minipage}
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/hj_04.png}}
+\caption{Heat map of optimal state values with reward function $1$}
+\label{fig:hm_opt_state_value_01}
+\end{minipage}
+\end{figure}
+\vspace{10pt}
+
+\textcolor{red}{
+    Question 3: (5 points) Generate a heat map of the optimal state values across the 2-D grid. For generating the heat map, you can use the same function provided in the hint earlier (see the hint after question 1).
+}
+
+After obtaining the optimal state value array with reward function $1$, the corresponding heat map of it is shown in Fig. \ref{fig:hm_opt_state_value_01}.
+\vspace{10pt}
+
+\textcolor{red}{
+    Question 4: (15 points) Explain the distribution of the optimal state values across the 2-D grid. (Hint: Use the figure generated in question 3 to explain)
+}
+
+Since we observe from reward function $1$ that the reward function is symmetric with respect to the diagonal. So according to the RL algorithm, it follows that the optimal state value should also be symmetric with respect to the diagonal. Also, the value increases as they become close to the $(9,9)$ state.
+\vspace{10pt}
+
+\textcolor{red}{
+    Question 5: (30 points) Implement the computation step of the value iteration algorithm (lines 14-17) to compute the optimal policy of the agent navigating
+the 2-D state-space. For visualization purpose, you should generate a figure similar to that of figure 1 but with the number of state replaced by the optimal action at that state. The optimal actions should be displayed using arrows. Does the optimal policy of the agent match your intuition? Please provide a brief explanation. Is it possible for the agent to compute the optimal action to take at each state by observing the optimal values of it's neighboring states? In this question, you should have 1 plot.
+}
+
+\begin{figure}
+\centering
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/hj_05.png}}
+\caption{Optimal actions with reward function $1$}
+\label{fig:opt_action_01}
+\end{minipage}
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/hj_06.png}}
+\caption{The optimal state value with reward function $2$}
+\label{fig:opt_state_value_02}
+\end{minipage}
+\end{figure}
+
+After implementing the computation step, the optimal actions at each state are shown in Fig. \ref{fig:opt_action_01}. The optimal policy of the agent matches the intuition since the action is always towards the highest score. Yes, the optimal action is always towards the neighbor with the highest state value. Therefore, we can determine the optimal action by simply observing the values in the neighboring states.
+\vspace{10pt}
+
+\textcolor{red}{
+    Question 6: (10 points) Modify the environment of the agent by replacing Reward function 1 with Reward function 2. Use the optimal state-value function implemented in question 2 to compute the optimal value of each state in the grid. For visualization purpose, you should generate a figure similar to that of figure 1 but with the number of state replaced by the optimal value of that state. In this question, you should have 1 plot.
+}
+
+
+After replacing with reward function $2$, the optimal value at each state is shown in Fig. \ref{fig:opt_state_value_02}.
+\vspace{10pt}
+
+\begin{figure}
+\centering
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/hj_07.png}}
+\caption{Heat map of optimal state values with reward function $2$}
+\label{fig:hm_opt_state_value_02}
+\end{minipage}
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/hj_08.png}}
+\caption{Optimal actions with reward function $2$}
+\label{fig:opt_actions_02}
+\end{minipage}
+\end{figure}
+
+\textcolor{red}{
+    Question 7: (10 points) Generate a heat map of the optimal state values (found in question 6) across the 2-D grid. For generating the heat map, you can use the same function provided in the hint earlier.
+}
+
+The heat map of the optimal state values is shown in Fig. \ref{fig:hm_opt_state_value_02}.
+\vspace{10pt}
+
+\textcolor{red}{
+    Question 8: (20 points) Explain the distribution of the optimal state values across the 2-D grid. (Hint: Use the figure generated in question 7 to explain)
+}
+
+The distribution of the optimal state values is that, in the area with the reward score of $-100$, the optimal state values are zero. In the area with the reward score of $0$, the optimal state values are positive, and are increasing as they become close to the $(9,9)$ state which has the highest reward score of $10$. The $(9,9)$ state has the highest state value as it has the highest reward score.
+
+\textcolor{red}{
+    Question 9: (20 points) Implement the computation step of the value iteration algorithm (lines 14-17) to compute the optimal policy of the agent navigating the 2-D state-space. For visualization purpose, you should generate a figure
+similar to that of figure 1 but with the number of state replaced by the optimal action at that state. The optimal actions should be displayed using arrows. Does the optimal policy of the agent match your intuition? Please provide a
+brief explanation. In this question, you should have 1 plot.
+}
+
+After implementing the computation step, the optimal actions with reward function $2$ are shown in Fig. \ref{fig:opt_actions_02}. The optimal action policy matches the intuition as the actions are still towards the neighboring state with the highest state value.
+
+
+
+
+
+
+
+
 
 \section{Inverse Reinforcement Learning (IRL)}
 
