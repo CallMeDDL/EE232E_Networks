@@ -10,6 +10,8 @@ def irl_process(state_num, optimal_action, trans_prob_matrix, penalty_lambda):
     gamma = 0.8
     d = 300
 
+    actions = {0, 1, 2, 3}
+
     # (1) objective
     # order in expression: x1=R, x2=t, x3=u, x4=Rmax]
 
@@ -86,7 +88,7 @@ def irl_process(state_num, optimal_action, trans_prob_matrix, penalty_lambda):
     # B
     B = cvxopt.matrix(np.zeros((1000,1)))
 
-    results = solvers.lp(C, D, B)
+    results = cvxopt.solvers.lp(C, D, B)
     result = np.asarray(results["x"][:state_num], dtype=np.double).reshape((state_num,))
 
     return result
@@ -96,16 +98,25 @@ def measure_accuracy(state_num, expert_optimal_action, optimal_action):
     count = np.sum(expert_optimal_action == optimal_action)
     return count * 1.0 / state_num
 
+def format_trans(expert_optimal_action, trans_prob_matrix):
+    # expert_optimal_action
+    expert_optimal_action = np.array(expert_optimal_action)
 
-def generate_action_from_reward():
-    pass
+    return expert_optimal_action, trans_prob_matrix
+
+
 
 def evaluate(state_num, expert_optimal_action, trans_prob_matrix, penalty_lambdas):
     accuracy = []
     rewards_extracted = []
+    expert_optimal_action, trans_prob_matrix = format_trans(expert_optimal_action, trans_prob_matrix)
     for penalty_lambda in penalty_lambdas:
         reward_extracted = irl_process(state_num, expert_optimal_action, trans_prob_matrix, penalty_lambda)
-        optimal_action = generate_action_from_reward(reward_extracted)
+
+        # change format due to the function impolemenation
+        reward_extracted = reward_extracted.reshape((10, 10)).tolist()
+        optimal_action = generate_action_from_reward(state_num, reward_extracted)
+
         acc = measure_accuracy(state_num, expert_optimal_action, optimal_action)
 
         accuracy.append(acc)
@@ -113,9 +124,8 @@ def evaluate(state_num, expert_optimal_action, trans_prob_matrix, penalty_lambda
 
     return accuracy, rewards_extracted
 
-def generate_heapmap():
-    pass
 
+<<<<<<< HEAD
 def judge_position(x,y):
     Corner_state=[0,9,90,99]
     Edge_state=[1,2,3,4,5,6,7,8,
@@ -250,15 +260,10 @@ def arrow_map(PI):
 
 
 
-# TO DO list:
-# get expert_optimal_action from part1: numpy array, len: 100
-# get trans_prob_matrix from part1: numpy array, size: trans_prob_matrix[action:4][state:100][next_state:100]
-# call generate_action_from_reward from part1
-# call heapmap generation function from part1: generate_heapmap()
-
 # Question 11
-penalty_lambdas = np.linspace(0, 5, 500)
-accuracy, rewards_extracted = evaluate(100, expert_optimal_action1, trans_prob_matrix, penalty_lambdas)
+expert_optimal_action = PI
+penalty_lambdas = np.linspace(0, 5, 100)
+accuracy, rewards_extracted = evaluate(100, expert_optimal_action, trans_prob_matrix, penalty_lambdas)
 plt.plot(penalty_lambdas, accuracy)
 plt.show()
 
@@ -269,7 +274,8 @@ print("max accuracy: ", accuracy[max_acc_index])
 print("its lambda: ", max_lambda)
 
 # Question 13
-generate_heapmap(rewards_extracted[max_acc_index])
+r = np.array(rewards_extracted[max_acc_index]).reshape((10, 10)).tolist()
+generate_heapmap(r)
 
 # Question 14
 state_value = state_value_function(rewards_extracted[max_acc_index])
@@ -294,8 +300,4 @@ print("its lambda: ", max_lambda2)
 
 # Question 20
 generate_heapmap(rewards_extracted2[max_acc_index2])
-
-
-
-
 
