@@ -305,5 +305,16 @@ print("max accuracy: ", accuracy2[max_acc_index2])
 print("its lambda: ", max_lambda2)
 
 # Question 20
-generate_heapmap(rewards_extracted2[max_acc_index2])
+r2 = np.array(rewards_extracted2[max_acc_index2]).reshape((10, 10)).tolist()
+generate_heapmap(r2)
+
+
+# Question 21
+state_value2 = state_value_function(rewards_extracted2[max_acc_index2])
+generate_heapmap(state_value2)
+
+# Question 23
+policy2 = optimal_policy_function(rewards_extracted2[max_acc_index2])
+arrow_map(policy2)
+
 
