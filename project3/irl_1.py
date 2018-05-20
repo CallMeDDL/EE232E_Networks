@@ -124,8 +124,6 @@ def evaluate(state_num, expert_optimal_action, trans_prob_matrix, penalty_lambda
 
     return accuracy, rewards_extracted
 
-
-<<<<<<< HEAD
 def judge_position(x,y):
     Corner_state=[0,9,90,99]
     Edge_state=[1,2,3,4,5,6,7,8,
@@ -258,6 +256,14 @@ def arrow_map(PI):
                     arrowprops=dict(facecolor='black', shrink=0.0000001,headlength=5),
                     horizontalalignment='left', verticalalignment='right')
 
+def generate_heapmap(R):
+    x = np.arange(0,11,1)
+    y = np.arange(11,0,-1)
+    X, Y = np.meshgrid(x, y)
+    plt.pcolor(X,Y,R,edgecolors='k')
+    plt.colorbar()
+    plt.title('Heat map of reward function')
+    plt.axis('off')
 
 
 # Question 11
