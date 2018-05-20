@@ -2,6 +2,10 @@ import numpy as np
 import matplotlib.pyplot as plt
 import cvxopt
 
+MaxState = 100
+MaxAction = 4
+Inf = 10000000
+
 def irl_process(state_num, optimal_action, trans_prob_matrix, penalty_lambda):  
     gamma = 0.8
     d = 300
@@ -112,6 +116,140 @@ def evaluate(state_num, expert_optimal_action, trans_prob_matrix, penalty_lambda
 def generate_heapmap():
     pass
 
+def judge_position(x,y):
+    Corner_state=[0,9,90,99]
+    Edge_state=[1,2,3,4,5,6,7,8,
+               91,92,93,94,95,96,97,98,
+               10,20,30,40,50,60,70,80,
+               19,29,39,49,59,69,79,89]
+    idx=x+10*y
+    if idx in Corner_state:
+        return 0
+    elif idx in Edge_state:
+        return 1
+    else:
+        return 2
+
+def Trans_prob(s,a,t):
+    omega=0.1;
+    
+    x_move=[-1,0,1,0]
+    y_move=[0,1,0,-1]
+    prob=0;
+    
+    xs,ys=s%10,s//10
+    xt,yt=t%10,t//10   
+    
+    position_state=judge_position(xs,ys);
+    if (abs(xs-xt)+abs(ys-yt))>1:
+        return prob
+    else:
+        if position_state==0:
+            if xs+x_move[a]==xt and ys+y_move[a]==yt:
+                prob=1-omega+omega/4
+            elif s==t:
+                if xs+x_move[a]<0 or xs+x_move[a]>9 or ys+y_move[a]<0 or ys+y_move[a]>9:
+                    prob=1-omega+omega/2
+                else:
+                    prob=omega/2
+            else:
+                prob=omega/4
+        elif position_state==1:
+            if xs+x_move[a]==xt and ys+y_move[a]==yt:
+                prob=1-omega+omega/4
+            elif s==t:
+                if xs+x_move[a]<0 or xs+x_move[a]>9 or ys+y_move[a]<0 or ys+y_move[a]>9:
+                    prob=1-omega+omega/4
+                else:
+                    prob=omega/4
+            else:
+                prob=omega/4
+        elif position_state==2:
+            if xs+x_move[a]==xt and ys+y_move[a]==yt:
+                prob=1-omega+omega/4
+            elif s==t:
+                prob=0
+            else:
+                prob=omega/4;
+    
+    return prob
+           
+def Expt_Value(s,act,R,V):
+    gamma=0.8
+    mov=[-10,-1,0,1,10]
+    y=0
+    
+    for i in mov:
+        t=s+i
+        if t>=0 and t<=99:
+            xt,yt=t%10,t//10 
+            y+=Trans_prob(s,act,t)*(R[xt][yt]+gamma*V[t])
+    return y
+
+def state_value_function(R):
+    V = [0 for i in range(0,MaxState)]#Initialize state-value array
+    epsilon = 0.01
+    
+    delta = Inf
+    while delta>epsilon:
+        delta=0
+        for s in range(0,MaxState):
+            v=V[s]
+            for i in range(0,MaxAction):
+                temp=Expt_Value(s,i,R,V);
+                V[s]=max(V[s],temp)
+            delta=max(delta,abs(v-V[s]))
+    return V
+
+def optimal_policy_function(R):
+    PI=[0 for col in range(0,MaxState)]
+    for s in range(0,MaxState):
+        temp=-100;
+        for i in range(0,MaxAction):
+            val=Expt_Value(s,i,R,V)
+            if val>temp:
+                temp=val
+                PI[s]=i
+    return PI
+
+def arrow_map(PI):
+    grid_PI_1=[[0 for col in range(0,10)] for row in range(0,10)];
+    for i in range(0,10):
+    for j in range(0,10):
+        idx=i+10*j
+        grid_PI_1[i][j]=PI[idx]
+    fig = plt.figure()
+    ax = fig.add_subplot(111, autoscale_on=False, xlim=(0, 10), ylim=(10, 0))
+    for i in range(0,10):
+        for j in range(0,10):
+            act=grid_PI_1[i][j]
+            if act==0:
+                ax.annotate('',
+                    xy=(j+0.5, i), xycoords='data',
+                    xytext=(0, -15), textcoords='offset points',
+                    arrowprops=dict(facecolor='black', shrink=0.0000001,headlength=5),
+                    horizontalalignment='bottom', verticalalignment='up')
+            elif act==1:
+                ax.annotate('',
+                    xy=(j+0.7, i+0.3), xycoords='data',
+                    xytext=(-15, 0), textcoords='offset points',
+                    arrowprops=dict(facecolor='black', shrink=0.0000001,headlength=5),
+                    horizontalalignment='right', verticalalignment='left')
+            elif act==2:
+                ax.annotate('',
+                    xy=(j+0.5, i+0.7), xycoords='data',
+                    xytext=(0, 15), textcoords='offset points',
+                    arrowprops=dict(facecolor='black', shrink=0.0000001,headlength=5),
+                    horizontalalignment='up', verticalalignment='bottom')
+            elif act==3:
+                ax.annotate('',
+                    xy=(j+0.25, i+0.3), xycoords='data',
+                    xytext=(15, 0), textcoords='offset points',
+                    arrowprops=dict(facecolor='black', shrink=0.0000001,headlength=5),
+                    horizontalalignment='left', verticalalignment='right')
+
+
+
 # TO DO list:
 # get expert_optimal_action from part1: numpy array, len: 100
 # get trans_prob_matrix from part1: numpy array, size: trans_prob_matrix[action:4][state:100][next_state:100]
@@ -120,7 +258,7 @@ def generate_heapmap():
 
 # Question 11
 penalty_lambdas = np.linspace(0, 5, 500)
-accuracy, rewards_extracted = evaluate(100, expert_optimal_action, trans_prob_matrix, penalty_lambdas)
+accuracy, rewards_extracted = evaluate(100, expert_optimal_action1, trans_prob_matrix, penalty_lambdas)
 plt.plot(penalty_lambdas, accuracy)
 plt.show()
 
@@ -132,5 +270,32 @@ print("its lambda: ", max_lambda)
 
 # Question 13
 generate_heapmap(rewards_extracted[max_acc_index])
+
+# Question 14
+state_value = state_value_function(rewards_extracted[max_acc_index])
+generate_heapmap(state_value)
+
+# Question 16
+policy = optimal_policy_function(rewards_extracted[max_acc_index])
+arrow_map(policy)
+
+
+# Question 18
+penalty_lambdas2 = np.linspace(0, 5, 500)
+accuracy2, rewards_extracted2 = evaluate(100, expert_optimal_action2, trans_prob_matrix, penalty_lambdas)
+plt.plot(penalty_lambdas2, accuracy2)
+plt.show()
+
+# Question 19
+max_acc_index2 = np.argmax(accuracy2)
+max_lambda2 = penalty_lambdas2[max_acc_index2]
+print("max accuracy: ", accuracy2[max_acc_index2])
+print("its lambda: ", max_lambda2)
+
+# Question 20
+generate_heapmap(rewards_extracted2[max_acc_index2])
+
+
+
 
 
