@@ -143,7 +143,7 @@ print("its lambda: ", max_lambda)
 
 
 # Question 13
-r = np.array(rewards_extracted[max_acc_index]).reshape((10, 10)).tolist()
+r = np.array(rewards_extracted[max_acc_index]).tolist()
 generate_heapmap(r)
 
 
