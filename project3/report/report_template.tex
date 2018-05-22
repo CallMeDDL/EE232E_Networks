@@ -1,21 +1,4 @@
-def judge_boundary(s, curact):
-    # up: 0, right: 1, down: 2, left: 3
-    #curact = act_val.index(max(act_val))
-    #dic = ['0': -1, '1': 10,'2':1, '3':-10]
-    left_edge = [0,1,2,3,4,5,6,7,8,9]
-    up_edge = [0,10,20,30,40,50,60,70,80,90]
-    down_edge = [9,19,29,39,49,59,69,79,89]
-    right_edge = [90,91,92,93,94,95,96,97,98]
-    if s in left_edge and curact != 3:
-        return True
-    elif s in up_edge and curact != 0:
-        return True
-    elif s in down_edge and curact != 2:
-        return True
-    elif s in right_edge and curact != 1:
-        return True
-    else: 
-        return False\documentclass[11pt]{article}
+\documentclass[11pt]{article}
 	\usepackage[T1]{fontenc}
     % Nicer default font (+ math font) than Computer Modern for most use cases
     % \usepackage{mathpazo}
@@ -437,7 +420,7 @@ The plot of $\lambda$ against Accuracy is shown in Fig. \ref{3_1}.\\
     Question 12: (5 points) Use the plot in question 11 to compute the value of $\lambda$ for which accuracy is maximum. For future reference we will denote this value as $\lambda_{max}$. Please report $\lambda_{max}$
 }
 
-From the plot, we can see the max accuracy is $0.75$, and there are several $\lambda$ which can reach the maximum accuracy. One of them is $1.57314$.\\
+From the plot, we can see the max accuracy is $0.75$, and there are several $\lambda$ which can reach the maximum accuracy. One of them is $0$.\\
 
 \textcolor{red}{
     Question 13: for $\lambda_{max}$, generate heat maps of the ground truth reward and the extracted reward. Please note that the ground truth reward is the Reward function 1 and the extracted reward is computed by solving the linear program given by equation 2 with the $\lambda$ parameter set to $\lambda_{max}$. In this question, you should have 2 plots.
@@ -518,7 +501,7 @@ The plot of $\lambda$ against Accuracy is shown in Fig. \ref{4_1}.\\
     Question 19: (5 points) Use the plot in question 18 to compute the value of $\lambda$ for which accuracy is maximum. For future reference we will denote this value as $\lambda_{max}$. Please report $\lambda_max{max}$
 }
 
-From the plot, we can see the max accuracy is $0.88$, and there are several $\lambda$ which can reach the maximum accuracy. One of them is $0$.\\
+From the plot, we can see the max accuracy is $0.88$, and there are several $\lambda$ which can reach the maximum accuracy. One of them is $1.98397$.\\
 
 \textcolor{red}{
     Question 20: for $\lambda_{max}$, generate heat maps of the ground truth reward and the extracted reward. Please note that the ground truth reward is the Reward function 2 and the extracted reward is computed by solving the linear program given by equation 2 with the $\lambda$ parameter set to $\lambda_{max}$. In this question, you should have 2 plots.
@@ -586,5 +569,21 @@ Surprisingly, the similarity of those two figures is higher than the similarity 
 \textcolor{red}{
     Question 25: (50 points) From the figure in question 23, you should observe that the optimal policy of the agent has two major discrepancies. Please identify and provide the causes for these two discrepancies. One of the discrepancy can be fixed easily by a slight modification to the value iteration algorithm. Perform this modification and rerun the modified value iteration algorithm to compute the optimal policy of the agent. Also, recompute the maximum accuracy after this modification. Is there a change in maximum accuracy? The second discrepancy is harder to fix and is a limitation of the simple IRL algorithm. If you can provide a solution to the second discrepancy then we will give you a bonus of $50$ points.
 }
+
+Discrepancy1: Observing the differences between results we got using two methods, we found that IRL sometimes generates the optimal policy that may lead the agent get out of the map before it reaches the destination (9,9) state.
+
+Solution: So, in order to avoid this discrepancy, we add a boundary judgement condition function called judge boundary to original algorithm. Then we re-run the previous process, the new optimal policy plot is shown in Fig. \ref{4_5}. 
+We can clearly see that those mistake arrows have gone. There are no optimal policy that could let the agent get out of the map except the end. And we also recompute the accuracy and we found that it doesn't change.
+
+\begin{figure}
+\centering
+\scalebox{0.5}{\includegraphics{Figures/4_5.png}}
+\caption{The plot of new optimal policy}
+\label{4_5}
+\end{figure}
+
+Discrepancy2: We also found that the optimal action we got for neighbor states may directly opposite to each other. In other words, agent may keep walking through only two states several times over and over again. The reason why this happens might be the algorithm can only get the local optimal solution.
+
+Solution: We may need to add more constrains in the LP problem to restrict the condition to prevent sucking in the local optimal.
 
 \end{document}

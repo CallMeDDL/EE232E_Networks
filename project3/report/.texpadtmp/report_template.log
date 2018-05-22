@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.23)  21 MAY 2018 22:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.23)  21 MAY 2018 23:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -767,128 +767,151 @@ Package pdftex.def Info: Figures/r2_policy_map.png used on input line 277.
  [3 <./Figures/r1_policy_map.png> <./Figures/r2_val_map.png>] [4 <./Figures/r2_val_heatmap.png> <./Figures/r2_policy_map.png>] (/usr/local/texlive/2017/texmf-dist/tex/latex/ucs/data/uni-3.def
 File: uni-3.def 2013/05/13 UCS: Unicode data U+0300..U+03FF
 )
-Underfull \hbox (badness 10000) in paragraph at lines 350--351
+Underfull \hbox (badness 10000) in paragraph at lines 410--411
 
  []
 
-<Figures/3_1.png, id=83, 389.455pt x 252.945pt>
+<Figures/3_1.png, id=84, 389.455pt x 252.945pt>
 File: Figures/3_1.png Graphic file (type png)
  <use Figures/3_1.png>
-Package pdftex.def Info: Figures/3_1.png used on input line 354.
+Package pdftex.def Info: Figures/3_1.png used on input line 414.
 (pdftex.def)             Requested size: 311.5644pt x 202.36398pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 363--364
+Underfull \hbox (badness 10000) in paragraph at lines 423--424
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 369--370
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 429--430
 
  []
 
-[5 <./Figures/3_1.png>]
 File: Figures/hj_01.png Graphic file (type png)
- <use Figures/hj_01.png>
-Package pdftex.def Info: Figures/hj_01.png used on input line 375.
+<use Figures/hj_01.png>
+Package pdftex.def Info: Figures/hj_01.png used on input line 435.
 (pdftex.def)             Requested size: 165.12093pt x 124.31085pt.
- <Figures/3_2.png, id=94, 368.37625pt x 265.99374pt>
+ <Figures/3_2.png, id=92, 368.37625pt x 265.99374pt>
 File: Figures/3_2.png Graphic file (type png)
  <use Figures/3_2.png>
-Package pdftex.def Info: Figures/3_2.png used on input line 381.
+Package pdftex.def Info: Figures/3_2.png used on input line 441.
 (pdftex.def)             Requested size: 165.12093pt x 119.22525pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 391--392
+Underfull \hbox (badness 10000) in paragraph at lines 451--452
 
  []
 
-<Figures/3_3.png, id=96, 352.31625pt x 265.99374pt>
+<Figures/3_3.png, id=94, 352.31625pt x 265.99374pt>
 File: Figures/3_3.png Graphic file (type png)
  <use Figures/3_3.png>
-Package pdftex.def Info: Figures/3_3.png used on input line 397.
+Package pdftex.def Info: Figures/3_3.png used on input line 457.
 (pdftex.def)             Requested size: 165.12093pt x 124.66396pt.
- <Figures/3_4.png, id=97, 376.40625pt x 252.945pt>
+ <Figures/3_4.png, id=95, 376.40625pt x 252.945pt>
 File: Figures/3_4.png Graphic file (type png)
  <use Figures/3_4.png>
-Package pdftex.def Info: Figures/3_4.png used on input line 403.
+Package pdftex.def Info: Figures/3_4.png used on input line 463.
 (pdftex.def)             Requested size: 165.12093pt x 110.9642pt.
- [6 <./Figures/3_2.png> <./Figures/3_3.png> <./Figures/3_4.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 419--420
+
+Underfull \hbox (badness 10000) in paragraph at lines 473--474
+
+ []
+
+[6 <./Figures/3_1.png> <./Figures/3_2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 479--480
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 431--432
+Underfull \hbox (badness 10000) in paragraph at lines 485--486
 
  []
 
-<Figures/4_1.png, id=108, 382.42876pt x 252.945pt>
+[7 <./Figures/3_3.png> <./Figures/3_4.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 491--492
+
+ []
+
+<Figures/4_1.png, id=113, 382.42876pt x 252.945pt>
 File: Figures/4_1.png Graphic file (type png)
  <use Figures/4_1.png>
-Package pdftex.def Info: Figures/4_1.png used on input line 435.
+Package pdftex.def Info: Figures/4_1.png used on input line 495.
 (pdftex.def)             Requested size: 305.9434pt x 202.36398pt.
- [7 <./Figures/4_1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 444--445
+
+Underfull \hbox (badness 10000) in paragraph at lines 504--505
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 450--451
+Underfull \hbox (badness 10000) in paragraph at lines 510--511
 
  []
 
 File: Figures/hj_02.png Graphic file (type png)
 <use Figures/hj_02.png>
-Package pdftex.def Info: Figures/hj_02.png used on input line 456.
+Package pdftex.def Info: Figures/hj_02.png used on input line 516.
 (pdftex.def)             Requested size: 165.12093pt x 120.54028pt.
- <Figures/4_2.png, id=118, 352.31625pt x 265.99374pt>
+ <Figures/4_2.png, id=116, 352.31625pt x 265.99374pt>
 File: Figures/4_2.png Graphic file (type png)
  <use Figures/4_2.png>
-Package pdftex.def Info: Figures/4_2.png used on input line 462.
+Package pdftex.def Info: Figures/4_2.png used on input line 522.
 (pdftex.def)             Requested size: 165.12093pt x 124.66396pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 472--473
+ [8 <./Figures/4_1.png> <./Figures/4_2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 532--533
 
  []
 
-<Figures/4_3.png, id=120, 359.3425pt x 265.99374pt>
+<Figures/4_3.png, id=126, 359.3425pt x 265.99374pt>
 File: Figures/4_3.png Graphic file (type png)
  <use Figures/4_3.png>
-Package pdftex.def Info: Figures/4_3.png used on input line 478.
+Package pdftex.def Info: Figures/4_3.png used on input line 538.
 (pdftex.def)             Requested size: 165.12093pt x 122.22871pt.
- <Figures/4_4.png, id=121, 376.40625pt x 252.945pt>
+ <Figures/4_4.png, id=127, 376.40625pt x 252.945pt>
 File: Figures/4_4.png Graphic file (type png)
  <use Figures/4_4.png>
-Package pdftex.def Info: Figures/4_4.png used on input line 484.
+Package pdftex.def Info: Figures/4_4.png used on input line 544.
 (pdftex.def)             Requested size: 165.12093pt x 110.9642pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 500--501
+Underfull \hbox (badness 10000) in paragraph at lines 554--555
 
  []
 
-[8 <./Figures/4_2.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 510.
- [9 <./Figures/4_3.png> <./Figures/4_4.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 510.
+
+Underfull \hbox (badness 10000) in paragraph at lines 561--562
+
+ []
+
+[9 <./Figures/4_3.png> <./Figures/4_4.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 567--568
+
+ []
+
+<Figures/4_5.png, id=137, 376.40625pt x 252.945pt>
+File: Figures/4_5.png Graphic file (type png)
+ <use Figures/4_5.png>
+Package pdftex.def Info: Figures/4_5.png used on input line 580.
+(pdftex.def)             Requested size: 301.1254pt x 202.3717pt.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 589.
+ [10 <./Figures/4_5.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 589.
  (/Users/liutianyoroshi/Campus/00_Project/Networks/EE232E_Networks/project3/report/.texpadtmp/report_template.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 510.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 510.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 589.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 589.
 Package rerunfilecheck Info: File `report_template.out' has not changed.
 (rerunfilecheck)             Checksum: C5D800B998645D9E127D90659CBA646B;359.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 510.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 589.
  ) 
 Here is how much of TeX's memory you used:
- 12374 strings out of 492995
- 184872 string characters out of 6132704
- 287649 words of memory out of 5000000
- 15643 multiletter control sequences out of 15000+600000
+ 12381 strings out of 492995
+ 184984 string characters out of 6132704
+ 290713 words of memory out of 5000000
+ 15648 multiletter control sequences out of 15000+600000
  16140 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  36i,9n,77p,748b,473s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on /Users/liutianyoroshi/Campus/00_Project/Networks/EE232E_Networks/project3/report/.texpadtmp/report_template.pdf (9 pages, 631748 bytes).
+Output written on /Users/liutianyoroshi/Campus/00_Project/Networks/EE232E_Networks/project3/report/.texpadtmp/report_template.pdf (10 pages, 652729 bytes).
 PDF statistics:
- 187 PDF objects out of 1000 (max. 8388607)
- 130 compressed objects within 2 object streams
- 25 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 195 PDF objects out of 1000 (max. 8388607)
+ 135 compressed objects within 2 object streams
+ 27 named destinations out of 1000 (max. 500000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
 
