@@ -410,6 +410,8 @@ The heat map of optimal values of the states computed from extracted reward func
     Question 15: (10 points) Compare the heat maps of Question 3 and Question 14 and provide a brief explanation on their similarities and differences.
 }
 
+In comparison to heat maps of optimal values from result of the RL algorithms, the corresponding heat maps of the result of IRL algorithm has the same tendency of value distribution. We can see the top left corner's optimal values is the lowest and the bottom right corner has the highest value in both map, which is consistent with the value distribution of reward function. However, due to the difference of reward function they derived from, the result of RL algorithm has a much smoother transition from the top left corner to the bottom right corner and also is diagonal symmetric.\\
+
 \textcolor{red}{
     Question 16: Use the extracted reward function found in question 13 to compute the optimal policy of the agent. For computing the optimal policy of the agent you need to use the function that you wrote in question 5. For visualization purpose, you should generate a figure similar to that of figure 1 but with the number of state replaced by the optimal action at that state. The actions should be displayed using arrows. In this question, you should have 1 plot.
 }
@@ -419,6 +421,8 @@ The arrows plot of optimal policy computed from extracted reward function is sho
 \textcolor{red}{
     Question 17: (10 points) Compare the figures of Question 5 and Question 16 and provide a brief explanation on their similarities and differences.
 }
+
+In conclusion, both figures have shown that the overall optimal policy is to make action starting from the top left corner eventually stop at the bottom right corner and most states on the right have optimal policy of going down and for states on the bottom they mostly aim to go right. On the other side, we can also that there are a few states of result of IRL algorithm has the opposite direction, which obviously is a mistake.\\
 
 \textcolor{red}{
     Question 18: (30 points) Sweep $\lambda$ from $0$ to $5$ to get $500$ evenly spaced values for $\lambda$. For each value of $\lambda$ compute $O_{A}(s)$ by following the process described above. For this problem, use the optimal policy of the agent found in question 9 to fill in the $O_{E}(s)$ values. Then use equation 3 to compute the accuracy of the IRL algorithm for this value of λ. You need to repeat the above process for all $500$ values of $\lambda$ to get $500$ data points. Plot $\lambda$ (x-axis) against Accuracy (y-axis). In this question, you should have 1 plot.
@@ -437,7 +441,7 @@ The plot of $\lambda$ against Accuracy is shown in Fig. \ref{4_1}.\\
     Question 19: (5 points) Use the plot in question 18 to compute the value of $\lambda$ for which accuracy is maximum. For future reference we will denote this value as $\lambda_{max}$. Please report $\lambda_max{max}$
 }
 
-From the plot, we can see the max accuracy is $0.88$, and there are several $\lambda$ which can reach the maximum accuracy. One of them is $1.98397$.\\
+From the plot, we can see the max accuracy is $0.88$, and there are several $\lambda$ which can reach the maximum accuracy. One of them is $0$.\\
 
 \textcolor{red}{
     Question 20: for $\lambda_{max}$, generate heat maps of the ground truth reward and the extracted reward. Please note that the ground truth reward is the Reward function 2 and the extracted reward is computed by solving the linear program given by equation 2 with the $\lambda$ parameter set to $\lambda_{max}$. In this question, you should have 2 plots.
@@ -486,6 +490,9 @@ The heat map of optimal values of the states computed from extracted reward func
 \textcolor{red}{
     Question 22: (10 points) Compare the heat maps of Question 7 and Question 21 and provide a brief explanation on their similarities and differences.
 }
+
+Similarly with the previous result, the overall value distribution on the both map is pretty close. What we can observe from both optimal values and reward function is that the lowest optimal value exist on the states which have the lowest reward function
+
 
 \textcolor{red}{
     Question 23: Use the extracted reward function found in question 20 to compute the optimal policy of the agent. For computing the optimal policy of the agent you need to use the function that you wrote in question 9. For visualization purpose, you should generate a figure similar to that of figure 1 but with the number of state replaced by the optimal action at that state. The actions should be displayed using arrows. In this question, you should have 1 plot.

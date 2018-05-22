@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.23)  21 MAY 2018 21:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.23)  21 MAY 2018 22:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -812,68 +812,69 @@ File: Figures/3_4.png Graphic file (type png)
 Package pdftex.def Info: Figures/3_4.png used on input line 403.
 (pdftex.def)             Requested size: 165.12093pt x 110.9642pt.
  [6 <./Figures/3_2.png> <./Figures/3_3.png> <./Figures/3_4.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 417--418
+Underfull \hbox (badness 10000) in paragraph at lines 419--420
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 427--428
+Underfull \hbox (badness 10000) in paragraph at lines 431--432
 
  []
 
 <Figures/4_1.png, id=108, 382.42876pt x 252.945pt>
 File: Figures/4_1.png Graphic file (type png)
  <use Figures/4_1.png>
-Package pdftex.def Info: Figures/4_1.png used on input line 431.
+Package pdftex.def Info: Figures/4_1.png used on input line 435.
 (pdftex.def)             Requested size: 305.9434pt x 202.36398pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 440--441
+ [7 <./Figures/4_1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 444--445
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 446--447
+Underfull \hbox (badness 10000) in paragraph at lines 450--451
 
  []
 
 File: Figures/hj_02.png Graphic file (type png)
 <use Figures/hj_02.png>
-Package pdftex.def Info: Figures/hj_02.png used on input line 452.
+Package pdftex.def Info: Figures/hj_02.png used on input line 456.
 (pdftex.def)             Requested size: 165.12093pt x 120.54028pt.
- <Figures/4_2.png, id=111, 352.31625pt x 265.99374pt>
+ <Figures/4_2.png, id=118, 352.31625pt x 265.99374pt>
 File: Figures/4_2.png Graphic file (type png)
  <use Figures/4_2.png>
-Package pdftex.def Info: Figures/4_2.png used on input line 458.
+Package pdftex.def Info: Figures/4_2.png used on input line 462.
 (pdftex.def)             Requested size: 165.12093pt x 124.66396pt.
- [7 <./Figures/4_1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 468--469
+
+Underfull \hbox (badness 10000) in paragraph at lines 472--473
 
  []
 
-<Figures/4_3.png, id=121, 359.3425pt x 265.99374pt>
+<Figures/4_3.png, id=120, 359.3425pt x 265.99374pt>
 File: Figures/4_3.png Graphic file (type png)
  <use Figures/4_3.png>
-Package pdftex.def Info: Figures/4_3.png used on input line 474.
+Package pdftex.def Info: Figures/4_3.png used on input line 478.
 (pdftex.def)             Requested size: 165.12093pt x 122.22871pt.
- <Figures/4_4.png, id=122, 376.40625pt x 252.945pt>
+ <Figures/4_4.png, id=121, 376.40625pt x 252.945pt>
 File: Figures/4_4.png Graphic file (type png)
  <use Figures/4_4.png>
-Package pdftex.def Info: Figures/4_4.png used on input line 480.
+Package pdftex.def Info: Figures/4_4.png used on input line 484.
 (pdftex.def)             Requested size: 165.12093pt x 110.9642pt.
- [8 <./Figures/4_2.png> <./Figures/4_3.png> <./Figures/4_4.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 494--495
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--501
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 504.
-[9]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 504.
+[8 <./Figures/4_2.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 510.
+ [9 <./Figures/4_3.png> <./Figures/4_4.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 510.
  (/Users/liutianyoroshi/Campus/00_Project/Networks/EE232E_Networks/project3/report/.texpadtmp/report_template.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 504.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 504.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 510.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 510.
 Package rerunfilecheck Info: File `report_template.out' has not changed.
 (rerunfilecheck)             Checksum: C5D800B998645D9E127D90659CBA646B;359.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 504.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 510.
  ) 
 Here is how much of TeX's memory you used:
  12374 strings out of 492995
@@ -884,7 +885,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  36i,9n,77p,748b,473s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on /Users/liutianyoroshi/Campus/00_Project/Networks/EE232E_Networks/project3/report/.texpadtmp/report_template.pdf (9 pages, 630868 bytes).
+Output written on /Users/liutianyoroshi/Campus/00_Project/Networks/EE232E_Networks/project3/report/.texpadtmp/report_template.pdf (9 pages, 631748 bytes).
 PDF statistics:
  187 PDF objects out of 1000 (max. 8388607)
  130 compressed objects within 2 object streams
