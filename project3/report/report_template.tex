@@ -491,7 +491,7 @@ The heat map of optimal values of the states computed from extracted reward func
     Question 22: (10 points) Compare the heat maps of Question 7 and Question 21 and provide a brief explanation on their similarities and differences.
 }
 
-Similarly with the previous result, the overall value distribution on the both map is pretty close. What we can observe from both optimal values and reward function is that the lowest optimal value exist on the states which have the lowest reward function
+Similarly with the previous result, the overall value distribution on the both map is pretty close. What we can observe from both optimal values and reward function is that the lowest optimal value exist on the states which have the lowest reward function and the same situation for highest optimal value. Unfortunately, in the result of IRL algorithm, the bottom left corner's value and the top right corner's value are a little bit higher than the top left corner's value, which should be the same.\\
 
 
 \textcolor{red}{
@@ -503,6 +503,8 @@ The arrows plot of optimal policy computed from extracted reward function is sho
 \textcolor{red}{
     Question 24: (10 points) Compare the figures of Question 9 and Question 23 and provide a brief explanation on their similarities and differences.
 }
+
+Surprisingly, the similarity of those two figures is higher than the similarity of previous ones, even though the reward function is much more complex. For most states, they have the exactly the same optimal policy. Only some states on the edge of the map of on the cross of some arrow flow have some weird optimal policy, which will be discussed in the next question in detail.\\
 
 \textcolor{red}{
     Question 25: (50 points) From the figure in question 23, you should observe that the optimal policy of the agent has two major discrepancies. Please identify and provide the causes for these two discrepancies. One of the discrepancy can be fixed easily by a slight modification to the value iteration algorithm. Perform this modification and rerun the modified value iteration algorithm to compute the optimal policy of the agent. Also, recompute the maximum accuracy after this modification. Is there a change in maximum accuracy? The second discrepancy is harder to fix and is a limitation of the simple IRL algorithm. If you can provide a solution to the second discrepancy then we will give you a bonus of $50$ points.
