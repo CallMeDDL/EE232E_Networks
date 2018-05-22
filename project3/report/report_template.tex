@@ -322,21 +322,82 @@ $R = [R(s_{1}),...,R(s_{|s|})]^T$.
 
 Then the cost function can be expressed as $[0, I,$$\lambda$ * $I$$, 0] * [$R$,$T$,$U$]$
 
+$$\max\limits_{x} 
+\left[
+ \begin{matrix}
+   0 & 1^T & -\lambda 1^T
+  \end{matrix}
+  \right] \left[
+ \begin{matrix}
+   R \\
+   T \\ 
+   U
+  \end{matrix}
+  \right] 
+$$
+
+
+$$ st:
+\left[
+ \begin{matrix}
+   -(P_{a_1} - P_{a})(I- \gamma P_{a_1})^{-1}  & I & 0 \\
+   -(P_{a_1} - P_{a})(I- \gamma P_{a_1})^{-1}  & 0 & 0 \\
+   -I & 0 & -I \\
+   I & 0 & -I \\
+   I & 0 & 0 \\
+   -I & 0 & 0 \\
+  \end{matrix}
+  \right] \left[
+ \begin{matrix}
+   R \\
+   T \\ 
+   U
+  \end{matrix}
+  \right] \le 
+  \left[
+  \begin{matrix}
+   0 \\
+   0 \\ 
+   0 \\
+   R_{max} \\
+   R_{max}
+  \end{matrix}
+  \right]
+$$
+ 
+Thus,
 $$ D = 
  \left[
  \begin{matrix}
    -(P_{a_1} - P_{a})(I- \gamma P_{a_1})^{-1}  & I & 0 \\
    -(P_{a_1} - P_{a})(I- \gamma P_{a_1})^{-1}  & 0 & 0 \\
    -I & 0 & -I \\
-   -I & 0 & -I \\
-   -I & 0 & -I \\
-   ... & ... & ...
+   I & 0 & -I \\
+   I & 0 & 0 \\
+   -I & 0 & 0 \\
   \end{matrix}
   \right]
 $$
-Thus,
-$x = [$R$, $T$, $U$]$, $c = [0, I,$$\lambda$ * $I$$, 0]$
 
+$$x =
+\left[
+ \begin{matrix}
+   R \\
+   T \\ 
+   U
+  \end{matrix}
+  \right]
+$$
+
+$$c = 
+\left[
+ \begin{matrix}
+   0 \\
+   1 \\ 
+   \lambda 1 \\
+  \end{matrix}
+  \right]
+$$
 
 
 
