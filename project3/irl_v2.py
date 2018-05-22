@@ -194,20 +194,13 @@ def irl_process(state_num, optimal_action, trans_prob_matrix, penalty_lambda, Rm
 
     actions = {0, 1, 2, 3}
 
-    Ppart = np.zeros((d, state_num))
-    i = 0
-    for s in range(state_num):
-        for a in actions - {int(optimal_action[s % 10, s // 10])}:
-            Ppart[i, :] = np.dot(trans_prob_matrix[int(optimal_action[s % 10, s // 10]), s, :] - trans_prob_matrix[a, s, :], np.linalg.inv(np.eye(state_num) - gamma * trans_prob_matrix[int(optimal_action[s % 10, s // 10]), s, :]))
-            i += 1
+    def LP(tpm, optimal_action, gamma, a, s):
+        return np.dot(tpm[int(optimal_action[s]), s] - tpm[a, s], np.linalg.inv(np.eye(state_num) - gamma * tpm[int(optimal_action[s])]))
+
+    Ppart = np.vstack([LP(trans_prob_matrix, optimal_action, gamma, a, s) for s in range(state_num) for a in actions - {optimal_action[s]}])
     Ppart = -1 * Ppart
 
-    Ppart_ones = np.ones((d, state_num))
-    i = 0
-    for s in range(state_num):
-        for a in actions - {int(optimal_action[s % 10, s // 10])}:
-            Ppart_ones[i, :] = np.eye(1, state_num, s)
-            i += 1
+    Ppart_ones = np.vstack([np.eye(1, state_num, s) for s in range(state_num) for a in actions - {optimal_action[s]}])
 
     # (1) objective
     # order in expression: x1=R, x2=t, x3=u]
@@ -268,7 +261,6 @@ def irl_process(state_num, optimal_action, trans_prob_matrix, penalty_lambda, Rm
     return ret
 
 
-
 def measure_accuracy(state_num, expert_optimal_action, optimal_action):
     count = np.sum(expert_optimal_action == optimal_action)
     return count * 1.0 / state_num
@@ -278,23 +270,20 @@ def evaluate(state_num, expert_optimal_action, trans_prob_matrix, penalty_lambda
     accuracy = []
     rewards_extracted = []
     
-    #expert_action = expert_optimal_action.reshape((10, 10)).T
-    expert_action = expert_optimal_action
-    
+    expert_action = expert_optimal_action.reshape((100, ))
+
     for penalty_lambda in penalty_lambdas:
         reward_extracted = irl_process(state_num, expert_action, trans_prob_matrix, penalty_lambda, Rmax)
 
         V = get_opt_state_val(reward_extracted, 0.01, 0.1, 0.8, trans_prob_matrix)
         optimal_action = get_opt_policy(V, reward_extracted, trans_prob_matrix, 0.8)
-
-        acc = measure_accuracy(state_num, expert_optimal_action, optimal_action)
+        optimal_action = optimal_action.reshape((100, ))
+        acc = measure_accuracy(state_num, expert_action, optimal_action)
 
         accuracy.append(acc)
         rewards_extracted.append(reward_extracted)
 
     return accuracy, rewards_extracted
-
-
 
 def generate_heapmap(R):
     x = np.arange(0, 11, 1)
