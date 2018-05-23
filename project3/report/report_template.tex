@@ -573,13 +573,22 @@ Surprisingly, the similarity of those two figures is higher than the similarity 
 Discrepancy1: Observing the differences between results we got using two methods, we found that IRL sometimes generates the optimal policy that may lead the agent get out of the map before it reaches the destination (9,9) state.
 
 Solution: So, in order to avoid this discrepancy, we add a boundary judgement condition function called judge boundary to original algorithm. Then we re-run the previous process, the new optimal policy plot is shown in Fig. \ref{4_5}. 
-We can clearly see that those mistake arrows have gone. There are no optimal policy that could let the agent get out of the map except the end. And we also recompute the accuracy and we found that it doesn't change.
+We can clearly see that those mistake arrows have gone. There are no optimal policy that could let the agent get out of the map except the end. And we also recompute the accuracy and we found that it has been improved to $$. The new plot of $\lambda$ against Accuracy is shown in Fig. \ref{4_6}. 
 
 \begin{figure}
 \centering
-\scalebox{0.5}{\includegraphics{Figures/4_5.png}}
+\begin{minipage}[h]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/4_5.png}}
 \caption{The plot of new optimal policy}
 \label{4_5}
+\end{minipage}
+\begin{minipage}[h]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/4_6.png}}
+\caption{The plot of new accuracy with $\lambda$}
+\label{4_6}
+\end{minipage}
 \end{figure}
 
 Discrepancy2: We also found that the optimal action we got for neighbor states may directly opposite to each other. In other words, agent may keep walking through only two states several times over and over again. The reason why this happens might be the algorithm can only get the local optimal solution.
