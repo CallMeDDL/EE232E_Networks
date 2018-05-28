@@ -45,14 +45,17 @@ def intersection(list1, list2):
 # main
 
 # input file
-f1name = 'actor_movies_sample.txt'
-f2name = 'actress_movies_sample.txt'
+f1name = 'actor_movies.txt'
+f2name = 'actress_movies.txt'
 fsname = [f1name, f2name]
 
 # output file
+actorid_movieids_map_fname = "actorid_movieids_map.txt"
 edges_fname = "graph_edge_list.txt"
 actor_idname_map_fname = "actor_idname_map.txt"
 movie_idname_map_fname = "movie_idname_map.txt"
+
+f_actorid_movieids_map = open(actorid_movieids_map_fname, 'w', encoding='latin-1')
 f_edge = open(edges_fname, 'w', encoding='latin-1')
 f_actor_idname_map = open(actor_idname_map_fname, 'w', encoding='latin-1')
 f_movie_idname_map = open(movie_idname_map_fname, 'w', encoding='latin-1')
@@ -63,7 +66,7 @@ actor_idname_map = [] # map actorid -> actor's name (to avoid actors/actresses h
 movie_idname_map = [] # map movieid -> movie's name (to speed up)
 movie_nameid_map = {} # map movie's name -> movieid
 
-actorid_movieid_map = []  # map actorid to his/her movies' ids
+actorid_movieids_map = []  # map actorid to his/her movies' ids
 unique_movies = set()
 
 actor_id = 0
@@ -78,10 +81,11 @@ for fname in fsname:
         # assigned each actor/actress with a unique id
         actor_idname_map.append(actor_movies[0])
         f_actor_idname_map.write(str(actor_id) + u"\t\t" + actor_movies[0] + u"\n")
+        f_actorid_movieids_map.write(str(actor_id) + u"\t\t")
         actor_id += 1
 
         # assigned each movie with a unique id; 
-        # update actorid_movieid_map
+        # update actorid_movieids_map
         movie_ids = []
         for movie in actor_movies[1]:
             if movie not in unique_movies: 
@@ -90,11 +94,14 @@ for fname in fsname:
                 unique_movies.add(movie)
                 movie_id += 1
             movie_ids.append(movie_nameid_map[movie])
-        actorid_movieid_map.append(movie_ids)        
+            f_actorid_movieids_map.write(str(movie_nameid_map[movie]) + u"\t\t")
+        actorid_movieids_map.append(movie_ids)        
+        f_actorid_movieids_map.write(u"\n")
             
 
 f_actor_idname_map.close()
 f_movie_idname_map.close()
+f_actorid_movieids_map.close()
 
 # ---------------------Q1-----------------------
 print("total number of actors and actresses after data clean: ", len(actor_idname_map))
@@ -105,18 +112,18 @@ print("total number of unique movies: ", len(unique_movies))
 # --------Q2-save-graph-edge-to-file------------
 # get edge data and save to file for further graph creation
 edge_weight_dict = {} # {actorX: [(actorY, weightXY), (actorZ, weightXZ)]}
-for actorid1 in range(0, len(actorid_movieid_map) - 1):
+for actorid1 in range(0, len(actorid_movieids_map) - 1):
     print('actorid1: ', actorid1)
-    for actorid2 in range(actorid1 + 1, len(actorid_movieid_map)):
+    for actorid2 in range(actorid1 + 1, len(actorid_movieids_map)):
         # calc: actorid1 -> actorid2: weight
 
-        movieids1 = actorid_movieid_map[actorid1]
-        movieids2 = actorid_movieid_map[actorid2]
+        movieids1 = actorid_movieids_map[actorid1]
+        movieids2 = actorid_movieids_map[actorid2]
         common_movies = intersection(movieids1, movieids2)
         if len(common_movies) == 0:
             continue
-        weight_1to2 = len(common_movies) * 1.0 / len(actorid_movieid_map[actorid1])
-        weight_2to1 = len(common_movies) * 1.0 / len(actorid_movieid_map[actorid2])
+        weight_1to2 = len(common_movies) * 1.0 / len(actorid_movieids_map[actorid1])
+        weight_2to1 = len(common_movies) * 1.0 / len(actorid_movieids_map[actorid2])
         f_edge.write(str(actorid1) + u"\t\t" + str(actorid2) + u"\t\t" + str(weight_1to2) + u"\n")
         f_edge.write(str(actorid2) + u"\t\t" + str(actorid1) + u"\t\t" + str(weight_2to1) + u"\n")
 
