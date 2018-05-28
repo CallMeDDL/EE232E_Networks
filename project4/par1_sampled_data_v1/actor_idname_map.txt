@@ -1,0 +1,6650 @@
+0		$hort, Too
+1		2 Live Crew
+2		50 Cent
+3		A., Randy
+4		A., Sergey
+5		A.S., Alwi
+6		A.V., Subba Rao
+7		Aabel, Per (I)
+8		Aaker, Lee
+9		Aaltonen, Kosti
+10		Aaltonen, Remu
+11		Aaltonen, Risto
+12		Aamodt, Thor Michael
+13		Aanensen, Peter
+14		Aaron II, Tony
+15		Aaron, Aash
+16		Aaron, Mark (II)
+17		Aaron, Nicholas
+18		Aaron, Quinton
+19		Aarya
+20		Aas, Arne
+21		Aasen, John
+22		Aasie, C.S.
+23		Aav, Tõnu
+24		Aavajoki, Kaarlo
+25		Aavik, Evald
+26		Abadal, Ignasi
+27		Abadeza, Rene
+28		Abadi, Ebrahim
+29		Abadia, Lysander
+30		Abadie, Fernando
+31		Abalos, Jason
+32		Abalos, Jing
+33		Abart, Boleslaw
+34		Abart, Christian
+35		Abashidze, Dodo
+36		Abashin, Vladislav
+37		Abatantuono, Diego
+38		Abatemarco, Tony
+39		Abato, Paul Vito
+40		Abaya, Marc
+41		Abaydulov, Gali
+42		Abaza, Rushdy
+43		Abbad, Alex
+44		Abbar, Saber
+45		Abbas (I)
+46		Abbas (II)
+47		Abbas, Abdullah
+48		Abbas, Eduardo
+49		Abbas, Hector
+50		Abbas, Osama
+51		Abbasov, Aladdin
+52		Abbasov, Gyunduz
+53		Abbate, Tony
+54		Abbati, Stefano
+55		Abbe, Charles S.
+56		Abbey, Francis
+57		Abbey, Gregory
+58		Abbey, Leo
+59		Abbiana, Franco
+60		Abbink, Marc
+61		Abbott Jr., Michael
+62		Abbott, Bruce (I)
+63		Abbott, Bud
+64		Abbott, Christopher (II)
+65		Abbott, Jack (I)
+66		Abbott, John (I)
+67		Abbott, Mike (I)
+68		Abbott, Philip
+69		Abbott, Richard (I)
+70		Abbott, Steve (I)
+71		Abbou, Patrice
+72		Abbrescia, Dino
+73		Abd El Aleem, Mamdouh
+74		Abdalla, Khalid (I)
+75		Abdallah, Salah
+76		Abdel Aziz, Karim
+77		Abdel Aziz, Mahmoud
+78		Abdel Baqi, Ashraf
+79		Abdel Fattah, Hassan (II)
+80		Abdel Ghani, Said
+81		Abdel Hamid, Hesham
+82		Abdel Wahab, Fathy
+83		Abdeli, Kamel
+84		Abdelli, Lotfi
+85		Abdi, Akbar
+86		Abdi, Wahab
+87		Abdo, Eddie
+88		Abdo, Joe
+89		Abdraimov, Farkhad
+90		Abdul (I)
+91		Abdul Menem, Othman
+92		Abdul-Jabbar, Kareem (I)
+93		Abdulla, Nassar
+94		Abdullah, Haji
+95		Abdullah, Joe
+96		Abdullah, Neil Malik
+97		Abdulov, Aleksandr
+98		Abdulov, Osip
+99		Abdulov, Vsevolod
+100		Abe, Hiroshi (I)
+101		Abe, Kusuo
+102		Abe, Masahiko (I)
+103		Abe, Ryôhei
+104		Abe, Sadao (I)
+105		Abe, Shin'nosuke
+106		Abe, Shozaburo
+107		Abe, Tsuyoshi (II)
+108		Abe, Tôru
+109		Abe, Yutaka
+110		Abecia, Freddi
+111		Abeckaser, Danny A.
+112		Abed, Ramzi
+113		Abeillé, Jean
+114		Abel, Alfred
+115		Abel, Jake
+116		Abel, Jean-Luc
+117		Abel, Walter
+118		Abelanski, Lionel
+119		Abeleda, Emman
+120		Abelew, Alan
+121		Abell, Alistair
+122		Abell, M. Shane
+123		Abell, Tim (I)
+124		Abella, Rey
+125		Abellana, Rey 'PJ'
+126		Abenayake, Lakshantha
+127		Abendroth, Michael
+128		Aber, Johnny
+129		Abercrombie, Ian
+130		Aberdeen, Robert
+131		Abernathy, Don
+132		Abesamis, Americus
+133		Abeya, Ahmed Abo
+134		Abeywickrama, Joe
+135		Abhari, Mohammad
+136		Abhyankar, Anand
+137		Abi Samra, Fadi
+138		Abidin, Zainal
+139		Abiff, Donat Sean
+140		Abineri, John
+141		Abineri, Sebastian
+142		Abiskaron, John
+143		Abiteboul, Michaël
+144		Abitia, Julian
+145		Abitia, Pablo
+146		Abittan, Ary
+147		Abkarian, Simon
+148		Ableson, Andrew
+149		Abney, William
+150		Abol Naga, Khaled
+151		Abolins, Gundars
+152		Abolins, Talivaldis
+153		Abon
+154		Abonjo, Xúlio
+155		Abossolo M'bo, Emile
+156		Abou Aouf, Ezzat
+157		Aboul-Zelof, Mo
+158		About, Gautier
+159		Aboutboul, Alon
+160		Abraham, David (II)
+161		Abraham, F. Murray
+162		Abraham, Jake (II)
+163		Abraham, John (IV)
+164		Abraham, Ken (I)
+165		Abraham, Nicolas
+166		Abraham-Kremer, Bruno
+167		Abrahams, Doug
+168		Abrahams, Jon (I)
+169		Abrahamson, Jared
+170		Abrahamsson, Eric
+171		Abrahamyan, Khoren
+172		Abram, Martin Maria
+173		Abramov, Anatoli
+174		Abramovici, Dan
+175		Abramowitz, Zack
+176		Abrams, Aaron
+177		Abrams, David (II)
+178		Abrams, J.J.
+179		Abrams, Jacob (I)
+180		Abrams, Jonah Isaac
+181		Abrams, Phil
+182		Abrams, Seth
+183		Abramsky, David (II)
+184		Abrego, Fidel
+185		Abrell, Brad
+186		Abrenica, Aljur
+187		Abreu, Daniel (I)
+188		Abrhám, Josef
+189		Abribat, Jean-Pascal
+190		Abrikosov, Andrei
+191		Abro, Zaid
+192		Abrolat, Werner
+193		Abruzzo, Michele
+194		Abruzzo, Ray
+195		Absolom, Joe
+196		Abspoel, Ab
+197		Abtahi, Omid
+198		Abu Hassan, Hussein
+199		Abu-Taleb, Yousef
+200		Abu-Warda, Yussuf
+201		Abuel, Tommy
+202		Abujamra, André
+203		Abujamra, Antonio
+204		Abustan, Jason
+205		Acaba, Orion
+206		Acaiabe, João
+207		Acar, Numan
+208		Acaso, Félix
+209		Accinelli, Luis
+210		Accornero, Roberto
+211		Accorsi, Stefano
+212		Acda, Thomas
+213		Ace, Barry
+214		Acera, Julio César
+215		Acero, Ricardo
+216		Acevedo, Gilbrando
+217		Acevedo, Jose (III)
+218		Acevedo, Kirk
+219		Acevedo, Toneey
+220		Aceves Castañeda, Luis
+221		Aceves Mejía, Miguel
+222		Achabbakhe, Brahim
+223		Achankunju
+224		Achard, Olivier
+225		Acharya, Ganesh
+226		Achaval, Jon
+227		Acheson, James (II)
+228		Acheson, Mark
+229		Achilli, Riccardo
+230		Achleitner, Carl
+231		Achorn, John
+232		Achterberg, Fritz
+233		Achternbusch, Herbert
+234		Achyuth
+235		Acimovic, Dejan
+236		Acker, Berko
+237		Acker, Eugene (II)
+238		Ackerman, Christian (II)
+239		Ackerman, Ed (II)
+240		Ackerman, Forrest J
+241		Ackerman, Joel Clark
+242		Ackerman, Keith (I)
+243		Ackerman, Talon G.
+244		Ackermann, Curt
+245		Ackert, David
+246		Ackland, Joss
+247		Ackland, Oliver
+248		Ackridge, Bill
+249		Ackroyd, David (I)
+250		Ackroyd, Jack (I)
+251		Ackroyd, Jack (II)
+252		Acktun, Gerhard
+253		Ackva, Wolf
+254		Acord, Art
+255		Acord, Leon
+256		Acosta, Alex (IV)
+257		Acosta, Armando
+258		Acosta, Damián
+259		Acosta, Enrique (I)
+260		Acosta, Eric (II)
+261		Acosta, Gregorio
+262		Acosta, Juan (I)
+263		Acosta, Octávio
+264		Acosta, Rodolfo (I)
+265		Acosta, Sergio (I)
+266		Acosta-Milian, Carlos
+267		Acovone, Jay
+268		Acqua, Antonio
+269		Acquaroli, Francesco
+270		Acuff, Eddie
+271		Acuff, Roy
+272		Acuna, Dodie
+273		Acunzo, Nicola
+274		Acuña, Arthur
+275		Acuña, Jason 'Wee Man'
+276		Acúrcio, Óscar
+277		Adabashyan, Aleksandr
+278		Adachi, Masao (I)
+279		Adair, Alan (I)
+280		Adair, Jack (I)
+281		Adair, Robert (I)
+282		Adair, Robyn
+283		Adair, Seth
+284		Adair-Rios, Mark
+285		Adajania, Keki
+286		Adalbert, Max
+287		Adalia, Khryss
+288		Adalid, Raúl
+289		Adalid, Ricardo
+290		Adalist, Jack
+291		Adam, Alfred
+292		Adam, Derek W.
+293		Adam, Mark (III)
+294		Adam, Patrick
+295		Adam, Ronald
+296		Adamantiadis, Marcos
+297		Adamczewski, Steven
+298		Adamczyk, Piotr
+299		Adamcík, Samuel
+300		Adame, Arturo
+301		Adami, Alfredo
+302		Adamos, Archie
+303		Adamovic, Jozef
+304		Adams, Arthur (I)
+305		Adams, Ash (I)
+306		Adams, Ben (LXII)
+307		Adams, Blake (I)
+308		Adams, Brandon Quintin
+309		Adams, Brian (I)
+310		Adams, Bryan (I)
+311		Adams, Buck (I)
+312		Adams, Cornell
+313		Adams, Dave (I)
+314		Adams, Ernie (I)
+315		Adams, Evan (I)
+316		Adams, Frank (I)
+317		Adams, Franklin P.
+318		Adams, Gary (I)
+319		Adams, Guilford
+320		Adams, Harry (III)
+321		Adams, Jay (III)
+322		Adams, Jesse (I)
+323		Adams, Jim (III)
+324		Adams, Jimmie (I)
+325		Adams, Jonathan (II)
+326		Adams, Joseph (I)
+327		Adams, Lionel
+328		Adams, Lloyd (I)
+329		Adams, Lowden
+330		Adams, Marty (I)
+331		Adams, Mason (I)
+332		Adams, Michael (I)
+333		Adams, Nick (I)
+334		Adams, Patrick J.
+335		Adams, Peter (I)
+336		Adams, Phil 'Skippy'
+337		Adams, Phil (I)
+338		Adams, R.J.
+339		Adams, Robert (I)
+340		Adams, Samuel (I)
+341		Adams, Seth (I)
+342		Adams, Stan (I)
+343		Adams, Stan J.
+344		Adams, Stanley (I)
+345		Adams, Steve (I)
+346		Adams, Steve (IV)
+347		Adams, Stuart (I)
+348		Adams, Ted (I)
+349		Adams, Tom (I)
+350		Adams, Victor (I)
+351		Adams, W.L.
+352		Adamski, Wlodzimierz
+353		Adamson, Christopher (I)
+354		Adamson, Frank (I)
+355		Adamson, James (I)
+356		Adamson, Robert (II)
+357		Adamson, Victor
+358		Adamthwaite, Michael
+359		Adamyan, Ashot
+360		Adamíra, Jirí
+361		Adashevsky, Konstantin
+362		Adatia, Amar
+363		Adcock, Danny
+364		Adcox-Hernandez, Thom
+365		Adda, Karim
+366		Addanki, Srirama Murthy
+367		Adde, Fabrice
+368		Addie, Johnny
+369		Addison, Chad
+370		Addison, Walter
+371		Addobbati, Giuseppe
+372		Addy, Mark
+373		Addy, Wesley
+374		Adeeb, Muzaffar
+375		Adekoya, Ajibike
+376		Adel, Bruce
+377		Adelby, Otto
+378		Adelin, Jean-Claude
+379		Adelly, Georg
+380		Adelstein, Paul
+381		Ades, Daniel
+382		Adet, Georges
+383		Adham, Adel
+384		Adhiswara, Dennis
+385		Adib, Kamal
+386		Adib, Prem
+387		Adibroto, Soendjoto
+388		Adika, Yigal
+389		Adimando, Gerard
+390		Adinolfi, Ugo
+391		Aditya (XII)
+392		Adjadj, Marc
+393		Adjemián, Martín
+394		Adkins, Harold
+395		Adkins, Jason (I)
+396		Adkins, Joshua (I)
+397		Adkins, Scott (II)
+398		Adkins, Seth (I)
+399		Adkins, Torey
+400		Adkins, Trace
+401		Adkins, Willy
+402		Adler, Alan (I)
+403		Adler, Casey J.
+404		Adler, Charles (I)
+405		Adler, Chris (I)
+406		Adler, Jay
+407		Adler, Jerry (I)
+408		Adler, Jonathan (II)
+409		Adler, Larry (I)
+410		Adler, Luther
+411		Adler, Matt
+412		Adler, Max (I)
+413		Adler, Michael (I)
+414		Adler, Robert (I)
+415		Adli, Kamal
+416		Adloff, Nathan
+417		Adlon, Louis
+418		Adly Guirgis, Stephen
+419		Admiraal, Joop
+420		Adnet, Marcelo
+421		Adolfi, John G.
+422		Adolphson, Edvin
+423		Adomaitis, Regimantas
+424		Adomian, James
+425		Adonis, Frank
+426		Adorf, Mario
+427		Adoskin, Anatoli
+428		Adoti, Razaaq
+429		Adouani, Mustapha
+430		Adrian, Alan (I)
+431		Adrian, Max (I)
+432		Adrianto, Bram
+433		Adrien, Franck
+434		Adserías, José Luis
+435		Adsit, Scott
+436		Advani, Bhudo
+437		Advincula, Jerome
+438		Adway, Dwayne
+439		Aeesh, Farhad
+440		Aendenboom, Frank
+441		Afanasev, Valeriy
+442		Afanasiev, Nick
+443		Afanasyev, Aleksandr
+444		Afero, Farouk
+445		Affan, Ben
+446		Affleck, Ben
+447		Affleck, Casey
+448		Affleck, Rab
+449		Afflick, David
+450		Afif, Rodney
+451		Afonso, Kleber
+452		Afonso, Yves
+453		Afrandnia, Kazem
+454		Africano, Banzo
+455		Afritsch, Viktor
+456		Afsari, Manoochehr
+457		Afuwape, Emmanuel
+458		Afzaal
+459		Afzal, Mohammad
+460		Agafonov, Ivan
+461		Agapov, Ivan
+462		Agar, John
+463		Agarwal, Anirudh
+464		Agarwal, Prakash (I)
+465		Agarwal, Somesh
+466		Agashe, Mohan
+467		Agassi, Carlos
+468		Agata, Morio
+469		Agata, Toshiya (I)
+470		Agavale, Sila
+471		Agayev, Vladimir
+472		Agbayani, Bayani
+473		Agee, Arnold
+474		Agee, Steve
+475		Agerlo, Stellan
+476		Aggerholm, Svend
+477		Agha
+478		Agha, Jalal
+479		Agha, Shah
+480		Aghaee, Amir
+481		Aghayev, Aliagha
+482		Aghili, Morteza
+483		Agirre, Ramón
+484		Agnelli, Donald
+485		Agnew, Gregory Patrick
+486		Agnew, Kyle
+487		Agnew, MYC
+488		Agnew, Robert (I)
+489		Agnew, Spiro
+490		Agnihotri, Atul
+491		Agoncillo, Ryan
+492		Agostinho, Artur
+493		Agostini, Didier
+494		Agostini, Franco
+495		Agostí, Carlos
+496		Agoumi, Sid Ahmed
+497		Agra, Alfonso
+498		Agranov, David
+499		Agrasánchez, Julio César
+500		Agresta, Mike
+501		Agresta, Phillip
+502		Agresti, Ed
+503		Aguas, Nash
+504		Aguedan, Chamyto
+505		Aguet, William
+506		Aguiar, Álvaro (I)
+507		Aguila, Alexander
+508		Aguilar 'Polín', Carlos Marcos
+509		Aguilar hijo, Antonio
+510		Aguilar Tejada, Gustavo
+511		Aguilar, Acey
+512		Aguilar, Adolfo (I)
+513		Aguilar, Alfredo (III)
+514		Aguilar, Andrew (III)
+515		Aguilar, Antonio (I)
+516		Aguilar, Cris
+517		Aguilar, Enrique (I)
+518		Aguilar, George (I)
+519		Aguilar, Guillermo (I)
+520		Aguilar, Jordi
+521		Aguilar, Joseph (I)
+522		Aguilar, José (I)
+523		Aguilar, Luis (I)
+524		Aguilera, Manuel (I)
+525		Aguinaga, Pedro
+526		Aguinagalde, Gorka
+527		Aguirre 'Trotsky', José Luis
+528		Aguirre, Armando
+529		Aguirre, Carlos (I)
+530		Aguirre, Cesar (II)
+531		Aguirre, Douglas J.
+532		Aguirre, Fernando (I)
+533		Aguirre, Josue
+534		Aguirre, José Luis (I)
+535		Aguirre, Marco Antonio
+536		Aguirre, Rubén
+537		Agus, Gianni
+538		Agus, Mathias
+539		Agustin, Bons
+540		Agustin, Marvin
+541		Agustin, Rafael
+542		Agárdi, Gábor (I)
+543		Agüero, Ignacio
+544		Ah Mon, Lawrence
+545		Ah-Hsi
+546		Ah-Niu (I)
+547		Ahdar, David
+548		Ahearn, Frank M.
+549		Ahearn, George
+550		Ahearne, Tom
+551		Ahern, Tim (I)
+552		Aherne, Brian (I)
+553		Aherne, Patrick
+554		Aherne, Richard
+555		Ahku
+556		Ahl, Michael
+557		Ahlawat, Jaideep
+558		Ahlberg, Hugo (I)
+559		Ahlbom, Anders
+560		Ahlefeldt, Karl Gustav
+561		Ahlin, Harry
+562		Ahlm, Philip
+563		Ahlsell, Herman
+564		Ahlstedt, Börje
+565		Ahlström, Sven (I)
+566		Ahluwalia, Waris
+567		Ahmad, Afzaal (I)
+568		Ahmad, Nabil
+569		Ahmad, Nordin
+570		Ahmad, Raffi
+571		Ahmadi, Baron
+572		Ahmadi, Daniel
+573		Ahmadi, Manoucher
+574		Ahmadi, Mehdi (I)
+575		Ahmadi, Mehran
+576		Ahmadi, Morteza (I)
+577		Ahmadloo, Mohammad Vali
+578		Ahmadov, Ahmad (I)
+579		Ahmarani, Paul (I)
+580		Ahmed, Ahmed (I)
+581		Ahmed, Bulbul
+582		Ahmed, Ferdous
+583		Ahmed, Hamdy (I)
+584		Ahmed, Kamal (I)
+585		Ahmed, Riz
+586		Ahn, Jin-su
+587		Ahn, Johnny
+588		Ahn, Kil-Kang
+589		Ahn, Nae-sang
+590		Ahn, Philip
+591		Ahn, Ralph
+592		Ahn, Rio
+593		Ahn, Sung-kee
+594		Ahnfelt-Rønne, Hakon
+595		Aho, Eero
+596		Ahonen, Olavi (I)
+597		Ahonen, Rauno (I)
+598		Ahouari, Benhaïssa
+599		Ahr, Artie (I)
+600		Ahrens, Andy
+601		Ahrens, Craig
+602		Ahrens, Hans
+603		Ahrens, John
+604		Ahrle, Elof
+605		Ahrle, Leif
+606		Ahuet, Julio
+607		Ahuja, Mukesh
+608		Ahuja, Shiney
+609		Ahuja, Vicky
+610		Ai, Fei (I)
+611		Ai, Tung-Kua
+612		Ai, Wai (I)
+613		Aiba, Hiroki
+614		Aibéo, Ricardo
+615		Aicher, Marius
+616		Aidman, Charles
+617		Aiello III, Danny
+618		Aiello, Danny
+619		Aiello, Pier Francesco
+620		Aiello, Rick
+621		Aierra, Iñaki
+622		Aihara, Kyosuke
+623		Aijima, Kazuyuki
+624		Aikawa, Kin'ya
+625		Aikawa, Shô (II)
+626		Aiken, Liam
+627		Aiken, Mark
+628		Aiken, Robert (I)
+629		Aikens, Bart (I)
+630		Ailshie, Jeff
+631		Aimarsen, Harald
+632		Aimos, Raymond
+633		Ainley, Anthony
+634		Ainley, Henry
+635		Ainley, Richard
+636		Ainsley, Norman
+637		Ainslie, Scott (I)
+638		Ainsworth, Sidney
+639		Airaldi, Roberto
+640		Airlie, Andrew
+641		Airosa, José
+642		Aitcheson, Fraser
+643		Aitken, Deema (I)
+644		Aitken, Spottiswoode
+645		Aizawa, Masaki
+646		Ajaka, Alberto
+647		Ajala, David
+648		Ajay (I)
+649		Ajay (IX)
+650		Ajaye, Franklyn
+651		Ajaykumar (I)
+652		Ajibade, Yemi
+653		Ajit (I)
+654		Ajith, Kollam
+655		Ajmal (I)
+656		Ajtay, Andor
+657		Ajvaz, Milan
+658		Akagi, Keiichiro
+659		Akahori, Masaaki
+660		Akai, Hidekazu
+661		Akakce, Erdem
+662		Akan, Tarik
+663		Akarnur, Ferdi
+664		Akash, Aravind
+665		Akashdeep (I)
+666		Akashi, Tsutomu
+667		Akashi, Ushio
+668		Akashiya, Sanma
+669		Akatsuka, Makoto
+670		Akay, Ezel
+671		Akbari, Abdolreza
+672		Akbas, Aydemir
+673		Akbas, Erdinç
+674		Akechi, Jûzaburô
+675		Akerman, Jeremy
+676		Akhimov, Dimash
+677		Akhimov, Dinmukhamet
+678		Akhmetov, Ruslan
+679		Akhtar, Adeel
+680		Akhtar, Farhan (I)
+681		Akhtar, Masood
+682		Aki, Alvin
+683		Akiaten, Marcos
+684		Akima
+685		Akimoff, Alex
+686		Akimoto, Kikuya
+687		Akimoto, Yôsuke
+688		Akin, David W.
+689		Akin, Fatih (I)
+690		Akin, Philip
+691		Akin, Riza
+692		Akin, Özdemir
+693		Akingbola, Jimmy
+694		Akinloye, David
+695		Akinnagbe, Gbenga
+696		Akinnuoye-Agbaje, Adewale
+697		Akino, Taisaku
+698		Akins, Claude
+699		Akita, Shinichi
+700		Akitsu, Hiroshi (I)
+701		Akitsuki, Kunitake
+702		Akiyama, Denis
+703		Akiyama, Katsutoshi
+704		Akkabi, Achmed
+705		Akkaya, Aytekin
+706		Akkineni, Naga Chaitanya
+707		Akkineni, Nagarjuna
+708		Akkoyunlu, Murat
+709		Akkus, Sinan
+710		Akl, Ahmed
+711		Akmal
+712		Akman, Eris
+713		Aknine, Pierre
+714		Ako, Marcus
+715		Akon
+716		Akpinar, Mehmet Ali
+717		Akpinar, Metin
+718		Akpotor, James
+719		Akrachkov, Ignat
+720		Akram, Adil
+721		Akrawi, Mike
+722		Akrout, Edward
+723		Aksum, Ilker
+724		Aktas, Sehsuvar
+725		Aktug, Ajlan
+726		Akutagawa, Hiroshi
+727		Akça, Tuncay
+728		Akçatepe, Halit
+729		Akçatepe, Sitki
+730		Al Atrache, Farid
+731		Al Nabulsy, Abdel Salam (I)
+732		Al-Adel, Samie
+733		Al-Fishawy, Farouk
+734		Al-Kassar, Ali
+735		Al-Shennawi, Kamal
+736		Al-Sobky, Omar
+737		Alabastro, Tasi
+738		Alabiso, Giovanni
+739		Alabora, Memet Ali
+740		Alabora, Mustafa
+741		Alaborski, Wojciech
+742		Alacchi, Carl
+743		Alachiotis, Nick
+744		Aladdin (I)
+745		Aladdin, Nick
+746		Alady
+747		Alafouzos, Socrates
+748		Alai, Dean
+749		Alaimo, Marc
+750		Alaimo, Michael (I)
+751		Alakbarov, Alasgar
+752		Alakbarov, Shahmar
+753		Alamsyah, Donny
+754		Alan, Christopher
+755		Alan, Mark (II)
+756		Alan, Matthew
+757		Alandy, Luis
+758		Alane, Bernard
+759		Alaniz, Rico
+760		Alano, Boy
+761		Alano, Joel
+762		Alarcon, Jestoni
+763		Alarcón, Luis (I)
+764		Alarcón, Mario
+765		Alarcón, Pablo (I)
+766		Alaria, Alfredo
+767		Alaskey, Joe
+768		Alasya, Zeki
+769		Alatzas, Nikos
+770		Alaverdyan, Henrik
+771		Alazraqui, Carlos
+772		Alba, Alfredo
+773		Alba, Joshua
+774		Albach-Retty, Wolf
+775		Albaicín, Rafael
+776		Albakri, Zahim
+777		Albala, Michael (I)
+778		Albalat, Alfonso
+779		Albalá, Javier
+780		Alban, Carlo
+781		Alban, John (I)
+782		Alban, Michael
+783		Albanese, Antonio
+784		Albanese, Dennis
+785		Albanese, Frank
+786		Albanese, Vincenzo
+787		Albano, Lou
+788		Albarella, Jake
+789		Albarn, Damon
+790		Albarracín, Alejandro
+791		Albarrán, Gerardo
+792		Albasiny, John
+793		Albay, R. Kan
+794		Albayrak, Sinan
+795		Albelli, Sergio
+796		Albenque, Patrick
+797		Alberni, Luis
+798		Albers, Hans
+799		Albert, Carlos (I)
+800		Albert, Dan (II)
+801		Albert, Eddie (I)
+802		Albert, Edward
+803		Albert, Eugen (I)
+804		Albert, Marv (I)
+805		Albert, Péter
+806		Albert, Wil
+807		Albert, William C.
+808		Albertazzi, Giorgio
+809		Alberti, Count
+810		Alberti, Fritz
+811		Alberti, Gigio
+812		Alberti, Guido
+813		Alberti, Irvin
+814		Albertini, Alberto (I)
+815		Albertini, Giampiero
+816		Albertini, Luciano
+817		Albertini, Michel
+818		Alberto, Austin
+819		Alberto, Carlos (IV)
+820		Alberto, Luís (I)
+821		Albertson, Arthur
+822		Albertson, Coit
+823		Albertson, Frank (I)
+824		Albertson, Jack (I)
+825		Albertson, Jeff
+826		Alberty, Karl-Otto
+827		Albes, Emil
+828		Albiach, José
+829		Albin, Andy
+830		Albin, Hans
+831		Albinet, Vasile
+832		Albini, Steve
+833		Albinus, Jens
+834		Albiol, Francesc
+835		Albisu, Mikel
+836		Albizu, Fernando
+837		Albrecht, J. Grant
+838		Albrecht, Matthew
+839		Albreht, Janez
+840		Albright, Dan (I)
+841		Albright, Hardie
+842		Albright, John (I)
+843		Albright, Luke
+844		Albright, Wally
+845		Albulescu, Mircea
+846		Alburquerque, José
+847		Alcaff, A.N.
+848		Alcaide, Chris
+849		Alcaide, Jesús
+850		Alcalde, José (III)
+851		Alcan, Xavier (I)
+852		Alcances, Basty
+853		Alcantar, Tony
+854		Alcantara, Jet
+855		Alcarado, Steve
+856		Alcaraz, Eduardo
+857		Alcaraz, Marco
+858		Alcasid, Ogie
+859		Alcayde, Rafael
+860		Alcaíno, Daniel
+861		Alchieri, Gerolamo
+862		Alcides, Enrique
+863		Alcobendas, José Luis
+864		Alcocer, Juan Carlos
+865		Alcocer, Víctor
+866		Alcoriza, Luis
+867		Alcorn, James (I)
+868		Alcorn, Keith (I)
+869		Alcorn, William
+870		Alcover, Pierre
+871		Alcroft, Jamie
+872		Alcántara, Carlos
+873		Alcántara, Rafael (I)
+874		Alcázar, Damián
+875		Alcázar, Víctor (I)
+876		Alcázar, Ángel
+877		Alcíbar, Miguel
+878		Alcón, Alfredo
+879		Alcón, Manuel
+880		Alcón, Mariano
+881		Alda, Alan
+882		Alda, Ian
+883		Alda, Robert
+884		Aldaba, Ces
+885		Aldama Jr., Julio
+886		Aldama, Jorge
+887		Aldama, Julio
+888		Aldana, Luis (II)
+889		Aldane'e, Paul
+890		Alde, Caloy
+891		Aldeguer, Nacho
+892		Aldema, Daniel
+893		Alden, Bob
+894		Alden, Eric (I)
+895		Alden, Norman
+896		Alden, Richard
+897		Alden, Zach
+898		Alder, Don (I)
+899		Alder, Thomas
+900		Alderfer, Steve (I)
+901		Alderman, John
+902		Alderman, Ralph (II)
+903		Alderman, Ted
+904		Alderson, Erville
+905		Alderson, Giles
+906		Alderson, John (I)
+907		Alderton, John
+908		Aldini, Carlo
+909		Aldo (II)
+910		Aldor, Bernd
+911		Aldredge, Tom
+912		Aldrich, Fred (I)
+913		Aldrich, Henry (II)
+914		Aldridge, Desmond
+915		Aldridge, Michael (I)
+916		Aldrin, Buzz
+917		Aldás, Luis (I)
+918		Aleandro, Pedro
+919		Aleardi, Pasquale
+920		Alec, Rob
+921		Alegre, Luis
+922		Alegre, Oscar
+923		Alegrim, Silvestre
+924		Alegro, Arturo
+925		Alejandre, Josep Maria
+926		Alejandro, César
+927		Alejandro, Dax
+928		Alejandro, Jorge (I)
+929		Alejandro, Kevin
+930		Alejar, Jojo
+931		Alejar, Toby
+932		Alekan, Henri
+933		Alekin, Boris
+934		Aleksander, Tomasz
+935		Aleksandrov, Aleksandr (III)
+936		Aleksandrov, Vadim
+937		Aleksanyan, Artashes
+938		Alekseev, Aleksandr (II)
+939		Alekseev, Aleksey (I)
+940		Alekseev, Aleksey (III)
+941		Alekseev, Anatoliy (I)
+942		Alekseev, Yuriy
+943		Aleksic, Mija
+944		Aleksic, Stevan
+945		Aleksiev, Stoyan
+946		Alemania, Archie
+947		Alemanno, Alberto
+948		Alemán, Julio
+949		Aleong, Aki
+950		Alerme, André
+951		Alers, Christian
+952		Ales, John
+953		Aleskerov, Suleiman
+954		Alessandri, Lorenzo
+955		Alessandri, Roberto
+956		Alessandro, Anthony
+957		Alessi, David
+958		Alessi, Paul
+959		Alessi, Paul J.
+960		Alex, Chris Jai
+961		Alex, Joe (I)
+962		Alex, Lalu
+963		Alexakis, Art
+964		Alexander, Aaron (VI)
+965		Alexander, Aaron (XI)
+966		Alexander, Adam (V)
+967		Alexander, Anton
+968		Alexander, Barry (I)
+969		Alexander, Ben (I)
+970		Alexander, Bruce (I)
+971		Alexander, Bruno (I)
+972		Alexander, Cyrus
+973		Alexander, David (L)
+974		Alexander, Dino
+975		Alexander, Edward
+976		Alexander, Edwin
+977		Alexander, Ernie (I)
+978		Alexander, Flex (I)
+979		Alexander, Frank (I)
+980		Alexander, Fred
+981		Alexander, Gabriel B.
+982		Alexander, Georg (I)
+983		Alexander, Gerry
+984		Alexander, Gordon (III)
+985		Alexander, Gus
+986		Alexander, Harry (II)
+987		Alexander, Howard (I)
+988		Alexander, Jason (I)
+989		Alexander, John (I)
+990		Alexander, John (II)
+991		Alexander, Josh (I)
+992		Alexander, JT
+993		Alexander, Keon
+994		Alexander, Kirk (I)
+995		Alexander, Korken (I)
+996		Alexander, Lewis (I)
+997		Alexander, Markus
+998		Alexander, Max (II)
+999		Alexander, Michael (XXXVI)
+1000		Alexander, Newell (I)
+1001		Alexander, Nicholas (II)
+1002		Alexander, Nicholas (VI)
+1003		Alexander, Nick (I)
+1004		Alexander, Olly
+1005		Alexander, Onky
+1006		Alexander, Paris
+1007		Alexander, Patrick (X)
+1008		Alexander, Pero
+1009		Alexander, Peter (I)
+1010		Alexander, Reese (I)
+1011		Alexander, Ricardo
+1012		Alexander, Richard (I)
+1013		Alexander, Rio
+1014		Alexander, Robert (I)
+1015		Alexander, Rod (III)
+1016		Alexander, Ross (I)
+1017		Alexander, Shai
+1018		Alexander, Shane (I)
+1019		Alexander, Sharon (I)
+1020		Alexander, Tad
+1021		Alexander, Terence
+1022		Alexander, Terry (I)
+1023		Alexandrakis, Alekos
+1024		Alexandre, José Luis
+1025		Alexandre, Manuel
+1026		Alexandre, René
+1027		Alexandre, Roland
+1028		Alexandridis, Yanis
+1029		Alexandris, Dimitris (I)
+1030		Alexandris, Vangelis
+1031		Alexandrou, Dean
+1032		Alexandrov, Constantin
+1033		Alexandru, George
+1034		Alexandru, Manea
+1035		Alexandru, Matei
+1036		Alexi-Malle, Adam
+1037		Alexiev, Dimo
+1038		Alexiou, Nikos (III)
+1039		Alexis, Alvin
+1040		Alexis, Demetrius
+1041		Alexsen, Andre
+1042		Aleynikov, Pyotr
+1043		Alfano, Eddie
+1044		Alfaro, Emilio
+1045		Alfaro, Fernando (I)
+1046		Alfaro, Manny
+1047		Alfaro, Marcelo
+1048		Alfasa, Joe
+1049		Alfayate, José
+1050		Alfieri, Giulio
+1051		Alfieri, Victor
+1052		Alfieri, Vittorio (I)
+1053		Alfonso, Antonio (I)
+1054		Alfonso, Franco
+1055		Alfonso, Kenny (I)
+1056		Alfonso, Mann
+1057		Alfonzo, José Luis
+1058		Alfonzó
+1059		Alford, David
+1060		Alfredson, Hans
+1061		Alföldi, Róbert
+1062		Algara, Alejandro (I)
+1063		Algara, Gabriel
+1064		Algora, Francisco
+1065		Algora, Germán
+1066		Algotsson, Folke
+1067		Algrang, Manfred-Anton
+1068		Algöz, Zafer
+1069		Algül, Abdi
+1070		Alhaique, Michele
+1071		Ali (I)
+1072		Ali, Abid
+1073		Ali, Amir (I)
+1074		Ali, Anwar (I)
+1075		Ali, Asif (II)
+1076		Ali, Aswad
+1077		Ali, Babar
+1078		Ali, Barber
+1079		Ali, Haidar
+1080		Ali, Ishrat
+1081		Ali, Lucky
+1082		Ali, Mahershala
+1083		Ali, Mohammad (II)
+1084		Ali, Mohammed J.
+1085		Ali, Muhammad (I)
+1086		Ali, Murad (I)
+1087		Ali, Shawar
+1088		Ali, Tariq (I)
+1089		Alianak, Hrant
+1090		Alias, Bruno
+1091		Alias, José
+1092		Alibert, Henri
+1093		Alic, Bozidar
+1094		Alicea, Rob
+1095		Alifa, Alberto
+1096		Alighieri, Juan
+1097		Alighiero, Carlo
+1098		Aligny, Christian
+1099		Aligrudic, Slobodan
+1100		Alihajdaraj, Astrit
+1101		Alim Khattab, Abdel
+1102		Alimari, Mario
+1103		Alimonta, Helmut
+1104		Alinçe, Ehat
+1105		Alisik, Sadri (I)
+1106		Aliyar
+1107		Aliyev, Bakhadur
+1108		Aliyev, Rafik (I)
+1109		Alié, René
+1110		Aljinovic, Boris
+1111		Aljinovic-Tot, Neven
+1112		Alkalai, Mosko
+1113		Alkan, Erden
+1114		Alkan, Orhan
+1115		Allabert, Rudolf
+1116		Allain, Garrett
+1117		Allain-Marcus, Wade
+1118		Allaire, Laurent
+1119		Allam, Roger
+1120		Allan, Hugh (I)
+1121		Allan, Richard (I)
+1122		Allan, Richard (VI)
+1123		Allardt, Arthur
+1124		Allas, Peter
+1125		Allauddin
+1126		Alldredge, Michael
+1127		Allegri, Eugenio
+1128		Allemand, Andre
+1129		Allemane, Benoît
+1130		Allen III, Roy
+1131		Allen Sr., Joseph
+1132		Allen, Alfie
+1133		Allen, Alfred
+1134		Allen, Andrew James
+1135		Allen, Andy S.
+1136		Allen, Aza
+1137		Allen, Bill (I)
+1138		Allen, Brian (I)
+1139		Allen, Brian Keith
+1140		Allen, Chad (I)
+1141		Allen, Chesney
+1142		Allen, Chris (I)
+1143		Allen, Colin (III)
+1144		Allen, Corey (I)
+1145		Allen, D'Arcy
+1146		Allen, Danny (I)
+1147		Allen, Dave (I)
+1148		Allen, Dayton
+1149		Allen, Dominic (I)
+1150		Allen, Don (VIII)
+1151		Allen, Doug (II)
+1152		Allen, Ethan (II)
+1153		Allen, Fletcher
+1154		Allen, Flynn
+1155		Allen, Fred (I)
+1156		Allen, Gary (I)
+1157		Allen, George (I)
+1158		Allen, Harry (I)
+1159		Allen, Harry (V)
+1160		Allen, Jack (I)
+1161		Allen, Jason K.
+1162		Allen, Jeff (XXXV)
+1163		Allen, Jess
+1164		Allen, Joel (I)
+1165		Allen, John (I)
+1166		Allen, John Henry (I)
+1167		Allen, John W.
+1168		Allen, Jon (II)
+1169		Allen, Joseph (I)
+1170		Allen, Keith (I)
+1171		Allen, Kevin (I)
+1172		Allen, Kevin (VII)
+1173		Allen, Kevin Scott
+1174		Allen, Lester (I)
+1175		Allen, Marc (VI)
+1176		Allen, Mark (I)
+1177		Allen, Marty (I)
+1178		Allen, Matthew Dieu
+1179		Allen, Matthew W.
+1180		Allen, Mel (I)
+1181		Allen, Michael C. 'Mike'
+1182		Allen, Mike (XI)
+1183		Allen, Patrick (I)
+1184		Allen, Rex (I)
+1185		Allen, Richard (I)
+1186		Allen, Robert (I)
+1187		Allen, Sam (I)
+1188		Allen, Sean Michael
+1189		Allen, Seth (I)
+1190		Allen, Shane P.
+1191		Allen, Steve (I)
+1192		Allen, Steven Lee
+1193		Allen, Tim (I)
+1194		Allen, Todd (I)
+1195		Allen, Victor (I)
+1196		Allen, Vince
+1197		Allen, Willi
+1198		Allen, William Cully
+1199		Allen, Woody
+1200		Allende, Alfredo (I)
+1201		Allende, Fernando
+1202		Allende, Salvador
+1203		Allerson, Alexander
+1204		Allesee, Kevin
+1205		Alley, Bhanu
+1206		Allibert, Jean-Louis
+1207		Allin, Alex
+1208		Allin, Jeff
+1209		Alling, Morgan
+1210		Allio, Paul
+1211		Allison Jr., Thaine H.
+1212		Allison, Bart
+1213		Allison, Don
+1214		Allison, Frankie J.
+1215		Allison, Kevin (I)
+1216		Allison, Sean (I)
+1217		Allison, Seth
+1218		Allister, Claud
+1219		Allman, Jared
+1220		Allman, Marshall
+1221		Allmayer, Johannes
+1222		Allocca, Antonio (I)
+1223		Allocca, Lucio
+1224		Allodi, James
+1225		Allon, Primo
+1226		Allport, Christopher
+1227		Allpress, Bruce
+1228		Allred, Corbin
+1229		Allwine, Wayne
+1230		Allwood, Robert
+1231		Allyn, Heath
+1232		Alm, Carl-Olof
+1233		Alma, Gil
+1234		Alma, Marian
+1235		Almada, Fernando
+1236		Almada, Horacio (II)
+1237		Almada, Jorge
+1238		Almada, Mario
+1239		Almansa, Fidel
+1240		Almanza, Alfredo
+1241		Almanzar, James
+1242		Almanzor, Rando
+1243		Almar, Knud
+1244		Almasi, Jahangir
+1245		Almassy, Eric
+1246		Almazán, Humberto
+1247		Almeda, Javier
+1248		Almeida, Andrés (I)
+1249		Almeida, David (I)
+1250		Almeida, Enrique
+1251		Almgren, Sven (I)
+1252		Almirante, Carlos Enrique
+1253		Almirante, Enrique
+1254		Almirante, Ernesto
+1255		Almirante, Giacomo
+1256		Almirante, Luigi
+1257		Almlöf, Charlie
+1258		Almodóvar, Agustín
+1259		Almodóvar, Cristino
+1260		Almodóvar, Pedro
+1261		Almonte, Juan Maria
+1262		Almorós, Antonio
+1263		Almquist, Viking (I)
+1264		Almqvist, Gunnar
+1265		Almqvist, Tage
+1266		Almási, Albert
+1267		Alniaçik, Raik
+1268		Aloi, George
+1269		Alomar, Fabian (I)
+1270		Alonso Gómez, Diego
+1271		Alonso, Adrian (I)
+1272		Alonso, Alberto (I)
+1273		Alonso, Emilio (II)
+1274		Alonso, Ernesto
+1275		Alonso, Francisco (I)
+1276		Alonso, Johnny
+1277		Alonso, José (I)
+1278		Alonso, José Luis (I)
+1279		Alonso, Laz
+1280		Alonso, Pedro (I)
+1281		Alonso, Rafael (I)
+1282		Alonso, Ramiro
+1283		Alonso, Tito
+1284		Alonzo, Alberto
+1285		Alonzo, Anthony (I)
+1286		Alonzo, Chinggoy
+1287		Alonzo, John A.
+1288		Alonzo, Robert
+1289		Alosio, Ryan
+1290		Alotta, Giuseppe
+1291		Alpan, Giray
+1292		Alpan, Zeki
+1293		Alpar, Memduh
+1294		Alpaslan, Mümtaz
+1295		Alper, Eugene
+1296		Alper, Murray
+1297		Alperin, Harvey J.
+1298		Alpert, David (I)
+1299		Alpert, Hal
+1300		Alpert, Sherman
+1301		Alptekin, Yasar
+1302		Alric, Jacques
+1303		Alsace, Gene
+1304		Alsadi, Sam
+1305		Alsec, Zephi
+1306		Alspach, Dave
+1307		Alston, William
+1308		Alstrup, Carl
+1309		Alszeghy, Lajos
+1310		Alt, Al
+1311		Altaf (I)
+1312		Altamirano, Pedro
+1313		Altamura, John
+1314		Altamura, Tullio
+1315		Altavista, Juan Carlos
+1316		Altekar, Parshwanath Yeshwant
+1317		Alten, Frank
+1318		Alten, Fritz
+1319		Alter, Tom
+1320		Alterio, Ernesto
+1321		Alterio, Héctor
+1322		Alterman, Steve
+1323		Althaus, Nils
+1324		Althaus, Urs (I)
+1325		Althaus, Wilhelm
+1326		Althoff, Ron
+1327		Altieri, Mike
+1328		Altieri, Nino
+1329		Altin, Aslan
+1330		Altin, Josef
+1331		Altinok, Nuri
+1332		Altman, Allen
+1333		Altman, Bruce
+1334		Altman, H.T.
+1335		Altman, Jason (II)
+1336		Altman, Jeff (I)
+1337		Altman, John (II)
+1338		Altman, Robert (I)
+1339		Altmann, Bertrand
+1340		Altmann, Mike (I)
+1341		Altomaro, Martín
+1342		Alton, Leon
+1343		Altug, Sevket
+1344		Altwies, Hans
+1345		Alummoodan
+1346		Alumoodan, Boban
+1347		Alva, Tony (I)
+1348		Alva, Yaco
+1349		Alvadj, Rudi
+1350		Alvarado, Aris
+1351		Alvarado, Crox
+1352		Alvarado, Daniel (II)
+1353		Alvarado, Don
+1354		Alvarado, Fernando (I)
+1355		Alvarado, Jing
+1356		Alvarado, Jose (I)
+1357		Alvarado, Mando (I)
+1358		Alvarado, Manuel (I)
+1359		Alvarado, Max
+1360		Alvarado, Maynor
+1361		Alvarenga
+1362		Alvarez, Abraham
+1363		Alvarez, Boy
+1364		Alvarez, Frank (I)
+1365		Alvarez, Gio
+1366		Alvarez, Irineo
+1367		Alvarez, Jaime (I)
+1368		Alvarez, Joe (II)
+1369		Alvarez, José (I)
+1370		Alvarez, Michael (VIII)
+1371		Alvarez, Miniong
+1372		Alvarez, Ricardo (I)
+1373		Alvarez, Ronnie
+1374		Alvarez, Roy
+1375		Alvarez, Tom (I)
+1376		Alvaro, Dan
+1377		Alvaro, Ding
+1378		Alves Pinto, Fernando
+1379		Alves, Jose Guns
+1380		Alves, Renalto
+1381		Alves-Khan, Miguel
+1382		Alvez, Alain
+1383		Alvin, John (I)
+1384		Alvir, Mon
+1385		Alvés, Luis Fernando
+1386		Alw, Gabriel
+1387		Alyanak, Arsevir
+1388		Alyanak, Osman
+1389		Alymán, Julio F.
+1390		Alyn, Kirk
+1391		Alza, Walter
+1392		Alzado, Lyle
+1393		Alzaga, Jorge
+1394		Alço, Nuri
+1395		Alí, Jorge
+1396		Amachi, Shigeru
+1397		Amada, Masuo (I)
+1398		Amadi, Ike
+1399		Amadis, Saïd
+1400		Amado, Chisco
+1401		Amado, Fernando
+1402		Amador, Carlos (I)
+1403		Amador, Rafael (I)
+1404		Amador, Raimundo
+1405		Amakawa, Masumi
+1406		Amakusa, Shirô
+1407		Amalou, Hervé
+1408		Amalric, Mathieu
+1409		Amambrini, Umberto
+1410		Amamiya, Ryo
+1411		Amamoto, Hideyo
+1412		Amandes, Tom
+1413		Amandola, Vittorio
+1414		Amani, Andrew
+1415		Amano, Jinichi
+1416		Amar (I)
+1417		Amaral, Alex
+1418		Amaral, Cacá
+1419		Amaral, Fernando (I)
+1420		Amaral, Frederico
+1421		Amaral, Henrique
+1422		Amaral, Ronaldo
+1423		Amarasigamani
+1424		Amaren, Premgi
+1425		Amargo, Rafael
+1426		Amarilla, Alberto
+1427		Amarilla, Florencio
+1428		Amarjeet (I)
+1429		Amarnath (I)
+1430		Amaro, José (I)
+1431		Amarttayakul, Akara
+1432		Amato, Bruno
+1433		Amato, Gaetano (I)
+1434		Amato, Gerardo
+1435		Amato, Jean-Marie
+1436		Amato, Joe (I)
+1437		Amato, Nicolas (I)
+1438		Amato, Stefano (I)
+1439		Amato, Vincenzo (II)
+1440		Amatrudo, Ed
+1441		Amatsu, Bin
+1442		Amaya, Mario (I)
+1443		Amaya, Rafael
+1444		Amaya, Vicente
+1445		Ambarish (I)
+1446		Amble, Lars
+1447		Amble-Næss, Leif
+1448		Ambler, Jeremy
+1449		Ambler, Joss
+1450		Ambriz, Domingo
+1451		Ambrogi, Adriano
+1452		Ambrogi, Stefano
+1453		Ambros, Otto
+1454		Ambrose, Robert (II)
+1455		Ambrosini, Philippe
+1456		Ambrosino, Mario
+1457		Ambrus, András
+1458		Ambudkar, Utkarsh
+1459		Ameche, Don
+1460		Amedori, John Patrick
+1461		Ameen, Aml
+1462		Ameer (I)
+1463		Ameer, Ajmal
+1464		Ameer, Jorge
+1465		Amen, Tony
+1466		Amendola, Antonio
+1467		Amendola, Claudio
+1468		Amendola, Ferruccio
+1469		Amendola, Tony (I)
+1470		Amendolia, Don
+1471		Ament, Justin
+1472		Amer, Nicholas
+1473		Ameri, Christian
+1474		Amerio, Michael
+1475		Amerman, Daniel
+1476		Ames, Brian (I)
+1477		Ames, Florenz
+1478		Ames, Gerald
+1479		Ames, Granville
+1480		Ames, Jimmy
+1481		Ames, John Lee
+1482		Ames, Leon
+1483		Ames, Robert (I)
+1484		Ameyaw, Kwesi
+1485		Amhali, Najib
+1486		Amiach, Franck
+1487		Amico, Frédéric
+1488		Amico, Phil
+1489		Amico, Robert
+1490		Amidei Migliano, Adriano
+1491		Amidou
+1492		Amigo, Juan
+1493		Amilibia, Víctor
+1494		Amine, Mohamed
+1495		Aminel, Georges
+1496		Amini, Max
+1497		Amini, Walid
+1498		Amiot, Paul
+1499		Amir Sadeghi, Khosro
+1500		Amir Soleymani, Saeed
+1501		Amir-Cohen, Lee
+1502		Amiranashvili, Amiran
+1503		Amirbekyan, Aram
+1504		Amirfazli, Hosein
+1505		Amiri, Armin
+1506		Amito, David
+1507		Amitrano, Christopher
+1508		Ammann, Alberto
+1509		Ammann, Lukas
+1510		Ammendola, Pino
+1511		Ammirata, Sergio
+1512		Ammon, Noland
+1513		Ammons, Tate
+1514		Ammons, Travis
+1515		Amoaku, Senyo
+1516		Amoni, Tony
+1517		Amor, Jay
+1518		Amor, Raouf Ben
+1519		Amora, Bebeng
+1520		Amornsupasiri, Arak
+1521		Amoruso, Frank
+1522		Amorós, Francisco
+1523		Amos, Jack
+1524		Amos, Jean
+1525		Amos, Jeremy
+1526		Amos, John (I)
+1527		Amos, Paul (I)
+1528		Amos, Pharoah
+1529		Amoussou, Ralph
+1530		Amphoux, Michel
+1531		Amplas, John
+1532		Amram, David
+1533		Amram, Guy
+1534		Amrani, Gabi
+1535		Amrapurkar, Sadashiv
+1536		Amsing, Sean
+1537		Amsterdam, Morey
+1538		Amstler, Robert
+1539		Amstutz, Roland
+1540		Amundsen, Oscar
+1541		Amyl, Max
+1542		Amzallag, Pierre
+1543		Amzallag, Zachary
+1544		Amândio
+1545		Amédée
+1546		An, Ping
+1547		An, Seok-Hwan
+1548		An, Wong
+1549		Ana, Doru
+1550		Anagnos, Bill
+1551		Anand (I)
+1552		Anand (IV)
+1553		Anand, Akshay
+1554		Anand, Dev (I)
+1555		Anand, Dinesh
+1556		Anand, J.N.
+1557		Anand, Mahesh (I)
+1558		Anand, Major
+1559		Anand, Manoj
+1560		Anand, Tinnu
+1561		Anand, Vijay (I)
+1562		Anand, Vikas
+1563		Anand, Vinay
+1564		Anandraj
+1565		Anang, Adjetey
+1566		Ananth (I)
+1567		Anaspure, Makarand
+1568		Anastasakis, Yannis
+1569		Anastasiadis, Alekos
+1570		Anastasov, Nikola
+1571		Anatrelli, Giuseppe
+1572		Anavkar, Savvy
+1573		Anca, Mircea
+1574		Ancans, Romualds
+1575		Ancelin, Robert
+1576		Anchart, Alberto (II)
+1577		Anchisi, Pier Giovanni
+1578		Anchóriz, Leo
+1579		Ancira, Carlos
+1580		Ancira, Jorge
+1581		Anconina, Richard
+1582		Ancorini, Emanuele
+1583		Ancrile, Mike
+1584		Andal, Pete
+1585		Andaya, Vic
+1586		Ande, Michael
+1587		Andelin, James
+1588		Andelius, Anders
+1589		Ander, Ants
+1590		Ander, Régis
+1591		Anderberg, Torgny
+1592		Anders, Christian
+1593		Anders, Dan (II)
+1594		Anders, David (I)
+1595		Anders, Ed
+1596		Anders, Glenn
+1597		Anders, Rudolph
+1598		Andersen, Anders T.
+1599		Andersen, Asbjørn (I)
+1600		Andersen, Bjarne (I)
+1601		Andersen, Carl (II)
+1602		Andersen, Dana (II)
+1603		Andersen, Eric (III)
+1604		Andersen, Gotha
+1605		Andersen, Jens (I)
+1606		Andersen, Ludwig
+1607		Andersen, Peter S.
+1608		Andersen, Stefan Pagels
+1609		Anderson III, Haskell V.
+1610		Anderson Jr., Eugene
+1611		Anderson Jr., Michael
+1612		Anderson, Alejandro
+1613		Anderson, Andrew (XIV)
+1614		Anderson, Andy (II)
+1615		Anderson, Anthony (I)
+1616		Anderson, Arthur (II)
+1617		Anderson, Audley (I)
+1618		Anderson, Axel
+1619		Anderson, Bart (I)
+1620		Anderson, Beaudine
+1621		Anderson, Benjamin (III)
+1622		Anderson, Bill (I)
+1623		Anderson, Blaine (I)
+1624		Anderson, Blake (VI)
+1625		Anderson, Brent (I)
+1626		Anderson, Brian (I)
+1627		Anderson, Bud Jerome
+1628		Anderson, C.E. (I)
+1629		Anderson, Chase (I)
+1630		Anderson, Christian (V)
+1631		Anderson, Christian S.
+1632		Anderson, Daniel (I)
+1633		Anderson, Dave (I)
+1634		Anderson, Dave (V)
+1635		Anderson, David (I)
+1636		Anderson, Deke
+1637		Anderson, Don (I)
+1638		Anderson, Eddie 'Rochester'
+1639		Anderson, Erich (I)
+1640		Anderson, Erik (IX)
+1641		Anderson, Ernest (I)
+1642		Anderson, Fred (III)
+1643		Anderson, George (I)
+1644		Anderson, Gerald (I)
+1645		Anderson, Gerald (IV)
+1646		Anderson, Gilbert M. 'Broncho Billy'
+1647		Anderson, Happy
+1648		Anderson, Harry (II)
+1649		Anderson, Herbert (I)
+1650		Anderson, Jack Brett
+1651		Anderson, James (I)
+1652		Anderson, James P.
+1653		Anderson, Jas
+1654		Anderson, Jeff (I)
+1655		Anderson, Jerry (VII)
+1656		Anderson, Joe (VI)
+1657		Anderson, Joe (XXIII)
+1658		Anderson, John (I)
+1659		Anderson, Joseph A.
+1660		Anderson, Karl (IV)
+1661		Anderson, Kevin (I)
+1662		Anderson, Kurt David
+1663		Anderson, Lawrence (I)
+1664		Anderson, Layke
+1665		Anderson, Leif
+1666		Anderson, Lindsay (I)
+1667		Anderson, Louie (I)
+1668		Anderson, Matthew Kevin
+1669		Anderson, Matthew R.
+1670		Anderson, Michael J.
+1671		Anderson, Miles (I)
+1672		Anderson, Mitchell (I)
+1673		Anderson, Nathan (I)
+1674		Anderson, Paul (XVIII)
+1675		Anderson, Richard (I)
+1676		Anderson, Richard (XVII)
+1677		Anderson, Rick (I)
+1678		Anderson, Rico E.
+1679		Anderson, Robert (III)
+1680		Anderson, Robert (V)
+1681		Anderson, Robert J.
+1682		Anderson, Roy (II)
+1683		Anderson, Sam (I)
+1684		Anderson, Stanley
+1685		Anderson, Steve (V)
+1686		Anderson, Steven (II)
+1687		Anderson, Terence (II)
+1688		Anderson, Tim (XIV)
+1689		Anderson, Vass
+1690		Anderson, Warner
+1691		Anderson, Warren (IV)
+1692		Anderson, William (I)
+1693		Anderson-Gunter, Jeffrey
+1694		Andersson, Benny (I)
+1695		Andersson, Björn
+1696		Andersson, Carl (I)
+1697		Andersson, Helge
+1698		Andersson, Kent (I)
+1699		Andersson, Kris
+1700		Andersson, Peter (I)
+1701		Andersson, Tommy (I)
+1702		Andersson, Wiktor
+1703		Andes, Keith (I)
+1704		Andión, Patxi
+1705		Ando, Yoshi (I)
+1706		Andolina, Jake
+1707		Andolini, Michael (I)
+1708		Andon, Kurt
+1709		Andonov, Ivan
+1710		Andor, Tamás
+1711		Andorai, Péter
+1712		Andrada, José
+1713		Andrada, Mark
+1714		Andrada, Paulino
+1715		Andrada, Tuca
+1716		Andrade, Antônio
+1717		Andrade, Dino
+1718		Andrade, Joe
+1719		Andrade, Júlio
+1720		Andrade, Leandro (I)
+1721		Andrade, Martín (I)
+1722		Andrade, Vítor
+1723		Andrae, Manfred
+1724		Andrau, Frédéric
+1725		Andre, Carl (I)
+1726		Andre, Charles (I)
+1727		Andre, Charles (II)
+1728		Andre, Kevin
+1729		Andre, Mohd Pierre
+1730		Andreani, Giuseppe Milazzo
+1731		Andreas, Casper
+1732		Andreas, Dimitri
+1733		Andreas, Luke
+1734		Andreas, Vaz
+1735		Andreasi, Felice
+1736		Andreato, Elias
+1737		Andreescu, Mircea
+1738		Andreev, Andrey (VI)
+1739		Andreev, Sasha
+1740		Andreev, Vadim
+1741		Andrei, Damir
+1742		Andrei, Franco
+1743		Andreiu, Dan
+1744		Andrejevic, Mladen
+1745		Andremar, Héctor
+1746		Andreopoulos, Vasilis
+1747		Andreou, Lazaros (I)
+1748		Andres, Ricardo
+1749		Andress, Herb
+1750		Andretti, Mario
+1751		Andreu, Gogó
+1752		Andreu, Simón
+1753		Andreu, Tono
+1754		Andrew, Markell
+1755		Andrews, A. Russell
+1756		Andrews, Andy (I)
+1757		Andrews, Anthony (I)
+1758		Andrews, Ben (III)
+1759		Andrews, Bobby (II)
+1760		Andrews, Brian (I)
+1761		Andrews, Dana (I)
+1762		Andrews, David (I)
+1763		Andrews, Dean (II)
+1764		Andrews, Eamonn
+1765		Andrews, Edward (I)
+1766		Andrews, Frank (I)
+1767		Andrews, Giuseppe
+1768		Andrews, Harry
+1769		Andrews, Jason (I)
+1770		Andrews, Kenneth (III)
+1771		Andrews, Kenny (I)
+1772		Andrews, Luing
+1773		Andrews, Maurice (II)
+1774		Andrews, Naveen
+1775		Andrews, Peter (I)
+1776		Andrews, Réal
+1777		Andrews, Shawn (I)
+1778		Andrews, Slim
+1779		Andrews, Stanley (I)
+1780		Andrews, Tige
+1781		Andrews, Tod (I)
+1782		Andrews, Woody
+1783		Andrex
+1784		Andreyev, Boris (I)
+1785		Andreyev, Vladimir (I)
+1786		Andriani, Oscar
+1787		Andrianos, Vasos
+1788		Andric, Miodrag (I)
+1789		Andrichuk, Darren
+1790		Andrienko, Viktor
+1791		Andriescu, Virgil
+1792		Andrieux, Franck
+1793		Andrieux, Luc
+1794		Andriole, David
+1795		Andris, Martin
+1796		Andrisan, Rodrig
+1797		Andriy
+1798		Androgyn, Ichgola
+1799		Andronica, James
+1800		Andronico, Enzo
+1801		Andronidis, Vasos
+1802		Andrus, Robert Milo
+1803		Andrzejewski, Andrzej
+1804		Andrzejewski, Leonard
+1805		Andrès
+1806		André the Giant
+1807		André, Arnaldo
+1808		André, Bert
+1809		André, E.J.
+1810		André, Eric (I)
+1811		André, Marcel (I)
+1812		André, Michel (I)
+1813		André, Vittorio
+1814		André, Émile
+1815		Andréani, Jean-Pierre
+1816		Andréason, Willie
+1817		Andrée, Leif
+1818		Andréoni, Marc
+1819		Andrés López, Ángel de
+1820		Andrés, Manuel (I)
+1821		Andrés, Valeriano
+1822		Andrésen, Björn
+1823		Andô, Kazuo
+1824		Andô, Masanobu
+1825		Andô, Mitsuo
+1826		Andô, Noboru
+1827		Aneke, Emy
+1828		Anelli, Antonio
+1829		Angarano, Michael
+1830		Angarita, Gustavo
+1831		Angarola, Richard
+1832		Angel, Arthur
+1833		Angel, Ashley Parker
+1834		Angel, Jack (I)
+1835		Angel, John (II)
+1836		Angel, Mikel
+1837		Angelat, Josep Maria
+1838		Angeles, Bing
+1839		Angeles, Tommy
+1840		Angeles, Tony (II)
+1841		Angeletti, Luca
+1842		Angelidis, Rallis
+1843		Angelillo, Luigi
+1844		Angelini, Claudio
+1845		Angelini, Nando
+1846		Angelis, Michael
+1847		Angelis, Paul
+1848		Angell, Gabriel D.
+1849		Angelo, Jean (I)
+1850		Angelo, Jerry G.
+1851		Angelo, Ruben
+1852		Angelo, Vincent (I)
+1853		Angelopoulos, Theodoros
+1854		Angelov, Igor
+1855		Angelov, Yuri
+1856		Angelovski, Nikola-Kole
+1857		Angelucci, Elio
+1858		Angelus, Nick Rey
+1859		Angelvi, Thierry
+1860		Angelvin
+1861		Angely, François
+1862		Angely, Michel
+1863		Anger, Joel
+1864		Anger, Kenneth (I)
+1865		Anger, Mark
+1866		Anger, Zsolt
+1867		Angerkoski, Kaarlo
+1868		Anghel, David
+1869		Anghel, Ion
+1870		Anghelescu, Marcel
+1871		Anghelescu, Mircea
+1872		Anglada, Héctor
+1873		Anglada, Rafael
+1874		Anglade, Jean-Hugues
+1875		Angle, Kurt
+1876		Anglin, Chriss
+1877		Anglin, Michael D.
+1878		Angorrilla, José María
+1879		Angrisani, Angelo
+1880		Angrisano, Franco
+1881		Anguiano, Luis
+1882		Angulo, Álex
+1883		Anholt, Christien
+1884		Anichkin, Harry
+1885		Anido, Alfie
+1886		Aniez
+1887		Aniol, Michal
+1888		Anisimov, Aleksandr (I)
+1889		Anjaneyulu, Chilakalpud Seeta Rama
+1890		Anjorin, George
+1891		Anka, Paul
+1892		Anker, Conrad
+1893		Ankito
+1894		Ankrum, Morris
+1895		Ankudinov, Andrey
+1896		Anmol, Karamjit
+1897		Annachi, Imman
+1898		Annan, Jim
+1899		Annan, Kofi
+1900		Annanov, Baba
+1901		Annenberg Weingarten, Charles
+1902		Annenkov, Nikolai
+1903		Anniballi, Francesco
+1904		Annicelli, Corrado
+1905		Annichiarico, Vito
+1906		Annis, Adrian
+1907		Anno, Hideaki
+1908		Annuale, Armando
+1909		Anocic, Sasa
+1910		Anofriev, Oleg
+1911		Anom, M. Pandji
+1912		Anozie, Nonso
+1913		Ansah, Joey
+1914		Ansara, Michael
+1915		Ansari
+1916		Ansari, Aziz
+1917		Ansari, Nisar Ahmad
+1918		Anschütz, Ulrich
+1919		Anscombe, Nicholas
+1920		Anselmo, Pasquale
+1921		Anselmo, Tony
+1922		Anson, Alvin
+1923		Anstey, Norman
+1924		Ant
+1925		Ant, Adam
+1926		Antadze, Leo
+1927		Antaki, Joseph
+1928		Antal, Imre
+1929		Antal, István (I)
+1930		Antalffy, Alexander
+1931		Antalopoulos, Kostas
+1932		Antara, Oka
+1933		Antczak, Bogumil
+1934		Anteby, Charles
+1935		Anthoni, Aimé
+1936		Anthony II, Ken
+1937		Anthony Manaigo, Todd
+1938		Anthony Milton
+1939		Anthony, Bryan (I)
+1940		Anthony, Franklin
+1941		Anthony, Jackson
+1942		Anthony, Jamey
+1943		Anthony, Joseph Scott
+1944		Anthony, Josue
+1945		Anthony, Karl
+1946		Anthony, Keith (I)
+1947		Anthony, Marc (I)
+1948		Anthony, Michael (I)
+1949		Anthony, P.J.
+1950		Anthony, Paul (VI)
+1951		Anthony, Ray (I)
+1952		Anthony, Reed
+1953		Anthony, Todd (IV)
+1954		Anthony, Tony (I)
+1955		Anthony-Rodriguez, Philip
+1956		Anthopoulos, Babis
+1957		Antico, Pete
+1958		Antignati, Giuseppe
+1959		Antin, Steve
+1960		Antinori, Lamberto (I)
+1961		Antipov, Feliks
+1962		Antivilo, Daniel
+1963		Antoine, Benz
+1964		Antoine, Mark
+1965		Antolic, Davor (I)
+1966		Anton, Craig
+1967		Anton, Ferdinand
+1968		Anton, Florin (I)
+1969		Anton, Georg
+1970		Anton, George (I)
+1971		Anton, George (II)
+1972		Anton, Jerry
+1973		Anton, John (I)
+1974		Antonacci, Michael
+1975		Antonakos, Michael
+1976		Antonelli, Ennio
+1977		Antonelli, Roberto
+1978		Antoni, George
+1979		Antoni, Toni
+1980		Antonijevic, Dusan
+1981		Antonik, Vladimir
+1982		Antonini, Artemio
+1983		Antonini, Gabriele
+1984		Antonini, Marty
+1985		Antonio (I)
+1986		Antonio Garcia, Eduardo
+1987		Antonio, Alejandro
+1988		Antonio, Arbie
+1989		Antonio, Carlos (I)
+1990		Antonio, Gino (I)
+1991		Antonio, Jim
+1992		Antonio, Luis (V)
+1993		Antonio, Malony
+1994		Antonio, Marco (II)
+1995		Antonio, Nico
+1996		Antonio, Salvatore
+1997		Antoniou, Antonis (I)
+1998		Antoniu, Costache
+1999		Antonopoulos, Angelos
+2000		Antonosante, Yuri
+2001		Antonov, Aleksandr (I)
+2002		Antonsen, Atle
+2003		Antonucci, Stefano
+2004		Antonucci, Steve
+2005		Antonutti, Omero
+2006		Antony, Babu
+2007		Antony, Karl
+2008		Antony, Marcello
+2009		Antoon, Jason
+2010		Antos, Lukasz
+2011		Antrim, Harry
+2012		Antrim, Paul
+2013		Antunes, Sirmar
+2014		Antuña, Eduardo
+2015		Antón, David M.
+2016		Antón, Guillermo
+2017		Antônio, Ângelo (I)
+2018		Antônio, Ângelo (II)
+2019		Anvar, Cas
+2020		Anwar (I)
+2021		Anwar, Joko
+2022		Anyachonkeya, Toochukwu T.C.
+2023		Anysio, Chico
+2024		Anzell, Hy
+2025		Anzilotti, Perry
+2026		Anzuelo, David
+2027		Anzures, Lito
+2028		Anzures, Miguel
+2029		Anzures, Narding
+2030		Aníbal, Augusto
+2031		Aoi, Teruhiko
+2032		Aoki, Jozef
+2033		Aoki, Munetaka
+2034		Aoki, Steve
+2035		Aoki, Takuji
+2036		Aoki, Tomio
+2037		Aoki, Yoshirô
+2038		Aomori, Shin
+2039		Aono, Kiyoshi
+2040		Aono, Takeshi
+2041		Aoshima, Yukio
+2042		Aoyama, Hiroshi (I)
+2043		Aoyama, Kyoji
+2044		Aoyama, Sugisaku
+2045		Aoyama, Yoshihiko
+2046		Apacible, John
+2047		Apak, Sarp
+2048		Apali, Djedje
+2049		Apaolaza, Joseba
+2050		Aparo, Carlo
+2051		Apartian, Arto
+2052		Apatow, Judd
+2053		Apek, Saiful
+2054		Apel, Kenny
+2055		Apell, Ismo
+2056		Apergis, Andreas
+2057		Apfel, Oscar
+2058		Apicella, John
+2059		Apisa, Robert
+2060		Apitz, Bruno F.
+2061		Apkhaidze, Emanuel
+2062		Apolito, Cesare
+2063		Apollon, Dave
+2064		Apolloni, Camillo
+2065		Apolloni, Francesco
+2066		Aponte, Brandon Luis
+2067		Aponte, Gustavo
+2068		Apostolides, Nick
+2069		Apostolidis, Kostas
+2070		Apostolidis, Yannis
+2071		Apostolina, Stephen (I)
+2072		Appa Rao, Chidathala
+2073		Appel, Peter
+2074		Appel, Sam
+2075		Apper, Rusty
+2076		Apple, Mike (I)
+2077		Applebaum, Bill (I)
+2078		Applebaum, Noah
+2079		Appleby, Basil
+2080		Appleby, Noel
+2081		Appledorn, Ken
+2082		Applegate, Barrett
+2083		Applegate, Kenneth (I)
+2084		Applegate, Rick
+2085		Applegate, Roy
+2086		Applegate, Royce D.
+2087		Appling, Bert
+2088		Appukutty
+2089		Aprea, John
+2090		Aprea, Valerio
+2091		April, Chris (I)
+2092		Aprà, Adriano
+2093		Apsolon, Andrei
+2094		Apte, Ram
+2095		Apte, Vinay
+2096		Apáthi, Imre
+2097		Aquarian, Aesop
+2098		Aquilanti, Pacifico
+2099		Aquilino, Frank
+2100		Aquilon, Raymond
+2101		Aquino, Andy
+2102		Aquino, Benedict
+2103		Aquino, Butz
+2104		Aquino, Carlo
+2105		Aquino, Carlos (I)
+2106		Aquino, Jairus
+2107		Aquino, Manuel
+2108		Aquino, Roldan
+2109		Aquino, Rolly
+2110		Aquino, Tito (I)
+2111		Aquistapace, Jean
+2112		Aquitaine, Victor of
+2113		Aquitania, Antonio
+2114		Ara, Fabien (I)
+2115		Ara, Ture
+2116		Arabidze, Vaso (I)
+2117		Arabnia, Fariborz
+2118		Arabow, Boris
+2119		Aradits, Andrei
+2120		Arafat, Yasser
+2121		Aragon, Adriano
+2122		Aragon, Eric (I)
+2123		Aragon, Frank
+2124		Aragon, Jesse (I)
+2125		Aragon, Michael-David
+2126		Aragon, Ángel
+2127		Aragonn, Raoul
+2128		Aragão, Renato
+2129		Aragón, Carlos (I)
+2130		Aragón, Luis
+2131		Arahanga, Julian
+2132		Arai, Atsushi (II)
+2133		Arai, Atsushi (III)
+2134		Arai, Chû
+2135		Arai, Hirofumi
+2136		Arai, Iwae (II)
+2137		Arai, Jun (I)
+2138		Arai, Toshimitsu
+2139		Arai, Yasuhiro (I)
+2140		Araiza, Armando
+2141		Araiza, Raúl (I)
+2142		Araiza, Raúl (II)
+2143		Arakawa, Yoshiyoshi
+2144		Arakelov, Boris
+2145		Arakelov, Ion
+2146		Araki, Hirofumi (I)
+2147		Araki, Ichirô
+2148		Araki, Shinobu
+2149		Araki, Tarô
+2150		Araki, Yasuo
+2151		Aramboy, Kohtee
+2152		Aramondo, Pietro
+2153		Arana, Hugo
+2154		Arana, Iván
+2155		Arana, Tomas
+2156		Aranda, Juan Ignacio
+2157		Aranda, Raymund
+2158		Aranda, Rene
+2159		Aranda, Ángel
+2160		Arandjelovic, Stole
+2161		Araneta, Roden
+2162		Arango, Tonio
+2163		Aranguiz, Manuel
+2164		Aranha, Ray
+2165		Aranosky, Luis
+2166		Aranovich, David
+2167		Aranza, Fabián
+2168		Aras, Bulut
+2169		Arashi, Eijirô
+2170		Arashi, Kakumatsuro
+2171		Arashi, Kamesaburo
+2172		Arashi, Kanjûrô
+2173		Arashi, Kanzaburo
+2174		Arashi, Kitsuemon
+2175		Arashi, Kitsuraku
+2176		Arashi, Matsugorô
+2177		Arashi, Rihaku
+2178		Arashi, Ritoku
+2179		Arashi, San'emon
+2180		Arashi, Tachibana
+2181		Arashi, Tokusaburo
+2182		Arasteh, Mohsen
+2183		Arata, Luis
+2184		Arata, Michael
+2185		Arau, Alfonso
+2186		Araujo, Manuel F.
+2187		Aravind, Ramesh
+2188		Aravindan, Mala
+2189		Araya, Roberto (I)
+2190		Araya, Tom
+2191		Arbana, Reshat
+2192		Arbatt, Alexandre
+2193		Arbessier, Louis
+2194		Arbid, Johnny
+2195		Arbogast, Rob (I)
+2196		Arbona, Gilles
+2197		Arbore, Renzo
+2198		Arbuckle, Andrew (I)
+2199		Arbuckle, Macklyn
+2200		Arbuckle, Roscoe 'Fatty'
+2201		Arbus, Allan
+2202		Arbó, Manuel
+2203		Arca, Jefferson
+2204		Arca, Mel
+2205		Arcan, I. Galip
+2206		Arcand, Denys
+2207		Arcand, Gabriel
+2208		Arcand, Nathaniel
+2209		Arcanel, Yves
+2210		Arcangeli, Domiziano
+2211		Arcangeli, Fernando
+2212		Arcaraz, Luis (I)
+2213		Arcari, Arturo
+2214		Arce, Enrique (II)
+2215		Arce, Pedro Miguel
+2216		Arce, Robert
+2217		Arcella, Salvador
+2218		Arceo, John
+2219		Archambault, Neville
+2220		Archambault, Sylvio
+2221		Archambo, Archie
+2222		Archard, Bernard (I)
+2223		Archdale, Alexander
+2224		Archdeacon, Tom
+2225		Archenoul, Benoît
+2226		Archer, Harry
+2227		Archer, John (I)
+2228		Archer, Lou
+2229		Archer, Mike (IX)
+2230		Archer, Paul (II)
+2231		Archer, Wayne (I)
+2232		Archerd, Army
+2233		Archetti, Alberto
+2234		Archibald, Craig
+2235		Archibeque, Andrew
+2236		Archie, John
+2237		Archuleta, Lionel
+2238		Archvadze, Tengiz
+2239		Arcidi, Ted
+2240		Arcilla, John
+2241		Arciman, Muhip
+2242		Arciniega, Max
+2243		Arco, Louis V.
+2244		Arcopinto, Gianluca
+2245		Arcos, Rafael (I)
+2246		Arcos, Rafael (II)
+2247		Arcoverde, Athayde
+2248		Arcusín, Norberto
+2249		Ardan, Michel
+2250		Ardavany, Tom
+2251		Ardell, Franklyn
+2252		Ardell, John (I)
+2253		Arden, Eddie
+2254		Arden, James (I)
+2255		Arden, Neal
+2256		Arden, Robert (I)
+2257		Ardenstam, Sten
+2258		Ardeshir, Sohrab
+2259		Ardezzone, Chuck
+2260		Ardia, Pinuccio
+2261		Ardisson, Edmond
+2262		Ardisson, George
+2263		Arditi, Pierre
+2264		Ardito, Gino
+2265		Arditti, Philip
+2266		Ardizoni, John
+2267		Ardouin, Jacques
+2268		Arduman, Refik Kemal
+2269		Areces, Carlos
+2270		Arellano, Carlos (II)
+2271		Arellano, Ching
+2272		Arellano, Raul (I)
+2273		Arellano, Ric
+2274		Arellano, Richard
+2275		Aren, Rein
+2276		Arena, Bruno
+2277		Arena, Ettore
+2278		Arena, Fortunato
+2279		Arena, Giancarlo
+2280		Arena, Lello
+2281		Arena, Maurizio (I)
+2282		Arena, Rodolfo
+2283		Arenas, Eddie
+2284		Arenas, Jun
+2285		Arenas, Miguel
+2286		Arenas, Reynaldo (II)
+2287		Arenberg, Lee
+2288		Arend, Frank
+2289		Arend, Geoffrey
+2290		Arendt, Ekkehard
+2291		Arengo, Guillermo
+2292		Arenillas, Fabián
+2293		Arenkens, Paul
+2294		Arens, Peter (I)
+2295		Arensen, Robert
+2296		Arent, Eddi
+2297		Arentz-Hansen, Lars
+2298		Arentzen, Jens
+2299		Arenzana, Francisco
+2300		Areosa, Francisco
+2301		Aresco, Joey
+2302		Arestrup, Niels
+2303		Areu, David
+2304		Arevalo, Fernando
+2305		Arevalo, Robert (I)
+2306		Arevalo, Robert (II)
+2307		Arevalo, Tito
+2308		Arey, Wayne
+2309		Arfvidson, Victor
+2310		Argame, Boyet
+2311		Argentero, Luca
+2312		Argentin, Christian
+2313		Argento, Dario
+2314		Argento, Jayson
+2315		Argenziano, Carmen
+2316		Argibay, Alberto
+2317		Argiro, Vinny
+2318		Argo, Victor
+2319		Argoitia, José Ramón
+2320		Argue, David
+2321		Argue, Karl (I)
+2322		Argus, Alfred
+2323		Argus, Edwin
+2324		Argus, Frank
+2325		Argyris, Giannis
+2326		Argüelles, Guillermo
+2327		Argüelles, José
+2328		Arhoff, Christian (I)
+2329		Aria, Max
+2330		Aria, Mojean
+2331		Arian, Marc
+2332		Ariani, Giorgio
+2333		Arias, Imanol
+2334		Arias, Joseph
+2335		Arias, Mario (I)
+2336		Arias, Moises
+2337		Arias, Octávio
+2338		Arias, Pepe (I)
+2339		Arias, Rodolfo
+2340		Arias, Yancey
+2341		Ariburnu, Orhon M.
+2342		Arici, Yüksel
+2343		Arief, Hamid
+2344		Arikan, Cevdet
+2345		Arikawa, Masaharu
+2346		Ariki, Santa
+2347		Arima, Koji
+2348		Arimoto, Kinryû
+2349		Arioli, Don
+2350		Aris, Ben (I)
+2351		Aris, Jonathan
+2352		Arishima, Ichirô
+2353		Arison, Amir
+2354		Aristarain, Adolfo
+2355		Aristone, Ed
+2356		Aristorenas, Jun
+2357		Aristorenas, Robin (II)
+2358		Aristu, Jesús
+2359		Aristu, Miguel Ángel
+2360		Arita, Hiroyuki
+2361		Arius, Henri
+2362		Ariza, Liche
+2363		Arizmendi, Moises
+2364		Ariznavarreta, Román
+2365		Arizono, Yoshiki
+2366		Arizpe, Edmundo
+2367		Arié, Bruno
+2368		Ariño, Jon
+2369		Arja, Janardhana Rao
+2370		Arjmand, Dariush
+2371		Arjun (I)
+2372		Arjun (II)
+2373		Arjun, Allu
+2374		Arjun, Raj
+2375		Ark, Michael
+2376		Arkansas, Pierre
+2377		Arkema, David
+2378		Arkin, Adam
+2379		Arkin, Alan
+2380		Arkin, Anthony
+2381		Arkin, Cüneyt
+2382		Arkin, David
+2383		Arkin, Matthew
+2384		Arkush, Allan
+2385		Arlaud, Swann
+2386		Arledge, John
+2387		Arlen, Richard
+2388		Arli, Hayri
+2389		Arling, Charles
+2390		Arliss, George
+2391		Arm, Mark
+2392		Arman (I)
+2393		Arman, Aytaç
+2394		Armana, Jules
+2395		Armand, Eilif
+2396		Armand, Jean-Pierre
+2397		Armand, Jovan
+2398		Armando, Bruno
+2399		Armario, Miguel
+2400		Armas, Adrian
+2401		Armato, Dominic
+2402		Armatrading, Tony
+2403		Armendáriz Jr., Pedro
+2404		Armendáriz, Héctor
+2405		Armendáriz, Pedro
+2406		Armengod, Ramón
+2407		Armenis, Fotis
+2408		Armesto, Sebastian
+2409		Armet, Javier
+2410		Armetta, Henry
+2411		Armijo, John L.
+2412		Armijo, Phil
+2413		Armisen, Fred
+2414		Armitage, Graham
+2415		Armitage, Richard (I)
+2416		Armiza, Nelson
+2417		Armknecht, Martin
+2418		Armontel, Roland
+2419		Armour, Dorv
+2420		Arms, Russell
+2421		Armstead, John
+2422		Armstrong, Airon
+2423		Armstrong, Alexander
+2424		Armstrong, Alun
+2425		Armstrong, Billie Joe
+2426		Armstrong, Billy (I)
+2427		Armstrong, Blake (I)
+2428		Armstrong, Brice
+2429		Armstrong, Charles (III)
+2430		Armstrong, Curtis
+2431		Armstrong, Fred (I)
+2432		Armstrong, Herb (I)
+2433		Armstrong, Hugo
+2434		Armstrong, John (XIII)
+2435		Armstrong, Justin (VI)
+2436		Armstrong, Lance (I)
+2437		Armstrong, Lee (I)
+2438		Armstrong, Louis (I)
+2439		Armstrong, Mark (VI)
+2440		Armstrong, Neil (I)
+2441		Armstrong, Paul (XI)
+2442		Armstrong, Peter (I)
+2443		Armstrong, R.G.
+2444		Armstrong, R.L.
+2445		Armstrong, Reed
+2446		Armstrong, Robert (I)
+2447		Armstrong, Simon (I)
+2448		Armstrong, Vaughn
+2449		Armstrong, Vic
+2450		Armstrong, Wes
+2451		Armstrong, Will (I)
+2452		Armstrong, William (I)
+2453		Armus, Sidney
+2454		Arnal, Jacky
+2455		Arnal, Laurent
+2456		Arnaldi, Arnaldo
+2457		Arnaldo, Tony
+2458		Arnatt, John (I)
+2459		Arnaud, François (II)
+2460		Arnaud, Jean-Claude
+2461		Arnaudy, Alexandre
+2462		Arnaz Jr., Desi
+2463		Arnaz, Desi
+2464		Arnbak, Alfred
+2465		Arndt, Denis
+2466		Arndt, Ernst
+2467		Arndt, Jacques
+2468		Arne, Peter
+2469		Arness, Andy
+2470		Arness, James (I)
+2471		Arnett, Will
+2472		Arnfinnsson, Róbert
+2473		Arngrim, Stefan
+2474		Arnheim, Gus
+2475		Arnheim, Valy
+2476		Arno (I)
+2477		Arno, Bruno
+2478		Arno, Nick
+2479		Arno, Sig
+2480		Arnold Jr., Edward
+2481		Arnold, Bryan (I)
+2482		Arnold, Daniel (II)
+2483		Arnold, David A. (II)
+2484		Arnold, Edward (I)
+2485		Arnold, Eric (XII)
+2486		Arnold, Evan (I)
+2487		Arnold, Frank (I)
+2488		Arnold, Gordon (I)
+2489		Arnold, Haakon
+2490		Arnold, Henry
+2491		Arnold, Jim (III)
+2492		Arnold, John (VI)
+2493		Arnold, Justin (I)
+2494		Arnold, Ken (II)
+2495		Arnold, Kevin (III)
+2496		Arnold, Larry (I)
+2497		Arnold, Madison
+2498		Arnold, Mark (I)
+2499		Arnold, Michael William
+2500		Arnold, Monty
+2501		Arnold, Paul Thomas
+2502		Arnold, Phil (I)
+2503		Arnold, Sydney
+2504		Arnold, Thomas (I)
+2505		Arnold, Thomas (II)
+2506		Arnold, Tom (I)
+2507		Arnold, Victor (II)
+2508		Arnold, William (I)
+2509		Arnone, Marcello
+2510		Arnote, Neil
+2511		Arnott, Curtis
+2512		Arnott, David (I)
+2513		Arnott, Mark (I)
+2514		Arnott, Stewart (I)
+2515		Arnoux, Jean-Marie
+2516		Arnoux, Robert (I)
+2517		Arnst, Hendrik
+2518		Arnt, Charles
+2519		Aro, Matti (I)
+2520		Aromaa, Teemu
+2521		Aron, Jean (I)
+2522		Aronin, Michael (I)
+2523		Aronis, Dimitri
+2524		Aronov, Michael
+2525		Arons, Steve
+2526		Arora, Gulshan
+2527		Arora, Harbans Darshan M.
+2528		Arora, Vijay
+2529		Arosenius, Per-Axel
+2530		Arouca, Eduardo
+2531		Arozamena, Eduardo (I)
+2532		Arpan, Urip
+2533		Arpe, Johannes (I)
+2534		Arpesella, Peter
+2535		Arpino, Tony
+2536		Arquette, David (I)
+2537		Arquette, Lewis
+2538		Arquette, Richmond
+2539		Arquillière, Alexandre
+2540		Arquillué, Pere
+2541		Arquimbau, Carles
+2542		Arquimbau, Enric
+2543		Arrabal, Fernando
+2544		Arratia, José
+2545		Arraza, Ding
+2546		Arredondo, César
+2547		Arredondo, Enric
+2548		Arrelia
+2549		Arrendell, George
+2550		Arreola, Edgar (I)
+2551		Arreola, Enrique
+2552		Arreola, Rene
+2553		Arriaga, Felipe (I)
+2554		Arriaga, Jorge (I)
+2555		Arriaga, Simón
+2556		Arribas, David (II)
+2557		Arribas, Miguel
+2558		Arribas, Norberto
+2559		Arrieta, Julio
+2560		Arrieta, Luis (I)
+2561		Arrieta, Santiago
+2562		Arrington, Jeffrey
+2563		Arriola, Armando
+2564		Arroita-Jáuregui, Marcelo
+2565		Arroyo, Daniel (I)
+2566		Arroyo, Danny
+2567		Arroyo, Dindo
+2568		Arroyo, Kenny
+2569		Arroyo, Luis (II)
+2570		Arroyo, Tizoc
+2571		Arruda, Genésio
+2572		Arsene, Mihai
+2573		Arseven, Sakir
+2574		Arsic, Tihomir
+2575		Arsinel, Alexandru
+2576		Arsov, Kalin
+2577		Arsovski, Petre
+2578		Arsoy, Göksel
+2579		Arsu, Nono
+2580		Artarne, Wong
+2581		Artaud, Antonin
+2582		Arteaga, Toni
+2583		Artell, Eric
+2584		Artemel, Talat
+2585		Arten, Jur
+2586		Artero, Juanjo
+2587		Artesi, Benito
+2588		Arthur, Benjamin
+2589		Arthur, Bennie
+2590		Arthur, Charles (I)
+2591		Arthur, Donald
+2592		Arthur, George K.
+2593		Arthur, Johnny
+2594		Arthur, Jon (II)
+2595		Arthur, Michael (I)
+2596		Arthur, Noel (I)
+2597		Arthur, Robert (I)
+2598		Arthurs, Douglas
+2599		Artsibashev, Sergey
+2600		Artun, Kenan
+2601		Artun, Sevki
+2602		Artur, José
+2603		Artura, Michael
+2604		Arturo, Michael
+2605		Artus, Ashley
+2606		Arun (I)
+2607		Arun (II)
+2608		Arun (VI)
+2609		Arundell, Dennis (I)
+2610		Arundell, Teddy
+2611		Arute, William
+2612		Arvan, Jan
+2613		Arvanitakis, Makis
+2614		Arvanitakis, Marios
+2615		Arvanitis, Nicos
+2616		Arvedson, Ragnar
+2617		Arvel, Léon
+2618		Arvelo, Leandro
+2619		Arvide, Manuel
+2620		Arvizu, Adalberto
+2621		Arvizu, Jorge
+2622		Arvor, Sven
+2623		Ary, Hélio
+2624		Ary, Jack
+2625		Arzate, Marco Antonio
+2626		Arzdorf, Franz
+2627		Arzhanov, Pyotr
+2628		Arzhilovsky, Aleksandr
+2629		Arzoglou, Costas
+2630		Arzu, Alexander
+2631		Arzumanyan, Yervant
+2632		Aráoz, Daniel
+2633		Aréhn, Nils
+2634		Arévalo
+2635		Arévalo, Mario
+2636		Arévalo, Raúl (I)
+2637		Asada, Atsushi (II)
+2638		Asada, Kenji
+2639		Asadzade, Dariush
+2640		Asaka, Shinpachirô
+2641		Asakawa, Toru
+2642		Asami, Hiroshi
+2643		Asami, Koshirô
+2644		Asano, Kazuyuki (I)
+2645		Asano, Setsu
+2646		Asano, Shinjirô
+2647		Asano, Tadanobu
+2648		Asanti, Pat
+2649		Asari, Yôsuke
+2650		Asau, Tui
+2651		Asby, Jens
+2652		Asbæk, Pilou
+2653		Ascenzo, Bruno
+2654		Aschenbach, Siegmund
+2655		Ascher, Oszkár
+2656		Asefa, Alexander (I)
+2657		Asghar, Ali (I)
+2658		Ash, Arty
+2659		Ash, Jonathon
+2660		Ash, Kevin (II)
+2661		Ash, Rick (II)
+2662		Ash, Russell
+2663		Ash, Sam (I)
+2664		Asha, Jade
+2665		Ashbrook, Dana
+2666		Ashby, Linden
+2667		Ashby, Robert (I)
+2668		Ashcroft, James (I)
+2669		Ashcroft, John (II)
+2670		Ashe, Martin
+2671		Ashe, Warren
+2672		Asher, James (I)
+2673		Asher, John (I)
+2674		Asher, Max
+2675		Asher, Peter
+2676		Ashford, Matthew (I)
+2677		Ashforde, Matthew (I)
+2678		Ashida, Shinsuke
+2679		Ashikawa, Makoto
+2680		Ashiku, Mario
+2681		Ashiya, Gannosuke
+2682		Ashiya, Kogan
+2683		Ashkenazi, Lior
+2684		Ashkin, Jeffrey
+2685		Ashley, Arthur
+2686		Ashley, Barry
+2687		Ashley, Edward (I)
+2688		Ashley, Graham (I)
+2689		Ashley, Herbert
+2690		Ashley, Jay (I)
+2691		Ashley, Joel
+2692		Ashley, John (I)
+2693		Ashley, Kurek
+2694		Ashley, Marcus (I)
+2695		Ashley, Peter (I)
+2696		Ashlock, Jesse
+2697		Ashlocke, Luke
+2698		Ashman, Christopher
+2699		Ashmore, Aaron
+2700		Ashmore, Frank
+2701		Ashmore, Shawn
+2702		Ashok (I)
+2703		Ashokan (I)
+2704		Ashokan, S.A.
+2705		Ashokan, Vincent
+2706		Asholt, Jesper
+2707		Ashton, Al
+2708		Ashton, Charles
+2709		Ashton, John (I)
+2710		Ashton, Paul (I)
+2711		Ashton, Tom (V)
+2712		Ashton-Griffiths, Roger
+2713		Ashwath
+2714		Ashworth, Chris (II)
+2715		Ashworth, Dicken
+2716		Ashworth, Landon
+2717		Ashworth, Mark (I)
+2718		Asiedu, Kojo (I)
+2719		Asikainen, Joel
+2720		Asinas, Ronald
+2721		Asitbaran
+2722		Ask, Bernie
+2723		Askam, Earl
+2724		Askari, Shahab
+2725		Aske, Per Egil
+2726		Askew, Desmond
+2727		Askew, Luke (I)
+2728		Askey, Arthur
+2729		Askin, Ihsan
+2730		Askin, Leon
+2731		Askin, Tony
+2732		Asklöf, Bob
+2733		Askonas, Paul
+2734		Askwith, Robin
+2735		Aslam, Kasim (I)
+2736		Aslan, Alp
+2737		Aslan, Gabriel
+2738		Aslan, Grégoire
+2739		Aslan, Martin
+2740		Aslan, Mehmet (I)
+2741		Aslan, Raoul
+2742		Aslan, Sayavush
+2743		Aslani, Farhad
+2744		Aslantug, Mehmet
+2745		Asmundson, Jaimz
+2746		Asmussen, Michael
+2747		Asmussen, Svend
+2748		Asner, Edward
+2749		Aso, Tomohisa
+2750		Asokan (I)
+2751		Asokan, Chempil
+2752		Asokan, Harisree
+2753		Asopa, Mukesh
+2754		Asparagus, Fred
+2755		Aspel, Michael
+2756		Aspelin, Tobias
+2757		Asplin, Per
+2758		Asqeriu, Bujar
+2759		Asquerino, Mariano
+2760		Asquith-Coe, Lee
+2761		Asrani
+2762		Assad, Richard
+2763		Assaf, Roy
+2764		Assange, Julian
+2765		Assante, Armand
+2766		Assante, Marco
+2767		Assar, Abdel Waress
+2768		Assböck, Joachim Paul
+2769		Asselin, Paul (I)
+2770		Assink, Cory
+2771		Assmann, Arno
+2772		Asso, Pierre
+2773		Assor, Adolfo (I)
+2774		Assunção, António
+2775		Assunção, Fábio
+2776		Asta (II)
+2777		Astaire, Fred
+2778		Astaman
+2779		Astangov, Mikhail
+2780		Astar, Ben
+2781		Aste, Fabio
+2782		Asthana, Ragesh
+2783		Asther, Nils
+2784		Asti, Gordon James
+2785		Astier, Alexandre
+2786		Astier, Lionnel
+2787		Astier, Simon
+2788		Astileanu, Dan
+2789		Astin, John
+2790		Astin, Mackenzie
+2791		Astin, Sean
+2792		Astin, Skylar
+2793		Astol, Paco
+2794		Aston, Michael (III)
+2795		Astor, Andrew
+2796		Astoyan, Chris
+2797		Astrakakis, Yannis
+2798		Asturias, Carpi
+2799		Astyr, Bobby
+2800		Asuncion, Bert
+2801		Asuncion, Jason
+2802		Asuncion, Johnny
+2803		Aswathep, Manop
+2804		Asín, José María
+2805		Atak
+2806		Atanasov, Bogumil
+2807		Atanassov, Atanass
+2808		Atarashi, Katsutoshi
+2809		Atasoy, Irfan (I)
+2810		Ataç, Abdullah
+2811		Atchley, Hooper
+2812		Ateah, Scott J.
+2813		Ates, Bahri
+2814		Ates, Roscoe
+2815		Atherlay, Mark
+2816		Atherton, William (I)
+2817		Athon, Pierre
+2818		Atienza, Bernard
+2819		Atifi, Zakaria
+2820		Atis, Resmine
+2821		Atish, Sayani
+2822		Atkin, Harvey
+2823		Atkine, Féodor
+2824		Atkins, Christopher
+2825		Atkins, Dave (I)
+2826		Atkins, John (XII)
+2827		Atkins, Lasco
+2828		Atkins, Robert (I)
+2829		Atkins, Tom (I)
+2830		Atkinson, Frank (I)
+2831		Atkinson, George (I)
+2832		Atkinson, Mark (V)
+2833		Atkinson, Rowan
+2834		Atkinson, Tad
+2835		Atkinson, Toren
+2836		Atlas, Georges
+2837		Atlassi, Siamak
+2838		Atli, Zafer
+2839		Atrakchi, David (I)
+2840		Atsma, Barry
+2841		Atsumi, Kiyoshi
+2842		Atsumi, Kuniyasu
+2843		Attal, Henri
+2844		Attal, Yvan
+2845		Attanasio, Giovanni
+2846		Attanasio, Ugo
+2847		Attaran, Reza
+2848		Atteberry, Mark
+2849		Attell, Dave
+2850		Attenborough, David
+2851		Attenborough, Richard
+2852		Atterbury, Malcolm
+2853		Attfield, Ian
+2854		Attia, Constantine
+2855		Attila (VII)
+2856		Attrill, Daniel
+2857		Atuma, Pascal (I)
+2858		Atuner, Ferdi (I)
+2859		Atwater, Barry
+2860		Atwell, Roy
+2861		Atwill, Lionel
+2862		Atwood, Christopher (I)
+2863		Atzenbeck, Sascha
+2864		Atô, Kai
+2865		Au Yeung, Kim
+2866		Au, Hin-Wai
+2867		Au, Jimmy
+2868		Au, Stephen
+2869		Aube, Jonathan
+2870		Auberjonois, Remy
+2871		Auberjonois, Rene
+2872		Aubert, Georges
+2873		Aubert, Pascal
+2874		Aubert, Robin
+2875		Aubert, Xavier (II)
+2876		Aubert, Yves
+2877		Aubier, Pascal
+2878		Aubin, Cyril
+2879		Aubrey, James
+2880		Aubrey, Jimmy
+2881		Aubuchon, Jacques
+2882		Auclair, J.P.
+2883		Auclair, Michel (I)
+2884		AuCoin, Kelly
+2885		Aude, Erik
+2886		Aude, Peter (I)
+2887		Audenaert, Tom
+2888		Audenino, Francisco
+2889		Auder, Michel
+2890		Audier, Marc
+2891		Audivert, Pompeyo
+2892		Audley, Kentucker
+2893		Audreson, Michael
+2894		Audubert, Louis-Marie
+2895		Auen, Carl
+2896		Auer, Erich
+2897		Auer, John (I)
+2898		Auer, Mischa
+2899		Auer, Pentti
+2900		Aufair, Maurice
+2901		Aufaure, Claude
+2902		Auger, Emmanuel
+2903		Augier, Albert
+2904		August, Edwin
+2905		August, Hal
+2906		August, Lance
+2907		Augusta, Karel
+2908		Augustin, Dieter
+2909		Augustin, William
+2910		Augustine (I)
+2911		Augusto, Otávio
+2912		Augustus, Sherman
+2913		Augustyn, Boguslaw
+2914		Auker, David
+2915		Aukerman, Scott
+2916		Aulakh, Darshan
+2917		Aulakh, Ratan
+2918		Aulisi, Arthur (I)
+2919		Aulos, Matti
+2920		Aumard, Alban
+2921		Aumont, Jean-Pierre
+2922		Aumont, Michel
+2923		Aune, Carson
+2924		Aura, Alejandro
+2925		Aurand, Philipp
+2926		Aureli, Andrea
+2927		Aurelius, Marcus (I)
+2928		Auret, Brandon
+2929		Auriemma, Anthony
+2930		Ausem, David (I)
+2931		Ausensi, Pablo
+2932		Aussedat, Pierre
+2933		Aust, Peter
+2934		Austen, Marc Alan
+2935		Austin, Albert
+2936		Austin, Alex (I)
+2937		Austin, Chase (II)
+2938		Austin, Ford
+2939		Austin, Frank (I)
+2940		Austin, Gene (I)
+2941		Austin, Harold (I)
+2942		Austin, Jake T.
+2943		Austin, Jeff (I)
+2944		Austin, Jere
+2945		Austin, Leslie (I)
+2946		Austin, Paul (I)
+2947		Austin, Phil (II)
+2948		Austin, Randy (I)
+2949		Austin, Steve (IV)
+2950		Austin, Terry (IV)
+2951		Austin, William (I)
+2952		Austin-Olsen, Shaun
+2953		Austria, Mike
+2954		Aute, Luis Eduardo
+2955		Auteuil, Daniel
+2956		Autin, Cyrille
+2957		Autiovuori, Pekka
+2958		Autran, Paulo
+2959		Autry, Alan
+2960		Autry, Gene (I)
+2961		Auvinen, Vilho
+2962		Auzel, Maurice
+2963		Avalier, Don
+2964		Avallone, David
+2965		Avallone, Tommy
+2966		Avalon, Frankie
+2967		Avalos, Jason D.
+2968		Avalos, Luis (I)
+2969		Avar, István
+2970		Avari, Erick
+2971		Avasarala, Srinivas
+2972		Avati, Pupi
+2973		Avci, Atif
+2974		Avdeliodis, Dimos
+2975		Avdyushko, Viktor
+2976		Avedikian, Serge
+2977		Avedissian, Edwin
+2978		Avedon, Loren
+2979		Aveline, Dominique
+2980		Avelino, Paulo
+2981		Avellana, Joe Mari
+2982		Avello, Felipe
+2983		Avellán, Jaime
+2984		Avena, Emmanuel
+2985		Avendaño, José Luis
+2986		Aveni, Anthony
+2987		Avens, Harijs
+2988		Averill, Anthony
+2989		Averill, Ric
+2990		Averlant, Eric
+2991		Averone, Alessandro
+2992		Avers, Brian
+2993		Avery, Anthony (I)
+2994		Avery, Brian (I)
+2995		Avery, Charles (I)
+2996		Avery, David (VII)
+2997		Avery, Emile
+2998		Avery, James (I)
+2999		Avery, Rick
+3000		Avery, Scott (I)
+3001		Avery, Tex (I)
+3002		Avery, Tol
+3003		Avery, Val
+3004		Avetisyan, Avet
+3005		Avgoustidis, Orfeas
+3006		Avgoustis, George
+3007		Aviel, Joseph
+3008		Avigdori, Jonathan
+3009		Avila, Jon
+3010		Avila, Omar
+3011		Avila, Tom
+3012		Aviles, Rick
+3013		Aviles, Vic
+3014		Avilov, Viktor
+3015		Avilés, Miguel (I)
+3016		Avinash (I)
+3017		Avital, Icho
+3018		Avivi, Shai
+3019		Avlonitis, Vasilis
+3020		Avner, Jon
+3021		Avni, Aki
+3022		Avocat, Jean-Marc
+3023		Avon, Roger
+3024		Avonde, Richard
+3025		Avram, Chris
+3026		Avril, Carlos
+3027		Avron, Philippe
+3028		Avsharov, Mukhtar
+3029		Avtar, Ram
+3030		Awad, Mohamed (I)
+3031		Awada, Alejandro
+3032		Awadzi, Selom
+3033		Awaji, Daisuke
+3034		Awane, Macoto
+3035		Awane, Makoto
+3036		Awasti, Raj
+3037		Awazu, Gô
+3038		Awie
+3039		Axberg, Eddie
+3040		Axel, Gabriel
+3041		Axelrod, Jack
+3042		Axelrod, Robert (I)
+3043		Axelson, Tage
+3044		Axelsson, Einar
+3045		Axton, Hoyt
+3046		Axzelle, Carl
+3047		Ay, Ismet
+3048		Ayala Blanco, Jorge
+3049		Ayala, Alexis (I)
+3050		Ayala, Andrew
+3051		Ayala, Carlos (I)
+3052		Ayala, Guillermo
+3053		Ayala, Noel 'Ungga'
+3054		Ayala, Omar
+3055		Ayano, Gô
+3056		Ayanoglu, Bora
+3057		Ayanoglu, Sami
+3058		Ayata, Toshiki
+3059		Aycart, Enrique
+3060		Aydan, Ege
+3061		Aydan, Kemal
+3062		Aydin, Orhan
+3063		Aydinli, Dündar
+3064		Ayer, Harold
+3065		Ayers, Bill
+3066		Ayers, John Douglas
+3067		Ayers, Sam
+3068		Ayers, Tom (I)
+3069		Aykanat, Orhan
+3070		Aykroyd, Dan
+3071		Aylesworth, Arthur
+3072		Ayliffe, Lindsay
+3073		Aylmer, Felix
+3074		Aylott, David (I)
+3075		Aylward, Derek
+3076		Aylward, John
+3077		Aymerich, Jaime
+3078		Aymerich, Juan
+3079		Aymé, Jean
+3080		Aynesworth, Alan
+3081		Ayones, Miguel
+3082		Ayoola, Abdul
+3083		Ayott, Seth
+3084		Ayral, Necdet Mahfi
+3085		Ayres, Benjamin
+3086		Ayres, Chris (I)
+3087		Ayres, Fraser
+3088		Ayres, Greg
+3089		Ayres, Lew
+3090		Ayres, Robert (I)
+3091		Ayres, Sydney
+3092		Ayrik, Ilker
+3093		Ayrton, Randle
+3094		Ayukawa, Hiroshi
+3095		Ayupov, Rim
+3096		Ayuso, Manuel
+3097		Ayuso, Sayago (I)
+3098		Azad (I)
+3099		Azad, Ali (I)
+3100		Azad, Mohammad Hanif
+3101		Azami, Yousuf
+3102		Azarcon, Hyubs
+3103		Azaria, Hank
+3104		Azarian, Nicholas
+3105		Azarly, Koby
+3106		Azaïs, Kévin
+3107		Azaïs, Paul
+3108		Azaña, Mariano
+3109		Azcona, Ahcitz
+3110		Azeez (II)
+3111		Azerot, Alain
+3112		Azevedo, Dionísio
+3113		Azevedo, Jonathan
+3114		Azevedo, Odilon
+3115		Azim, Hajjaj Abdul
+3116		Azimov, Rafiq
+3117		Azito, Tony
+3118		Aziz, Aaron (I)
+3119		Aziz, Rutkay
+3120		Azizbeili, Ramiz
+3121		Azizi, Anthony
+3122		Azmi, Ahmed
+3123		Aznavour, Charles
+3124		Azo, Anatoliy
+3125		Azorín, Eloy
+3126		Azoulay, Alain (II)
+3127		Azulay, Ricardo
+3128		Azuma, Chiyonosuke
+3129		Azuma, Jirô
+3130		Azuma, Ryônosuke
+3131		Azuma, Yûji
+3132		Azurdia, Richard
+3133		Azzaretto, Calogero
+3134		Azzato, Joe
+3135		Azzouz, Yassine
+3136		Azzurri, Paolo
+3137		Açan, Ahmet
+3138		Açikalin, Peker
+3139		B-Real
+3140		B., Bela
+3141		Baadila, Fauzi
+3142		Baaron
+3143		Baas, Balduin
+3144		Baay, Chris
+3145		Baba, Kamer
+3146		Baba, Ryôma
+3147		Baba, Toru
+3148		Babalu (I)
+3149		Babasa, Telly
+3150		Babatundé, Obba
+3151		Babban (I)
+3152		Babbar, Arya
+3153		Babbar, Raj
+3154		Babbin, James
+3155		Babbitt, Grant
+3156		Babbitt, Harry
+3157		Babcock, Ron
+3158		Babcock, Todd
+3159		Babcock, Tony
+3160		Babel, Jim
+3161		Babet, Doudou
+3162		Babiak, Paul (I)
+3163		Babiarz, Gary
+3164		Babic, Marin
+3165		Babic, Mario
+3166		Babic, Mirko
+3167		Babich, David (I)
+3168		Babikian, André
+3169		Babilée, Jean
+3170		Babilée, Yann
+3171		Babin, Karim
+3172		Babish, Robert
+3173		Babka, Václav
+3174		Babkauskas, Bronius
+3175		Babloo (I)
+3176		Babloo (V)
+3177		Babluani, George
+3178		Babochkin, Boris
+3179		Babola, Stan
+3180		Babson, James (I)
+3181		Babu (XLV)
+3182		Babu Mohan
+3183		Babu, Giri (I)
+3184		Babu, Idavela
+3185		Babu, Jagapathi
+3186		Babu, Jani (II)
+3187		Babu, Kalasala
+3188		Babu, Mahesh (I)
+3189		Babu, Mohan (I)
+3190		Babu, Raghu
+3191		Babu, Ravi (I)
+3192		Babu, Sarath (I)
+3193		Babu, Shobhan
+3194		Babu, Vijay
+3195		Baburaj (I)
+3196		Baburao (I)
+3197		Babusan
+3198		Baby LeRoy
+3199		Baby, Patrick
+3200		Baby, Sady
+3201		Baca, Johnny
+3202		Bacala, Apollo
+3203		Bacall, Michael
+3204		Bacarella, Mike
+3205		Baccani, Ettore
+3206		Baccarin, Tito Livio
+3207		Baccaro, Salvatore
+3208		Bacchi, Ivan
+3209		Bach
+3210		Bach, Christoph (I)
+3211		Bach, Dirk
+3212		Bach, John (I)
+3213		Bach, Olaf
+3214		Bach, Reginald
+3215		Bachar, Dian
+3216		Bachchan, Abhishek
+3217		Bachchan, Amitabh
+3218		Bachelor, Andrew
+3219		Bachik, Harun Salim
+3220		Bachini, Christian
+3221		Bachlet, Rudolf
+3222		Bachman, Charles A.
+3223		Bachmann, Conrad
+3224		Bachmann, Karl
+3225		Bachmann, Michael (I)
+3226		Bachmann, Þorsteinn
+3227		Bachofner, Wolf
+3228		Bachurin, Boris
+3229		Bachurskiy, Sergey
+3230		Bachvarov, Lyubomir
+3231		Bacic, Steve
+3232		Bacic, Vladimir
+3233		Bacigalupi, Louis
+3234		Bacis, Matthew
+3235		Back, Yvon
+3236		Backer, Brian (I)
+3237		Backman, Anthony
+3238		Backman, Fritz-Hugo
+3239		Backus, Christopher
+3240		Backus, George (I)
+3241		Backus, Gus
+3242		Backus, Jim
+3243		Backus, Karl
+3244		Backus, Lionel
+3245		Backus, Sonny
+3246		Backy, Don
+3247		Bacon, Brendan
+3248		Bacon, Daniel (I)
+3249		Bacon, Irving
+3250		Bacon, James (I)
+3251		Bacon, Kevin (I)
+3252		Bacon, Lloyd
+3253		Bacon, Max
+3254		Bacon, Randall
+3255		Bacon, Rod
+3256		Bacon, Shelby
+3257		Bacon, Walter (I)
+3258		Baconnet, Georges
+3259		Bacovic, Marko
+3260		Bacqué, André
+3261		Bacri, Jean-Pierre
+3262		Bacurau, Zé
+3263		Bacuzzi, Marco
+3264		Badajena, Biju
+3265		Badalamenti II, Peter Donald
+3266		Badaloni, Rodolfo
+3267		Badalov, Karen
+3268		Badalucco, Michael
+3269		Badarau, Dan
+3270		Badeaux, Bear
+3271		Badek, Thomas
+3272		Badel, Alan
+3273		Bademsoy, Tayfun
+3274		Baden-Powell, Robert
+3275		Bader, Diedrich
+3276		Bader, John
+3277		Baderinwa, Richard
+3278		Badessi, Giancarlo
+3279		Badger, Jereme
+3280		Badgley, Penn
+3281		Badham, Mark
+3282		Badiceanu, Mihail
+3283		Badila, John
+3284		Badillo, César
+3285		Badin, André
+3286		Badin, Jean
+3287		Badrani, Antonio
+3288		Badreya, Sayed
+3289		Badu
+3290		Badár, Sándor
+3291		Badú, Antonio
+3292		Bae, Seong-woo
+3293		Bae, Su-cheon
+3294		Baek, Do-bin
+3295		Baek, Hwang-ki
+3296		Baek, Il-seob
+3297		Baek, Yeong-min
+3298		Baek, Yun-shik
+3299		Baena, Carlos (I)
+3300		Baer, Bogdan
+3301		Baer, Buddy
+3302		Baer, Dotan
+3303		Baer, Edouard
+3304		Baer, Harry
+3305		Baer, John (I)
+3306		Baer, Max (I)
+3307		Baer, Parley
+3308		Baessato, Giacomo
+3309		Baeza, Fernando
+3310		Baffert, Al
+3311		Baga, Nick
+3312		Bagagli, Francesco
+3313		Baganov, Vitali
+3314		Bagar, Andrej
+3315		Bagari, Ludvik
+3316		Bagarozzi, Dominic
+3317		Bagashvili, Spartak
+3318		Bagatsing, Raymond
+3319		Bagayawa, Eddie
+3320		Bagby, Larry
+3321		Bagchi, Arindol
+3322		Bagdad, William
+3323		Bagdasarian, Ross
+3324		Bagdonas, Vladas
+3325		Bagg, Jasper
+3326		Baggett, Bart
+3327		Baggot, King (I)
+3328		Bagh, Alan
+3329		Baghetti, Aristide
+3330		Baghino, Gianni
+3331		Aaliya
+3332		Aamani
+3333		Aames, Angela
+3334		Aaron, Caroline
+3335		Aarons, Bonnie
+3336		Aarthi
+3337		Aarti (I)
+3338		Aasia
+3339		Abad, Carmencita
+3340		Abad, Kaye
+3341		Abarrca, Eileen
+3342		Abascal, Margot
+3343		Abascal, Silvia (II)
+3344		Abashidze, Leila
+3345		Abayari, Anjanette
+3346		Abbadie, Axelle
+3347		Abbass, Hiam
+3348		Abbey, May
+3349		Abbott, Annie (I)
+3350		Abbott, Bryn
+3351		Abbott, Deborah
+3352		Abbott, Diahnne
+3353		Abbott, Dorothy
+3354		Abbott, Gypsy
+3355		Abbott, Kelsy
+3356		Abbott, Ursula
+3357		Abboud, Carol
+3358		Abd Elhadi, Maisa
+3359		Abdalla, Catarina
+3360		Abdel Aziz, Aida
+3361		Abdel Aziz, Dalal
+3362		Abdel Aziz, Lobna (I)
+3363		Abdel Aziz, Yasmin
+3364		Abdel Hamid, Berlanty
+3365		Abdel Razek, Ghada
+3366		Abdoo, Rose
+3367		Abdou, Ragaa
+3368		Abdul, Paula (I)
+3369		Abe, Haruka (I)
+3370		Abe, Hijiri
+3371		Abe, Natsumi
+3372		Abe, Sumiko
+3373		Abe, Tomori
+3374		Abecassis, Yaël
+3375		Abel, Christa
+3376		Abel, Ilse
+3377		Abelaïd, Sophie
+3378		Abella, Nanda
+3379		Abellana, Carla
+3380		Abergel, Rakefet
+3381		Aberle, Elke
+3382		Abernathy, Donzaleigh
+3383		Abernathy, Louisa
+3384		Abeßer, Doris
+3385		Abhilasha (I)
+3386		Abhinaya
+3387		Abhinayasri
+3388		Abhirami (I)
+3389		Abicht, Carin
+3390		Abigail (I)
+3391		Abildstrøm, Jytte
+3392		Abisinio, Nicole
+3393		Able, Whitney
+3394		Abma, Cynthia
+3395		Abney, Carol
+3396		Aboulafia, Romi
+3397		Abramo, Lélia
+3398		Abramovic, Marina
+3399		Abramson, Nicole (I)
+3400		Abreu, Cláudia
+3401		Abreu, Isabel (I)
+3402		Abril, Sílvia
+3403		Abril, Victoria
+3404		Abromeit, Susie
+3405		Abrus, Nada
+3406		Absalón, Ariel
+3407		Abt, Katharina
+3408		Abud, Liliana
+3409		Abul Foutouh, Nawal
+3410		Abur, Ioana
+3411		Acampora, Samantha
+3412		Acar, Neslihan
+3413		Acciai, Alessandra
+3414		Acevedo, Mari Ángeles
+3415		Aceves, Maria
+3416		Acharia, Amrita
+3417		Achille, J.D.
+3418		Achrekar, Bharati
+3419		Achternbusch, Judit
+3420		Aché, Cristina
+3421		Acker, Amy
+3422		Acker, Jean
+3423		Acker, Sharon
+3424		Ackerman, Alexandra (I)
+3425		Ackermann, Kathrin
+3426		Ackles, Danneel
+3427		Aclemar, Lily
+3428		Acosta, Juana
+3429		Acosta, Monica (I)
+3430		Acosta, Soledad
+3431		Acosta, Tamara
+3432		Acosta, Toni
+3433		Acquanetta
+3434		Acquart, Pauline
+3435		Acres, Ava
+3436		Acres, Isabella
+3437		Acs, Claudine
+3438		Acuna, Wanda
+3439		Adachi, Rika
+3440		Adachi, Yumi
+3441		Adahl, Joni
+3442		Adair, Alice (I)
+3443		Adair, Barbara
+3444		Adair, Belle
+3445		Adair, Carolyn (II)
+3446		Adair, Janice
+3447		Adair, Josephine
+3448		Adair, Phyllis
+3449		Adali, Handan
+3450		Adali, Nazan
+3451		Adam, Marie-Christine
+3452		Adam, Noëlle
+3453		Adamcíková, Olga
+3454		Adamek, Bozena
+3455		Adamovská, Zlata
+3456		Adamová, Jaroslava
+3457		Adams, Abigail (I)
+3458		Adams, Amy (III)
+3459		Adams, April (II)
+3460		Adams, Beverly (I)
+3461		Adams, Brooke (I)
+3462		Adams, Brooke Lee
+3463		Adams, Carol (II)
+3464		Adams, Cathy (I)
+3465		Adams, Claire (I)
+3466		Adams, Dora Mills
+3467		Adams, Dorothy (I)
+3468		Adams, Edie
+3469		Adams, Emily (II)
+3470		Adams, Genevieve (II)
+3471		Adams, Holly (I)
+3472		Adams, Jane (I)
+3473		Adams, Jane (II)
+3474		Adams, Jill (I)
+3475		Adams, Joey Lauren
+3476		Adams, Julia (I)
+3477		Adams, Julie (I)
+3478		Adams, Katherine (II)
+3479		Adams, Kathryn (I)
+3480		Adams, Kathryn (II)
+3481		Adams, Kristin (I)
+3482		Adams, Lillian
+3483		Adams, Lynne (I)
+3484		Adams, Mary (I)
+3485		Adams, Maud
+3486		Adams, Meelah
+3487		Adams, Polly (II)
+3488		Adams, Quanita
+3489		Adams, Rachel (IV)
+3490		Adams, Stella
+3491		Adams, Tiffany (II)
+3492		Adams, Tracey (I)
+3493		Adams, Wendy (I)
+3494		Adamson, Robyn (I)
+3495		Adamsson, Ann-Marie
+3496		Adani, Laura
+3497		Adari, Alessandra
+3498		Addams, Calpernia
+3499		Addams, Dawn
+3500		Adea, Perla
+3501		Adel, Ghada
+3502		Adelaide, Meredith
+3503		Adeliyi, Oluniké
+3504		Adell, Genevieve
+3505		Adelvard, Lis
+3506		Adeyto
+3507		Adhikari, Papiya
+3508		Adi, Alexandra
+3509		Adineh, Golab
+3510		Adiutori, Patrizia
+3511		Adjani, Isabelle
+3512		Adlawan, Irma
+3513		Adler, Gun
+3514		Adler, Jill
+3515		Adler, Joanna (I)
+3516		Adler, Judy
+3517		Adler, Rita
+3518		Adler, Sarah (II)
+3519		Adler, Shane
+3520		Adlon, Pamela
+3521		Adolph, Barbara
+3522		Adolphson, Kristina
+3523		Adomaitis, Alexandra
+3524		Adon, Raida
+3525		Adonis, Mae-ann
+3526		Adora, Gloria
+3527		Adorján, Éva (I)
+3528		Adorée, Renée
+3529		Adoum, Fatima
+3530		Adrario, Rosina
+3531		Adreadaki, Evangelia
+3532		Adrian, Iris
+3533		Adriana, Beatriz (I)
+3534		Adriani, Isabelle
+3535		Adriani, Patricia
+3536		Adrianna, Lynn
+3537		Adrienne, Amanda
+3538		Adriensen, Susan
+3539		Adusumilli, Anisha
+3540		Adverbe, Astrid
+3541		Adánez, María
+3542		Af Sandeberg, Helena
+3543		Affolter, Therese
+3544		Africa, Susan
+3545		Afshar, Mahnaz
+3546		Afsharzadeh, Mahshid
+3547		Ag-Santos, Len
+3548		Agafonova, Tatyana
+3549		Agagiotou, Koula
+3550		Agana, Tessie
+3551		Agapova, Nina
+3552		Agarwal, Aarti
+3553		Agarwal, Kajal
+3554		Agarwal, Sonia
+3555		Agbayani, Tetchie
+3556		Agcaoili, Adriana
+3557		Agena, Keiko
+3558		Agenin, Béatrice
+3559		Ager, Nikita
+3560		Ager, Suzanne
+3561		Agger, Petrine
+3562		Aggerholm, Ellen
+3563		Agha, Salma
+3564		Aghdashloo, Shohreh
+3565		Agnihotri, Rati
+3566		Agogué, Raphaëlle
+3567		Agopyan, Hasmik
+3568		Agor, Sarah
+3569		Agorreca, Laura
+3570		Agostini, Alexandrine
+3571		Agostino, Erin
+3572		Agrali, Müjgan
+3573		Agren, Janet
+3574		Agron, Dianna
+3575		Agudelo, Eliza
+3576		Aguglia, Mimi
+3577		Aguiar, Perla
+3578		Aguila, Yayo
+3579		Aguilar, Amalia
+3580		Aguilar, Apolonia
+3581		Aguilar, Araceli
+3582		Aguilar, Elizabeth
+3583		Aguilar, Luz María
+3584		Aguilar, Minnie
+3585		Aguilar, Orietta
+3586		Aguilar, Silvia
+3587		Aguilera, Christina
+3588		Aguilera, Marian
+3589		Aguillard, Rhonda Floyd
+3590		Aguilos, Kalila
+3591		Aguirre, Adriana (I)
+3592		Aguirre, Alma Rosa
+3593		Aguirre, Andrea (I)
+3594		Aguirre, Beatriz
+3595		Aguirre, Carmen (II)
+3596		Aguirre, Elsa
+3597		Aguirre, Hilda
+3598		Aguirre, Rosa (I)
+3599		Agut, Alicia
+3600		Agutter, Jenny
+3601		Ahangarani, Pegah
+3602		Ahern, Lassie Lou
+3603		Ahern, Peggy
+3604		Ahlers, Krystyna
+3605		Ahlroth, Milka
+3606		Ahluwalia, Dolly
+3607		Ahmad Daud, Fauziah
+3608		Ahmarova, Tanila
+3609		Ahmed, Khayria
+3610		Ahmed, Lalita
+3611		Ahmed, Samira (I)
+3612		Ahn, In-suk (I)
+3613		Ahn, So-yeong
+3614		Ahren, Barbara M.
+3615		Ahuet, Clarissa
+3616		Ahuja, Rita Rani
+3617		Ahvo, Eija
+3618		Ai, Michiko
+3619		Ai, Ti
+3620		Aibu, Saki
+3621		Aichbichler, Thea
+3622		Aichinger, Alessa
+3623		Aida, Sayaka
+3624		Aida, Umie
+3625		Aidem, Betsy
+3626		Aiello, Terese
+3627		Aihara, Kaori
+3628		Aihara, Kazumi
+3629		Aikawa, Keiko
+3630		Aikawa, Rikako
+3631		Aikman, Laura
+3632		Ailhaud, Yveline
+3633		Aime, Brigitte (I)
+3634		Aimedova, Maya-Gozel
+3635		Aimée, Anouk
+3636		Ainslee, Mary
+3637		Ainslie, Jean
+3638		Ainsworth, Helen
+3639		Ainsworth, Virginia
+3640		Aire, Tara
+3641		Aishwarya (I)
+3642		Aitken, Maria
+3643		Aitto, Anni
+3644		Aizawa, Rina
+3645		Aizawa, Tomomi (II)
+3646		Aizemberg, Adriana
+3647		Aizome, Kyôko
+3648		Aizome, Yumeko
+3649		Aja (I)
+3650		Aja (II)
+3651		Ajemian, Andrea
+3652		Ajoret, Danièle
+3653		Ajrula, Sabina
+3654		Akagi, Harue
+3655		Akagi, Ranko
+3656		Akana, Anna
+3657		Akane, Yûko
+3658		Akarsu, Aynur
+3659		Akaza, Miyoko
+3660		Akbag, Demet
+3661		Aked, Muriel
+3662		Akef, Naima
+3663		Akerman, Chantal
+3664		Akerman, Malin
+3665		Akersten, Donna
+3666		Akhedzhakova, Liya
+3667		Akhmedova, Nuriya
+3668		Akhmedova, Sabina
+3669		Akhtar, Sardar
+3670		Aki, Izumi
+3671		Aki, Jun
+3672		Akimoto, Chiemi
+3673		Akimoto, Naomi
+3674		Akin, Filiz (I)
+3675		Akin, Mary
+3676		Akino, Yôko
+3677		Akinshina, Oksana
+3678		Akita, Kaira
+3679		Akiyama, Rina
+3680		Akiyoshi, Kumiko
+3681		Akiyoshi, Kyôko
+3682		Akizuki, Mika
+3683		Akkaya, Nevin
+3684		Akkineni, Amala
+3685		Ako (I)
+3686		Akopian, Agnès
+3687		Aksel, Ayda
+3688		Aksoy, Nuran
+3689		Aksoy, Saadet
+3690		Aksu, Zeynep
+3691		Aktan, Zuhal
+3692		Aktolga, Sevda
+3693		Akulova, Irina
+3694		Akulova, Tamara
+3695		Akyamaç, Müge
+3696		Akçatepe, Leman
+3697		Al Hoda, Nour
+3698		Al-Bustami, Yasmine
+3699		Al-Giddawy, Ragaa
+3700		Alabora, Derya
+3701		Aladag, Feo
+3702		Alagh, Maya
+3703		Alain, Véronique
+3704		Alajar, Gina
+3705		Alaknanda
+3706		Alam, Natasha
+3707		Alamia, Anisa
+3708		Alamán, Olga (I)
+3709		Alan, Lori (I)
+3710		Alandh, Lissi
+3711		Alane, Annick
+3712		Alano, Kat
+3713		Alaoui, Morjana
+3714		Alaoui, Sanaa
+3715		Alarcón, Letícia
+3716		Alari, Nadine
+3717		Alaska (IV)
+3718		Alastruey, Aintzane
+3719		Alatalo, Emily
+3720		Alba, Jessica
+3721		Alba, Maria
+3722		Alba, Rose
+3723		Alba, Tota
+3724		Albach-Retty, Rosa
+3725		Albaladejo, Geli
+3726		Albani, Andrea (I)
+3727		Albani, Marcella
+3728		Albani, Maria Teresa
+3729		Albany, Fernande
+3730		Albarrán, Socorro
+3731		Alben, Adriana
+3732		Alberghetti, Anna Maria
+3733		Albers, Chantelle
+3734		Albert, Amy
+3735		Albert, Elsie
+3736		Albert, Laura (I)
+3737		Albert, Shari
+3738		Alberti, Anna Lina
+3739		Alberti, Aída
+3740		Alberti, Mathilde
+3741		Alberti, Sandra
+3742		Alberti, Viola
+3743		Albertini Dow, Ellen
+3744		Albertini, Linda
+3745		Albertini, Marta
+3746		Alberto, Ada
+3747		Albertoni, Gilda
+3748		Alberts, Elyse
+3749		Albertson, Grace
+3750		Albertson, Mabel
+3751		Albertus, Megan
+3752		Albihn, Karin
+3753		Albiin, Elsie
+3754		Albiin, Emmy
+3755		Albinoni, Luisa
+3756		Albrecht, Eleonora
+3757		Albrecht, Ina
+3758		Albrecht, Kate
+3759		Albrecht, Regine
+3760		Albright, Ariauna
+3761		Albright, Lola
+3762		Albright, Madeleine
+3763		Albry, Rina
+3764		Albu, Elena
+3765		Albuquerque, Marina
+3766		Alcala, Arlin
+3767		Alcalá, María Luisa
+3768		Alcantara, Girlie
+3769		Alcaïs, Aurélia
+3770		Alcañiz, Luana
+3771		Alcañiz, Muntsa
+3772		Alche, María
+3773		Alcoriza, Janet
+3774		Alcorn, Andrea
+3775		Alcover, Catherine
+3776		Alcoverro, Montse
+3777		Alcázar, Cristina (II)
+3778		Alcée, Gisèle
+3779		Alcón, Pilar
+3780		Alda, Rutanya
+3781		Aldana, Ana Luz
+3782		Aldana, Michelle
+3783		Alden, Chelsea
+3784		Alden, Dawn
+3785		Alden, Mary
+3786		Alderman, Jane
+3787		Alderslade, Natasha
+3788		Aldon, Mari
+3789		Aldrich, Chelsea (I)
+3790		Aldrich, Mariska
+3791		Aldrich, Rhonda (I)
+3792		Aldrich, Sarah (I)
+3793		Aldridge, Kay
+3794		Aleandro, Norma
+3795		Aledo, Marta
+3796		Alegre, Alona
+3797		Alegre, Emma
+3798		Alegre, Ina
+3799		Alegre, Irma
+3800		Alejandro, Angelica
+3801		Alejandro, Charlie
+3802		Alejandro, Rachel
+3803		Aleksakhina, Anna
+3804		Aleksandrova, Marina
+3805		Alekseeva, Elizaveta (II)
+3806		Alekseeva, Tatyana (I)
+3807		Aleksic, Marija (I)
+3808		Aleksieva, Lyuba
+3809		Alemann, Katja
+3810		Alemany, Isabel
+3811		Alemán, Selva
+3812		Alentova, Vera
+3813		Aleshnikova, Liliya
+3814		Alessandrini, Toni
+3815		Alessio, Cheryl
+3816		Alex, Hildegard
+3817		Alexander Thom, Katie
+3818		Alexander, Ana
+3819		Alexander, Anel
+3820		Alexander, Betty (I)
+3821		Alexander, Brígida
+3822		Alexander, Claire (I)
+3823		Alexander, Eliana
+3824		Alexander, Elizabeth (II)
+3825		Alexander, Erika
+3826		Alexander, Gerard (I)
+3827		Alexander, Jade
+3828		Alexander, Jaimie
+3829		Alexander, Jane (I)
+3830		Alexander, Jane (III)
+3831		Alexander, Janet (I)
+3832		Alexander, Jennifer (II)
+3833		Alexander, Joan (I)
+3834		Alexander, Katharine
+3835		Alexander, Khandi
+3836		Alexander, Kimberly (II)
+3837		Alexander, Layla
+3838		Alexander, Lois
+3839		Alexander, Natalie (I)
+3840		Alexander, Olivia (I)
+3841		Alexander, Rosemary (I)
+3842		Alexander, Sascha (II)
+3843		Alexander, Sasha (II)
+3844		Alexander, Susana
+3845		Alexander, Suzanne (I)
+3846		Alexander, Tansy
+3847		Alexander-Katz, Sophie
+3848		Alexander-Willis, Hope
+3849		Alexandersson, Karin
+3850		Alexandra, Joanna
+3851		Alexandra, Lauren
+3852		Alexandra, Lili
+3853		Alexandre, Brandy
+3854		Alexandre, Margarita
+3855		Alexandria (V)
+3856		Alexandria, Christina
+3857		Alexandridis, Hélène
+3858		Alexandru, Sadie
+3859		Alexiane
+3860		Alexiou, Liza
+3861		Alexis, Isabelle
+3862		Alexis, Martine
+3863		Aleynikova, Arina
+3864		Alfa, Michèle
+3865		Alfaiate, Cristina
+3866		Alfano, Graciela
+3867		Alfaro, Jacaranda
+3868		Alfimova, Lyudmila
+3869		Alfonsi, Lidia
+3870		Alfonso, Andrea (II)
+3871		Alfonso, María José
+3872		Alfvén, Margita
+3873		Alfyorova, Irina
+3874		Algan, Ayla
+3875		Alger, Brittney
+3876		Algranti, Clara
+3877		Alguersuari, Pepita
+3878		Ali, Mumtaz (I)
+3879		Ali, Nafisa
+3880		Ali, Paula
+3881		Ali, Sahr
+3882		Ali, Shagufta
+3883		Ali, Tatyana
+3884		Aliberti, Sofia
+3885		Alice, Mary (I)
+3886		Alicino, Veronica
+3887		Alidoosti, Taraneh
+3888		Alig, Rachel
+3889		Alikaki, Mirto
+3890		Alimova, Matlyuba
+3891		Alindogan, Liz
+3892		Alison Hodge, Kari
+3893		Alison, Dorothy
+3894		Alisova, Nina
+3895		Alissano, Kaily
+3896		Alka (I)
+3897		Alkan, Banu
+3898		Alkor, Selda
+3899		Allain, Raymonde
+3900		Allaine, Bianca
+3901		Allaire, Michelle Renee
+3902		Allamand, Ignacia
+3903		Allan, Andrea (I)
+3904		Allan, Ava
+3905		Allan, Elizabeth (I)
+3906		Allan, Kim (I)
+3907		Allan, Marguerite
+3908		Allan, Patti
+3909		Allard, Jeanne
+3910		Allasio, Marisa
+3911		Allaux, Bérangère
+3912		Allbritton, Louise
+3913		Allen, Adrianne (I)
+3914		Allen, Alethea
+3915		Allen, Bambi (I)
+3916		Allen, Barbara Jo
+3917		Allen, Bea
+3918		Allen, Betty (II)
+3919		Allen, Bianca
+3920		Allen, Brittany (I)
+3921		Allen, Cate
+3922		Allen, Christa B.
+3923		Allen, Crystal (I)
+3924		Allen, Debbie (I)
+3925		Allen, Deborah (I)
+3926		Allen, Diana
+3927		Allen, Dorothy (I)
+3928		Allen, Estelle
+3929		Allen, Florence (I)
+3930		Allen, Gracie
+3931		Allen, Irene
+3932		Allen, Jane (I)
+3933		Allen, Jane (II)
+3934		Allen, Jo Harvey
+3935		Allen, Joan (I)
+3936		Allen, Jonelle
+3937		Allen, Judith (I)
+3938		Allen, Karen (I)
+3939		Allen, Kayla (I)
+3940		Allen, Kim (III)
+3941		Allen, Krista
+3942		Allen, Laura (II)
+3943		Allen, Lindsley
+3944		Allen, Louise (I)
+3945		Allen, Margaret (I)
+3946		Allen, Maude (I)
+3947		Allen, Nancy (I)
+3948		Allen, Nellie
+3949		Allen, Penelope
+3950		Allen, Phyllis (I)
+3951		Allen, Rae (II)
+3952		Allen, Ricca
+3953		Allen, Rosalind
+3954		Allen, Sage
+3955		Allen, Sheila (III)
+3956		Allen, Tanya (I)
+3957		Allen, Tina Alexis
+3958		Allen, Valerie (I)
+3959		Allen, Winifred
+3960		Allen, Zibby
+3961		Allende, Isabel
+3962		Aller, Gyda
+3963		Allers, Leah
+3964		Alley, Kirstie
+3965		Allford, Jenny
+3966		Allgeier, Monica (I)
+3967		Allgood, Sara
+3968		Allison, Bren
+3969		Allison, Brooke (I)
+3970		Allison, LaDonna
+3971		Allison, May
+3972		Allison, Patricia (I)
+3973		Allison, Patti
+3974		Allières, Annick
+3975		Allman, Elvia
+3976		Allman, Jamie Anne
+3977		Allman, Renee
+3978		Allred, Gloria
+3979		Allsup, Sarah Kate (I)
+3980		Allwyn, Astrid
+3981		Allynne, Stephanie
+3982		Allyson, June
+3983		Allégret, Catherine
+3984		Alm, Kerstin
+3985		Alma, Henny
+3986		Alma, Linda
+3987		Almagor, Gila
+3988		Almajan, Ariana
+3989		Almanova, Rita
+3990		Almarcha, Sonia
+3991		Almas, Leila
+3992		Almaya, Eva
+3993		Almeda, Priscilla
+3994		Almeida, Cleia
+3995		Almeida, Vanessa (I)
+3996		Almela, Laura
+3997		Almgren, Susan
+3998		Almieri, Celeste
+3999		Almirante-Manzini, Italia
+4000		Almroth, Greta
+4001		Almudéver, María (I)
+4002		Almund, Ameona
+4003		Almási, Éva
+4004		Almássy Albert, Éva
+4005		Aloisi, Irene
+4006		Alonso, Ana (II)
+4007		Alonso, Anabel
+4008		Alonso, Aurora
+4009		Alonso, Chelo
+4010		Alonso, Daniella
+4011		Alonso, Esperanza
+4012		Alonso, Eugenia
+4013		Alonso, Gloria
+4014		Alonso, Margara
+4015		Alonso, Maria Conchita
+4016		Alonso, Mercedes (I)
+4017		Alonso, Pola
+4018		Alonso, Trini
+4019		Alonzo, Alicia (I)
+4020		Alonzo, Bea
+4021		Alonzo, Gina
+4022		Alp, Nimet
+4023		Alpana (I)
+4024		Alpar, Gitta
+4025		Alpha, Jenny
+4026		Alphin, Patricia
+4027		Alpren, Emily
+4028		Alraune, Lorraine
+4029		Alric, Catherine
+4030		Alstrup, Oda
+4031		Alström, Hanna
+4032		Alt, Carol
+4033		Altabella, Alicia
+4034		Altaras, Adriana
+4035		Altariba, Béatrice
+4036		Altay, Rengin
+4037		Altayskaya, Vera
+4038		Alter, Kirsten
+4039		Alterio, Malena
+4040		Altice, Summer
+4041		Altieri, Elena
+4042		Altin, Alev
+4043		Altin, Leyla
+4044		Altman, Carlen
+4045		Altman, Elena (I)
+4046		Altmanová, Jana
+4047		Altomare, Lisa
+4048		Alton, Marnie
+4049		Altrichter, Dagmar
+4050		Altschwager, Jenae
+4051		Aluko, Sope
+4052		Alva, Popi
+4053		Alvarado, Angela (I)
+4054		Alvarado, Ashley (II)
+4055		Alvarado, Aurora
+4056		Alvarado, Mari Carmen
+4057		Alvarado, Patricia (I)
+4058		Alvarado, Scarlett
+4059		Alvarado, Trini
+4060		Alvarez, Isay
+4061		Alvarez, Marisé
+4062		Alvarez, Miami
+4063		Alvarez, Monique
+4064		Alvarez, Nela
+4065		Alvaro, Anne
+4066		Alves, Lúcia
+4067		Alves, Magdale
+4068		Alves, Maria (I)
+4069		Alves, Tânia
+4070		Alves, Vanessa (I)
+4071		Alvigini, Elda
+4072		Alvina, Anicée
+4073		Alving, Käte
+4074		Alving, Manon
+4075		Alyn, Glen
+4076		Alyse, Henree
+4077		Amado, Camila (I)
+4078		Amador, Pinky
+4079		Amador, Zenaida
+4080		Amaji, Keiko
+4081		Amal, Natacha
+4082		Amami, Yûki
+4083		Amamiya, Setsuko
+4084		Aman, Zeenat
+4085		Amanda (I)
+4086		Amanda, Lia
+4087		Amani, Sharifah
+4088		Amanitou, Antigoni
+4089		Amann, Betty
+4090		Amano, Mandy
+4091		Amano, Teruko
+4092		Amano, Yuri
+4093		Amanova, Svetlana
+4094		Amanpour, Christiane
+4095		Amaral, Neuza
+4096		Amarande
+4097		Amarasena, Sriyani
+4098		Amaro, Blanquita
+4099		Amato, Kimberly (I)
+4100		Amavia, Daniela (I)
+4101		Amaya, Carmen (I)
+4102		Amaya, Vanessa (I)
+4103		Amayo, Theresa
+4104		Ambas, Ana María
+4105		Ambegaonkar, Mona
+4106		Ambesi, Adriana
+4107		Ambika (II)
+4108		Amblard, Aurélie
+4109		Ambrose, Lauren (I)
+4110		Ambrose, Tangie
+4111		Ambrose, Tish
+4112		Ambrosi, Alejandra
+4113		Ambrosino, Hira
+4114		Ambroziak, Monika
+4115		Ameeta (I)
+4116		Amelio, Sonia
+4117		Amendola, Anna
+4118		Amendola, Gina
+4119		Ames, Adrienne
+4120		Ames, Allyson
+4121		Ames, Christine
+4122		Ames, Denise
+4123		Ames, Elsie
+4124		Ames, Jean
+4125		Ames, Kelly (II)
+4126		Ames, Lindsay
+4127		Ames, Onalee
+4128		Ames, Ramsay
+4129		Ames, Raquel Elizabeth
+4130		Amfeldt, Ebba
+4131		Amft, Diana
+4132		Amias, Claire Louise
+4133		Amick, Mädchen
+4134		Amidou, Souad
+4135		Amiel, Michèle
+4136		Amiguet, Caroline
+4137		Amihama, Naoko
+4138		Amin, Mervat
+4139		Amini, Sara
+4140		Aminoff, Marianne
+4141		Aminova, Elena
+4142		Amir, Aziza
+4143		Amir, Diana
+4144		Amirejibi, Tsatsa
+4145		Amis, Courtney
+4146		Amis, Suzy
+4147		Amit, Carmel
+4148		Amlee, Jessica
+4149		Ammelrooy, Willeke van
+4150		Ammirati, Anna
+4151		Amoa, Augustina
+4152		Amoia, Charlene
+4153		Amor, Allona
+4154		Amor, Christine
+4155		Amorelli, Jennifer
+4156		Amores, Amanda
+4157		Amortová, Svetla
+4158		Amos, Beth (I)
+4159		Amos, Bibi
+4160		Amos, Diane
+4161		Amos, Emma (I)
+4162		Amos, Heather (I)
+4163		Amouroux, Clémentine
+4164		Ampudia, Isabel
+4165		Amrikhas, Denise
+4166		Amroe, Henidar
+4167		Amsallem, Reymonde
+4168		Amter, Alice
+4169		Amuka-Bird, Nikki
+4170		Amurri Martino, Eva
+4171		Amy, Susie
+4172		An, Yixuan
+4173		Anagnosti, Roza
+4174		Anagnostopoulou, Ntora
+4175		Analyti, Kakia
+4176		Anand, Priya
+4177		Anand, Sabitha
+4178		Anand, Shoma
+4179		Anand, Sujata
+4180		Anand, Suparna
+4181		Ananina, Valentina
+4182		Ananya (I)
+4183		Anapa, Funda
+4184		Anapau, Kristina
+4185		Anastase, Nita
+4186		Anaya, Elena (I)
+4187		Anaya, María
+4188		Anbeh, Suzan
+4189		Ancel, Alicia
+4190		Ancheril, Rachael
+4191		Ancira, Norma
+4192		Ancona, Ronni
+4193		Andai, Györgyi
+4194		Andany, Jesusa
+4195		Andaç, Fatma
+4196		Andelius, Margit
+4197		Ander, Charlotte
+4198		Andere, Jacqueline
+4199		Andergast, Maria
+4200		Anders, Allison
+4201		Anders, Antoinette (I)
+4202		Anders, Avalon
+4203		Anders, Helga
+4204		Anders, Luana
+4205		Anders, Maine
+4206		Anders, Merry
+4207		Andersen, Agnes
+4208		Andersen, Annemette
+4209		Andersen, Elga
+4210		Andersen, Inger Marie
+4211		Andersen, Jolene
+4212		Andersen, Lotte (I)
+4213		Andersen, Lærke Winther
+4214		Andersen, Susy
+4215		Anderson, Agnes
+4216		Anderson, Alison (I)
+4217		Anderson, Andrea (VI)
+4218		Anderson, Augusta
+4219		Anderson, Brandi Lynn
+4220		Anderson, Chaton
+4221		Anderson, Claire (I)
+4222		Anderson, Colleen (I)
+4223		Anderson, D'Kia
+4224		Anderson, Daphne
+4225		Anderson, Delilah
+4226		Anderson, Denise S.
+4227		Anderson, Dusty (I)
+4228		Anderson, Effie (I)
+4229		Anderson, Emmalyn
+4230		Anderson, Gene (I)
+4231		Anderson, Gillian (I)
+4232		Anderson, Holly (I)
+4233		Anderson, Ida (II)
+4234		Anderson, Jamie (V)
+4235		Anderson, Jan (I)
+4236		Anderson, Jean (I)
+4237		Anderson, Jessica (II)
+4238		Anderson, Judith (I)
+4239		Anderson, Juliet
+4240		Anderson, Laurie
+4241		Anderson, Leona (I)
+4242		Anderson, Lisa Arrindell
+4243		Anderson, Liz (II)
+4244		Anderson, Loni
+4245		Anderson, Marina
+4246		Anderson, Marta (I)
+4247		Anderson, Mary (I)
+4248		Anderson, Mary (IV)
+4249		Anderson, Melissa Sue
+4250		Anderson, Mia Y.
+4251		Anderson, Mignon
+4252		Anderson, Myrtle
+4253		Anderson, Nellie
+4254		Anderson, Nicola (I)
+4255		Anderson, Pamela (I)
+4256		Anderson, Pat (I)
+4257		Anderson, Rona (I)
+4258		Anderson, Virginia
+4259		Anderson, Virna
+4260		Anderson, Wendy (I)
+4261		Anderson, Whitney
+4262		Andersson, Bibi
+4263		Andersson, Birgitta (I)
+4264		Andersson, Harriet
+4265		Andersson, Laila
+4266		Andersson, Mona (I)
+4267		Andersson, Olga
+4268		Andersson, Rikke Louise
+4269		Andersson, Solveig
+4270		Anderzon, Kim
+4271		Anderzon, Tintin
+4272		Andico, Josie
+4273		Andina, Marina
+4274		Ando, Miho
+4275		Andoh, Adjoa
+4276		Andolong, Sandy
+4277		Andra, Fern
+4278		Andrade, Danielle
+4279		Andrade, Janette
+4280		Andral, Paule
+4281		Andre, Dorothy (I)
+4282		Andre, Jill
+4283		Andre, Lona
+4284		Andre, Marvelle
+4285		Andre, Monya
+4286		Andre, Yvonne
+4287		Andreana, Rita
+4288		Andreasen, Kirsten
+4289		Andreassen, Marit
+4290		Andree, Ingrid
+4291		Andreeff, Starr
+4292		Andreeva, Adriana
+4293		Andrei, Alina
+4294		Andrei, Lydia
+4295		Andrei, Violeta
+4296		Andreini, Gabriella
+4297		Andren, Jean
+4298		Andreoli, Elvia
+4299		Andreozzi, Michela
+4300		Andres, Diding
+4301		Andres, Jessica Jade
+4302		Andress, Ursula
+4303		Andresíková, Jana
+4304		Andrew, Sylvia
+4305		Andrews Sisters, The
+4306		Andrews, Brittany
+4307		Andrews, Carol (I)
+4308		Andrews, Emily (I)
+4309		Andrews, Jaime (I)
+4310		Andrews, Julie (I)
+4311		Andrews, Laverne
+4312		Andrews, Loretta (I)
+4313		Andrews, Maxene
+4314		Andrews, Nicole (I)
+4315		Andrews, Patty
+4316		Andrews, Penelope (I)
+4317		Andrey, Margarita
+4318		Andreychenko, Natalya (II)
+4319		Andriel, Lenore
+4320		Andrieux, Paulette
+4321		Andrina, Ingrid
+4322		Andriot, Josette
+4323		Andrlová, Ivana
+4324		Andronescu, Coca
+4325		Androsky, Carole
+4326		Andrzejewska, Jadwiga (I)
+4327		André, Carole
+4328		André, Chele
+4329		André, Gaby
+4330		André, Marie-Paule
+4331		André, Patricia
+4332		André, Sabine
+4333		Andréyor, Yvette
+4334		Andô, Nozomi
+4335		Andô, Sakura (I)
+4336		Andô, Sei
+4337		Andô, Tamae
+4338		Anel
+4339		Ang, Michelle
+4340		Anganuzzi, Jimena
+4341		Angel (I)
+4342		Angel, Heather (I)
+4343		Angel, Joanna
+4344		Angel, Judy
+4345		Angel, Vanessa
+4346		Angela, Rita
+4347		Angela, Sharon
+4348		Angelababy
+4349		Angelat, Marta
+4350		Angeles, Connie
+4351		Angeli, Kim
+4352		Angeli, Pier
+4353		Angelica, Roberta
+4354		Angelico, Maria
+4355		Angeline, Moriah
+4356		Angelis, Alix
+4357		Angelis, Camden
+4358		Angell, Elise
+4359		Angelo, Kodi Saint
+4360		Angelo, Lucy
+4361		Angelo, Michelle (I)
+4362		Angelou, Maya
+4363		Angelson, Diana
+4364		Angelus, Muriel
+4365		Angely, Barbara
+4366		Angelyne
+4367		Angerer, Kathrin
+4368		Angerkoski, Aino
+4369		Angerkoski, Siiri
+4370		Angers, Avril
+4371		Angerstein-Licho, Martha
+4372		Angge
+4373		Anghileri, Mariana
+4374		Angiolillo, Luciana
+4375		Angiolini, Ambra
+4376		Anglade, France
+4377		Angold, Edit
+4378		Angulo, Yvette
+4379		Angus, Kristi
+4380		Angélica, Carmem
+4381		Angélica, Norma (I)
+4382		Angélica, Norma (II)
+4383		Angélica, Ofelia
+4384		Anh Le, Maï
+4385		Anh, Thé
+4386		Anil, Mehtap
+4387		Aniorte, Pepa
+4388		Anisimova, Elena (I)
+4389		Aniston, Jennifer
+4390		Anita (I)
+4391		Anjali (II)
+4392		Anjaparidze, Veriko
+4393		Anju (III)
+4394		Anjuman
+4395		Anka, Amanda
+4396		Ankah, Flo
+4397		Ankeny, Heather
+4398		Ankers, Evelyn
+4399		Ankita (I)
+4400		Ankori, Gilat
+4401		Ann, Annie
+4402		Ann-Margret
+4403		Anna, Beth (I)
+4404		Anna, Ruby
+4405		Annabella (I)
+4406		Annabi, Amina (I)
+4407		Annable, Odette
+4408		Annapoorna (I)
+4409		Anne Williams, Cora
+4410		Anne-Day, Carol
+4411		Annette, Catherine
+4412		Annichiarico, Silvia
+4413		Annie (VIII)
+4414		Annie, Little Oral
+4415		Annis, Francesca
+4416		Anokhina, Olga
+4417		Anousaki, Eleni
+4418		Anousaki, Malaina
+4419		Anreus, Idalia
+4420		Ansara, Alice
+4421		Ansari-Cox, Nicole
+4422		Anschutz, Melissa
+4423		Anselmi, Rosina
+4424		Ansidei, Alexandra
+4425		Anson, Laura
+4426		Anson-Roa, Boots
+4427		Anspach, Susan
+4428		Anstead, Melva
+4429		Antal, Delia
+4430		Antares, Beate
+4431		Anthonj, Anita
+4432		Anthony, Alexandra (VII)
+4433		Anthony, Bree
+4434		Anthony, Jasmine Jessica
+4435		Anthony, La La
+4436		Anthony, Lola
+4437		Anthony, Lysette
+4438		Antin, Robin
+4439		Antiquiera, Tet
+4440		Antoinette, Cecelia
+4441		Anton Allen, Michelle
+4442		Anton, Susan
+4443		Antonelli, Francesca
+4444		Antonelli, Giovanna
+4445		Antonelli, Laura
+4446		Antonelli, Monika
+4447		Antonenko, Elena
+4448		Antoni, Carmen-Maja
+4449		Antonia, Kathleen
+4450		Antonia, Nathalie
+4451		Antonio, Estrella
+4452		Antonio, Tess
+4453		Antonio, Via
+4454		Antonius, Brigitte
+4455		Antonova, Lana
+4456		Antonova, Nina (I)
+4457		Antonowicz, Anja
+4458		Antony, Beena
+4459		Antzoletaki, Gogo
+4460		Anula, Irene (I)
+4461		Anupama (I)
+4462		Anuradha (I)
+4463		Anuradha (IX)
+4464		Anusha (I)
+4465		Anusree (II)
+4466		Anwar, Gabrielle
+4467		Anwar, Nina
+4468		Anwar, Samah
+4469		Anwari
+4470		Anwaribai
+4471		Anweis, Elizabeth
+4472		Anya (I)
+4473		Anys, Georgette
+4474		Anzai, Eri
+4475		Anzai, Kyôko
+4476		Anzalone, Mary
+4477		Anémone
+4478		Aoi, Makiko
+4479		Aoi, Mitsuko
+4480		Aoi, Sora
+4481		Aoi, Yû
+4482		Aoki, Kozue
+4483		Aoki, Sayaka (I)
+4484		Aoki, Shinobu
+4485		Aoki, Sueli
+4486		Aoki, Tsuru
+4487		Aono, Rima
+4488		Aor, Anne
+4489		Aotaki, Sam (I)
+4490		Aoyama, Chikako
+4491		Aoyama, Erina
+4492		Aoyama, Kyôko (I)
+4493		Aoyama, Kyôko (II)
+4494		Aoyama, Mariko (I)
+4495		Aoyama, Minami (I)
+4496		Apan, Tiffany
+4497		Aparajita (I)
+4498		Aparecida, Neide
+4499		Aparicio, Laura
+4500		Aparicio, Rafaela
+4501		Aparicio, Yirah
+4502		Aparício, Sofia
+4503		Apeksimova, Irina
+4504		Aphrodite, Reila
+4505		Apick, Mary
+4506		Apilánez, Blanca
+4507		Apolloni, Io
+4508		Apoorva (I)
+4509		Apor, Noémi
+4510		Apostolou, Natasa
+4511		Apostolou, Zeta
+4512		Appel, Alex (I)
+4513		Appel, Anna (I)
+4514		Appel, Dale F.
+4515		Appel, Trine
+4516		Appelbaum, Rachel
+4517		Appelberg-Sandberg, Karin
+4518		Appelgren, Brita
+4519		Appellöf, Olga
+4520		Appelt, Inge
+4521		Applebaum, Rebecca
+4522		Appleby, Dorothy
+4523		Appleby, Shiri
+4524		Applegate, Christina
+4525		Applegate, Olivia Grace
+4526		Applegate, Phyllis (I)
+4527		Appleton, Varda
+4528		Apra, Anne
+4529		Aprile, Valentine
+4530		Apte, Madhu
+4531		Apte, Radhika
+4532		Apte, Shanta
+4533		Aquino, Alejandra
+4534		Aquino, Amy
+4535		Aquino, Angel (I)
+4536		Aquino, Jackie (I)
+4537		Aquino, Kris (I)
+4538		Aquino, Soledad (II)
+4539		Ar, Mehtap
+4540		Ar, Müjde
+4541		Ara, Gulshan (I)
+4542		Ara, Shamim
+4543		Araceli, Aída
+4544		Aragaki, Yui
+4545		Aragón, Angélica
+4546		Aragón, Lilia
+4547		Arai, Moe
+4548		Arai, Reiko
+4549		Araiza, Ellie
+4550		Araki, Kae
+4551		Araki, Michiko
+4552		Aram (II)
+4553		Aramini, Rebekah
+4554		Arana, Pacita
+4555		Arancio, Gilda
+4556		Aranda, Jorgelina (I)
+4557		Aranda, Rene Michelle
+4558		Aranovich, Clara
+4559		Araskog, Julie
+4560		Arasse, Jenny
+4561		Aratama, Michiyo
+4562		Arathi
+4563		Aravind, Anju
+4564		Arbas, Zerrin
+4565		Arbenina, Stella
+4566		Arbex, Carmen
+4567		Arbillot, Pascale
+4568		Arbin, Märta
+4569		Arbolí, Teresa
+4570		Arbour, France
+4571		Arbuzova, Oksana
+4572		Arcade, Penny (I)
+4573		Arcaraz, Dacia
+4574		Arcaro, Flavia
+4575		Arcaro, Lisa
+4576		Arcel, Nastja
+4577		Arch, Lisa
+4578		Archambeau, Chelsi (I)
+4579		Archana (I)
+4580		Archana (III)
+4581		Archer, Anne (I)
+4582		Archer, Barbara
+4583		Archerd, Selma
+4584		Archuletta, Beulah
+4585		Arcieri, Leila
+4586		Arcila, Irene
+4587		Arcuri, Manuela
+4588		Arcé, Maria
+4589		Arcýman, Sadiye
+4590		Arda, Rengin
+4591		Ardant, Agnès
+4592		Ardant, Fanny
+4593		Ardea, Liliana
+4594		Ardell, Alyce
+4595		Ardell, Maxine
+4596		Arden, Alicia
+4597		Arden, Doris
+4598		Arden, Eve
+4599		Arden, Gisella
+4600		Arden, Mary (I)
+4601		Ardenne, Dorette
+4602		Arditi, Catherine
+4603		Ardova, Anna
+4604		Arduini, Paola
+4605		Ardú, Mimí
+4606		Arebalo, Julie
+4607		Arel, Fabienne
+4608		Arem, Valerie
+4609		Arena, Anna
+4610		Arenas, Rosa
+4611		Arender, Tammi
+4612		Arendt, Elke
+4613		Arens, Babett
+4614		Arenós, Pepa
+4615		Arepina, Iya
+4616		Aresa, Yuki
+4617		Argent, Anita
+4618		Argenti, Alex
+4619		Argentina, Imperio
+4620		Argento, Asia
+4621		Argetsinger, Kim
+4622		Arghezi, Mitzura (I)
+4623		Argota, Victoria
+4624		Arguelles, Cecilia
+4625		Argyriou, Thalia
+4626		Argyropoulou, Joulia
+4627		Arianda, Nina
+4628		Ariany, Tiffany
+4629		Arias, María (I)
+4630		Arias, Tamara
+4631		Arico, Piera
+4632		Ariel, Josée
+4633		Arietta, Lulu
+4634		Arifin, Nurul
+4635		Arikan, Jale
+4636		Arima, Ineko
+4637		Arimori, Narimi
+4638		Arimura, Kasumi
+4639		Arinbasarova, Natalya
+4640		Arinina, Lyudmila
+4641		Ariola, Julie
+4642		Aristorenas, Virginia
+4643		Arita, Fumiko
+4644		Arizmendi, Yareli
+4645		Arié, Hélène
+4646		Arkhipova, Nina
+4647		Arlak, Violetta
+4648		Arlan, Iris
+4649		Arlanova, Valeriya
+4650		Arlen, Bette
+4651		Arlen, Elizabeth
+4652		Arlen, Roxanne
+4653		Arletty
+4654		Arlyn, Nicole
+4655		Arm, Allisyn Ashley
+4656		Armand, Frøydis
+4657		Armand, Gisken
+4658		Armand, María
+4659		Armani, Nora
+4660		Armas, Ruth
+4661		Armbruster, Heidi
+4662		Armbruster, Puppa
+4663		Armelle (I)
+4664		Armenante, Jillian
+4665		Armenteros, Luisa
+4666		Armida
+4667		Armogan, JaNae
+4668		Armoni, Dafna
+4669		Armour, Annabel
+4670		Armour, Jean
+4671		Armstrong, Bess
+4672		Armstrong, Bridget
+4673		Armstrong, Carrie (I)
+4674		Armstrong, Helen (I)
+4675		Armstrong, Kerry
+4676		Armstrong, Lena
+4677		Armstrong, Margaret (I)
+4678		Armstrong, Samaire
+4679		Arna, Lissy
+4680		Arnac, Béatrice
+4681		Arnaiz, Janet
+4682		Arnaiz, Sharmaine
+4683		Arnall, Julia
+4684		Arnao, Elena
+4685		Arnarsdóttir, Sólveig
+4686		Arnason, Aubrey
+4687		Arnaud, Florence
+4688		Arnaud, Virginie
+4689		Arnaud, Yvonne
+4690		Arnaudova, Nina
+4691		Arnaz, Eva
+4692		Arnaz, Lucie
+4693		Arndt, Adelheid
+4694		Arneberg, Urda
+4695		Arneodo, Ana
+4696		Arneric, Neda
+4697		Arneson, Erni
+4698		Arnette, Crystal
+4699		Arnette, Jeannetta
+4700		Arnezeder, Nora
+4701		Arngrim, Alison
+4702		Arnia, Sara
+4703		Arno, Alice
+4704		Arno, Josette
+4705		Arno, Nelly
+4706		Arnold, Cecile
+4707		Arnold, Dorothy (I)
+4708		Arnold, Gertrud
+4709		Arnold, Grace (I)
+4710		Arnold, Jessie
+4711		Arnold, Joan (I)
+4712		Arnold, Joanne (I)
+4713		Arnold, Lisa
+4714		Arnold, Lucie
+4715		Arnold, Marcelle
+4716		Arnold, Maria (V)
+4717		Arnold, Tammy
+4718		Arnold, Tichina
+4719		Arnold, Tiffany (I)
+4720		Arnold, Ulrike
+4721		Arnold, Valentina
+4722		Arnone, Lee
+4723		Arnoul, Françoise
+4724		Arnoux, Paulette
+4725		Arnova, Alba
+4726		Arnpriester, Christina
+4727		Arnstaedt, Hansi
+4728		Arntgolts, Tatyana
+4729		Arné, Laurence
+4730		Aron-Schropfer, Denise
+4731		Aronova, Mariya
+4732		Aronson, Judie
+4733		Arora, Amrita
+4734		Arora, Lata
+4735		Arora, Malaika
+4736		Aroseva, Olga
+4737		Arozamena, Amparo
+4738		Arpón, María Elena
+4739		Arquette, Alexis
+4740		Arquette, Patricia
+4741		Arquette, Rosanna
+4742		Arredondo, Jeri
+4743		Arredondo, Rosa
+4744		Arriaga, Rosita
+4745		Arriany, Farida
+4746		Arrick, Rose
+4747		Arrighi, Nike
+4748		Arrigorriaga, Maricarmen
+4749		Arrington, Sara
+4750		Arroyave, Karina
+4751		Arroyo, Beatriz
+4752		Arruda, Suzy
+4753		Arsan, Asuman
+4754		Arsenio, Linda
+4755		Artemeva, Lyudmila
+4756		Artero, Matilde
+4757		Arterton, Gemma
+4758		Artha, Ully
+4759		Arthur, Bea (I)
+4760		Arthur, Carol
+4761		Arthur, Jean (I)
+4762		Arthur, Julia
+4763		Arthur, Louise (I)
+4764		Arthur, Maureen
+4765		Arthur, Michelle (I)
+4766		Arthur-O'Ree, Diedra
+4767		Artmane, Vija
+4768		Artur, Sophie
+4769		Arturo, Lisa
+4770		Aru, Ines
+4771		Aruffo, Meghan
+4772		Arun, Ila
+4773		Arun, Mini
+4774		Arun, Priya
+4775		Aruna (I)
+4776		Aruray
+4777		Arvaniti, Betty
+4778		Arvelo, Ritva
+4779		Arvidson, Linda (I)
+4780		Arvigo, Elena
+4781		Arvizu, Emma
+4782		Arvizu, Roxanne
+4783		Arya, Sulabha
+4784		Arzhanik, Yelena
+4785		Arànega, Mercè
+4786		Arçay, Muazzez
+4787		Arévalo, Carmen
+4788		Asabuki, Keito
+4789		Asada, Miyoko
+4790		Asagami, Yôko
+4791		Asagiri, Kyoko
+4792		Asagiri, Yuka
+4793		Asagumo, Teruyo
+4794		Asahina, Junko
+4795		Asaji, Shinobu
+4796		Asaka, Mayumi
+4797		Asakawa, Yu
+4798		Asakura, Rei (I)
+4799		Asakura, Yuu
+4800		Asama, Shôko
+4801		Asami (II)
+4802		Asan, Hülya
+4803		Asano, Atsuko (I)
+4804		Asano, Maiko
+4805		Asano, Masumi (I)
+4806		Asano, Mayumi (I)
+4807		Asano, Momori
+4808		Asano, Yûko
+4809		Asaoka, Ruriko
+4810		Asaoka, Yukiji
+4811		Asari, Kazuyo
+4812		Asatiani, Liana
+4813		Asayesh, Vishka
+4814		Ascaride, Ariane
+4815		Aselton, Katie
+4816		Asensi, Neus
+4817		Asensio, Ana (I)
+4818		Ash, Arian
+4819		Ash, Avital
+4820		Asha, Bec
+4821		Ashanti (II)
+4822		Ashbaugh, Dena
+4823		Ashbourne, Lorraine
+4824		Ashbrook, Paton
+4825		Ashbrooke, Florence
+4826		Ashcroft, Peggy
+4827		Ashdown, Nadine
+4828		Ashe, Erin (I)
+4829		Asher, Angela
+4830		Asher, Jane (I)
+4831		Asherson, Renée
+4832		Ashfield, Kate
+4833		Ashida, Mana (II)
+4834		Ashikawa, Izumi
+4835		Ashikawa, Yoshimi
+4836		Ashina, Sei
+4837		Ashley, Elizabeth (I)
+4838		Ashley, Iris
+4839		Ashley, Jennifer (I)
+4840		Ashley, Mandy (II)
+4841		Ashley, Mary Ellen
+4842		Ashley, Rachel
+4843		Ashoo
+4844		Ashton, Catherine (III)
+4845		Ashton, Elyse
+4846		Ashton, Pamela (III)
+4847		Ashton, René (I)
+4848		Ashton, Sylvia
+4849		Asiki, Vina
+4850		Asimakopoulou, Beata
+4851		Asin (I)
+4852		Asiride, Mary
+4853		Aslin, Edna
+4854		Asner, Kate
+4855		Aso, Kaori (II)
+4856		Aspar, Thérèse
+4857		Aspen, Jennifer
+4858		Aspengren, Rayne
+4859		Asperger, Cintija
+4860		Asperó, Elisa
+4861		Aspillaga, Vanessa
+4862		Aspíllaga, Patricia
+4863		Asquerino, María
+4864		Asrani, Manju (I)
+4865		Assaf, Alessandra
+4866		Asselin, France
+4867		Assereto, Angelina
+4868		Assia, Lys
+4869		Assmann, Ini
+4870		Assum, Priscila
+4871		Ast, Pat
+4872		Asta, Margrét
+4873		Astaire, Marie
+4874		Astalos-Jones, Stephanie
+4875		Astals, Cita
+4876		Astar, Shay
+4877		Astaroth, Lilith
+4878		Aste, Adelaide
+4879		Astell, Betty
+4880		Astengo, Tatiana
+4881		Asterová, Jitka
+4882		Asti, Adriana
+4883		Astley, Pat
+4884		Astor, Betty
+4885		Astor, Camille
+4886		Astor, Eva
+4887		Astor, Gertrude
+4888		Astor, Junie
+4889		Astor, Mary
+4890		Astoreka, Loli
+4891		Astruc, Jenny
+4892		Asuka, Rin
+4893		Asuka, Yûko
+4894		Aswani, Saloni
+4895		Asô, Kaori
+4896		Asô, Kumiko (I)
+4897		Asô, Miyoko
+4898		Asô, Myû
+4899		Asô, Usagi
+4900		Asô, Yumi
+4901		Atanacio, Shelene
+4902		Atav, Aysen
+4903		Atav, Sükriye
+4904		Atay-atayan, Dely
+4905		Ateh, Susan
+4906		Atger, Gabrielle
+4907		Athanasiadou, Soula
+4908		Athanasiou, Margarita
+4909		Athens, Vi
+4910		Atias, Moran
+4911		Atika, Aure
+4912		Atkins, Eileen
+4913		Atkins, Essence
+4914		Atkins, Rachel (I)
+4915		Atkinson, Ashlie
+4916		Atkinson, Gemma (I)
+4917		Atkinson, Jayne
+4918		Atkinson, Sara (I)
+4919		Atkinson, Stephanie (III)
+4920		Atmanegara, Chintami
+4921		Atmanegara, Minati
+4922		Atoche, Martha
+4923		Atomic, Tonjia
+4924		Atsumi, Mari
+4925		Attili, Antonella
+4926		Attié, Vanille
+4927		Atwater, Edith
+4928		Atwell, Hayley
+4929		Atwood, Ashley
+4930		Atwood, Margaret (I)
+4931		Atzmon, Anat
+4932		Au, Celia
+4933		Au, Ka Wai
+4934		Au, Man Sze
+4935		Auber, Brigitte
+4936		Auberghen, Stéphane
+4937		Auberjonois, Tessa
+4938		Aubert, Jeanne
+4939		Aubert, K.D. (I)
+4940		Aubert, Lenore
+4941		Aubert, Marianne
+4942		Aubertin, Luce
+4943		Aubrey, Anne (I)
+4944		Aubrey, Diane
+4945		Aubrey, Jean (I)
+4946		Aubrey, Juliet
+4947		Aubry, Cécile
+4948		Aubry, Sophie
+4949		Auchstaetter, Amy
+4950		Auclert, Cécile
+4951		Audain, Dionne
+4952		Audcoeur, Sylvie
+4953		Auder, Alexandra
+4954		Audibert, Mireille
+4955		Audley, Eleanor
+4956		Audley, Maxine
+4957		Audollent, Marie-Françoise
+4958		Audrain, Martine
+4959		Audran, Stéphane
+4960		Audray, Elvire
+4961		Audret, Pascale
+4962		Auer, Barbara
+4963		Auer, Florence
+4964		Auer, Hannelore
+4965		Auffret, Nathalie
+4966		Auger, Claudine
+4967		August, Nadège
+4968		August, Pernilla
+4969		Augustina, Melinda
+4970		Augustine, Ann
+4971		Augustová, Olga
+4972		Auliani, Uli
+4973		Aulin, Ewa
+4974		Aulinger, Elise
+4975		Aulitzky, Patricia
+4976		Ault, Marie
+4977		Aumont, Geneviève
+4978		Aumont, Tina
+4979		Aunio, Helvi
+4980		Aunor, Nora
+4981		Aura, Marta
+4982		Aura, María (I)
+4983		Aurea, Aura
+4984		Aurel, Christine
+4985		Auring, Madam
+4986		Aurora (II)
+4987		Aussey, Germaine
+4988		Austen, Aerli
+4989		Auster, Sophie
+4990		Austin, Charlotte
+4991		Austin, Denise (I)
+4992		Austin, Hunter Mackenzie
+4993		Austin, Karen (I)
+4994		Austin, Karen Elizabeth
+4995		Austin, Kassianni
+4996		Austin, Lois
+4997		Austin, Mauralea
+4998		Austin, Nicola (I)
+4999		Austin, Pamela
+5000		Austin, Ursula
+5001		Austin, Vivian
+5002		Austria, Amy
+5003		Auten, Christine M.
+5004		Auteri Pepe, Clara
+5005		Autieri, Serena
+5006		Autio, Fiinu
+5007		Autran, Alika
+5008		Auyeung, Puishan
+5009		Auza, Astrida
+5010		Avaeva, Anya
+5011		Avakian, Sonya A.
+5012		Avalon, Melanie
+5013		Avantagelou, Nitza
+5014		Avbelj, Jozica
+5015		Avci, Suzan
+5016		Avdjushko, Maria
+5017		Avelar, Socorro
+5018		Avellan, Electra
+5019		Avelli, Fausta
+5020		Avendaño, Eugenia
+5021		Averitt, Suzan
+5022		Avers, Carlee
+5023		Avery, Margaret
+5024		Aveta, Anna María
+5025		Avetisova, Nina
+5026		Avgeropoulos, Marie
+5027		Avila, Christine
+5028		Avila, Rita (I)
+5029		Aviles, Angel
+5030		Avital, Mili
+5031		Avital, Natalie
+5032		Avoine, Béatrice
+5033		Avramovic, Jasmina
+5034		Avril, Françoise
+5035		Avril, Nancy
+5036		Avsar, Hülya
+5037		Awaji, Keiko
+5038		Awashima, Chikage
+5039		Awashima, Komari
+5040		Awata, Urara
+5041		Axzelle, Violet
+5042		Ay, Dilber (I)
+5043		Ay, Nur
+5044		Ayadi, Naidra
+5045		Ayala, Daliléia
+5046		Ayala, Ximena
+5047		Ayanna, Charlotte
+5048		Ayano (I)
+5049		Ayas, Nazan
+5050		Ayase, Haruka
+5051		Aycoth, Rochelle
+5052		Aycox, Nicki
+5053		Ayda, Birsen
+5054		Aydan, Aynur
+5055		Aydan, Nilüfer
+5056		Aydogan, Oya
+5057		Aye, Marion
+5058		Ayer, Debbon
+5059		Ayes, Ebony
+5060		Aylesworth, Reiko
+5061		Aylmer, Mimi
+5062		Aymerie, Catherine
+5063		Ayne, Krista
+5064		Ayouch, Amal
+5065		Aypar, Nevin
+5066		Ayres, Agnes
+5067		Ayres, Ann
+5068		Ayres, Lois
+5069		Ayres, Maray
+5070		Ayres, Rosalind
+5071		Ayunda, Maudy
+5072		Ayuso, Marisol
+5073		Ayyoub, Samiha
+5074		Azabal, Lubna
+5075		Azami, Chizuyu
+5076		Azarian, Mina
+5077		Azarian, Tara-Nicole
+5078		Azcona, Anna
+5079		Azcurra, Laura
+5080		Azcárate, Anna
+5081		Azencot, Martine
+5082		Azer, Iren
+5083		Azevedo, Laura (I)
+5084		Azhari, Ayu
+5085		Azim, Neelima
+5086		Aziz, Tikva
+5087		Azlynn, Valerie
+5088		Azmi, Shabana
+5089		Azmi, Shaukat
+5090		Azmi, Tanvi
+5091		Azoorie
+5092		Azorín, Juana
+5093		Azoulay Hasfari, Hanna
+5094		Azoulay, Anne
+5095		Azra (I)
+5096		Azuela, Irene
+5097		Azuma, Eiko (I)
+5098		Azuma, Emiko
+5099		Azuma, Ryûko
+5100		Azuma, Shizuko
+5101		Azuma, Takeo
+5102		Azuma, Terumi
+5103		Azuma, Yuriko
+5104		Azur, Sybil (I)
+5105		Azusa, Eiko
+5106		Azusa, Yôko
+5107		Azzalini, Danièle
+5108		Azzara, Candice
+5109		Azéma, Sabine
+5110		Açikalin, Nilüfer
+5111		Aída, Celeste
+5112		Aïssatou, Thiam
+5113		B., Dina
+5114		B., Jaya
+5115		B., Saroja Devi
+5116		Baal, Karin
+5117		Baarová, Lída
+5118		Babalina
+5119		Baban, Diclehan
+5120		Babb, Dorothy
+5121		Babb, Sarah
+5122		Babcock, Barbara (I)
+5123		Babcáková, Simona
+5124		Babe, Fabienne
+5125		Babenko, Elena
+5126		Babi, Parveen
+5127		Babilinska, Barbara
+5128		Babs, Alice
+5129		Babu, Fathima
+5130		Babu, Hélène
+5131		Babu, Ponnamma
+5132		Baby Farida
+5133		Baby Peggy
+5134		Baca, Zita
+5135		Bacall, Lauren
+5136		Bacalso, Joanna
+5137		Baccarin, Morena
+5138		Bacchi, Rozie
+5139		Bacci, Silvana
+5140		Bacelar, Melissa R.
+5141		Bach, Barbara (I)
+5142		Bach, Catherine
+5143		Bach, Christian (I)
+5144		Bach, Christina
+5145		Bach, Laura (II)
+5146		Bach, Marisa Leonie
+5147		Bach, Simone
+5148		Bach, Vivi
+5149		Bachani, Usha
+5150		Bachar, Carmit
+5151		Bache-Wiig, Anna
+5152		Bache-Wiig, Julia
+5153		Bachelor, Stephanie
+5154		Bachleda, Alicja
+5155		Bachmann, Michele
+5156		Bachmann, Paulina
+5157		Bachsin, Arumy
+5158		Bachtel, Rose
+5159		Bachvarova, Gratziela
+5160		Backes, Alice
+5161		Backlin, Ingrid
+5162		Backman, Asta
+5163		Backman, Edda Heidrún
+5164		Backus, Georgia
+5165		Backus, Henny
+5166		Baclanova, Olga
+5167		Bacon, Lorrie
+5168		Bacon, Mae
+5169		Bada, Kimberly
+5170		Badaki, Yetide
+5171		Badaloni, Nera
+5172		Baddeley, Hermione
+5173		Baderson, Kulbir
+5174		Badgley, Helen
+5175		Badgley, Michelle Ivette
+5176		Badiday, Inday
+5177		Badie, Laurence
+5178		Badie, Mina
+5179		Badiola, Klara
+5180		Badirbayli, Leyla
+5181		Badland, Annette
+5182		Badler, Jane
+5183		Badmajew, María
+5184		Badr, Sawsan
+5185		Badu, Erykah
+5186		Badwell, Jaspal
+5187		Bae, Chong-ok
+5188		Bae, Doona
+5189		Baehr, Caroline
+5190		Baer, Cindy
+5191		Baetens, Veerle
+5192		Baeumler, Carolyn
+5193		Baeva, Kunka
+5194		Baeyens, Dominique
+5195		Baez, Joan
+5196		Bag, Sikharani
+5197		Baggett, Laura
+5198		Baggett, Lynn
+5199		Bagir, Shayla
+5200		Bagley, Lorri
+5201		Bagni, Margherita
+5202		Bagusat, Nina
+5203		Baharuddin, Nanu (I)
+5204		Bahl, Ellen
+5205		Bahn, Roma
+5206		Bahns, Maxine
+5207		Bahr, Iris
+5208		Bahram, Pantea
+5209		Bahris, Fileena
+5210		Bahris, Joanne
+5211		Bai, Di (I)
+5212		Bai, Guang
+5213		Bai, Louming
+5214		Bai, Rattan
+5215		Bai, Xuexian
+5216		Baier, Roshelle
+5217		Baignères, Sophie
+5218		Baikshtite, Grazhina
+5219		Bail, Sabine
+5220		Bailey, Amanda (I)
+5221		Bailey, Andre (I)
+5222		Bailey, Beth (I)
+5223		Bailey, Carmen (I)
+5224		Bailey, Janet (I)
+5225		Bailey, Laura (II)
+5226		Bailey, Linda
+5227		Bailey, Miranda
+5228		Bailey, Nadej k
+5229		Bailey, Pearl
+5230		Bailey, Polly
+5231		Bailey, Sara
+5232		Baillargeon, Paule
+5233		Bailly, Denise
+5234		Bailly, Simone
+5235		Bain, Barbara
+5236		Bain, Imogen
+5237		Bain, Mashari Laila
+5238		Bain, Robin (I)
+5239		Bain, Susan
+5240		Bainbridge, Rolinda
+5241		Baine, Grace
+5242		Bainter, Fay
+5243		Baird, Diora
+5244		Baird, Leah (I)
+5245		Baird, Maggie
+5246		Baishô, Chieko
+5247		Baishô, Mitsuko
+5248		Baizura, Ning
+5249		Bajaj, Savita
+5250		Bajer, Sharon
+5251		Bajos, Krizia
+5252		Bajou, Estelle
+5253		Bajwa, Neeru
+5254		Bajwa, Poonam
+5255		Baker Jr., Deborah
+5256		Baker, Andrea (III)
+5257		Baker, Andrea R.
+5258		Baker, Athenea
+5259		Baker, Becky Ann
+5260		Baker, Betsy (I)
+5261		Baker, Betty (I)
+5262		Baker, Blanche
+5263		Baker, Carlee
+5264		Baker, Carroll
+5265		Baker, Chrissy
+5266		Baker, Cynthia (I)
+5267		Baker, Deann
+5268		Baker, Debra (II)
+5269		Baker, Diane (I)
+5270		Baker, Doris (I)
+5271		Baker, Elsie
+5272		Baker, Fay
+5273		Baker, Jane (II)
+5274		Baker, Josephine (I)
+5275		Baker, Kathy (I)
+5276		Baker, Leigh-Allyn
+5277		Baker, Mary-Bonner
+5278		Baker, Nellie Bly
+5279		Baker, Noël
+5280		Baker, Sarah (IV)
+5281		Baker, Shannon (III)
+5282		Baker, Shauna (I)
+5283		Baker, Sheila Mudd
+5284		Bakke, Brenda
+5285		Baklini, Amy
+5286		Bako, Brigitte
+5287		Bakos, Éva
+5288		Bakshi, Sujata
+5289		Bakó, Márta
+5290		Bala, Rajni
+5291		Balaban, Liane
+5292		Balacó, Sónia
+5293		Balaguer, Asunción
+5294		Balagué, Carmen (II)
+5295		Balal, Kishori
+5296		Balan, Vidya
+5297		Balanuta, Leopoldina
+5298		Balasaraswati, Surabhi
+5299		Balaski, Belinda
+5300		Balasko, Josiane
+5301		Balavage, Catherine
+5302		Balbó, Rosángela
+5303		Balcarce, Leonora
+5304		Balcerkiewiczówna, Maria
+5305		Balcon, Jill
+5306		Baldaque, Leonor
+5307		Baldassaro, Kt
+5308		Baldassini, Silvia
+5309		Balderas, Miriam
+5310		Baldion, Paola
+5311		Baldoni, Emily
+5312		Baldová, Zdenka
+5313		Baldrich, Lola
+5314		Baldwin, Judith (I)
+5315		Baldwin, Lauren (II)
+5316		Baldwin, Lisa (I)
+5317		Baldwin, Sarah (II)
+5318		Baldwin-Woodhouse, Marisa
+5319		Balek-Brodská, Milka
+5320		Balenciaga, María Jesús
+5321		Balenda, Carla
+5322		Balestrieri, Lexi
+5323		Balestrieri, Virginia
+5324		Balfe, Caitriona
+5325		Balfour, Betty
+5326		Balfour, Eve
+5327		Balfour, Jodi
+5328		Balfour, Noëlle
+5329		Balfour, Penny
+5330		Balfour, Sue
+5331		Balgobin, Jennifer
+5332		Bali, Fifi
+5333		Bali, Geeta
+5334		Bali, Yogeeta
+5335		Balibar, Jeanne
+5336		Balick, Nicole
+5337		Balin, Ina
+5338		Balin, Mireille
+5339		Balk, Fairuza
+5340		Balkan, Carole
+5341		Balke, Turid
+5342		Balkis, Arlette
+5343		Ball, Alison (II)
+5344		Ball, Angeline
+5345		Ball, Annie
+5346		Ball, Ashleigh
+5347		Ball, Lucille
+5348		Ball, Sonja
+5349		Balla, Eszter (I)
+5350		Ballantine, Sara
+5351		Ballantyne, Elspeth
+5352		Ballantyne, Karen (II)
+5353		Ballard, Kaye
+5354		Ballard, Shirley
+5355		Ballesteros, Chasty
+5356		Ballesteros, Elena (I)
+5357		Ballesteros, Mari Paz
+5358		Ballesteros, Marita
+5359		Ballesteros, María (I)
+5360		Ballesteros, Sandra
+5361		Ballin, Mabel
+5362		Ballou, Marion
+5363		Balm, Karyn
+5364		Balmazovic, Aleksandra
+5365		Balme, Véronique
+5366		Balogh, Emese (I)
+5367		Balogh, Erika (I)
+5368		Balogh, Zsuzsa (I)
+5369		Balounová, Dana
+5370		Balourdou, Mantha
+5371		Balsai, Mónika
+5372		Balsam, Talia
+5373		Balsamo, Camille
+5374		Balue, T'Lane
+5375		Balza, Haydée
+5376		Balzaretti, Lucila
+5377		Balzerová, Eliska
+5378		Bamattre, Martha
+5379		Bamba (II)
+5380		Bambrick, Gertrude
+5381		Bamford, Cara
+5382		Bamford, Freda
+5383		Bamford, Maria
+5384		Ban, Anri
+5385		Bancroft, Anne (I)
+5386		Bandeira, Denise
+5387		Bandino, Valeria
+5388		Bandyopadhyay, Sanghamitra (I)
+5389		Baneai, Pouri
+5390		Banegas, Cristina
+5391		Banerjee, Beena
+5392		Banerjee, Kamalika
+5393		Banerjee, Rachana
+5394		Banerjee, Sunanda
+5395		Banes, Lisa
+5396		Bang, Carolina
+5397		Bang, Diana
+5398		Bang, Ellen
+5399		Bang, Eun-hee
+5400		Bang, Hie
+5401		Bang, Joy
+5402		Bang, Seong-ja
+5403		Bang, Su-il
+5404		Bang, Tove
+5405		Bang, Vivian (I)
+5406		Bangs, Cherise
+5407		Banjac, Mira
+5408		Bankhead, Elizabeth
+5409		Bankhead, Tallulah
+5410		Banks, Bessie
+5411		Banks, Elizabeth (II)
+5412		Banks, Estar
+5413		Banks, Lena
+5414		Banks, Lenore
+5415		Banks, Morwenna
+5416		Banks, Twyla
+5417		Banks, Tyra
+5418		Banlier, Chantal
+5419		Bannerjee, Karuna
+5420		Bannerman, Margaret
+5421		Banning, Leslie
+5422		Bannister, Monica
+5423		Bannon, Bonnie
+5424		Banri, Masayo
+5425		Bansal, Indira
+5426		Banti, Lucia
+5427		Banti, Mirella
+5428		Banu, Amir
+5429		Banu, Husn
+5430		Banu, Mehar
+5431		Banu, Naseem (I)
+5432		Banu, Saira
+5433		Banyas, Mickie
+5434		Banzet, Janet
+5435		Baokar, Uttara
+5436		Baptista, Áurea
+5437		Baquero, Ivana
+5438		Bara, Margit
+5439		Bara, Nina
+5440		Bara, Teuda
+5441		Bara, Theda
+5442		Barabanova, Mariya
+5443		Baracchi, Nilde
+5444		Baracchi, Raffaella
+5445		Baragli, Gianna
+5446		Barahona, Karla (I)
+5447		Barakova, Yevgeniya
+5448		Baralla, Fiammetta
+5449		Baranova, Anastasia (I)
+5450		Baranovskaya, Vera
+5451		Baranska, Jadwiga
+5452		Baranski, Christine
+5453		Barantsevich, Zoya
+5454		Baranyai, Vera
+5455		Barash, Olivia
+5456		Barath-Bastaic, Csilla
+5457		Baratta, Heidi
+5458		Baratto, Luisa
+5459		Barause, Lucía
+5460		Barba, Meche
+5461		Barba, Vanna
+5462		Barbacui, Marie
+5463		Barbara, Paola
+5464		Barbarao
+5465		Barbaro, Monica
+5466		Barbatti, Chamane (I)
+5467		Barbeau, Adrienne
+5468		Barber, Ellen
+5469		Barber, Frances
+5470		Barber, Gillian (I)
+5471		Barber, Glynis
+5472		Barber, Jane (I)
+5473		Barber, Joan (I)
+5474		Barber, María
+5475		Barberie, Jillian
+5476		Barbero, Chusa
+5477		Barbier, Gilette
+5478		Barbier, Nella
+5479		Barbier-Krauss, Charlotte
+5480		Barbieri, Gina (I)
+5481		Barbii
+5482		Barbosa, Luísa (I)
+5483		Barbosa, Tina
+5484		Barbosa, Zezeh
+5485		Barbour, Jess
+5486		Barbour, Joyce
+5487		Barbour, Kandi
+5488		Barbu, Marga
+5489		Barbulée, Madeleine
+5490		Barbuti, Gabriella
+5491		Barclay, Caroline (I)
+5492		Barclay, Emily (I)
+5493		Barclay, Joan
+5494		Bard, Alexandra
+5495		Bard, Maria (I)
+5496		Bardem, Conxita
+5497		Bardem, Pilar
+5498		Barden, Jessica
+5499		Bardery, Camille
+5500		Bardhal, María
+5501		Bardi, Mariemma
+5502		Bardine, Mabel
+5503		Bardollet, Michèle
+5504		Bardot, Brigitte
+5505		Bardot, Fifi
+5506		Bardot, Regine
+5507		Bardsley, Carole
+5508		Barefoot, Hannah (I)
+5509		Bareikis, Arija
+5510		Barela, Alessia
+5511		Barencey, Odette
+5512		Barends, Edda
+5513		Barentin, Nadia (I)
+5514		Baret, Dora
+5515		Barfield, Lisa M.
+5516		Bargate, Tracy
+5517		Barger, Christine (I)
+5518		Bargielowska, Barbara (I)
+5519		Bargielowska, Katarzyna
+5520		Bari, Judi
+5521		Bari, Lynn
+5522		Baribeau, Judith
+5523		Baric, Lana
+5524		Barilli, Ayanta
+5525		Barilozzi, Emanuela
+5526		Baring, Mathilde
+5527		Baring, Norah
+5528		Barish, Natalie
+5529		Barjac, Sophie
+5530		Barkan, Bridget
+5531		Barker, Corinne
+5532		Barker, Dani
+5533		Barker, Eileen (I)
+5534		Barker, Florence
+5535		Barker, Melissa (I)
+5536		Barker, Petronella (I)
+5537		Barker, Rebecca (II)
+5538		Barkin, Ellen
+5539		Barkin, Marcie
+5540		Barkley, Lucille
+5541		Barklund, Susanne
+5542		Barko, Hildegard
+5543		Barkoff, Victoria
+5544		Barladeanu, Monica
+5545		Barlen, Ursula
+5546		Barley, Candice Michele
+5547		Barlier, Alexia
+5548		Barlondo, Sarah
+5549		Barlow, Joy
+5550		Barlow, Maude
+5551		Barna, Eleonora
+5552		Barnatán, Yael
+5553		Barnay, Margit
+5554		Barnbrook, Jacquie
+5555		Barnes, Anita (I)
+5556		Barnes, Avis-Marie
+5557		Barnes, Barbara (II)
+5558		Barnes, Binnie
+5559		Barnes, Hayden Gael
+5560		Barnes, Jane (I)
+5561		Barnes, Joanna
+5562		Barnes, Lisa (III)
+5563		Barnes, Marlane
+5564		Barnes, Priscilla
+5565		Barnes, Robbie (II)
+5566		Barnes, Susan (I)
+5567		Barnes, Suzanne (I)
+5568		Barnes, Tina (I)
+5569		Barnes, Wren
+5570		Barnes-Cullen, Kristy
+5571		Barnes-Hopkins, Barbara
+5572		Barnet, Olga
+5573		Barnett, April
+5574		Barnett, Nellie
+5575		Barney, Marion
+5576		Barney, Shannon
+5577		Barnfield, Kacey
+5578		Barnhart, Kristin
+5579		Barninger, Julianna
+5580		Barnstedt, Imke
+5581		Baroin, Chantal
+5582		Baron, Cathy
+5583		Baron, Dana Lyn
+5584		Baron, Emma
+5585		Baron, Erica
+5586		Baron, Jeanne
+5587		Baron, Joanne (I)
+5588		Baron, Lita
+5589		Baron, Lynda
+5590		Barondes, Elizabeth
+5591		Barondess, Barbara
+5592		Barone, Alexis
+5593		Barone, Anita
+5594		Barone, Carina
+5595		Baroudi, Rajia
+5596		Barr, Kathleen (I)
+5597		Barr, Muriel
+5598		Barr, Roseanne
+5599		Barr, Stefania
+5600		Barr, Tammy
+5601		Barr, Tara Lynne
+5602		Barr, Tia (I)
+5603		Barrado, Lupe
+5604		Barraford, Hilary
+5605		Barragán, Georgina
+5606		Barral, Frédérique
+5607		Barranco, María
+5608		Barranco, Mercedes (I)
+5609		Barras, Rebecca
+5610		Barrault, Marie-Christine
+5611		Barrault, Véronique
+5612		Barraza, Adriana
+5613		Barreau, Marcelle
+5614		Barredo, Bessie
+5615		Barredo, Janine
+5616		Barrera, Adriana (I)
+5617		Barrera, Paca
+5618		Barrera, Pilar
+5619		Barrese, Sasha
+5620		Barret, Carolina
+5621		Barreto, Alexandra
+5622		Barrett, Alice
+5623		Barrett, Angel
+5624		Barrett, Claudia
+5625		Barrett, Conn
+5626		Barrett, Dorothy (I)
+5627		Barrett, Dorothy (II)
+5628		Barrett, Edith
+5629		Barrett, Emma (III)
+5630		Barrett, Holly (I)
+5631		Barrett, Jacinda
+5632		Barrett, Janet (II)
+5633		Barrett, Judith (I)
+5634		Barrett, Kelly (IV)
+5635		Barrett, Majel
+5636		Barretto, Claudine
+5637		Barretto, Gretchen
+5638		Barretto, Marjorie
+5639		Barretto, Patrizia
+5640		Barrie, Amanda
+5641		Barrie, Barbara
+5642		Barrie, Mona
+5643		Barrie, Ruth (I)
+5644		Barrie, Wendy (I)
+5645		Barrington, Kristara
+5646		Barrington, Pat
+5647		Barrington, Phyllis
+5648		Barrios, Elena
+5649		Barriscale, Bessie
+5650		Barrié, Alicia
+5651		Barron, Allison
+5652		Barron, Dana
+5653		Barros, Alejandra
+5654		Barros, Esmeralda
+5655		Barros, Nerea
+5656		Barroso, Manolita
+5657		Barroso, María José
+5658		Barrows, Diana
+5659		Barry, Anna (I)
+5660		Barry, B. Constance
+5661		Barry, Chantelle
+5662		Barry, Christiane
+5663		Barry, Eleanor (II)
+5664		Barry, Fern
+5665		Barry, Hilda
+5666		Barry, Joan (I)
+5667		Barry, Marcelle
+5668		Barry, Patricia (I)
+5669		Barry, Phyllis
+5670		Barry, Toni
+5671		Barry, Viola
+5672		Barry, Yane
+5673		Barry-Miller, Kelly
+5674		Barrye, Emily
+5675		Barrymore, Diana
+5676		Barrymore, Drew (I)
+5677		Barrymore, Ethel
+5678		Barrymore, Jaid
+5679		Barré, Cécile
+5680		Barré, Nicole
+5681		Barshinger, Arlene
+5682		Barsky, Amie
+5683		Barsony, Rosy
+5684		Barsotti, Sandra
+5685		Barszczewska, Elzbieta
+5686		Barszczewska, Grazyna
+5687		Bartay, Barbara
+5688		Bartczak, Carolina
+5689		Bartel, Jeanine
+5690		Bartet, Madame
+5691		Barth, Isolde
+5692		Barth, Jessica (I)
+5693		Bartheel, Carla
+5694		Barthel, Mika
+5695		Bartholomäus, Heidrun
+5696		Bartlam, Dorothy
+5697		Bartlett, Bonnie
+5698		Bartlett, Erinn
+5699		Bartlett, Jill
+5700		Bartlett, Robin
+5701		Bartley, Ryan (II)
+5702		Bartok, Eva
+5703		Bartoli, Donatella
+5704		Bartolomé, Lourdes
+5705		Bartolucci, Anita
+5706		Barton, Amanda (I)
+5707		Barton, Anne
+5708		Barton, Carrie (I)
+5709		Barton, Dora
+5710		Barton, Dorie (I)
+5711		Barton, Finis
+5712		Barton, Grace
+5713		Barton, Joan (I)
+5714		Barton, Margaret
+5715		Barton, Mischa
+5716		Barton-Farcas, Stephanie
+5717		Bartosová, Stanislava
+5718		Bartsch, Angelika
+5719		Bartsch, Kata
+5720		Bartsch, Viviane
+5721		Bartunková, Dana
+5722		Barua, Shakuntala
+5723		Baruah, Mridula
+5724		Baruc, Siri
+5725		Baruch, Tamar (I)
+5726		Barve, Mukta
+5727		Barvon, Denisa
+5728		Barwell, Leigh
+5729		Barysheva, Tatyana
+5730		Barzizza, Isa
+5731		Barzman, Julie
+5732		Barzyk, Patricia
+5733		Baró, Amparo
+5734		Bas, Susana
+5735		Basaran, Meriç
+5736		Baschet, Claudine
+5737		Bascuñan, Paz
+5738		Basil, Toni
+5739		Basile, Nadine
+5740		Basili, Alicja
+5741		Basinger, Kim
+5742		Basler, Marianne
+5743		Basma
+5744		Basquette, Lina
+5745		Basser, Fina
+5746		Bassermann, Elsa
+5747		Basset, Gaby
+5748		Bassett, Angela
+5749		Bassett, Linda (I)
+5750		Bassey, Ebbe
+5751		Bassey, Jennifer (I)
+5752		Bassi, Valentina (I)
+5753		Bassin, Roberta
+5754		Bassols, Claudia
+5755		Basson, Christine
+5756		Bassó, María
+5757		Bastedo, Alexandra
+5758		Bastia, Akshaya
+5759		Bastien, Audrey
+5760		Bastien, Fanny
+5761		Bastien, Tabitha (I)
+5762		Bastien, Yvonne
+5763		Bastos, Maria João (I)
+5764		Bastubbe, Ilse
+5765		Basu, Bipasha
+5766		Basu, Tulika
+5767		Basílio, Oceana
+5768		Bat-Adam, Michal
+5769		Bataille, Emmanuelle
+5770		Bataille, Julie (I)
+5771		Bataille, Sylvia
+5772		Batarda, Beatriz
+5773		Batassa, Lucia
+5774		Batata, Rita
+5775		Bateman, Britani
+5776		Bateman, Justine
+5777		Bateman, Victory
+5778		Bates, Barbara (I)
+5779		Bates, Florence
+5780		Bates, Jeanne (I)
+5781		Bates, Jo (I)
+5782		Bates, Kathryn (I)
+5783		Bates, Kathy (I)
+5784		Bates, Louise (I)
+5785		Bath, Evamaria
+5786		Batherson, Jillian
+5787		Batista, Dircinha
+5788		Batista, Linda (II)
+5789		Batista, Louiza
+5790		Batiste, Nadala
+5791		Batley, Dorothy
+5792		Batra, Pooja
+5793		Batson, Alecia
+5794		Batson, Susan (I)
+5795		Batson, Terrie
+5796		Batten, Cyia
+5797		Batti, Jeannette
+5798		Battiferri, Fernanda
+5799		Battista, Miriam
+5800		Battistone, Catherine
+5801		Battoe, Becca
+5802		Batu, Pelin
+5803		Batulková, Dana
+5804		Bau, Irene
+5805		Bauche, Vanessa
+5806		Baude, Anna-Lisa
+5807		Baudin, Ginette
+5808		Bauer, Belinda (I)
+5809		Bauer, Emily
+5810		Bauer, Liz (I)
+5811		Bauer, Mary (II)
+5812		Bauer, Michelle
+5813		Bauer, Nora
+5814		Baugh, Kaleigh
+5815		Baugh, Taylor
+5816		Baugher, Kelly
+5817		Baughman, Elise
+5818		Baukol, Laura
+5819		Baulch, Leah (I)
+5820		Bauman, Erna Martha
+5821		Baumann, Aviva
+5822		Baumann, Demi
+5823		Baumann, Sandy
+5824		Baumgartner, Monika (I)
+5825		Bautista, Abby
+5826		Bautista, Aring
+5827		Bautista, Aurora (I)
+5828		Bautista, Beth
+5829		Bautista, Cacai
+5830		Bautista, Cassandra
+5831		Bautista, Conchita
+5832		Bautista, Harlene
+5833		Bautista, Marilyn (I)
+5834		Bautista, Perla
+5835		Bautista, Susan
+5836		Bavier, Frances
+5837		Baxa, María
+5838		Baxendale, Helen
+5839		Baxevani, Fotini
+5840		Baxevanos, Chariklia
+5841		Baxley, Barbara
+5842		Baxter, Amy Lynn
+5843		Baxter, Anne (I)
+5844		Baxter, Courtney
+5845		Baxter, Diahnna Nicole
+5846		Baxter, Jane (I)
+5847		Baxter, Jennifer
+5848		Baxter, Jenny (I)
+5849		Baxter, Margaret
+5850		Baxter, Meredith
+5851		Bay, Dorothy
+5852		Bay, Eva
+5853		Bay, Frances
+5854		Bay, Gia
+5855		Bay, Gry
+5856		Bay, Maria
+5857		Bayani, Angeli
+5858		Bayard, Micha
+5859		Bayardo, Gloria
+5860		Bayardo, Sonia
+5861		Bayart, Emeline
+5862		Bayat, Mahbubeh
+5863		Baye, Nathalie
+5864		Bayegan, Afsaneh
+5865		Bayer, Melissa (I)
+5866		Bayer, Veronika
+5867		Bayhan, Gönül
+5868		Bayless, Mary
+5869		Bayley, Eleanor
+5870		Bayley, Hilda
+5871		Bayly, Jessica
+5872		Baylé, Silvia
+5873		Bayma-Riva, Mary
+5874		Bayne, Beverly
+5875		Bayo, Lola
+5876		Bayona, Emilia
+5877		Bayona, Pilar
+5878		Bayonas, Laura
+5879		Bayram, Asli
+5880		Baytelman, Shlomit
+5881		Bayón, Lena
+5882		Baz, Beatriz
+5883		Bazaka, Themis
+5884		Bazler, Carissa
+5885		Be, Lisa
+5886		Beach, Ann
+5887		Beacham, Stephanie
+5888		Beahan, Kate
+5889		Beale, Aileen
+5890		Beales, Amy Clare
+5891		Beall, Barbara (II)
+5892		Beals, Jennifer
+5893		Beamish, Antonia
+5894		Beamish, Lindsay
+5895		Beani, Bruna
+5896		Bear, Mary
+5897		Beard, Amazon (I)
+5898		Beard, Jane (I)
+5899		Beard, Lynne-Marie
+5900		Beard, Sugar Lyn
+5901		Beasley, Allyce
+5902		Beasley, Deena
+5903		Beato, Carmen
+5904		Beatrice, Enny
+5905		Beatty, Bunny
+5906		Beatty, Debra K.
+5907		Beatty, May
+5908		Beatty, Nancy
+5909		Beauchamp, Shanna
+5910		Beaudet, Louise (I)
+5911		Beaudry, Eugénie
+5912		Beaulieu, Christine (I)
+5913		Beaulieu, Samantha
+5914		Beaume, Blanche
+5915		Beaumont, Daisy
+5916		Beaumont, Diana (I)
+5917		Beaumont, Ena
+5918		Beaumont, Kathryn (I)
+5919		Beaumont, Lucy (I)
+5920		Beaumont, Susan
+5921		Beaune, Eloïse
+5922		Beauregard, Susan
+5923		Beausson-Diagne, Nadège
+5924		Beauvais, Garcelle
+5925		Beauvais, Marya
+5926		Beavers, Kim
+5927		Beavers, Louise
+5928		Beavon, Holly
+5929		Bebarta, Isha
+5930		Beccarie, Claudine
+5931		Becerikli, Nezihe
+5932		Bech, Caroline
+5933		Bechmann, Trude
+5934		Bechtel, Mrs. William
+5935		Bechynová, Jarmila
+5936		Beck, Christina (I)
+5937		Beck, Elga
+5938		Beck, Flynn
+5939		Beck, Karen Jin
+5940		Beck, Kathryn
+5941		Beck, Kimberly
+5942		Beck, Lili
+5943		Beck, Maria
+5944		Beckemeyer, Katy
+5945		Becker, Alison
+5946		Becker, Belinda
+5947		Becker, Gretchen
+5948		Becker, Jackie
+5949		Becker, Lonka (II)
+5950		Becker, Meret
+5951		Becker, Rose
+5952		Becker, Sigrid (I)
+5953		Becker-Gray, Ellen
+5954		Beckers, Betty
+5955		Beckinsale, Kate
+5956		Beckman, Alana Jo
+5957		Beckovic, Olja
+5958		Becktoria
+5959		Becquart, Ruth
+5960		Bedard, Irene
+5961		Bedard, Sebrina
+5962		Bedelia, Bonnie
+5963		Bedford, Barbara (I)
+5964		Bedi, Mandira
+5965		Bedi, Monica
+5966		Bedi, Purva
+5967		Bedi, Sheetal
+5968		Bedi, Susham
+5969		Bedian, Anne
+5970		Bednar, Vanessa
+5971		Bednarz, Halina
+5972		Bedova, Tatyana
+5973		Bedrynska, Hanna
+5974		Bee, Brea
+5975		Bee, Samantha
+5976		Beebe, Marjorie
+5977		Beeby, Shannon (I)
+5978		Beecham, Emily
+5979		Beecher, Janet
+5980		Beecher, Judi
+5981		Beemer, Tracy
+5982		Beer, Erica
+5983		Beerhold, Julia (I)
+5984		Beers, Erin
+5985		Beers, Heather
+5986		Beesley, Shayla
+5987		Beevers, Kristen
+5988		Beewen, Karin
+5989		Bega, Leslie
+5990		Beghi, Luisella
+5991		Begic, Ana
+5992		Beglau, Bibiana
+5993		Begovic, Amina
+5994		Begovic, Ena
+5995		Begoña, Mary
+5996		Begum, Anwari
+5997		Begum, Bahar
+5998		Begum, Deeba
+5999		Begum, Khurshid
+6000		Begum, Mukhtar
+6001		Begum, Mumtaz
+6002		Begum, Zeenat (I)
+6003		Behar, Joy
+6004		Beharee, Upasana (I)
+6005		Beheshti, Sorayya
+6006		Behets, Briony
+6007		Behr, Emily
+6008		Behr, Jennifer
+6009		Behrens, Manja
+6010		Behrens, Yeniffer (I)
+6011		Behrs, Beth
+6012		Beier, Brigitte
+6013		Beier, Tara
+6014		Beiersdorf, Dagmar
+6015		Beilby, Vangie
+6016		Beilke, Ankie
+6017		Beitia, Maiken
+6018		Bejarano, Josefina
+6019		Bejarano, Julia
+6020		Bejo, Bérénice
+6021		Bekbay, Saime
+6022		Bekendorf, Vilma
+6023		Bekhti, Leïla
+6024		Bekkouche, Saïda
+6025		Bel Geddes, Barbara
+6026		Bel, Frédérique
+6027		Bela, Dalila
+6028		Belack, Doris
+6029		Belafonte, Shari
+6030		Belajeff, Olga
+6031		Belal, Baya
+6032		Belasco, Ruby
+6033		Belaustegui, Marta
+6034		Belawadi, Sudha
+6035		Belaïdi, Alice
+6036		Belcher, Alice
+6037		Belcher, Patricia
+6038		Belenguer, Marta
+6039		Beley, Lisa Ann (I)
+6040		Belfo, Karen
+6041		Belgen, Fatma
+6042		Belita (I)
+6043		Belizaire, Stacy-Love
+6044		Beljakova, Tatjana
+6045		Belkebla, Fadila (I)
+6046		Belkhodja, Catherine
+6047		Belkin, Jessica (I)
+6048		Belkis, Lale
+6049		Bell, Ann (I)
+6050		Bell, Ashley (I)
+6051		Bell, Corry
+6052		Bell, Courtney Sara
+6053		Bell, Emma (I)
+6054		Bell, Estelita
+6055		Bell, Eva (II)
+6056		Bell, Genevieve
+6057		Bell, Honorine
+6058		Bell, Jeannie (I)
+6059		Bell, Jennifer Sun
+6060		Bell, Jillian (I)
+6061		Bell, Karina (I)
+6062		Bell, Kristen (I)
+6063		Bell, Lake
+6064		Bell, Lucy (I)
+6065		Bell, Marcia (I)
+6066		Bell, Marie
+6067		Bell, Mindy
+6068		Bell, Raquel
+6069		Bell, Theresa
+6070		Bell, Zoë
+6071		Bella, Blanche
+6072		Bella, Christa
+6073		Bella, Erica
+6074		Bella, Laudya Cynthia
+6075		Bella, Linda (I)
+6076		Bella, Rachael
+6077		Belladonna (I)
+6078		Bellamy, Andy
+6079		Bellamy, Anne
+6080		Bellamy, Diana
+6081		Bellamy, Madge
+6082		Belland, Brittany
+6083		Bellange, Tetchena
+6084		Bellanger, Hélène (I)
+6085		Bellar, Clara
+6086		Bellay, Jenny
+6087		Belle, Annie
+6088		Belle, Busty
+6089		Belle, Camilla
+6090		Belle, Lexi
+6091		Belle, Tula
+6092		Beller, Kathleen
+6093		Bellew, Dorothy
+6094		Bellew, Stacy
+6095		Belli, Agostina
+6096		Belli, Laura
+6097		Belli, Marisa
+6098		Bellina, Meriam
+6099		Bellinger, Gillian
+6100		Bellingham, Lynda
+6101		Bellini, Francesca
+6102		Bellini, Roxana
+6103		Bellisario, Troian
+6104		Bellman, Gina
+6105		Bello, Maria
+6106		Bello, Teodorina
+6107		Belloch, Carmen
+6108		Bellon, Loleh
+6109		Bellová, Veronika
+6110		Bellucci, Monica
+6111		Bellwood, Pamela
+6112		Belly, Karine
+6113		Belmont, Lara
+6114		Belmont, Virginia
+6115		Belmonte, Liza
+6116		Belmore, Bertha
+6117		Belmore, Daisy
+6118		Belnap, Carla
+6119		Belo, Fátima
+6120		Belogurova, Larisa
+6121		Belokhvostikova, Natalya
+6122		Belous, Tamara
+6123		Belton, Cathy
+6124		Beltran, Alma
+6125		Beltrán, Lola
+6126		Beltrán, Nelly
+6127		Beltrán, Susana (I)
+6128		Beltrão, Andrea
+6129		Beluzzi, Maria Antonietta
+6130		Belyaeva, Galina
+6131		Belyaeva, Valentina
+6132		Belyavskaya, Olga
+6133		Belén, Ana (I)
+6134		Bemis, Beth
+6135		Ben Saïdane, Fatima
+6136		Benaderet, Bea
+6137		Benavidez, Cassie
+6138		Bence, Amelia
+6139		Benchetrit, Nitsa (I)
+6140		Bencze, Ilona
+6141		Bender, Angelika
+6142		Bender, Dawn (I)
+6143		Bender, Eva
+6144		Bender, Stacey
+6145		Bendewald, Andrea
+6146		Bendigo, Marilou
+6147		Bendix, Camilla
+6148		Bendokat, Margit
+6149		Bendova, Antonina
+6150		Bendová, Alice
+6151		Bendre, Sonali
+6152		Benedetta, Mia
+6153		Benedetti, Caprice
+6154		Benedetti, Francesca (I)
+6155		Benedetto, Leonor
+6156		Benedict, Sylvia
+6157		Benedicto, Encar
+6158		Benedicto, Sonsoles
+6159		Benesch, Cathrin
+6160		Benesh, Cora
+6161		Benesová, Lucie
+6162		Benetti, Adriana
+6163		Benetti, Olga
+6164		Benezra, Judith
+6165		Benford, Starla
+6166		Bengell, Norma
+6167		Bengen, Traute
+6168		Benguigui, Catherine
+6169		Benguigui, Valérie
+6170		Benham, Dorothy (I)
+6171		Benham, Elsa
+6172		Benham, Joan
+6173		Benhamou, Francis
+6174		Bening, Annette
+6175		Benisawa, Yôko
+6176		Benita, Ina
+6177		Benjamin, Paris
+6178		Benkhoff, Fita
+6179		Benko, Tina
+6180		Benn, Elsa
+6181		Bennato, Serena
+6182		Bennefeld, Katja
+6183		Bennent, Anne
+6184		Benner, Barbara (II)
+6185		Benner, Kathleen
+6186		Bennett, Alma (I)
+6187		Bennett, Belle
+6188		Bennett, Billie
+6189		Bennett, Brooke (I)
+6190		Bennett, Catherine (I)
+6191		Bennett, Constance (I)
+6192		Bennett, Darlene
+6193		Bennett, Dawn (I)
+6194		Bennett, Edna
+6195		Bennett, Emily (V)
+6196		Bennett, Enid
+6197		Bennett, Fran (I)
+6198		Bennett, Francesca
+6199		Bennett, Gertrude
+6200		Bennett, Haley
+6201		Bennett, Helen (I)
+6202		Bennett, Irene
+6203		Bennett, Jessica Erin
+6204		Bennett, Jill (I)
+6205		Bennett, Jill (II)
+6206		Bennett, Joan (I)
+6207		Bennett, Julie (I)
+6208		Bennett, Juliette
+6209		Bennett, Leila
+6210		Bennett, Marcia (I)
+6211		Bennett, Marjorie
+6212		Bennett, Maureen (I)
+6213		Bennett, Melinda (I)
+6214		Bennett, Rita (III)
+6215		Bennett, Shelley
+6216		Bennett, Shirley
+6217		Bennett, Sonia
+6218		Bennett, Sonja
+6219		Benny, Shirley
+6220		Benoit, Mary
+6221		Benoît, Anne
+6222		Benoît, Denise
+6223		Benoît, Emilie
+6224		Bensasson, Lucia
+6225		Benson, Amber (I)
+6226		Benson, Ann (II)
+6227		Benson, Annette (I)
+6228		Benson, Ashley
+6229		Benson, Jodi
+6230		Benson, Julia
+6231		Benson, Lucille
+6232		Benson, May
+6233		Benson-Landes, Wendy
+6234		Bensousan, Rita
+6235		Bensoussan, Sarah
+6236		Bensussen, Andrea
+6237		Bentley, Stephanie (I)
+6238		Bently, Christine
+6239		Benton, Anya
+6240		Benton, Kris (I)
+6241		Benton, Lee
+6242		Benussi, Femi
+6243		Benvenuti, Vittorina
+6244		Benward, Kenda
+6245		Beny, Jude
+6246		Benz, Julie
+6247		Benísková, Otýlie
+6248		Beran, Christie
+6249		Berben, Iris
+6250		Berber, Anita
+6251		Berco, Roxana
+6252		Bercot, Emmanuelle
+6253		Berd, Françoise
+6254		Berdal, Ingrid Bolsø
+6255		Berek, Katalin
+6256		Berenguer, Elsa
+6257		Berenson, Marisa (I)
+6258		Beresford, Evelyn
+6259		Beretta, Carmen
+6260		Berezutskaya, Valentina
+6261		Berg, Caroline (I)
+6262		Berg, Claudine
+6263		Berg, Karen (I)
+6264		Berg, Lena Sabine
+6265		Berg, Natascha
+6266		Berg, Stina
+6267		Berg, Taina Anneli R.
+6268		Berg, Tina-Desiree
+6269		Bergam, Marija
+6270		Bergamasco, Sonia
+6271		Bergamonti, Rossella
+6272		Bergamín, Beatriz
+6273		Bergen, Birgit
+6274		Bergen, Candice
+6275		Bergen, Constance
+6276		Bergen, Frances
+6277		Bergen, Lilo
+6278		Bergen, Polly
+6279		Bergen, Rena
+6280		Bergen, Tushka
+6281		Bergendahl, Ann-Margret
+6282		Berger, Anna (I)
+6283		Berger, Anne (II)
+6284		Berger, Annick
+6285		Berger, Debra (I)
+6286		Berger, Erna
+6287		Berger, Grete (I)
+6288		Berger, Hilde
+6289		Berger, Leslie
+6290		Berger, Nicole (I)
+6291		Berger, Paulette
+6292		Berger, Renata
+6293		Berger, Senta
+6294		Bergere, Jenica
+6295		Bergere, Leona
+6296		Bergl, Emily
+6297		Berglund, Anna Sophia
+6298		Bergman, Anna (I)
+6299		Bergman, Ingrid (I)
+6300		Bergman, Margareta
+6301		Bergman, Mary Kay
+6302		Bergman, Sandahl
+6303		Bergman, Vera
+6304		Bergner, Dora
+6305		Bergner, Elisabeth
+6306		Bergström, Helena (I)
+6307		Bergström, Margaretha
+6308		Bergström, Tiina
+6309		Bergstrøm, Lotte
+6310		Bergès-Frisbey, Astrid
+6311		Bergé, Francine
+6312		Beri, Jasna
+6313		Beric, Desa
+6314		Beringer, Kathy
+6315		Beristáin, Dolores
+6316		Berkeley, Gertrude
+6317		Berkin, Teresa
+6318		Berkley, Elizabeth
+6319		Berkley, Monique Lola
+6320		Berkman, Zehra
+6321		Berkmen, Jayda
+6322		Berkowitz, Dalit
+6323		Berkshire, Ayanna
+6324		Berkson, Brianne
+6325		Berky, Lili (I)
+6326		Berlin, Brigid
+6327		Berlin, Jeannie
+6328		Berliner, Trude
+6329		Berman, Kirsten
+6330		Bermejo, Celia
+6331		Bern, Irmgard
+6332		Bern, Mina
+6333		Berna, Else
+6334		Bernabe, Nathania
+6335		Bernabé, Amalia
+6336		Bernacchi, Clelia
+6337		Bernadette, Jamie
+6338		Bernal, Claudia
+6339		Bernal, Lorena (I)
+6340		Bernal, Patricia (I)
+6341		Bernal, Rosenda
+6342		Bernard, Andrée
+6343		Bernard, Dorothy
+6344		Bernard, Hilda
+6345		Bernard, Joëlle
+6346		Bernard, Leanne
+6347		Bernard, Micheline (II)
+6348		Bernard, Michelle (I)
+6349		Bernard, Mila
+6350		Bernard, Nicole (I)
+6351		Bernard, Rukiya
+6352		Bernard, Sarah (I)
+6353		Bernard, Sue
+6354		Bernardelli, Dedina
+6355		Bernardeschi, Laura (I)
+6356		Bernardi, Lina (I)
+6357		Bernardo, Kathryn
+6358		Bernardo, Naty
+6359		Bernardos, Carmen
+6360		Bernay, Lynette
+6361		Bernby, Julie
+6362		Berndt, Gretel
+6363		Berndt, Petra
+6364		Bernelle, Agnes
+6365		Berner, Michaela (II)
+6366		Berner, Sara (I)
+6367		Bernert, Suzanne (I)
+6368		Bernette, Sheila
+6369		Bernhard, Sandra (I)
+6370		Bernhardsson, Lena-Pia
+6371		Bernhardt, Sarah (I)
+6372		Bernheim, Shirl
+6373		Berni, Mara
+6374		Bernier, Michèle
+6375		Bernier, Mélanie
+6376		Bernoudy, Jane
+6377		Bernstein, Cole (II)
+6378		Bernstein, Sheryl
+6379		Berr, Betty
+6380		Berretty, Yoka
+6381		Berriau, Simone
+6382		Berridge, Elizabeth (I)
+6383		Berrington, Elizabeth
+6384		Berrocal, Gloria
+6385		Berrocal, Leyre
+6386		Berry, Angelique Marion
+6387		Berry, Audrey (I)
+6388		Berry, Elke
+6389		Berry, Freya
+6390		Berry, Halle
+6391		Berry, Iris
+6392		Berry, Mady
+6393		Berry, Marilou
+6394		Berry, Stephanie
+6395		Berryman, Dorothée
+6396		Bersy, Muriel
+6397		Bert, Liliane
+6398		Bert, Margaret
+6399		Bert, Monique
+6400		Bertaccini, Sabrina
+6401		Bertalan, Ágnes
+6402		Bertelsen, Ingeborg Bruhn
+6403		Berthelier, Elise
+6404		Berthels, Greta
+6405		Berthet, Lola
+6406		Berthier, Simone
+6407		Berti, Marina
+6408		Bertin, Brenda
+6409		Bertin, Françoise
+6410		Bertini, Francesca
+6411		Bertish, Jane
+6412		Bertish, Suzanne
+6413		Bertling, Karin
+6414		Berto, Juliet
+6415		Berto, Marie
+6416		Bertoni, Stephanie
+6417		Bertram, Laura
+6418		Bertram, Vedah
+6419		Bertran, Lloll
+6420		Bertrand, Aline
+6421		Bertrand, Maria
+6422		Bertrand, Rosalie
+6423		Bertsch, Morgan
+6424		Bertuccelli, Valeria
+6425		Berty, Andrée
+6426		Berumen, Ana
+6427		Berumen, Denise
+6428		Berys, Cristina
+6429		Beránková, Jarmila
+6430		Besançon, Nathalie
+6431		Besch, Bibi
+6432		Besedes, Noemi
+6433		Besendahl, Maria
+6434		Besharah, Angela
+6435		Besnard, Nicole
+6436		Bespalenko, Olga
+6437		Besser, Jennifer (II)
+6438		Besserer, Eugenie
+6439		Besso, Claudia
+6440		Best, Amy Lynn
+6441		Best, Edna
+6442		Best, Kristy
+6443		Bestbier, Michelle
+6444		Beswick, Martine
+6445		Betancourt, Anne
+6446		Betancourt, Cassandra
+6447		Betcherowa, Stefania
+6448		Bethan, Ceri
+6449		Bethea, Erin
+6450		Bethge, Jeanette
+6451		Bethke-Zitzman, Luise
+6452		Bethlem, Maria Zilda
+6453		Bethmann, Sabine
+6454		Bethune, Ivy
+6455		Bethânia, Maria
+6456		Beton, Rebecca
+6457		Betrani, Frida
+6458		Betrone, Elvira
+6459		Bette, Françoise
+6460		Betti, Barbara
+6461		Betti, Laura
+6462		Bettis, Angela
+6463		Bettoia, Franca
+6464		Betts, April
+6465		Betz, Audrey
+6466		Betz, Carla
+6467		Betz, Shana
+6468		Beuca, Elena
+6469		Beukes, Magda
+6470		Bevan, Emily
+6471		Beverly, Helen
+6472		Bevilacqua, Giulia
+6473		Beyer, Regina
+6474		Beyers, Clara
+6475		Bezerra, Vania
+6476		Bezick, Brooke
+6477		Bezrukova, Irina
+6478		Bezuidenhout, Aletta
+6479		Bhaduri, Chandrima
+6480		Bhaduri, Jaya
+6481		Bhaduri, Rita
+6482		Bhagat, Sayali
+6483		Bhagyashree
+6484		Bhalla, Ashima
+6485		Bhama (II)
+6486		Bhanumati
+6487		Bhanupriya
+6488		Bharathi (I)
+6489		Bhari, Mandy
+6490		Bharti, Divya (I)
+6491		Bharucha, Nushrat
+6492		Bhaskar, Swara
+6493		Bhatia, Tamannaah
+6494		Bhatnagar, Dipti
+6495		Bhatt, Bhavana
+6496		Bhatt, Hrishitaa
+6497		Bhatt, Pooja (I)
+6498		Bhatt, Urmila
+6499		Bhattacharya, Jaya (I)
+6500		Bhavana (II)
+6501		Bhave, Ashwini
+6502		Bhawani, Adoor
+6503		Bhopali, Shakeela Bano
+6504		Bhuvaneswari
+6505		Biagini, Isabella
+6506		Bialik, Mayim
+6507		Bianca, Viva
+6508		Bianchetti, Suzanne
+6509		Bianchi, Daniela (I)
+6510		Bianchi, Eleonora (I)
+6511		Bianchi, Marta (I)
+6512		Bianchi, Nadia
+6513		Bianchi, Regina
+6514		Bianchi, Rosa María
+6515		Bianco, Eva
+6516		Bianco, Rose
+6517		Biani, Anna
+6518		Biar, Célia
+6519		Bibb, Leslie
+6520		Bibb, Sarah (I)
+6521		Bibet, Delphine
+6522		Bibot, Laurence
+6523		Bicchi, Delia
+6524		Bickerstaff, Detra
+6525		Bickerton, Melissa
+6526		Bidart, Beba
+6527		Bidasha, Veena (I)
+6528		Bidaut, Catherine
+6529		Bidewell, Victoria
+6530		Bie Warburg, Anne
+6531		Bieber, Nita
+6532		Biebrach, Erika
+6533		Biedermann, Manuela
+6534		Biedrzynska, Adrianna
+6535		Biel, Jessica
+6536		Bielicka, Hanka
+6537		Bielska, Iwona
+6538		Bielskis, Caroline
+6539		Biener, Dagmar
+6540		Bienert, Katja
+6541		Bierbichler, Annamirl
+6542		Bifano, Marta
+6543		Bigelow, DeeDee
+6544		Biggs, Becky
+6545		Biggs, Charlotte (II)
+6546		Bihali, Melita
+6547		Bijlani, Sangeeta
+6548		Bilbao, Carlota
+6549		Bilbao, Mariví
+6550		Bilbao, Nélida
+6551		Bilbrook, Lydia
+6552		Bilchik, Nadia
+6553		Bilderback, Nicole
+6554		Bilello, Valeria (I)
+6555		Bilgen, Fatma
+6556		Bilger, Bettina
+6557		Bilgin, Belçim
+6558		Bilinszky, Ibolya
+6559		Bille, Beate
+6560		Billi, Liana
+6561		Billiet, Lydia
+6562		Billing-Wohl, Halina
+6563		Billingham, Dar
+6564		Billings, Billie
+6565		Billings, Florence
+6566		Billingsley, April
+6567		Billingsley, Barbara
+6568		Billington, Francelia
+6569		Billisich, Eva
+6570		Billsten, Britta
+6571		Bina (V)
+6572		Binder, Meredith
+6573		Binder, Sybille (I)
+6574		Bindi, Clara
+6575		Bindra, Dolly
+6576		Bindu (I)
+6577		Bingham, Kat
+6578		Bingham, Traci (I)
+6579		Bini, Golfo
+6580		Binkley, Pepper
+6581		Binney, Constance
+6582		Binney, Faire
+6583		Binoche, Juliette
+6584		Bintang, Titi Rajo (I)
+6585		Biondi, Lidia
+6586		Biral, Thelma
+6587		Birch, Carolyn
+6588		Birch, Leila
+6589		Birch, Thora
+6590		Bircher, Maria
+6591		Bird, Alice (II)
+6592		Bird, Betty (I)
+6593		Bird, Billie
+6594		Bird, Minah
+6595		Bird, Violet
+6596		Birdsall, Tracey
+6597		Birdsong, Mary
+6598		Birell, Tala
+6599		Birkell, Lauren
+6600		Birkenfeld, Inga
+6601		Birkin, Jane
+6602		Birková, Lena
+6603		Birman, Serafima
+6604		Birn, Laura
+6605		Birnbaum, Amy (I)
+6606		Biron, Lillian
+6607		Birthistle, Eva
+6608		Bischoff, Dianne
+6609		Biscoe, Donna
+6610		Bisconti, Daniela
+6611		Bisera, Olga
+6612		Bisesti, Linda
+6613		Bishop, Amanda (III)
+6614		Bishop, Greer
+6615		Bishop, Jennifer (I)
+6616		Bishop, Jessica (VI)
+6617		Bishop, Julie (I)
+6618		Bishop, Kelly (I)
+6619		Bishop, Kirsten
+6620		Bishop, Leanne Melissa
+6621		Bishop, Sarah (II)
+6622		Bishé, Kerry
+6623		Bisset, Jacqueline
+6624		Bisson, Mathilde
+6625		Bisson, Sandrine
+6626		Bissonnette, Dalana
+6627		Bissot, Stéphane
+6628		Bisu, Ingrid
+6629		Bisutti, Danielle
+6630		Bisutti, María Aurelia
+6631		Biswas, Apu
+6632		Biswas, Claudine
+6633		Biswas, Samita
+6634		Biswas, Seema
+6635		Biswas, Smriti
+6636		Bitoun, Eve
+6637		Bittenbinder, Johanna
+6638		Bittencourt, Amélia
+6639		Bittencourt, Lenoir
+6640		Bittencourt, Lourdinha
+6641		Bittner, Carrie
+6642		Bittner, Lauren
+6643		Bittnerova, Jana
+6644		Bittová, Iva
+6645		Bityukova, Olga
+6646		Bivona, Charly
+6647		Biyouna
+6648		Bizot, Hélène
+6649		Bjarnhof, Hannah
