@@ -1,0 +1,13 @@
+(1)choose first 10w lines of original dataset for each file
+actor_movies_sample.txt 
+actress_movies_sample.txt
+
+(2) acting relation
+actorid_movieids_map.txt: each line is for each actor, the first column is actorid, the rest of collumns are the movie ids that he/she has acted in.
+
+(3) undirected graph edge list, for graph build in Q2
+graph_edge_list.txt
+
+(4) id -> name
+actor_idname_map.txt
+movie_idname_map.txt
