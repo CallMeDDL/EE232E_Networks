@@ -11,7 +11,7 @@ import csv
 if __name__ == "__main__":
 
 
-    with open("par1_sampled_data_v1/actorid_movieids_map.txt") as f:
+    with open("part1_data_v1/actorid_movieids_map.txt") as f:
         reader = csv.reader(f, delimiter="\t")
         actorid_movieids_map_orig = list(reader)
 
@@ -32,7 +32,7 @@ if __name__ == "__main__":
                 movie_map[int(actorid_movieids_map_orig[i][j])].append(i)
 
     # create network
-    f_edge = open("par1_sampled_data_v1/movie_graph_edge_list.txt", 'w')
+    f_edge = open("movie_graph_edge_list.txt", 'w')
 
     for movieid1 in range(0, len(movie_map)/50 - 1):
         for movieid2 in range(movieid1 + 1, len(movie_map)/50):

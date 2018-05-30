@@ -154,6 +154,58 @@ Optimal-16 & \multicolumn{1}{l}{0x1F8FD} & & 0 & 0 & 0 & 0 & 0 & 13240\\\hline
 \end{table}
 
 
+\subsection{Actor rankings}
+We aimed to find to find the top 10 actor/actress in the network using the google’s pagerank algorithm. Those information of the top 10 actor/actress is shown in Table \ref{table_1_3}, including the name, the number of movies and the in-degree of each of the actor/actress in the top 10 list.
+
+\begin{table}
+\center
+\caption{Top 10 highest pagerank score actor/actress}
+\scalebox{0.9}{
+\begin{tabular}{r|c|c}
+\hline
+\textbf{Name} & \textbf{the Number of Movies} & \textbf{In-degree}\\\hline
+Flowers, Bess & 828 & 7537\\\hline
+Tatasciore, Fred & 355 & 3954\\\hline
+Harris, Sam (II) & 600 & 6960\\\hline
+Blum, Steve (IX) & 373 & 3316\\\hline
+Miller, Harold (I) & 561 & 6587\\\hline
+Jeremy, Ron & 637 & 3177\\\hline
+Phelps, Lee (I) & 647 & 5563\\\hline
+Lowenthal, Yuri & 318 & 2662\\\hline
+Downes, Robin Atkin & 267 & 2953\\\hline
+O'Connor, Frank (I) & 623 & 5502\\\hline 
+\end{tabular}}
+\label{table_1_3}
+\end{table}
+
+We can see from the result that it does not have any of the actor/actress listed in the previous section. In general, the more movie they took part in, the high pagerank they may had, because that means they had more changes to cooperate with other actor/actress and it's obvious that they may have higher degree in the network. After googling it, we found that most people int the top 10 are actually voice actors. That's why they can take part in hundreds of movies and that also explains why those famous previous actor/actress are not included in the top 10. Even though those movie super stars acted so many movies, it's very common that they still act less than those voice actors.
+
+What's more, the same information of the actor/actress listed in the previous section is shown in Table \ref{table_1_4}.
+
+\begin{table}[h]
+\center
+\caption{The same information table for previous actor/actress}
+\scalebox{0.9}{
+\begin{tabular}{r|c|c}
+\hline
+\textbf{Name} & \textbf{the Number of Movies} & \textbf{In-degree}\\\hline
+Tom Cruise & 63 & 1651\\\hline
+Emma Watson (II) & 25 & 453\\\hline
+George Clooney & 67 & 1573\\\hline
+Tom Hanks & 80 & 2064\\\hline
+Dwayne Johnson (I) & 78 & 1357\\\hline
+Johnny Depp & 98 & 2144\\\hline
+Will Smith (I) & 49 & 1319\\\hline
+Meryl Streep & 97 & 1594\\\hline
+Leonardo DiCaprio & 49 & 1301\\\hline
+Brad Pitt & 71 & 1739\\\hline
+
+\end{tabular}}
+\label{table_1_4}
+\end{table}
+
+
+
 
 
 \end{document}
