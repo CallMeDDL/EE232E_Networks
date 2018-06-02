@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.23)  29 MAY 2018 22:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.23)  2 JUN 2018 15:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -717,7 +717,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Try loading font information for U+msb on input line 113.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) <Figures/spectrum_bar.pdf, id=25, 548.59705pt x 366.60765pt>
+) <Figures/spectrum_bar.pdf, id=33, 548.59705pt x 366.60765pt>
 File: Figures/spectrum_bar.pdf Graphic file (type pdf)
  <use Figures/spectrum_bar.pdf>
 Package pdftex.def Info: Figures/spectrum_bar.pdf used on input line 120.
@@ -726,30 +726,34 @@ Package pdftex.def Info: Figures/spectrum_bar.pdf used on input line 120.
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Figures/spectrum_bar.pdf>] (/usr/local/texlive/2017/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-) [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 211.
- [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 211.
+) [2] [3] <Figures/F2_1.png, id=103, 843.15pt x 843.15pt>
+File: Figures/F2_1.png Graphic file (type png)
+ <use Figures/F2_1.png>
+Package pdftex.def Info: Figures/F2_1.png used on input line 214.
+(pdftex.def)             Requested size: 344.005pt x 344.00836pt.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 221.
+ [4 <./Figures/F2_1.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 221.
  (/Users/liutianyoroshi/Campus/00_Project/Networks/EE232E_Networks/project4/report/.texpadtmp/report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 211.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 211.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 221.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 221.
 Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: DC0440BFD732E8133AFEB99894583843;248.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 211.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 221.
  ) 
 Here is how much of TeX's memory you used:
- 12115 strings out of 492995
- 180991 string characters out of 6132704
- 291080 words of memory out of 5000000
- 15390 multiletter control sequences out of 15000+600000
+ 12126 strings out of 492995
+ 181156 string characters out of 6132704
+ 291151 words of memory out of 5000000
+ 15397 multiletter control sequences out of 15000+600000
  21846 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,12n,77p,681b,434s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,12n,77p,700b,434s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb>
-Output written on /Users/liutianyoroshi/Campus/00_Project/Networks/EE232E_Networks/project4/report/.texpadtmp/report.pdf (3 pages, 255554 bytes).
+Output written on /Users/liutianyoroshi/Campus/00_Project/Networks/EE232E_Networks/project4/report/.texpadtmp/report.pdf (4 pages, 283730 bytes).
 PDF statistics:
- 137 PDF objects out of 1000 (max. 8388607)
- 106 compressed objects within 2 object streams
- 15 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 155 PDF objects out of 1000 (max. 8388607)
+ 121 compressed objects within 2 object streams
+ 19 named destinations out of 1000 (max. 500000)
+ 67 words of extra memory for PDF output out of 10000 (max. 10000000)
 
