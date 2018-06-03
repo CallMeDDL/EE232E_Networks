@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1528055355 "report.tex" "report.pdf" "report" 1528055363
+["pdflatex"] 1528056060 "report.tex" "report.pdf" "report" 1528056069
   "/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1480098666 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/jknappen/ec/ecbx1095.tfm" 1480098696 3584 21b378cca2e40816b0e6d74a4dc98f04 ""
@@ -151,11 +151,11 @@
   "Figures/community_7.png" 1528054741 349314 14a3f5a456265e3904fb0061f5db6b61 ""
   "Figures/community_8.png" 1528054741 356812 722fd7743a00941bf02de75aa2c256aa ""
   "Figures/community_9.png" 1528054741 352990 02f4cf433c3e8ab320baa64b559fced2 ""
-  "report.aux" 1528055363 5819 542efcf18c42c0b9f8227b79c52aa539 ""
-  "report.out" 1528055363 638 05e61c549debc1bb0eb38ca952ae841d ""
-  "report.tex" 1528055346 15331 a1c2715cd0a4afbee8c7ceb93481f46e ""
+  "report.aux" 1528056069 5819 666e79f161f620d5aec8cfe636cccf04 ""
+  "report.out" 1528056069 638 05e61c549debc1bb0eb38ca952ae841d ""
+  "report.tex" 1528056052 15340 66aed510560f8e71f7ba9a663b47519b ""
   (generated)
+  "report.log"
   "report.out"
   "report.pdf"
   "report.aux"
-  "report.log"

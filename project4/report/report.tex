@@ -235,70 +235,71 @@ Why???
 
 Based on the measurement of modified score, the dominant genre of each community changes a lot, and the result is shown in Table \ref{table_2_2}. It illustrates that most of the dominant genres we got according to the modified scores are different from the genres we got by simply couting the frequency of genre within the community. Interestingly, there do exist some communities hold the same dominant genre and all of them have comparably fewer movies than other communities. To be sepecific, the number of movies in these communities is in the range of (10,20). In addition, the frequency of the dominant genre in these communities is far more higer than other genres. For instance, we also plotted community with ID=24 and ID=25, shown in Figure \ref{fig:Q8_1} and \ref{fig:Q8_2}. In fact, this is reasonable because in these kinds of communities, $p(i)$ of the dominant genre(the genre has the highest frequency) is much bigger than other genres within the community, which can play a dominant role of the score function. Moreover, some of the genres in these kinds of communities have only one occurency, which makes $c(i)$ equals to 1 and then $ln(c(i))$ equals to 0, so that the score will be 0. On the contrary, for those communities whose dominant genre differ from different measurement, they generally include large number of movies, and may have genres holding the similar frequency wihthin the communiy. For instance, we could observe the genre distribution of community with ID=6 (Figure \ref{fig:Q7_6}), the dominant genre changes from "Drama"(the most frequent genre) to "Comedy"(the third frequent genre). This is easy to understand since the score function consider the fraction of genre within community and also in whole dataset, which is equvalent to multiply some coefficients to the exact frequency of the genre, this somehow makes the score bigger or smaller comparing to the exact frequency. Therefore, the dominant genre of these kinds of community changes. 
 
-\begin{figure}[h]
+
+\begin{figure}[H]
 \centering
-\scalebox{1}{\includegraphics{Figures/community_1.png}}
+\scalebox{0.7}{\includegraphics{Figures/community_1.png}}
 \caption{Genre Distribution of Community $1$}
 \label{fig:Q7_1}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
-\scalebox{1}{\includegraphics{Figures/community_2.png}}
+\scalebox{0.7}{\includegraphics{Figures/community_2.png}}
 \caption{Genre Distribution of Community $2$}
 \label{fig:Q7_2}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
 \scalebox{1}{\includegraphics{Figures/community_3.png}}
 \caption{Genre Distribution of Community $3$}
 \label{fig:Q7_3}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
 \scalebox{1}{\includegraphics{Figures/community_4.png}}
 \caption{Genre Distribution of Community $4$}
 \label{fig:Q7_4}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
 \scalebox{1}{\includegraphics{Figures/community_5.png}}
 \caption{Genre Distribution of Community $5$}
 \label{fig:Q7_5}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
 \scalebox{1}{\includegraphics{Figures/community_6.png}}
 \caption{Genre Distribution of Community $6$}
 \label{fig:Q7_6}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
 \scalebox{1}{\includegraphics{Figures/community_7.png}}
 \caption{Genre Distribution of Community $7$}
 \label{fig:Q7_7}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
 \scalebox{1}{\includegraphics{Figures/community_8.png}}
 \caption{Genre Distribution of Community $8$}
 \label{fig:Q7_8}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
 \scalebox{1}{\includegraphics{Figures/community_9.png}}
 \caption{Genre Distribution of Community $9$}
 \label{fig:Q7_9}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
 \scalebox{1}{\includegraphics{Figures/community_10.png}}
 \caption{Genre Distribution of Community $10$}
@@ -306,7 +307,7 @@ Based on the measurement of modified score, the dominant genre of each community
 \end{figure}
 
 
-\begin{table}[h]
+\begin{table}[H]
 \center
 \caption{The dominant genre of each community(according to frequency count)}
 \scalebox{0.9}{
@@ -346,7 +347,7 @@ Based on the measurement of modified score, the dominant genre of each community
 \end{table}
 
 
-\begin{table}[h]
+\begin{table}[H]
 \center
 \caption{The dominant genre of each community(according to modified score)}
 \scalebox{0.9}{
@@ -385,16 +386,16 @@ Based on the measurement of modified score, the dominant genre of each community
 \label{table_2_2}
 \end{table}
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
-\scalebox{1}{\includegraphics{Figures/community_24.png}}
+\scalebox{0.6}{\includegraphics{Figures/community_24.png}}
 \caption{Genre Distribution of Community $24$}
 \label{fig:Q8_1}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
-\scalebox{1}{\includegraphics{Figures/community_25.png}}
+\scalebox{0.6}{\includegraphics{Figures/community_25.png}}
 \caption{Genre Distribution of Community $25$}
 \label{fig:Q8_2}
 \end{figure}
