@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  24 MAY 2018 20:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  3 JUN 2018 00:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -816,7 +816,7 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 113.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<Figures/spectrum_bar.pdf, id=21, 548.59705pt x 366.60765pt>
+<Figures/spectrum_bar.pdf, id=37, 548.59705pt x 366.60765pt>
 File: Figures/spectrum_bar.pdf Graphic file (type pdf)
 
 <use Figures/spectrum_bar.pdf>
@@ -826,24 +826,161 @@ Package pdftex.def Info: Figures/spectrum_bar.pdf used on input line 120.
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Figur
 es/spectrum_bar.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 159.
- [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 159.
- (./report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 159.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 159.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+) [2] [3]
+<Figures/F2_1.png, id=107, 843.15pt x 843.15pt>
+File: Figures/F2_1.png Graphic file (type png)
+ <use Figures/F2_1.png>
+Package pdftex.def Info: Figures/F2_1.png used on input line 214.
+(pdftex.def)             Requested size: 344.005pt x 344.00836pt.
+ [4 <./Figures/F2_1.png>] [5] <Figures/community_1.png, id=133, 3011.25pt x 210
+7.875pt>
+File: Figures/community_1.png Graphic file (type png)
+
+<use Figures/community_1.png>
+Package pdftex.def Info: Figures/community_1.png used on input line 234.
+(pdftex.def)             Requested size: 344.005pt x 240.77626pt.
+
+<Figures/community_2.png, id=134, 3011.25pt x 2107.875pt>
+File: Figures/community_2.png Graphic file (type png)
+
+<use Figures/community_2.png>
+Package pdftex.def Info: Figures/community_2.png used on input line 241.
+(pdftex.def)             Requested size: 344.005pt x 240.77626pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figures/community_3.png, id=135, 3011.25pt x 2107.875pt>
+File: Figures/community_3.png Graphic file (type png)
+
+<use Figures/community_3.png>
+Package pdftex.def Info: Figures/community_3.png used on input line 248.
+(pdftex.def)             Requested size: 344.005pt x 240.77626pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figures/community_4.png, id=136, 3011.25pt x 2107.875pt>
+File: Figures/community_4.png Graphic file (type png)
+
+<use Figures/community_4.png>
+Package pdftex.def Info: Figures/community_4.png used on input line 255.
+(pdftex.def)             Requested size: 344.005pt x 240.77626pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figures/community_5.png, id=137, 3011.25pt x 2107.875pt>
+File: Figures/community_5.png Graphic file (type png)
+
+<use Figures/community_5.png>
+Package pdftex.def Info: Figures/community_5.png used on input line 262.
+(pdftex.def)             Requested size: 344.005pt x 240.77626pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figures/community_6.png, id=138, 3011.25pt x 2107.875pt>
+File: Figures/community_6.png Graphic file (type png)
+
+<use Figures/community_6.png>
+Package pdftex.def Info: Figures/community_6.png used on input line 269.
+(pdftex.def)             Requested size: 344.005pt x 240.77626pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figures/community_7.png, id=139, 3011.25pt x 2107.875pt>
+File: Figures/community_7.png Graphic file (type png)
+
+<use Figures/community_7.png>
+Package pdftex.def Info: Figures/community_7.png used on input line 276.
+(pdftex.def)             Requested size: 344.005pt x 240.77626pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figures/community_8.png, id=140, 3011.25pt x 2107.875pt>
+File: Figures/community_8.png Graphic file (type png)
+
+<use Figures/community_8.png>
+Package pdftex.def Info: Figures/community_8.png used on input line 283.
+(pdftex.def)             Requested size: 344.005pt x 240.77626pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figures/community_9.png, id=141, 3011.25pt x 2107.875pt>
+File: Figures/community_9.png Graphic file (type png)
+
+<use Figures/community_9.png>
+Package pdftex.def Info: Figures/community_9.png used on input line 290.
+(pdftex.def)             Requested size: 344.005pt x 240.77626pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figures/community_10.png, id=142, 3011.25pt x 2107.875pt>
+File: Figures/community_10.png Graphic file (type png)
+
+<use Figures/community_10.png>
+Package pdftex.def Info: Figures/community_10.png used on input line 297.
+(pdftex.def)             Requested size: 344.005pt x 240.77626pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figures/community_24.png, id=143, 729.72626pt x 586.19pt>
+File: Figures/community_24.png Graphic file (type png)
+
+<use Figures/community_24.png>
+Package pdftex.def Info: Figures/community_24.png used on input line 384.
+(pdftex.def)             Requested size: 344.005pt x 276.34117pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figures/community_25.png, id=144, 730.73pt x 589.20125pt>
+File: Figures/community_25.png Graphic file (type png)
+
+<use Figures/community_25.png>
+Package pdftex.def Info: Figures/community_25.png used on input line 391.
+(pdftex.def)             Requested size: 344.005pt x 277.37415pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 397.
+[6 <./Figures/community_1.png>] [7 <./Figures/community_2.png> <./Figures/commu
+nity_3.png>] [8 <./Figures/community_4.png> <./Figures/community_5.png>]
+[9 <./Figures/community_6.png> <./Figures/community_7.png>] [10 <./Figures/comm
+unity_8.png> <./Figures/community_9.png>] [11 <./Figures/community_10.png>]
+[12] [13] [14 <./Figures/community_24.png>] [15 <./Figures/community_25.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 397.
+
+(./report.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 397.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 397.
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: DC0440BFD732E8133AFEB99894583843;248.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 159.
+(rerunfilecheck)             Checksum: C95F10F6DC11DE64ACD905B41A2D7AE4;522.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 397.
  ) 
 Here is how much of TeX's memory you used:
- 11845 strings out of 492995
- 176796 string characters out of 6132704
- 288924 words of memory out of 5000000
- 15128 multiletter control sequences out of 15000+600000
+ 12214 strings out of 492995
+ 182021 string characters out of 6132704
+ 297159 words of memory out of 5000000
+ 15460 multiletter control sequences out of 15000+600000
  21846 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,12n,77p,383b,434s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,12n,77p,2017b,434s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
 /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
@@ -856,10 +993,10 @@ al/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local
 exlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/tex
 live/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texli
 ve/2017/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb>
-Output written on report.pdf (2 pages, 242698 bytes).
+Output written on report.pdf (15 pages, 3315977 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
- 94 compressed objects within 1 object stream
- 11 named destinations out of 1000 (max. 500000)
- 38 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 257 PDF objects out of 1000 (max. 8388607)
+ 188 compressed objects within 2 object streams
+ 45 named destinations out of 1000 (max. 500000)
+ 135 words of extra memory for PDF output out of 10000 (max. 10000000)
 

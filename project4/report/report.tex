@@ -216,6 +216,182 @@ We create a weighted undirected movie network. And the degree distribution of th
 \label{F2_1}
 \end{figure}
 
+\subsection{Communities in the movie network}
+By detecting communities with Fast Greedy algorithm for our movie network, we got 28 communities. And for Quesition 7, we just picked the first 10 communities to plot the distribution of the genres of the movies in each community.
+
+NOTICE: Some of the movies' genre information is missing in the given dataset, so we marked them as "NAN"; however, only Question 7, we considered them in our plots.
+
+The 10 plots are shown in Figure \ref{fig:Q7_1} to Figure \ref{fig:Q7_10}.
+
+Based on simple frequency counts, the most dominant genre of each community we got is shown in Table \ref{table_2_1}. As we can see, the genre "Drama" is the dominant genre of 11 communities among 28 communities. Thus, genre "Drama" tends to be the most genre among all communities. 
+
+Why???
+
+Based on the measurement of modified score, the dominant genre of each community changes a lot, and the result is shown in Table \ref{table_2_2}. It illustrates that most of the dominant genres we got according to the modified scores are different from the genres we got by simply couting the frequency of genre within the community. Interestingly, there do exist some communities hold the same dominant genre and all of them have comparably fewer movies than other communities. To be sepecific, the number of movies in these communities is in the range of (10,20). In addition, the frequency of the dominant genre in these communities is far more higer than other genres. For instance, we also plotted community with ID=24 and ID=25, shown in Figure \ref{fig:Q8_1} and \ref{fig:Q8_2}. In fact, this is reasonable because in these kinds of communities, $p(i)$ of the dominant genre(the genre has the highest frequency) is much bigger than other genres within the community, which can play a dominant role of the score function. Moreover, some of the genres in these kinds of communities have only one occurency, which makes $c(i)$ equals to 1 and then $ln(c(i))$ equals to 0, so that the score will be 0. On the contrary, for those communities whose dominant genre differ from different measurement, they generally include large number of movies, and may have genres holding the similar frequency wihthin the communiy. For instance, we could observe the genre distribution of community with ID=6 (Figure \ref{fig:Q7_6}), the dominant genre changes from "Drama"(the most frequent genre) to "Comedy"(the third frequent genre). This is easy to understand since the score function consider the fraction of genre within community and also in whole dataset, which is equvalent to multiply some coefficients to the exact frequency of the genre, this somehow makes the score bigger or smaller comparing to the exact frequency. Therefore, the dominant genre of these kinds of community changes. 
+
+\begin{figure}[h]
+\centering
+\scalebox{1}{\includegraphics{Figures/community_1.png}}
+\caption{Genre Distribution of Community $1$}
+\label{fig:Q7_1}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\scalebox{1}{\includegraphics{Figures/community_2.png}}
+\caption{Genre Distribution of Community $2$}
+\label{fig:Q7_2}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\scalebox{1}{\includegraphics{Figures/community_3.png}}
+\caption{Genre Distribution of Community $3$}
+\label{fig:Q7_3}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\scalebox{1}{\includegraphics{Figures/community_4.png}}
+\caption{Genre Distribution of Community $4$}
+\label{fig:Q7_4}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\scalebox{1}{\includegraphics{Figures/community_5.png}}
+\caption{Genre Distribution of Community $5$}
+\label{fig:Q7_5}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\scalebox{1}{\includegraphics{Figures/community_6.png}}
+\caption{Genre Distribution of Community $6$}
+\label{fig:Q7_6}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\scalebox{1}{\includegraphics{Figures/community_7.png}}
+\caption{Genre Distribution of Community $7$}
+\label{fig:Q7_7}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\scalebox{1}{\includegraphics{Figures/community_8.png}}
+\caption{Genre Distribution of Community $8$}
+\label{fig:Q7_8}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\scalebox{1}{\includegraphics{Figures/community_9.png}}
+\caption{Genre Distribution of Community $9$}
+\label{fig:Q7_9}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\scalebox{1}{\includegraphics{Figures/community_10.png}}
+\caption{Genre Distribution of Community $10$}
+\label{fig:Q7_10}
+\end{figure}
+
+
+\begin{table}[h]
+\center
+\caption{The dominant genre of each community(according to frequency count)}
+\scalebox{0.9}{
+\begin{tabular}{c|c}
+\hline
+\textbf{Community ID} & \textbf{the dominant genre}\\\hline
+1 & Thriller\\\hline
+2 & Short\\\hline
+3 & Drama \\\hline
+4 & Drama \\\hline
+5 & Drama \\\hline
+6 & Drama \\\hline
+7 & Drama \\\hline
+8 & Drama \\\hline
+9 & Drama \\\hline
+10 & Drama \\\hline
+11 & Drama \\\hline
+12 & Drama \\\hline
+13 & Drama \\\hline
+14 & Drama \\\hline
+15 & Drama \\\hline
+16 & Drama \\\hline
+17 & Drama \\\hline
+18 & Drama \\\hline
+19 & Drama \\\hline
+20 & Drama \\\hline
+21 & Drama \\\hline
+22 & Drama \\\hline
+23 & Drama \\\hline
+24 & Adult\\\hline
+25 & Thriller\\\hline
+26 & Short\\\hline
+27 & Short\\\hline
+28 & Short\\\hline
+\end{tabular}}
+\label{table_2_1}
+\end{table}
+
+
+\begin{table}[h]
+\center
+\caption{The dominant genre of each community(according to modified score)}
+\scalebox{0.9}{
+\begin{tabular}{c|c}
+\hline
+\textbf{Community ID} & \textbf{the dominant genre}\\\hline
+1 & Adult \\\hline
+2 & Film-Noir \\\hline
+3 & War \\\hline
+4 & Crime \\\hline
+5 & Family \\\hline
+6 & Comedy \\\hline
+7 & Family \\\hline
+8 & Musical \\\hline
+9 & Musical \\\hline
+10 & Adventure \\\hline
+11 & Family \\\hline
+12 & Romance \\\hline
+13 & War \\\hline
+14 & Adventure \\\hline
+15 & Comedy \\\hline
+16 & Musical \\\hline
+17 & Action \\\hline
+18 & Drama \\\hline
+19 & Fantasy \\\hline
+20 & Comedy \\\hline
+21 & Action \\\hline
+22 & Romance \\\hline
+23 & Short \\\hline
+24 & Adult \\\hline
+25 & Thriller \\\hline
+26 & Short \\\hline
+27 & Short \\\hline
+28 & Short \\\hline
+\end{tabular}}
+\label{table_2_2}
+\end{table}
+
+\begin{figure}[h]
+\centering
+\scalebox{1}{\includegraphics{Figures/community_24.png}}
+\caption{Genre Distribution of Community $24$}
+\label{fig:Q8_1}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\scalebox{1}{\includegraphics{Figures/community_25.png}}
+\caption{Genre Distribution of Community $25$}
+\label{fig:Q8_2}
+\end{figure}
 
 
 \end{document}
