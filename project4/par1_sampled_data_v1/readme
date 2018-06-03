@@ -11,3 +11,4 @@ graph_edge_list.txt
 (4) id -> name
 actor_idname_map.txt
 movie_idname_map.txt
+movie_idgenre_map.txt
