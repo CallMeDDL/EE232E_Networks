@@ -12,3 +12,6 @@ graph_edge_list.txt
 actor_idname_map.txt
 movie_idname_map.txt
 movie_idgenre_map.txt
+
+(5)community information file
+community_movie.csv: community_id -> movie_id
