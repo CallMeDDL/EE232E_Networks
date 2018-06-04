@@ -229,27 +229,16 @@ NOTICE: Some of the movies' genre information is missing in the given dataset, s
 
 The 10 plots are shown in Figure \ref{fig:Q7_1} to Figure \ref{fig:Q7_10}.
 
-Based on simple frequency counts, the most dominant genre of each community we got is shown in Table \ref{table_2_1}. As we can see, the genre "Drama" is the dominant genre of 11 communities among 28 communities. This in fact can be easily speculated, because in the movie network, the number of moives marked "Drama" take a high propotion among all the movies. What is worth to notie is that there are some movies without genre mark, which in my charts marked "NAN", and this kind of movie in few communities actually become the category with most number of movies, such as community 28 (the distribution shown in Figure \ref {fig:Q7_11}), where only one movie belongs to "Short" and the rest of movies marked "NAN"; however we need to ignore "NAN" movies, so the donimant genre should be "Short" in this community. 
-
-Based on the measurement of modified score, the dominant genre of each community changes a lot, and the result is shown in Table \ref{table_2_2}. It illustrates that most of the dominant genres we got according to the modified scores are different from the genres we got by simply couting the frequency of genre within the community. Interestingly, there do exist some communities hold the same dominant genre and all of them have comparably fewer movies than other communities. To be sepecific, the number of movies in these communities is in the range of (10,20). In addition, the frequency of the dominant genre in these communities is far more higer than other genres. For instance, we also plotted community with ID=24 and ID=25, shown in Figure \ref{fig:Q8_1} and \ref{fig:Q8_2}. In fact, this is reasonable because in these kinds of communities, $p(i)$ of the dominant genre(the genre has the highest frequency) is much bigger than other genres within the community, which can play a dominant role of the score function. Moreover, some of the genres in these kinds of communities have only one occurency, which makes $c(i)$ equals to 1 and then $ln(c(i))$ equals to 0, so that the score will be 0. On the contrary, for those communities whose dominant genre differ from different measurement, they generally include large number of movies, and may have genres holding the similar frequency wihthin the communiy. For instance, we could observe the genre distribution of community with ID=6 (Figure \ref{fig:Q7_6}), the dominant genre changes from "Drama"(the most frequent genre) to "Comedy"(the third frequent genre). This is easy to understand since the score function consider the fraction of genre within community and also in whole dataset, which is equvalent to multiply some coefficients to the exact frequency of the genre, this somehow makes the score bigger or smaller comparing to the exact frequency. Therefore, the dominant genre of these kinds of community changes. 
-
-We chose community(ID=24) who includes 12 movies to further study the correlation among actors, movies and genres. Table \ref{table_2_3} shows the basic informaiton of this community, while Table \ref{table_2_4} and Table \ref{table_2_4} list the ID and Name mapping correlation in movies and actors respectively.
-
-The bipartite graph we got is shown in Figure \ref{fig:Q8_3}, where red vertices represen the actors and blue vertices represent the movies.
-
-After statistical analysis, we found that the three most important actors‘ID are 8242 21948 60399. Then, we searched all the movies these three actors have ever acted. Not surprisingly, the dominant genre of these movies is also "Adult", the same as the dominant genre of the community 24 that we got in we got in 8(a) and 8(b). That is to say, these three most important actors involved in the same kind of movies, which determines the community and the dominant genre of the community. In other words, the community we got by the Fast Greedy algorithm helps us find movies in same(or similar) genre. 
-
-
 \begin{figure}[H]
 \centering
-\scalebox{0.7}{\includegraphics{Figures/community_1.png}}
+\scalebox{1}{\includegraphics{Figures/community_1.png}}
 \caption{Genre Distribution of Community $1$}
 \label{fig:Q7_1}
 \end{figure}
 
 \begin{figure}[H]
 \centering
-\scalebox{0.7}{\includegraphics{Figures/community_2.png}}
+\scalebox{1}{\includegraphics{Figures/community_2.png}}
 \caption{Genre Distribution of Community $2$}
 \label{fig:Q7_2}
 \end{figure}
@@ -310,6 +299,7 @@ After statistical analysis, we found that the three most important actors‘ID a
 \label{fig:Q7_10}
 \end{figure}
 
+Based on simple frequency counts, the most dominant genre of each community we got is shown in Table \ref{table_2_1}. As we can see, the genre "Drama" is the dominant genre of 11 communities among 28 communities. This in fact can be easily speculated, because in the movie network, the number of moives marked "Drama" take a high propotion among all the movies. What is worth to notie is that there are some movies without genre mark, which in my charts marked "NAN", and this kind of movie in few communities actually become the category with most number of movies, such as community 28 (the distribution shown in Figure \ref {fig:Q7_11}), where only one movie belongs to "Short" and the rest of movies marked "NAN"; however we need to ignore "NAN" movies, so the donimant genre should be "Short" in this community. 
 
 \begin{table}[H]
 \center
@@ -352,10 +342,12 @@ After statistical analysis, we found that the three most important actors‘ID a
 
 \begin{figure}[H]
 \centering
-\scalebox{0.7}{\includegraphics{Figures/community_28.png}}
+\scalebox{1}{\includegraphics{Figures/community_28.png}}
 \caption{Genre Distribution of Community $28$}
 \label{fig:Q7_11}
 \end{figure}
+
+Based on the measurement of modified score, the dominant genre of each community changes a lot, and the result is shown in Table \ref{table_2_2}. It illustrates that most of the dominant genres we got according to the modified scores are different from the genres we got by simply couting the frequency of genre within the community. Interestingly, there do exist some communities hold the same dominant genre and all of them have comparably fewer movies than other communities. To be sepecific, the number of movies in these communities is in the range of (10,20). In addition, the frequency of the dominant genre in these communities is far more higer than other genres. For instance, we also plotted community with ID=24 and ID=25, shown in Figure \ref{fig:Q8_1} and \ref{fig:Q8_2}. In fact, this is reasonable because in these kinds of communities, $p(i)$ of the dominant genre(the genre has the highest frequency) is much bigger than other genres within the community, which can play a dominant role of the score function. Moreover, some of the genres in these kinds of communities have only one occurency, which makes $c(i)$ equals to 1 and then $ln(c(i))$ equals to 0, so that the score will be 0. On the contrary, for those communities whose dominant genre differ from different measurement, they generally include large number of movies, and may have genres holding the similar frequency wihthin the communiy. For instance, we could observe the genre distribution of community with ID=6 (Figure \ref{fig:Q7_6}), the dominant genre changes from "Drama"(the most frequent genre) to "Comedy"(the third frequent genre). This is easy to understand since the score function consider the fraction of genre within community and also in whole dataset, which is equvalent to multiply some coefficients to the exact frequency of the genre, this somehow makes the score bigger or smaller comparing to the exact frequency. Therefore, the dominant genre of these kinds of community changes. 
 
 \begin{table}[H]
 \center
@@ -396,20 +388,25 @@ After statistical analysis, we found that the three most important actors‘ID a
 \label{table_2_2}
 \end{table}
 
-\begin{figure}[H]
+
+\begin{figure}
 \centering
-\scalebox{0.6}{\includegraphics{Figures/community_24.png}}
+\begin{minipage}[h]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/community_24.png}}
 \caption{Genre Distribution of Community $24$}
 \label{fig:Q8_1}
-\end{figure}
-
-\begin{figure}[H]
+\end{minipage}
+\begin{minipage}[h]{0.48\textwidth}
 \centering
-\scalebox{0.6}{\includegraphics{Figures/community_25.png}}
+\scalebox{1}{\includegraphics{Figures/community_25.png}}
 \caption{Genre Distribution of Community $25$}
 \label{fig:Q8_2}
+\end{minipage}
 \end{figure}
 
+
+We chose community(ID=24) who includes 12 movies to further study the correlation among actors, movies and genres. Table \ref{table_2_3} shows the basic informaiton of this community, while Table \ref{table_2_4} and Table \ref{table_2_5} list the ID and Name mapping correlation in movies and actors respectively.
 
 \begin{table}[h]
 \center
@@ -493,12 +490,21 @@ After statistical analysis, we found that the three most important actors‘ID a
 \label{table_2_5}
 \end{table}
 
+
+The bipartite graph we got is shown in Figure \ref{fig:Q8_3}, where red vertices represen the actors and blue vertices represent the movies.
+
 \begin{figure}[h]
 \centering
 \scalebox{1}{\includegraphics{Figures/comm24_bipartite_grpah.png}}
 \caption{Bipartite Graph of Movies and Actors in Community 24}
 \label{fig:Q8_3}
 \end{figure}
+
+After statistical analysis, we found that the three most important actors‘ID are 8242 21948 60399. Then, we searched all the movies these three actors have ever acted. Not surprisingly, the dominant genre of these movies is also "Adult", the same as the dominant genre of the community 24 that we got in we got in 8(a) and 8(b). That is to say, these three most important actors involved in the same kind of movies, which determines the community and the dominant genre of the community. In other words, the community we got by the Fast Greedy algorithm helps us find movies in same(or similar) genre. 
+
+
+
+
 
 \subsection{Neighborhood analysis of movies}
 
