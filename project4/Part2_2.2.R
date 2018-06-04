@@ -170,7 +170,27 @@ obj_actors <- df_actor_movie$actor_id[df_actor_movie$movie_id %in% obj_comm]
 obj_actors <- unique(obj_actors)  # remove duplicates
 
 df_obj_actor_movie <- subset(df_actor_movie, movie_id %in% obj_comm)
+
+# start plotting bipartite graph
 actor_movie_graph <- graph_from_data_frame(df_obj_actor_movie, directed = FALSE, vertices = NULL)
+
+V(actor_movie_graph)[V(actor_movie_graph)$name %in%unique(df_obj_actor_movie$actor_id)]$type = TRUE
+V(actor_movie_graph)[V(actor_movie_graph)$name %in%unique(df_obj_actor_movie$movie_id)]$type = FALSE
+V(actor_movie_graph)[V(actor_movie_graph)$name %in%unique(df_obj_actor_movie$actor_id)]$color = "red"
+V(actor_movie_graph)[V(actor_movie_graph)$name %in%unique(df_obj_actor_movie$movie_id)]$color = "skyblue"
+
+#manually set coords to avoid overlap
+coords <- layout_as_bipartite(actor_movie_graph)
+seq1 <- seq(0, 20000, by = 1000) # 21 movies
+seq2 <- c(300,1400,2500,3600,4600,5700,6800,7900,9000,10100,11200,12300)
+coords[,1] <- c(seq1, seq2)
+
+
+actor_movie_graph %>%
+  add_layout_(as_bipartite()) %>%
+  plot(layout = coords,vertex.size = 10, vertex.label.cex = 0.5)
+
+
 
 comm_actor_stat <- summarise(group_by(df_obj_actor_movie, actor_id), count = n()) 
 
