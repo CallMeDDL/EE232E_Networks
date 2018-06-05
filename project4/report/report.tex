@@ -717,6 +717,8 @@ The other way we used to predict ratings for movies is to create a bipartite gra
 
 Applying this method, $\RMSE=1.023422$, and the predicted ratings are shown in Table. \ref{table:predcted_rating}.
 
+As we can see, according to the RMSE, we got better results than what we did in Qestion 12. The reason why this happens might be the pagerank values only reflecting the importance of actors, but the rating of a movie could not only be determined by actors. Thus, when we use actors as a "bridge" to make prediction, which means setting a score for actors based on his/her involved movie ratings, we actually made prediciton based on real movie ratings. Intuitively, this makes more sense and can get better results.
+
 \begin{table}[H]
 \center
 \caption{Average rating vs. actual rating of the three movies, with community considered}
