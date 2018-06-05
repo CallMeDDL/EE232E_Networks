@@ -4,12 +4,12 @@ from sklearn.model_selection import train_test_split
 import math
 import code
 
-def lr(X_train, X_test, y_train, y_test):
+def lr(X_train, y_train):
     from sklearn.linear_model import LinearRegression
     model = LinearRegression()
     model.fit(X_train, y_train)
-    y_test_pred = model.predict(X_test)
-    return y_test_pred
+    return model
+    
 
 def rmse(preds, labels):
     return np.sqrt(np.mean((np.array(preds) - np.array(labels)) ** 2))
@@ -52,11 +52,19 @@ def train(actorid_pagerank, movieid_actorids, movieid_rating):# list of list, li
 
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.3, random_state = 29)
 
-    y_pred = lr(X_train, X_test, y_train, y_test)
-    
+    model = lr(X_train, y_train)
+        
+    y_test_pred = model.predict(X_test)
+   
 
-    rmse_result = rmse(y_pred, y_test)
+    rmse_result = rmse(y_test_pred, y_test)
     print('rmse: ', rmse_result)
+
+    code.interact(local=locals())
+
+    X_target = genfromtxt('target_feature.txt', delimiter=',')
+    y_pred = model.predict(X_target)
+    print('y_pred: ', y_pred)
 
 
 if __name__ == '__main__':
@@ -88,6 +96,5 @@ if __name__ == '__main__':
             movieid_actorids[movieid].append(actorid)
 
     train(actorid_pagerank, movieid_actorids, movieid_rating)
-
 
 
