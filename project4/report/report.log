@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  3 JUN 2018 18:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  4 JUN 2018 17:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -922,61 +922,94 @@ File: Figures/community_25.png Graphic file (type png)
 <use Figures/community_25.png>
 Package pdftex.def Info: Figures/community_25.png used on input line 402.
 (pdftex.def)             Requested size: 165.12093pt x 133.13994pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+ [11]
 (/usr/local/texlive/2017/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
-)
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Figures/comm24_bipartite_grpah.png, id=147, 648.4225pt x 595.22375pt>
+) [12 <./Figures/community_24.png> <./Figures/community_25.png>]
+<Figures/comm24_bipartite_grpah.png, id=160, 648.4225pt x 595.22375pt>
 File: Figures/comm24_bipartite_grpah.png Graphic file (type png)
 
 <use Figures/comm24_bipartite_grpah.png>
 Package pdftex.def Info: Figures/comm24_bipartite_grpah.png used on input line 
 498.
 (pdftex.def)             Requested size: 344.005pt x 315.78497pt.
+ [13] [14 <./Figures/comm24_bipartite_grpah.png>]
+Overfull \hbox (29.21376pt too wide) in paragraph at lines 532--534
+ [] 
+ []
 
+<Figures/hj_01.png, id=178, 843.15pt x 843.15pt>
+File: Figures/hj_01.png Graphic file (type png)
+ <use Figures/hj_01.png>
+Package pdftex.def Info: Figures/hj_01.png used on input line 540.
+(pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+<Figures/hj_02.png, id=179, 843.15pt x 843.15pt>
+File: Figures/hj_02.png Graphic file (type png)
+ <use Figures/hj_02.png>
+Package pdftex.def Info: Figures/hj_02.png used on input line 546.
+(pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
 
-[11]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 514.
- [12 <./Figures/community_24.png> <./Figures/community_25.png>] [13]
-[14 <./Figures/comm24_bipartite_grpah.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 514.
+<Figures/hj_03.png, id=180, 843.15pt x 843.15pt>
+File: Figures/hj_03.png Graphic file (type png)
+ <use Figures/hj_03.png>
+Package pdftex.def Info: Figures/hj_03.png used on input line 557.
+(pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
+
+<Figures/hj_04.png, id=181, 843.15pt x 843.15pt>
+File: Figures/hj_04.png Graphic file (type png)
+ <use Figures/hj_04.png>
+Package pdftex.def Info: Figures/hj_04.png used on input line 563.
+(pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
+
+<Figures/hj_05.png, id=182, 843.15pt x 843.15pt>
+File: Figures/hj_05.png Graphic file (type png)
+ <use Figures/hj_05.png>
+Package pdftex.def Info: Figures/hj_05.png used on input line 573.
+(pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
+
+<Figures/hj_06.png, id=183, 843.15pt x 843.15pt>
+File: Figures/hj_06.png Graphic file (type png)
+ <use Figures/hj_06.png>
+Package pdftex.def Info: Figures/hj_06.png used on input line 579.
+(pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
+
+[15 <./Figures/hj_01.png> <./Figures/hj_02.png>] [16 <./Figures/hj_03.png> <./F
+igures/hj_04.png> <./Figures/hj_05.png> <./Figures/hj_06.png>]
+Overfull \hbox (29.21376pt too wide) in paragraph at lines 600--602
+ [] 
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 638.
+[17]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 638.
  (./report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 514.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 514.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 638.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 638.
 Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: 05E61C549DEBC1BB0EB38CA952AE841D;638.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 514.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 638.
  ) 
 Here is how much of TeX's memory you used:
- 12684 strings out of 492995
- 186966 string characters out of 6132704
- 298346 words of memory out of 5000000
- 15934 multiletter control sequences out of 15000+600000
- 15799 words of font info for 48 fonts, out of 8000000 for 9000
+ 12734 strings out of 492995
+ 187905 string characters out of 6132704
+ 293369 words of memory out of 5000000
+ 15974 multiletter control sequences out of 15000+600000
+ 16140 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,9n,77p,2017b,729s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
-</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
-/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
-sr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr
-/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/l
-ocal/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/loc
-al/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on report.pdf (14 pages, 3568993 bytes).
+ 36i,18n,77p,2017b,725s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<
+/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
+r/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/
+local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/lo
+cal/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/loca
+l/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on report.pdf (17 pages, 3866086 bytes).
 PDF statistics:
- 208 PDF objects out of 1000 (max. 8388607)
- 154 compressed objects within 2 object streams
- 45 named destinations out of 1000 (max. 500000)
- 148 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 251 PDF objects out of 1000 (max. 8388607)
+ 182 compressed objects within 2 object streams
+ 54 named destinations out of 1000 (max. 500000)
+ 178 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -408,7 +408,7 @@ Based on the measurement of modified score, the dominant genre of each community
 
 We chose community(ID=24) who includes 12 movies to further study the correlation among actors, movies and genres. Table \ref{table_2_3} shows the basic informaiton of this community, while Table \ref{table_2_4} and Table \ref{table_2_5} list the ID and Name mapping correlation in movies and actors respectively.
 
-\begin{table}[h]
+\begin{table}[H]
 \center
 \caption{Basic Information of Community 24}
 \scalebox{0.9}{
@@ -433,7 +433,7 @@ We chose community(ID=24) who includes 12 movies to further study the correlatio
 \end{table}
 
 
-\begin{table}[h]
+\begin{table}[H]
 \center
 \caption{Movie ID mapping to Movie Name (for community 24)}
 \scalebox{0.9}{
@@ -458,7 +458,7 @@ We chose community(ID=24) who includes 12 movies to further study the correlatio
 
 
 
-\begin{table}[h]
+\begin{table}[H]
 \center
 \caption{Actor ID mapping to Actor Name (for community 24)}
 \scalebox{0.9}{
@@ -493,7 +493,7 @@ We chose community(ID=24) who includes 12 movies to further study the correlatio
 
 The bipartite graph we got is shown in Figure \ref{fig:Q8_3}, where red vertices represen the actors and blue vertices represent the movies.
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
 \scalebox{1}{\includegraphics{Figures/comm24_bipartite_grpah.png}}
 \caption{Bipartite Graph of Movies and Actors in Community 24}
@@ -507,6 +507,130 @@ After statistical analysis, we found that the three most important actors‘ID a
 
 
 \subsection{Neighborhood analysis of movies}
+In this section, we analyzed the relationship between the rating of a movie and its neighbors. Specifically, we mainly investigated the following three movies.
+\begin{itemize}
+\item Batman v Spiderman: Dawn of Justice (2016); Rating $6.6$;
+\item Mission: Impossible - Rogue Nation (2015); Rating $7.4$;
+\item Minions (2015); Rating $6.4$.
+\end{itemize}
+
+\textcolor{red}{\textbf{Question 9:} For each of the movie listed above, extract it's neighbors and plot the distribution of the available ratings of the movies in the neighborhood. Is the average rating of the movies in the neighborhood similar to the rating of the movie whose neighbors have been extracted? In this question, you should have $3$ plots.}
+
+After extracting the neighbors of the above three movies and computing the mean of the available ratings in the neighbor vertices, we obtained the Fig. \ref{fig:distribution_1}, \ref{fig:distribution_2}, and \ref{fig:distribution_3}. The average ratings of the neighbor network of the above three movies are shown in Table. \ref{table:no_comm}. It can be seen that, with this scheme, the average rating in the neighbor network is not very similar to the actual rating of the movie.
+
+\begin{table}[H]
+\center
+\caption{Average rating vs. actual rating of the three movies}
+\scalebox{0.9}{
+\begin{tabular}{l|c|c}
+\hline
+\textbf{Movie Name} & \textbf{Actual Rating} & \textbf{Ave. Rating in Neigh. Network}\\\hline
+Batman v Spiderman: Dawn of Justice (2016) & $6.6$ & $6.4$\\
+Mission: Impossible - Rogue Nation (2015) & $7.4$ & $6.3$\\
+Minions (2015) & $6.4$ & $6.9$\\\hline
+
+\end{tabular}}
+\label{table:no_comm}
+\end{table}
+
+\begin{figure}
+\centering
+\begin{minipage}[H]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/hj_01.png}}
+\caption{The rating distribution of the neighbor network\\Batman v Spiderman: Dawn of Justice (2016)}
+\label{fig:distribution_1}
+\end{minipage}
+\begin{minipage}[H]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/hj_02.png}}
+\caption{The rating distribution of the neighbor network\\Mission: Impossible - Rogue Nation (2015)}
+\label{fig:distribution_2}
+\end{minipage}
+\end{figure}
+
+
+\begin{figure}
+\centering
+\begin{minipage}[H]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/hj_03.png}}
+\caption{The rating distribution of the neighbor network\\Minions (2015)}
+\label{fig:distribution_3}
+\end{minipage}
+\begin{minipage}[H]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/hj_04.png}}
+\caption{The rating distribution of the neighbor network with the same community\\Batman v Spiderman: Dawn of Justice (2016)}
+\label{fig:distribution_4}
+\end{minipage}
+\end{figure}
+
+\begin{figure}
+\centering
+\begin{minipage}[H]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/hj_05.png}}
+\caption{The rating distribution of the neighbor network with the same community\\Mission: Impossible - Rogue Nation (2015)}
+\label{fig:distribution_5}
+\end{minipage}
+\begin{minipage}[H]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/hj_06.png}}
+\caption{The rating distribution of the neighbor network with the same community\\Minions (2015)}
+\label{fig:distribution_6}
+\end{minipage}
+\end{figure}
+
+
+\textcolor{red}{\textbf{Question 10:} Repeat question $9$, but now restrict the neighborhood to consist of movies from the same community. Is there a better match between the average rating of the movies in the restricted neighborhood and the rating of the movie whose neighbors have been extracted. In this question, you should have $3$ plots.}
+
+After constraining the community, the rating distributions we obrtained are shown in Fig. \ref{fig:distribution_4}, \ref{fig:distribution_5}, and \ref{fig:distribution_6}. The average ratings of the neighbor network of the above three movies are shown in Table. \ref{table:with_comm}. It can be seen that, after contraining the neighbor vertices are in the same community, the average rating in the neighbor network is still not very similar to the actual rating of the movie.
+
+\begin{table}[H]
+\center
+\caption{Average rating vs. actual rating of the three movies, with community considered}
+\scalebox{0.9}{
+\begin{tabular}{l|c|c}
+\hline
+\textbf{Movie Name} & \textbf{Actual Rating} & \textbf{Ave. Rating in Neigh. Network}\\\hline
+Batman v Spiderman: Dawn of Justice (2016) & $6.6$ & $6.4$\\
+Mission: Impossible - Rogue Nation (2015) & $7.4$ & $6.4$\\
+Minions (2015) & $6.4$ & $6.9$\\\hline
+\end{tabular}}
+\label{table:with_comm}
+\end{table}
+
+\textcolor{red}{\textbf{Question 11:} For each of the movies listed above, extract it's top $5$ neighbors and also report the community membership of the top $5$ neighbors. In this question, the sorting is done based on the edge weights.}
+
+The result is shown in Table. \ref{table:top_movies}.
+
+\begin{table}[H]
+\center
+\caption{Top $5$ neighbors of the three movies}
+\scalebox{0.9}{
+\begin{tabular}{c|c|c}
+\hline
+\textbf{Movie Name} & \textbf{Top $5$ Neighbors} & \textbf{Community ID}\\\hline
+\multirow{5}{*}{\makecell{Batman v Spiderman: \\Dawn of Justice (2016)}} & Eloise (2015) & $1$\\
+ & The Justice League Part One (2017) & $1$\\
+ & Into the Storm (2014) & $1$\\
+ & Love and Honor (2013) & $1$\\
+ & Man of Steel (2013) & $1$\\\hline
+\multirow{5}{*}{\makecell{Mission: Impossible -\\ Rogue Nation (2015)}} & Fan (2015) & $5$\\
+ & Phantom (2015) & $5$\\
+ & Breaking the Bank (2014) & $4$\\
+ & Suffragette (2015) & $4$\\
+ & Now You See Me: The Second Act (2016) & $1$\\\hline
+\multirow{5}{*}{Minions (2015)} & The Lorax (2012) & $1$\\
+ & Inside Out (2015) & $1$\\
+ & Up (2009) & $1$\\
+ & Despicable Me 2 (2013) & $1$\\
+ & Surf's Up (2007) & $1$\\\hline
+\end{tabular}}
+\label{table:top_movies}
+\end{table}
+
 
 \subsection{Predicting ratings of movies}
 
