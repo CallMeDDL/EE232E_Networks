@@ -93,7 +93,7 @@
 
 \newtheorem{theorem}{Theorem}
 
-
+\DeclareMathOperator{\RMSE}{RMSE}
 
 
 
@@ -709,25 +709,28 @@ In this section, we explore how to use different models to predict the rating of
 \item Minions (2015).
 \end{itemize}
 
-For regression model, we chosed five features: the top5 pagerank values of the actors who involved in the movie. We first removed those movies that do not have rating record in our dataset, and then randomly selected 70 percentage of the data as the training data and the rest 30 percentage as the test data. Then, we get $RMSE = 1.26431431866$  when evaluating our model.
+For regression model, we chosed five features: the top $5$ pagerank values of the actors who involved in the movie. We first removed those movies that do not have rating record in our dataset, and then randomly selected 70 percentage of the data as the training data and the rest 30 percentage as the test data. Then, we get $\RMSE = 1.26431431866$  when evaluating our model.
 
 The movies listed above do not have rating record in the dataset, so the predicted ratings of them we got is: XXXXXXXXXXXXX
 
-The other way we used to predict ratings for movies is to create a bipartite graph corresponding to actors and movies. The metric we designed for assigning a weight to each actor is to calculate the average rating values of the movies an actor has acted and set this value as the weight of each actor. When implementing this rating mechanism, we found that there are several actors who do not have a weight(score) becasue all the movies he/she involved in do not have rating records. Therefore, we ignore these kind of actors. Then the rating prediction step is just to find all the actors involved in a certain movie and compute the average score of all the actors as the rating of the movie.
+The other way we used to predict ratings for movies is to create a bipartite graph corresponding to actors and movies. The metric we designed for assigning a weight to each actor is to calculate the average rating values of the movies an actor has acted and set this value as the weight of each actor. When implementing this rating mechanism, we found that there are several actors who do not have a weight (score) becasue all the movies he/she involved in do not have rating records. Therefore, we ignore these kind of actors. Then the rating prediction step is just to find all the actors involved in a certain movie and compute the average score of all the actors as the rating of the movie.
 
-Applying this method, the RMSE we got is $1.023422$, and the prediction for the specific movies are:
+Applying this method, $\RMSE=1.023422$, and the predicted ratings are shown in Table. \ref{table:predcted_rating}.
 
-Batman v Superman: Dawn of Justice (2016): 
+\begin{table}[H]
+\center
+\caption{Average rating vs. actual rating of the three movies, with community considered}
+\scalebox{0.9}{
+\begin{tabular}{c|c|c}
+\hline
+\textbf{Movie Name} & \textbf{Actual Rating} & \textbf{Predicted Rating}\\\hline
+Batman v Spiderman: Dawn of Justice (2016) & $6.6$ & $6.363$\\
+Mission: Impossible - Rogue Nation (2015) & $7.4$ & $6.425$\\
+Minions (2015) & $6.4$ & $6.858$\\\hline
+\end{tabular}}
+\label{table:predcted_rating}
+\end{table}
 
-Predict Rating is: 6.362715 
- 
-Mission: Impossible - Rogue Nation (2015): 
-
-Predict Rating is: 6.424666 
- 
-Minions (2015):
-
-Predict Rating is: 6.857876 
 
 \end{document}
 

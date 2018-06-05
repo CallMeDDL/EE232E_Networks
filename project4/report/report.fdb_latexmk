@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1528161210 "report.tex" "report.pdf" "report" 1528161221
+["pdflatex"] 1528227765 "report.tex" "report.pdf" "report" 1528227775
   "/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1480098666 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1480098666 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
@@ -38,6 +38,8 @@
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm" 1480098711 520 4889cce2180234b97cad636b6039c722 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1480098733 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1480098733 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1480098733 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
+  "/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1480098733 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb" 1480098737 154600 ea54091d31de803b613ba9e80ca51709 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb" 1480098737 140176 d4962f948b4cc0adf4d3dde77a128c95 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb" 1480098737 135942 859a90cad7494a1e79c94baf546d7de5 ""
@@ -162,11 +164,14 @@
   "Figures/hj_04.png" 1528145942 91727 2c30d68f955bb3f01d011064abe8dce5 ""
   "Figures/hj_05.png" 1528145942 81713 1faf762d28306f6e1662d4f7d78d2d30 ""
   "Figures/hj_06.png" 1528145942 89759 49525df5dda34fc4670d7d09b947f55a ""
-  "report.aux" 1528161221 10073 30e74dc7644b84267986c8bf1a10e237 ""
-  "report.out" 1528161221 638 05e61c549debc1bb0eb38ca952ae841d ""
-  "report.tex" 1528161210 26902 30ef7abd99623a575a6a44fe01793b50 ""
+  "Figures/img1.png" 1528215090 10852 8cf22fc3c45586041cb75742af961267 ""
+  "Figures/img2.png" 1528215090 4220 517d33009d520a3e2f234eae04797b29 ""
+  "Figures/img3.png" 1528215090 18300 0b5854b35a6de17404cd82b021f8da6b ""
+  "report.aux" 1528227775 11333 4d9c78118163a89ab16dea5db9b93abc ""
+  "report.out" 1528227775 638 05e61c549debc1bb0eb38ca952ae841d ""
+  "report.tex" 1528227761 32363 2da16ff14fbdd4d5719640a66ac3f356 ""
   (generated)
-  "report.log"
   "report.out"
   "report.aux"
   "report.pdf"
+  "report.log"
