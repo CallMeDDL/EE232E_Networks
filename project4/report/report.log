@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  5 JUN 2018 03:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  5 JUN 2018 12:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -861,181 +861,179 @@ Overfull \hbox (14.79744pt too wide) in paragraph at lines 222--223
 -ese, score: 0.10204081632653061 
  []
 
+[2 <./Figures/img1.png>]
 (/usr/local/texlive/2017/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-) [2 <./Figures/img1.png>]
+) [3 <./Figures/img2.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[3 <./Figures/img2.png>] <Figures/F2_1.png, id=79, 843.15pt x 843.15pt>
+<Figures/F2_1.png, id=78, 843.15pt x 843.15pt>
 File: Figures/F2_1.png Graphic file (type png)
-
-<use Figures/F2_1.png>
-Package pdftex.def Info: Figures/F2_1.png used on input line 286.
+ <use Figures/F2_1.png>
+Package pdftex.def Info: Figures/F2_1.png used on input line 289.
 (pdftex.def)             Requested size: 344.005pt x 344.00836pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/community_1.png, id=82, 3011.25pt x 2107.875pt>
+[4 <./Figures/img3.png>]
+<Figures/community_1.png, id=88, 3011.25pt x 2107.875pt>
 File: Figures/community_1.png Graphic file (type png)
 
 <use Figures/community_1.png>
-Package pdftex.def Info: Figures/community_1.png used on input line 300.
+Package pdftex.def Info: Figures/community_1.png used on input line 303.
 (pdftex.def)             Requested size: 344.005pt x 240.77626pt.
- [4 <./Figures/img3.png>]
-Overfull \vbox (59.01746pt too high) has occurred while \output is active []
-
-
-[5 <./Figures/community_1.png>]
-<Figures/community_2.png, id=96, 3011.25pt x 2107.875pt>
+ [5]
+<Figures/community_2.png, id=95, 3011.25pt x 2107.875pt>
 File: Figures/community_2.png Graphic file (type png)
 
 <use Figures/community_2.png>
-Package pdftex.def Info: Figures/community_2.png used on input line 307.
+Package pdftex.def Info: Figures/community_2.png used on input line 310.
 (pdftex.def)             Requested size: 344.005pt x 240.77626pt.
-
-<Figures/community_3.png, id=97, 3011.25pt x 2107.875pt>
+ [6 <./Figures/F2_1.png> <./Figures/community_1.png>] <Figures/community_3.png,
+ id=102, 3011.25pt x 2107.875pt>
 File: Figures/community_3.png Graphic file (type png)
 
 <use Figures/community_3.png>
-Package pdftex.def Info: Figures/community_3.png used on input line 314.
+Package pdftex.def Info: Figures/community_3.png used on input line 317.
 (pdftex.def)             Requested size: 344.005pt x 240.77626pt.
- [6 <./Figures/F2_1.png> <./Figures/community_2.png>] <Figures/community_4.png,
- id=105, 3011.25pt x 2107.875pt>
+
+<Figures/community_4.png, id=103, 3011.25pt x 2107.875pt>
 File: Figures/community_4.png Graphic file (type png)
 
 <use Figures/community_4.png>
-Package pdftex.def Info: Figures/community_4.png used on input line 321.
+Package pdftex.def Info: Figures/community_4.png used on input line 324.
 (pdftex.def)             Requested size: 344.005pt x 240.77626pt.
-
-<Figures/community_5.png, id=106, 3011.25pt x 2107.875pt>
+ [7 <./Figures/community_2.png> <./Figures/community_3.png>] <Figures/community
+_5.png, id=113, 3011.25pt x 2107.875pt>
 File: Figures/community_5.png Graphic file (type png)
 
 <use Figures/community_5.png>
-Package pdftex.def Info: Figures/community_5.png used on input line 328.
+Package pdftex.def Info: Figures/community_5.png used on input line 331.
 (pdftex.def)             Requested size: 344.005pt x 240.77626pt.
- [7 <./Figures/community_3.png> <./Figures/community_4.png>] <Figures/community
-_6.png, id=116, 3011.25pt x 2107.875pt>
+
+<Figures/community_6.png, id=114, 3011.25pt x 2107.875pt>
 File: Figures/community_6.png Graphic file (type png)
 
 <use Figures/community_6.png>
-Package pdftex.def Info: Figures/community_6.png used on input line 335.
+Package pdftex.def Info: Figures/community_6.png used on input line 338.
 (pdftex.def)             Requested size: 344.005pt x 240.77626pt.
-
-<Figures/community_7.png, id=117, 3011.25pt x 2107.875pt>
+ [8 <./Figures/community_4.png> <./Figures/community_5.png>] <Figures/community
+_7.png, id=123, 3011.25pt x 2107.875pt>
 File: Figures/community_7.png Graphic file (type png)
 
 <use Figures/community_7.png>
-Package pdftex.def Info: Figures/community_7.png used on input line 342.
+Package pdftex.def Info: Figures/community_7.png used on input line 345.
 (pdftex.def)             Requested size: 344.005pt x 240.77626pt.
- [8 <./Figures/community_5.png> <./Figures/community_6.png>] <Figures/community
-_8.png, id=126, 3011.25pt x 2107.875pt>
+
+<Figures/community_8.png, id=124, 3011.25pt x 2107.875pt>
 File: Figures/community_8.png Graphic file (type png)
 
 <use Figures/community_8.png>
-Package pdftex.def Info: Figures/community_8.png used on input line 349.
+Package pdftex.def Info: Figures/community_8.png used on input line 352.
 (pdftex.def)             Requested size: 344.005pt x 240.77626pt.
-
-<Figures/community_9.png, id=127, 3011.25pt x 2107.875pt>
+ [9 <./Figures/community_6.png> <./Figures/community_7.png>] <Figures/community
+_9.png, id=133, 3011.25pt x 2107.875pt>
 File: Figures/community_9.png Graphic file (type png)
 
 <use Figures/community_9.png>
-Package pdftex.def Info: Figures/community_9.png used on input line 356.
+Package pdftex.def Info: Figures/community_9.png used on input line 359.
 (pdftex.def)             Requested size: 344.005pt x 240.77626pt.
- [9 <./Figures/community_7.png> <./Figures/community_8.png>] <Figures/community
-_10.png, id=136, 3011.25pt x 2107.875pt>
+
+<Figures/community_10.png, id=134, 3011.25pt x 2107.875pt>
 File: Figures/community_10.png Graphic file (type png)
 
 <use Figures/community_10.png>
-Package pdftex.def Info: Figures/community_10.png used on input line 363.
+Package pdftex.def Info: Figures/community_10.png used on input line 366.
 (pdftex.def)             Requested size: 344.005pt x 240.77626pt.
- [10 <./Figures/community_9.png> <./Figures/community_10.png>] <Figures/communi
-ty_28.png, id=146, 661.47125pt x 523.9575pt>
+ [10 <./Figures/community_8.png> <./Figures/community_9.png>] [11 <./Figures/co
+mmunity_10.png>]
+<Figures/community_28.png, id=152, 661.47125pt x 523.9575pt>
 File: Figures/community_28.png Graphic file (type png)
 
 <use Figures/community_28.png>
-Package pdftex.def Info: Figures/community_28.png used on input line 411.
+Package pdftex.def Info: Figures/community_28.png used on input line 414.
 (pdftex.def)             Requested size: 344.005pt x 272.48344pt.
- [11] [12 <./Figures/community_28.png>]
-<Figures/community_24.png, id=164, 729.72626pt x 586.19pt>
+ [12] [13 <./Figures/community_28.png>]
+<Figures/community_24.png, id=169, 729.72626pt x 586.19pt>
 File: Figures/community_24.png Graphic file (type png)
 
 <use Figures/community_24.png>
-Package pdftex.def Info: Figures/community_24.png used on input line 462.
+Package pdftex.def Info: Figures/community_24.png used on input line 465.
 (pdftex.def)             Requested size: 165.12093pt x 132.6384pt.
 
-<Figures/community_25.png, id=165, 730.73pt x 589.20125pt>
+<Figures/community_25.png, id=170, 730.73pt x 589.20125pt>
 File: Figures/community_25.png Graphic file (type png)
 
 <use Figures/community_25.png>
-Package pdftex.def Info: Figures/community_25.png used on input line 468.
+Package pdftex.def Info: Figures/community_25.png used on input line 471.
 (pdftex.def)             Requested size: 165.12093pt x 133.13994pt.
- [13]
+ [14]
 (/usr/local/texlive/2017/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
-) [14 <./Figures/community_24.png> <./Figures/community_25.png>]
-<Figures/comm24_bipartite_grpah.png, id=185, 648.4225pt x 595.22375pt>
+) [15 <./Figures/community_24.png> <./Figures/community_25.png>]
+<Figures/comm24_bipartite_grpah.png, id=189, 648.4225pt x 595.22375pt>
 File: Figures/comm24_bipartite_grpah.png Graphic file (type png)
 
 <use Figures/comm24_bipartite_grpah.png>
 Package pdftex.def Info: Figures/comm24_bipartite_grpah.png used on input line 
-564.
+567.
 (pdftex.def)             Requested size: 344.005pt x 315.78497pt.
- [15] [16 <./Figures/comm24_bipartite_grpah.png>] <Figures/hj_01.png, id=201, 8
+ [16] [17 <./Figures/comm24_bipartite_grpah.png>] <Figures/hj_01.png, id=205, 8
 43.15pt x 843.15pt>
 File: Figures/hj_01.png Graphic file (type png)
 
 <use Figures/hj_01.png>
-Package pdftex.def Info: Figures/hj_01.png used on input line 606.
+Package pdftex.def Info: Figures/hj_01.png used on input line 608.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/hj_02.png, id=202, 843.15pt x 843.15pt>
+ <Figures/hj_02.png, id=206, 843.15pt x 843.15pt>
 File: Figures/hj_02.png Graphic file (type png)
 
 <use Figures/hj_02.png>
-Package pdftex.def Info: Figures/hj_02.png used on input line 612.
+Package pdftex.def Info: Figures/hj_02.png used on input line 614.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/hj_03.png, id=203, 843.15pt x 843.15pt>
+ <Figures/hj_03.png, id=207, 843.15pt x 843.15pt>
 File: Figures/hj_03.png Graphic file (type png)
 
 <use Figures/hj_03.png>
-Package pdftex.def Info: Figures/hj_03.png used on input line 623.
+Package pdftex.def Info: Figures/hj_03.png used on input line 625.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/hj_04.png, id=204, 843.15pt x 843.15pt>
+ <Figures/hj_04.png, id=208, 843.15pt x 843.15pt>
 File: Figures/hj_04.png Graphic file (type png)
 
 <use Figures/hj_04.png>
-Package pdftex.def Info: Figures/hj_04.png used on input line 629.
+Package pdftex.def Info: Figures/hj_04.png used on input line 631.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/hj_05.png, id=205, 843.15pt x 843.15pt>
+ <Figures/hj_05.png, id=209, 843.15pt x 843.15pt>
 File: Figures/hj_05.png Graphic file (type png)
 
 <use Figures/hj_05.png>
-Package pdftex.def Info: Figures/hj_05.png used on input line 639.
+Package pdftex.def Info: Figures/hj_05.png used on input line 641.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- <Figures/hj_06.png, id=206, 843.15pt x 843.15pt>
+ <Figures/hj_06.png, id=210, 843.15pt x 843.15pt>
 File: Figures/hj_06.png Graphic file (type png)
 
 <use Figures/hj_06.png>
-Package pdftex.def Info: Figures/hj_06.png used on input line 645.
+Package pdftex.def Info: Figures/hj_06.png used on input line 647.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
- [17 <./Figures/hj_01.png> <./Figures/hj_02.png>]
-[18 <./Figures/hj_03.png> <./Figures/hj_04.png> <./Figures/hj_05.png> <./Figure
-s/hj_06.png>] [19]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 720.
- [20]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 720.
+ [18 <./Figures/hj_01.png> <./Figures/hj_02.png>]
+[19 <./Figures/hj_03.png> <./Figures/hj_04.png> <./Figures/hj_05.png> <./Figure
+s/hj_06.png>] [20]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 732.
+ [21]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 732.
  (./report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 720.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 720.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 732.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 732.
 Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: 05E61C549DEBC1BB0EB38CA952AE841D;638.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 720.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 732.
  ) 
 Here is how much of TeX's memory you used:
- 12755 strings out of 492995
- 188268 string characters out of 6132704
- 293686 words of memory out of 5000000
+ 12756 strings out of 492995
+ 188275 string characters out of 6132704
+ 293687 words of memory out of 5000000
  15989 multiletter control sequences out of 15000+600000
  16140 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1050,10 +1048,10 @@ cal/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/loca
 l/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/
 texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/te
 xlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on report.pdf (20 pages, 3909482 bytes).
+Output written on report.pdf (21 pages, 3912145 bytes).
 PDF statistics:
- 287 PDF objects out of 1000 (max. 8388607)
- 206 compressed objects within 3 object streams
- 60 named destinations out of 1000 (max. 500000)
+ 292 PDF objects out of 1000 (max. 8388607)
+ 210 compressed objects within 3 object streams
+ 61 named destinations out of 1000 (max. 500000)
  193 words of extra memory for PDF output out of 10000 (max. 10000000)
 

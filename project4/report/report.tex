@@ -170,13 +170,13 @@ the total number of unique movies that these actors and actresses have acted in 
 
 (2) In-degree distribution of the actor/actress network without removing the actor/actress who has acted in less than 10 movies (sampled data) are shown in Figure \ref{fig:Q2_2} and Figure \ref{fig:Q2_3}.
 
-(3) Observing the distribution, we can see that generally the actor and actress graph is a power law graph, especially without the preprocessing. Although after removing some of the actor or actress(acted in less than 10 movies), the distribution of degree in few degree values is separated, such as those data point near 0 degree in Figure \ref{fig:Q2_1}, we can still get a more clear result that this network obeys power law from not doing preprocessing. 
+(3) Observing the distribution, we can see that generally the actor and actress graph is a power law graph, especially without the preprocessing. Although after removing some of the actor or actress(acted in less than 10 movies), the distribution of degree in few degree values is separated, such as those data point near 0 degree in Figure \ref{fig:Q2_1}, we can still get a more clear result that this network obeys power law in general. 
 
 
 \begin{figure}[h]
 \centering
 \scalebox{0.7}{\includegraphics{Figures/img1.png}}
-\caption{In-degree distribution of the actor\/actress network (after preprocess)}
+\caption{In-degree distribution of the actor/actress network (after preprocess)}
 \label{fig:Q2_1}
 \end{figure}
 
@@ -225,6 +225,9 @@ Then we have the following results:
 
 We think the actor pairings make sense. For instance, Emma Watson's pair is Daniel Radcliffe considering Emma Watson has acted in eight Harry Potter film series in which Daniel Radcliffe also acted in, which makes Daniel the actor whom Emma co-acted in movies most frequently compared with other actors/actresses, which makes Daniel the actor whom Emma prefers to work the most with among other actors/actresses.
 
+However, this method may tend to pair "Super Stars" to other actors in the network. Here "Super Stars" means those who acted a large number of movies and could be seen as experienced since they must be added to the movie network earlier than others. Because of these properties of "Super Stars", they are most likely to be a pair of many actors. If we think it in the way that young actors prefer to work with those "Super Stars" since the movie "Super Stars" involve in has high possibility to be a high-quality movie, which may make young actors become famous sooner. However, if we think it in another way that those young actors are lack of experience so that they have to act some unimportant characters in some famous movies with "Super Stars".
+
+Therefore, working preference is a difficult concept to definite, so if we want to get more accurate or more reasonable results, we still need more information, though our method here is already make some sense.
 
 \subsection{Actor rankings}
 We aimed to find to find the top 10 actor/actress in the network using the google’s pagerank algorithm. Those information of the top 10 actor/actress is shown in Table \ref{table_1_3}, including the name, the number of movies and the in-degree of each of the actor/actress in the top 10 list.
@@ -365,7 +368,7 @@ The 10 plots are shown in Figure \ref{fig:Q7_1} to Figure \ref{fig:Q7_10}.
 \label{fig:Q7_10}
 \end{figure}
 
-Based on simple frequency counts, the most dominant genre of each community we got is shown in Table \ref{table_2_1}. As we can see, the genre "Drama" is the dominant genre of 11 communities among 28 communities. This in fact can be easily speculated, because in the movie network, the number of moives marked "Drama" take a high propotion among all the movies. What is worth to notie is that there are some movies without genre mark, which in my charts marked "NAN", and this kind of movie in few communities actually become the category with most number of movies, such as community 28 (the distribution shown in Figure \ref {fig:Q7_11}), where only one movie belongs to "Short" and the rest of movies marked "NAN"; however we need to ignore "NAN" movies, so the donimant genre should be "Short" in this community. 
+Based on simple frequency counts, the most dominant genre of each community we got is shown in Table \ref{table_2_1}. As we can see, the genre "Drama" is the dominant genre of 11 communities among 28 communities. This in fact can be easily speculated, because in the movie network, the number of moives marked "Drama" take a high proportion among all the movies. What is worth to mention is that there are some movies without genre mark, which in my charts marked "NAN", and this kind of movie in few communities actually become the category with most number of movies, such as community 28 (the distribution shown in Figure \ref {fig:Q7_11}), where only one movie belongs to "Short" and the rest of movies marked "NAN"; however we need to ignore "NAN" movies, so the donimant genre should be "Short" in this community. 
 
 \begin{table}[H]
 \center
@@ -571,7 +574,6 @@ After statistical analysis, we found that the three most important actors‘ID a
 
 
 
-
 \subsection{Neighborhood analysis of movies}
 In this section, we analyzed the relationship between the rating of a movie and its neighbors. Specifically, we mainly investigated the following three movies.
 \begin{itemize}
@@ -707,15 +709,25 @@ In this section, we explore how to use different models to predict the rating of
 \item Minions (2015).
 \end{itemize}
 
-\textcolor{red}{
-    \textbf{Question 12:} Train a regression model to predict the ratings of movies: for the training set you can pick any subset of movies with available ratings as the target variables; you have to specify the exact feature set that you use to train the regression model and report the root mean squared error (RMSE). Now use this trained model to predict the ratings of the $3$ movies listed above (which obviously should not be included in your training data).
-}
+For regression model, we chosed five features: the top5 pagerank values of the actors who involved in the movie. We first removed those movies that do not have rating record in our dataset, and then randomly selected 70 percentage of the data as the training data and the rest 30 percentage as the test data. Then, we get $RMSE = 1.26431431866$  when evaluating our model.
 
+The movies listed above do not have rating record in the dataset, so the predicted ratings of them we got is: XXXXXXXXXXXXX
 
+The other way we used to predict ratings for movies is to create a bipartite graph corresponding to actors and movies. The metric we designed for assigning a weight to each actor is to calculate the average rating values of the movies an actor has acted and set this value as the weight of each actor. When implementing this rating mechanism, we found that there are several actors who do not have a weight(score) becasue all the movies he/she involved in do not have rating records. Therefore, we ignore these kind of actors. Then the rating prediction step is just to find all the actors involved in a certain movie and compute the average score of all the actors as the rating of the movie.
 
-\textcolor{red}{
-    \textbf{Question 13:} Create a bipartite graph following the procedure described above. Determine and justify a metric for assigning a weight to each actor. Then, predict the ratings of the $3$ movies using the weights of the actors in the bipartite graph. Report the RMSE. Is this rating mechanism better than the one in question $12$? Justify your answer.
-}
+Applying this method, the RMSE we got is $1.023422$, and the prediction for the specific movies are:
+
+Batman v Superman: Dawn of Justice (2016): 
+
+Predict Rating is: 6.362715 
+ 
+Mission: Impossible - Rogue Nation (2015): 
+
+Predict Rating is: 6.424666 
+ 
+Minions (2015):
+
+Predict Rating is: 6.857876 
 
 \end{document}
 
