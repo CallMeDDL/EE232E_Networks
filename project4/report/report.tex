@@ -522,9 +522,9 @@ After extracting the neighbors of the above three movies and computing the mean 
 \center
 \caption{Average rating vs. actual rating of the three movies}
 \scalebox{0.9}{
-\begin{tabular}{l|c|c}
+\begin{tabular}{c|c|c}
 \hline
-\textbf{Movie Name} & \textbf{Actual Rating} & \textbf{Ave. Rating in Neigh. Network}\\\hline
+\textbf{Movie Name} & \textbf{Actual Rating} & \textbf{Average Rating}\\\hline
 Batman v Spiderman: Dawn of Justice (2016) & $6.6$ & $6.4$\\
 Mission: Impossible - Rogue Nation (2015) & $7.4$ & $6.3$\\
 Minions (2015) & $6.4$ & $6.9$\\\hline
@@ -591,9 +591,9 @@ After constraining the community, the rating distributions we obrtained are show
 \center
 \caption{Average rating vs. actual rating of the three movies, with community considered}
 \scalebox{0.9}{
-\begin{tabular}{l|c|c}
+\begin{tabular}{c|c|c}
 \hline
-\textbf{Movie Name} & \textbf{Actual Rating} & \textbf{Ave. Rating in Neigh. Network}\\\hline
+\textbf{Movie Name} & \textbf{Actual Rating} & \textbf{Average Rating}\\\hline
 Batman v Spiderman: Dawn of Justice (2016) & $6.6$ & $6.4$\\
 Mission: Impossible - Rogue Nation (2015) & $7.4$ & $6.4$\\
 Minions (2015) & $6.4$ & $6.9$\\\hline
@@ -603,7 +603,7 @@ Minions (2015) & $6.4$ & $6.9$\\\hline
 
 \textcolor{red}{\textbf{Question 11:} For each of the movies listed above, extract it's top $5$ neighbors and also report the community membership of the top $5$ neighbors. In this question, the sorting is done based on the edge weights.}
 
-The result is shown in Table. \ref{table:top_movies}.
+After sorting the edge values in decreasing order in the neighbor network, the result is shown in Table. \ref{table:top_movies}.
 
 \begin{table}[H]
 \center
@@ -633,7 +633,23 @@ The result is shown in Table. \ref{table:top_movies}.
 
 
 \subsection{Predicting ratings of movies}
+In this section, we explore how to use different models to predict the rating of a movie. Still, we try to predict the ratings of the following three movies.
 
+\begin{itemize}
+\item Batman v Spiderman: Dawn of Justice (2016); 
+\item Mission: Impossible - Rogue Nation (2015);
+\item Minions (2015).
+\end{itemize}
+
+\textcolor{red}{
+    \textbf{Question 12:} Train a regression model to predict the ratings of movies: for the training set you can pick any subset of movies with available ratings as the target variables; you have to specify the exact feature set that you use to train the regression model and report the root mean squared error (RMSE). Now use this trained model to predict the ratings of the $3$ movies listed above (which obviously should not be included in your training data).
+}
+
+
+
+\textcolor{red}{
+    \textbf{Question 13:} Create a bipartite graph following the procedure described above. Determine and justify a metric for assigning a weight to each actor. Then, predict the ratings of the $3$ movies using the weights of the actors in the bipartite graph. Report the RMSE. Is this rating mechanism better than the one in question $12$? Justify your answer.
+}
 
 \end{document}
 

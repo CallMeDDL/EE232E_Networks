@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  4 JUN 2018 17:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  4 JUN 2018 18:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -933,66 +933,59 @@ File: Figures/comm24_bipartite_grpah.png Graphic file (type png)
 Package pdftex.def Info: Figures/comm24_bipartite_grpah.png used on input line 
 498.
 (pdftex.def)             Requested size: 344.005pt x 315.78497pt.
- [13] [14 <./Figures/comm24_bipartite_grpah.png>]
-Overfull \hbox (29.21376pt too wide) in paragraph at lines 532--534
- [] 
- []
-
-<Figures/hj_01.png, id=178, 843.15pt x 843.15pt>
+ [13] [14 <./Figures/comm24_bipartite_grpah.png>] <Figures/hj_01.png, id=178, 8
+43.15pt x 843.15pt>
 File: Figures/hj_01.png Graphic file (type png)
- <use Figures/hj_01.png>
+
+<use Figures/hj_01.png>
 Package pdftex.def Info: Figures/hj_01.png used on input line 540.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
-
-<Figures/hj_02.png, id=179, 843.15pt x 843.15pt>
+ <Figures/hj_02.png, id=179, 843.15pt x 843.15pt>
 File: Figures/hj_02.png Graphic file (type png)
- <use Figures/hj_02.png>
+
+<use Figures/hj_02.png>
 Package pdftex.def Info: Figures/hj_02.png used on input line 546.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
-
-<Figures/hj_03.png, id=180, 843.15pt x 843.15pt>
+ <Figures/hj_03.png, id=180, 843.15pt x 843.15pt>
 File: Figures/hj_03.png Graphic file (type png)
- <use Figures/hj_03.png>
+
+<use Figures/hj_03.png>
 Package pdftex.def Info: Figures/hj_03.png used on input line 557.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
-
-<Figures/hj_04.png, id=181, 843.15pt x 843.15pt>
+ <Figures/hj_04.png, id=181, 843.15pt x 843.15pt>
 File: Figures/hj_04.png Graphic file (type png)
- <use Figures/hj_04.png>
+
+<use Figures/hj_04.png>
 Package pdftex.def Info: Figures/hj_04.png used on input line 563.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
-
-<Figures/hj_05.png, id=182, 843.15pt x 843.15pt>
+ <Figures/hj_05.png, id=182, 843.15pt x 843.15pt>
 File: Figures/hj_05.png Graphic file (type png)
- <use Figures/hj_05.png>
+
+<use Figures/hj_05.png>
 Package pdftex.def Info: Figures/hj_05.png used on input line 573.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
-
-<Figures/hj_06.png, id=183, 843.15pt x 843.15pt>
+ <Figures/hj_06.png, id=183, 843.15pt x 843.15pt>
 File: Figures/hj_06.png Graphic file (type png)
- <use Figures/hj_06.png>
+
+<use Figures/hj_06.png>
 Package pdftex.def Info: Figures/hj_06.png used on input line 579.
 (pdftex.def)             Requested size: 165.12093pt x 165.11475pt.
-
-[15 <./Figures/hj_01.png> <./Figures/hj_02.png>] [16 <./Figures/hj_03.png> <./F
-igures/hj_04.png> <./Figures/hj_05.png> <./Figures/hj_06.png>]
-Overfull \hbox (29.21376pt too wide) in paragraph at lines 600--602
- [] 
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 638.
-[17]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 638.
+ [15 <./Figures/hj_01.png> <./Figures/hj_02.png>]
+[16 <./Figures/hj_03.png> <./Figures/hj_04.png> <./Figures/hj_05.png> <./Figure
+s/hj_06.png>] [17]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 654.
+ [18]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 654.
  (./report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 638.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 638.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 654.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 654.
 Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: 05E61C549DEBC1BB0EB38CA952AE841D;638.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 638.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 654.
  ) 
 Here is how much of TeX's memory you used:
- 12734 strings out of 492995
- 187905 string characters out of 6132704
+ 12735 strings out of 492995
+ 187912 string characters out of 6132704
  293369 words of memory out of 5000000
  15974 multiletter control sequences out of 15000+600000
  16140 words of font info for 49 fonts, out of 8000000 for 9000
@@ -1006,10 +999,10 @@ r/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/
 local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/lo
 cal/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/loca
 l/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on report.pdf (17 pages, 3866086 bytes).
+Output written on report.pdf (18 pages, 3866968 bytes).
 PDF statistics:
- 251 PDF objects out of 1000 (max. 8388607)
- 182 compressed objects within 2 object streams
- 54 named destinations out of 1000 (max. 500000)
+ 256 PDF objects out of 1000 (max. 8388607)
+ 186 compressed objects within 2 object streams
+ 55 named destinations out of 1000 (max. 500000)
  178 words of extra memory for PDF output out of 10000 (max. 10000000)
 
