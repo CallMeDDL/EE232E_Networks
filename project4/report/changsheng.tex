@@ -1,0 +1,7 @@
+（3）Observing the distribution, we can see that generally the actor and actress graph is a power law graph, especially without the preprocessing. Although after removing some of the actor or actress (acted in less than 10 movies), the distribution of degree in few degree values is separated, such as those data point near 0 degree in Figure \ref{fig:Q2_1}, we can still get a more clear result that this network obeys power law from not doing preprocessing. 
+
+
+To find the actor pairings for the objective actors, we found the actor or actress who has largest weight edge with them, and determined actor pairs. The weight from actor/actress_1 -> actor/actress_2 is defined as $(S_1 \bigcap S_2) / S_1$, where $S_1$ is the set of movies in which actor/actress_1 has involved in, and $S_2$ is the set of movies in which actor/actress_2 has involved in. Basically, For a given actor/actress A, his/her pair B is the one whom he/she has been collaborated the most frequently with, because B co-acted in the most of number of movies with A compared with other actors/actresses.
+
+
+The weight from actor/actress_1 -> actor/actress_2 is defined as $(S_1 \cap S_2) / S_1$, where $S_1$ is the set of movies in which actor/actress_1 has involved in, and $S_2$ is the set of movies in which actor/actress_2 has involved in. Basically, For a given actor/actress A, his/her pair B is the one whom he/she has been collaborated the most frequently with, because B co-acted in the most of number of movies with A compared with other actors/actresses.
