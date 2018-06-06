@@ -9,6 +9,7 @@ Large Scale Social and Complex Networks: Design and Algorithms (18 spring)
 1. Create random networks using Erdös-Rényi (ER) model
 2. Create networks using preferential attachment model
 3. Create a modified preferential attachment model that penalizes the age of a node
+
 ### Random Walk on Networks
 1. Random walk on Erdös-Rényi networks
 2. Random walk on networks with fat-tailed degree distribution
@@ -23,6 +24,7 @@ Large Scale Social and Complex Networks: Design and Algorithms (18 spring)
 2. Personalized network
 3. Core node’s personalized network
 4. Friend recommendation in personalized networks
+
 ### Google+ network
 1. Community structure of personal networks
 
@@ -41,6 +43,7 @@ Large Scale Social and Complex Networks: Design and Algorithms (18 spring)
 1. Directed actor/actress network creation
 2. Actor pairings
 3. Actor rankings
+
 ### Movie network
 1. Undirected movie network creation
 2. Communities in the movie network
@@ -49,17 +52,19 @@ Large Scale Social and Complex Networks: Design and Algorithms (18 spring)
 
 <br>
 
-## Graph Algorithms
+## Project 5 Graph Algorithms
 ### Stock Market
 1. Return correlation
 2. Constructing correlation graphs
 3. Minimum spanning tree (MST)
 4. Sector clustering in MST’s
 5. Correlation graphs for weekly data
+
 ### Let’s Help Santa!
 1. Download the Data
 2. Build Your Graph
 3. Traveling Salesman Problem
+
 ### Analysing the Traffic Flow
 1. Estimate the Roads
 2. Calculate Road Traffic Flows
