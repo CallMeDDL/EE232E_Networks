@@ -15,6 +15,7 @@ Large Scale Social and Complex Networks: Design and Algorithms (18 spring)
 3. PageRank
 4. Personalized PageRank
 
+<br>
 
 ## Project 2 Social Network Mining
 ### Facebook network
@@ -25,6 +26,7 @@ Large Scale Social and Complex Networks: Design and Algorithms (18 spring)
 ### Google+ network
 1. Community structure of personal networks
 
+<br>
 
 ## Project 3 Reinforcement learning and Inverse Reinforcement learning
 ### Optimal policy learning using RL algorithms
@@ -32,6 +34,7 @@ Large Scale Social and Complex Networks: Design and Algorithms (18 spring)
 1. IRL algorithm
 2. Performance measure
 
+<br>
 
 ## Project 4 IMDb Mining
 ### Actor/Actress network
@@ -43,4 +46,23 @@ Large Scale Social and Complex Networks: Design and Algorithms (18 spring)
 2. Communities in the movie network
 3. Neighborhood analysis of movies
 4. Predicting ratings of movies
+
+<br>
+
+## Graph Algorithms
+### Stock Market
+1. Return correlation
+2. Constructing correlation graphs
+3. Minimum spanning tree (MST)
+4. Sector clustering in MST’s
+5. Correlation graphs for weekly data
+### Let’s Help Santa!
+1. Download the Data
+2. Build Your Graph
+3. Traveling Salesman Problem
+### Analysing the Traffic Flow
+1. Estimate the Roads
+2. Calculate Road Traffic Flows
+3. Calculate the Max Flow
+4. Defoliate Your Graph
 
