@@ -1,5 +1,6 @@
 
 library(igraph)
+library(ggplot2)
 # Q2
 # read stock names to a vector
 filepath <- '/Users/wendycui/Documents/Bruin Life/EE232/project5/finance_data/Name_sector.csv'
@@ -54,21 +55,21 @@ corr_graph <-  graph_from_data_frame(df_corr, directed = FALSE)
 plot(degree.distribution(corr_graph), main = "the degree distribution of the correlation graph")
 
 # plot edge weight distribution(un-normalized???)
-var(df_corr$weight)
-mean(all_d_ijs)
-hist( x= all_d_ijs, col = "blue", breaks = seq(from = round(min(all_d_ijs)), to = round(max(all_d_ijs)), by = (max(all_d_ijs)-min(all_d_ijs))/50), 
-      main = "Histogram of d_ij's", xlab = "d_ij", ylab = "Frequencies")
-
-# 
-vertices <- V(corr_graph)$name # all nodes
-sectors <- df_stock_name$Sector # all sectors 
-sectors <- unique(sectors) # remove dulicates
-#colors = seq(1, length(sectors)) # there are 11 sectors in total, so 11 colors are needed
+edge_weights <- df_corr$weight
+edge_weights <- as.numeric(edge_weights)
+#var(edge_weights)
+#mean(edge_weights)
+hist( x = edge_weights, col = "dodgerblue3", breaks = seq(from = round(min(edge_weights)), to = round(max(edge_weights)), by = (max(edge_weights)-min(edge_weights))/50), 
+      main = "Histogram of Edge Weights", xlab = "edge weights", ylab = "Frequencies")
 
 # create MST
+
 MST <- mst(corr_graph , weights = df_corr$weight)
 
 #assign color to vertices in MST
+
+sectors <- df_stock_name$Sector # all sectors 
+sectors <- unique(sectors) # remove dulicates
 # color options (11)
 colors <- c("brown1", "blueviolet", "chartreuse2", "cyan", "dodgerblue3", "deeppink", "yellow","tomato","gray70","darkorange", "firebrick")
 for (i in 1 : length(V(MST))){
