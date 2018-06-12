@@ -160,23 +160,23 @@ Optimal-16 & \multicolumn{1}{l}{0x1F8FD} & & 0 & 0 & 0 & 0 & 0 & 13240\\\hline
 \section{Stock Market}
 
 \subsection{Return Correlation}
-\textcolor{red}{Question 1: Provide an upper and lower bound on $\rho_{ij}$. Also, provide a justification for using log-normalized return $r_i(t)$ instead of regular return $q_i(t)$.}
+\textcolor{blue}{Question 1: Provide an upper and lower bound on $\rho_{ij}$. Also, provide a justification for using log-normalized return $r_i(t)$ instead of regular return $q_i(t)$.}
 
 According to the formula of $\rho_{ij}$, the upper bound should be $1$ and the lower bound should be $-1$, where $r_i(t) = r_j(t)$ and $r_i(t) = -r_j(t)$ respectively.
 
 Considering the reason why we use log-normalized return $r_i(t)$ instead of regular return $q_i(t)$, we have following analysis and explanations:
 
 \textbf{(a)log-normality:} if we assume that prices are distributed log normally (which, in practice, depends on the given price series), then $r_i(t)$ is conveniently normally distributed, because:
-\begin{displaymath}r_i(t) = log(1 + q_i(t)) = log\frac{p_i(t)}{p_i(t-1)}\end{displaymath}
+\begin{displaymath}r_i(t) = \log(1 + q_i(t)) = \log\frac{p_i(t)}{p_i(t-1)}\end{displaymath}
 This is handy given much of classic statistics presumes normality.
 
 \textbf{(b)Approximate raw-log equality:} when returns are very small (common for trades with short holding durations), the following approximation ensures they are close in value to raw returns:
-\begin{displaymath}r_i(t) = log(1 + q_i(t)) \approx q_i(t), where q_i(t)\ll 1\end{displaymath}
+\begin{displaymath}r_i(t) = \log(1 + q_i(t)) \approx q_i(t), where q_i(t)\ll 1\end{displaymath}
 
 \textbf{(c)time-additivity:} Consider a stock $i$ with an ordered sequence of $n$ trades. A statistic frequently calculated from this sequence is the compounding return, which is the running return of this sequence of trades over time:
 \begin{displaymath}q_i(1) \cdot q_i(2) \cdot q_i(3) \cdot...\cdot q_i(n)\end{displaymath}
 This formula seems really complicated since the product of normally-distributed variables is not normal. Instead, the sum of normally-distributed variables is normal. This can show another benefit of representing returns in log-normality:
-\begin{displaymath}r_i(1) + r_i(2) + r_i(3) + ... + r_i(n) =logp_i(n) - logp_i(0)\end{displaymath}
+\begin{displaymath}r_i(1) + r_i(2) + r_i(3) + ... + r_i(n) =\log p_i(n) - \log p_i(0)\end{displaymath}
 Thus, the compound return over $n$ periods is merely the difference in $log$ between initial and final periods. In terms of algorithmic complexity, this simplification reduces $O(n)$ multiplications to $O(1)$ additions. 
 
 \textbf{(d)For Mathematical Ease:}
@@ -189,7 +189,7 @@ This identity is tremendously useful, as much of financial mathematics is built 
 Sometimes the addition of small numbers is numerically safe, while multiplying small numbers is not as it is subject to arithmetic underflow. 
 
 \subsection{Constructing Correlation Graphs}
-\textcolor{red}{Question 2: Plot the degree distribution of the correlation graph and a histogram showing the un-normalized distribution of edge weights.}
+\textcolor{blue}{Question 2: Plot the degree distribution of the correlation graph and a histogram showing the un-normalized distribution of edge weights.}
 
 After constructing the correlation graph, the degree distribution we get is shown in Figure\ref {fig:Q2_1}
 Not surprisingly, all vertices are connected with each other, so the degree of them are the same, equals to the number of vertices minus 1.
@@ -211,7 +211,7 @@ The edge weights distribution is shown in Figure\ref {fig:Q2_2}
 \end{figure}
 
 \subsection{Minimum Spanning Tree (MST)}
-\textcolor{red}{Question 3: Extract the MST of the correlation graph. Each stock can be categorized into a sector, which can be found in Name\_sector.csv file. Plot the MST and color-code the nodes based on sectors. Do you see any pattern in the MST? The structures that you find in MST are called Vine clusters. Provide a detailed explanation about the pattern you observe.
+\textcolor{blue}{Question 3: Extract the MST of the correlation graph. Each stock can be categorized into a sector, which can be found in Name\_sector.csv file. Plot the MST and color-code the nodes based on sectors. Do you see any pattern in the MST? The structures that you find in MST are called Vine clusters. Provide a detailed explanation about the pattern you observe.
 }
 
 The MST plot is shown in Figure\ref {fig:Q3}, and differnt color represents different sectors of the stock.
@@ -223,6 +223,81 @@ We found that there is an interesting pattern in MST: stocks in same sector tend
 \caption{MST of the correlation graph}
 \label{fig:Q3}
 \end{figure}
+
+\subsection{Sector Clustering in MST's}
+
+
+\subsection{Correlation Graph for Weekly Data}
+
+
+
+
+
+
+
+
+
+
+
+
+
+\section{Let's Help Santa!}
+
+\subsection{Download the Data}
+
+\subsection{Build Your Graph}
+
+\subsection{Traveling Salesman Problem}
+
+\textcolor{blue}{
+    Question 8: Determine what percentage of triangles in the graph (sets
+of 3 points on the map) satisfy the triangle inequality. You do not need
+to inspect all triangles, you can just estimate by random sampling of
+$1000$ triangles.
+}
+
+
+\textcolor{blue}{
+    Question 9: Find the empirical performance of the approximate algorithm:
+    \begin{align}
+    \rho=\frac{\text{Approximate TSP Cost}}{\text{Optimal TSP Cost}}
+    \end{align}
+}
+
+
+\textcolor{blue}{
+    Question 10: Plot the trajectory that Santa has to travel!
+}
+
+
+
+
+
+
+\section{Analysing the Traffic Flow}
+
+\subsection{Estimate the Roads}
+\textcolor{blue}{
+    Question 11: Plot the road mesh that you obtain and explain the result.
+Create a subgraph $G_{\Delta}$ induced by the edges produced by triangulation.
+}
+
+\subsection{Calculate Road Traffic Flows}
+
+\subsection{Calculate the Max Flow}
+
+\subsection{Defoliate Your Graph}
+
+
+
+
+
+
+
+
+
+
+
 
 
 \end{document}
