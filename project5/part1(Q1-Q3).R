@@ -7,17 +7,23 @@ filepath <- '/Users/wendycui/Documents/Bruin Life/EE232/project5/finance_data/Na
 df_stock_name <- read.csv(filepath, stringsAsFactors = FALSE)
 stocks <- df_stock_name$Symbol # store the stocks' names
 stocks <- as.vector(stocks)
+clean_stocks <- stocks
 # construct r_i list ( list of list, key is the name of stock, value is the r_i list of the stock)
 r_i_list <- list()
 for(st_nm in stocks) { 
   cat("calculating", st_nm, "r_is", "\n")
-  fp = paste('/Users/wendycui/Documents/Bruin Life/EE232/project5/finance_data/data/', st_nm, '.csv', sep = "") 
-  close_prices = read.csv(fp, stringsAsFactors = FALSE)$Close 
-  current_r_i = numeric(0) # array
-  for (index in 2:length(close_prices)){
-    current_r_i[index - 1] = log(close_prices[index]) - log(close_prices[index - 1])  #calculate r_i 
+  fp = paste('/Users/wendycui/Documents/Bruin Life/EE232/project5/finance_data/data/', st_nm, '.csv', sep = "")
+  if(nrow(read.csv(fp, stringsAsFactors = FALSE)) == 765){ # clean data
+    close_prices = read.csv(fp, stringsAsFactors = FALSE)$Close 
+    current_r_i = numeric(0) # array
+    for (index in 2:length(close_prices)){
+      current_r_i[index - 1] = log(close_prices[index]) - log(close_prices[index - 1])  #calculate r_i 
+    }
+    r_i_list [[st_nm]] = current_r_i
+  } 
+  else{
+    clean_stocks <- clean_stocks[-which(clean_stocks == st_nm)]
   }
-  r_i_list [[st_nm]] = current_r_i
 }
 # construct correlation dataframe(three colunms: stock i, stock j, weight)
 df_corr <- data.frame(stock_i = character(0), stock_j = character(0),  weight = double(0), stringsAsFactors = FALSE) # use this dataframe to build graph
@@ -28,10 +34,10 @@ df_corr <- data.frame(stock_i = character(0), stock_j = character(0),  weight = 
 
 
 #all_w_ij = vector() # weight array
-for( i in 1 : ( length(stocks) - 1)) {
-  stock_i = as.character(stocks[i]) 
-  for( j in (i + 1) : length(stocks)){
-    stock_j = as.character(stocks[j])
+for( i in 1 : ( length(clean_stocks) - 1)) {
+  stock_i = as.character(clean_stocks[i]) 
+  for( j in (i + 1) : length(clean_stocks)){
+    stock_j = as.character(clean_stocks[j])
     cat("compute weight of",stock_i, "and", stock_j,":","\n")
     R_i = r_i_list[[stock_i]]
     R_j = r_i_list[[stock_j]]
