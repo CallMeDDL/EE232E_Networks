@@ -92,3 +92,34 @@ plot(MST, vertex.size = 10, vertex.label = NA, main = "MST of the Weighted Corre
 
 plot(MST,vertex.size = 10, vertex.label = NA)
 
+
+# Q4-1
+alpha_case1 = 0
+for(v in V(MST)) {
+    neighbors = neighbors(MST, v)
+    sector = V(MST)[v]$color
+    count = 0
+    for(n in neighbors) {
+        if(sector == V(MST)[n]$color) {
+            count = count + 1
+        }
+    }
+    p = count * 1.0 / length(neighbors)
+    alpha_case1 = alpha_case1 + p
+}
+    
+alpha_case1 = alpha_case1 * 1.0 / length(V(MST))
+print(sprintf("alpha_case1: %f", alpha_case1))
+
+# Q4-2
+alpha_case2 = 0
+sector_freq = sort(table(V(MST)$color), decreasing = TRUE)
+sector_freq = as.data.frame(sector_freq)
+for(v in V(MST)) {
+    sector = V(MST)[v]$color
+    count = sector_freq[sector_freq$Var1==sector,]$Freq
+    p = count * 1.0 / length(V(MST))
+    alpha_case2 = alpha_case2 + p
+}
+alpha_case2 = alpha_case2 * 1.0 / length(V(MST))
+print(sprintf("alpha_case2: %f", alpha_case2))
