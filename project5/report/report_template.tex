@@ -171,7 +171,7 @@ Considering the reason why we use log-normalized return $r_i(t)$ instead of regu
 This is handy given much of classic statistics presumes normality.
 
 \textbf{(b)Approximate raw-log equality:} when returns are very small (common for trades with short holding durations), the following approximation ensures they are close in value to raw returns:
-\begin{displaymath}r_i(t) = \log(1 + q_i(t)) \approx q_i(t), where q_i(t)\ll 1\end{displaymath}
+\begin{displaymath}r_i(t) = \log(1 + q_i(t)) \approx q_i(t), \text{where } q_i(t)\ll 1\end{displaymath}
 
 \textbf{(c)time-additivity:} Consider a stock $i$ with an ordered sequence of $n$ trades. A statistic frequently calculated from this sequence is the compounding return, which is the running return of this sequence of trades over time:
 \begin{displaymath}q_i(1) \cdot q_i(2) \cdot q_i(3) \cdot...\cdot q_i(n)\end{displaymath}

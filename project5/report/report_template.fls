@@ -239,6 +239,8 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy8.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/jknappen/ec/ecbx1095.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/jknappen/ec/ecrm0800.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/jknappen/ec/ecrm0600.tfm
 INPUT /usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT ./Figures/degree_distribution.png
 INPUT ./Figures/degree_distribution.png
@@ -256,8 +258,6 @@ INPUT ./Figures/q5_monday_mst.png
 INPUT ./Figures/q5_monday_mst.png
 INPUT ./Figures/q5_monday_mst.png
 INPUT ./Figures/q5_monday_mst.png
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/jknappen/ec/ecrm0800.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/jknappen/ec/ecrm0600.tfm
 INPUT ./Figures/tour.png
 INPUT ./Figures/tour.png
 INPUT ./Figures/tour.png
