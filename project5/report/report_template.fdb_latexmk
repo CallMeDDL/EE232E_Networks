@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1529044745 "report_template.tex" "report_template.pdf" "report_template" 1529044746
+["pdflatex"] 1529098834 "report_template.tex" "report_template.pdf" "report_template" 1529098835
   "/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1480098666 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/jknappen/ec/ecbx1095.tfm" 1480098696 3584 21b378cca2e40816b0e6d74a4dc98f04 ""
@@ -147,12 +147,14 @@
   "Figures/MST.png" 1529013546 379847 4658b8bc3955860436580fb39a052c39 ""
   "Figures/degree_distribution.png" 1528505472 103969 85b5466e3bc87964690b53a4ff04fb8d ""
   "Figures/edge_distribution.png" 1528505472 94031 39911aeba2e1aa42b055328233df0a77 ""
+  "Figures/q5_monday_mst.png" 1529094070 54513 97c0639f43a97c494250b71987647781 ""
+  "Figures/tour.png" 1529098624 135207 9c249561302b12901d4d873dd0ce6c05 ""
   "Figures/triangulation.png" 1529018179 77751 3db9cffe7b85a2ac0bfe602748922b6c ""
-  "report_template.aux" 1529044746 3256 e4680ddc6dad9b8941a10f6dd0fdf64f ""
-  "report_template.out" 1529044746 1038 2e181a036c711e7769c31004290027bd ""
-  "report_template.tex" 1529044743 12374 1a315d58d05c05da77eb302dcd1b9ddf ""
+  "report_template.aux" 1529098835 3772 b6198f75abafb5f434c31788811f17ec ""
+  "report_template.out" 1529098835 1038 2e181a036c711e7769c31004290027bd ""
+  "report_template.tex" 1529098833 14728 2090e8b8f7c6a8d13661d9ac942402ed ""
   (generated)
+  "report_template.pdf"
+  "report_template.log"
   "report_template.aux"
   "report_template.out"
-  "report_template.log"
-  "report_template.pdf"
