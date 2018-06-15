@@ -249,12 +249,15 @@ We found that there is an interesting pattern in MST: stocks in same sector tend
 
 \subsection{Traveling Salesman Problem}
 
+
 \textcolor{blue}{
     Question 8: Determine what percentage of triangles in the graph (sets
 of 3 points on the map) satisfy the triangle inequality. You do not need
 to inspect all triangles, you can just estimate by random sampling of
 $1000$ triangles.
 }
+
+After the random samplings of $1000$ triangles on the graph, the percentage of triangles in the graph is $93.9\%$.
 
 
 \textcolor{blue}{
@@ -263,6 +266,11 @@ $1000$ triangles.
     \rho=\frac{\text{Approximate TSP Cost}}{\text{Optimal TSP Cost}}
     \end{align}
 }
+
+According to the $2$-approximate algorithm analysis, we know
+\begin{align}
+\rho=\frac{\text{Approximate TSP Cost}}{\text{Optimal TSP Cost}}\le 2
+\end{align}
 
 
 \textcolor{blue}{
@@ -281,6 +289,16 @@ $1000$ triangles.
     Question 11: Plot the road mesh that you obtain and explain the result.
 Create a subgraph $G_{\Delta}$ induced by the edges produced by triangulation.
 }
+\begin{figure}[h]
+\centering
+\scalebox{0.7}{\includegraphics{Figures/triangulation.png}}
+\caption{Road mesh after triangulation}
+\label{fig:road_mesh}
+\end{figure}
+
+After implementing the Delaunay triangulation, the road mesh we obtained is in Fig. \ref{fig:road_mesh}.
+
+
 
 \subsection{Calculate Road Traffic Flows}
 
