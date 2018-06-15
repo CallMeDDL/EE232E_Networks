@@ -225,13 +225,35 @@ We found that there is an interesting pattern in MST: stocks in same sector tend
 \end{figure}
 
 \subsection{Sector Clustering in MST's}
+\textcolor{blue}{Question 4: Report the value of $\alpha$ for the above two cases and provide an interpretation for the difference.
+}
+
+Answer:
+case1: $\alpha = 0.82893$
+case2: $\alpha = 0.11419$
+
+To predict the market sector of an unknown stock, two methods for performing the task are utilized and compared. In case1, $P(v_i \in S_) = |Q_i| / |N_i|$, where $Q_i$ is the set of neighbors of node $i$ that belong to the same sector as node i and $N_i$ is the set of neighbors of node $i$. For Case2, $P(v_i \in S_i) = |S_i| / |V|$. 
+
+The difference between these two results is that in case 1, information of neighbors of node i being predicted is used to infer its sector. The higher probability that its neighbors belong to certain sector, the higher chance it belongs to that sector. In case 2, however, the node i being predicted just is assigned with the label based on the percentage each sector takes up overall. The larger size the sector is, the higher probability it belongs to that sector, which is a naive random guess approach (sampling idea).
+
 
 
 \subsection{Correlation Graph for Weekly Data}
 
+\textcolor{blue}{Question 5: Extract the MST from the correlation graph based on weekly data. Compare the pattern of this MST with the pattern of the MST found in question 3.
+}
+
+The MST we got is shown in Figure \ref {fig:Q5}. 
+
+Comparing this MST of weekly data and the MST of daily data, we can see that when we consider a larger time interval (weekly compared to daily), the vertices(stocks) in the weekly graph from same sector seems not as clustered together as daily graph. In other words, daily stock closing price is more likely to be influenced by the sector a stock belongs to; however, the relation demonstrated weaker when considering the weekly data. This is in fact easy to understand since when time interval becomes bigger, there may be several other factors could affect the stock price like changes in market.
 
 
-
+\begin{figure}[h]
+\centering
+\scalebox{0.7}{\includegraphics{Figures/q5_monday_mst.png}}
+\caption{degree distribution of the correlation graph (weekly data)}
+\label{fig:Q5}
+\end{figure}
 
 
 
