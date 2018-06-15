@@ -30,9 +30,9 @@ for i in range(0,Total):
 tri = Delaunay(points)
 
 
-
-plt.triplot(points[:,0], points[:,1], tri.simplices.copy())
-plt.plot(points[:,0], points[:,1], 'o')
+plt.figure(figsize=(10,10))
+plt.triplot(points[:,0], points[:,1], tri.simplices)
+plt.plot(points[:,0], points[:,1], 'o',markersize=1)
 plt.show()
 
 # Plot the approximate tour

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  15 JUN 2018 15:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  15 JUN 2018 15:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -868,12 +868,12 @@ File: Figures/tour.png Graphic file (type png)
 Package pdftex.def Info: Figures/tour.png used on input line 307.
 (pdftex.def)             Requested size: 344.005pt x 264.61404pt.
 
-<Figures/triangulation.png, id=113, 642.4pt x 481.8pt>
+<Figures/triangulation.png, id=113, 1003.75pt x 1003.75pt>
 File: Figures/triangulation.png Graphic file (type png)
 
 <use Figures/triangulation.png>
 Package pdftex.def Info: Figures/triangulation.png used on input line 325.
-(pdftex.def)             Requested size: 344.005pt x 258.00673pt.
+(pdftex.def)             Requested size: 344.005pt x 344.01204pt.
  [6 <./Figures/tour.png (PNG copy)>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 352.
  [7 <./Figures/triangulation.png (PNG copy)>]
@@ -904,7 +904,7 @@ l/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/
 texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/te
 xlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texl
 ive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on report_template.pdf (7 pages, 764811 bytes).
+Output written on report_template.pdf (7 pages, 913691 bytes).
 PDF statistics:
  172 PDF objects out of 1000 (max. 8388607)
  142 compressed objects within 2 object streams
