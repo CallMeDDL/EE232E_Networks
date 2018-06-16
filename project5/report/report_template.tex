@@ -358,7 +358,7 @@ Create a subgraph $G_{\Delta}$ induced by the edges produced by triangulation.
 }
 \begin{figure}[t]
 \centering
-\scalebox{0.8}{\includegraphics{Figures/triangulation.png}}
+\scalebox{0.8}{\includegraphics{Figures/3_1.png}}
 \caption{Road mesh after triangulation}
 \label{fig:road_mesh}
 \end{figure}
@@ -391,7 +391,7 @@ After going through all the node in the graph to calculate, the number of car of
 Question 13: Calculate the maximum number of cars that can commute per hour from Stanford to UCSC. Also calculate the number of edge-disjoint paths between the two spots. Does the number of edge-disjoint paths match what you see on your road map?
 }
 
-After calculation, the maximum number of cars that can commute per hour from Stanford to UCSC is $14892$ and the number of edge-disjoint paths between them is $5$, which seems like more than the real paths that I observe from the real Google map. As far as I am concerned, this phenomena can be explained by those fake roads we generate from the Delaunay triangulation.
+After calculation, the maximum number of cars that can commute per hour from Stanford to UCSC is $14892$ and the number of edge-disjoint paths between them is $5$, which seems like a little bit more than the real paths that I observe from the real Google map. As far as I am concerned, this phenomena can be explained by those fake roads we generate from the Delaunay triangulation.
 
 \subsection{Defoliate Your Graph}
 \textcolor{blue}{
@@ -400,7 +400,25 @@ Question 14: Plot $G_{\Delta}$ on real map coordinates. Are real bridges pre- se
 
 In this part, we aim to delete these fake brights. There're no doubt that we can assume that these fake bridges are taking a really convoluted route to achieve the distance between two vertices, and hence their mean traveling times are going to be very higher. Therefore, we apply a threshold on the travel time of the roads.
 
-The average time for a road is $362$. However there're a little road' time even greater than $1000$. Those ridiculous time means that those roads don't exist in the real world at all. So we can set $1000$ as our threshold to prune those fake edges.
+The average time for a road is $362$. However there're a little road' time even greater than $2000$. Those ridiculous time means that those roads don't exist in the real world at all. So we can set $1500$ as our threshold to prune those fake edges. The road mesh after defoliation is shown in Fig. \ref{3_3}.
+
+\begin{figure}
+\centering
+\begin{minipage}[h]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/3_3.png}}
+\caption{Road mesh after defoliation}
+\label{3_3}
+\end{minipage}
+\begin{minipage}[h]{0.48\textwidth}
+\centering
+\scalebox{1}{\includegraphics{Figures/3_2.png}}
+\caption{Road mesh with marked bridge}
+\label{3_2}
+\end{minipage}
+\end{figure}
+
+What's more, for those real bridges like Golden Gate Bridge, Richmond, San Rafael Bridge, San Mateo Bridge, Dambarton Bridge and San Francisco - Oakland Bay Bridge, which is shown in the red color in the Fig. \ref{3_2}, we can observe from the graph after trimming that those bridges are still included in the new map but some other fake bridges have gone. \\
  
 
 \textcolor{blue}{
