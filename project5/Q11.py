@@ -15,14 +15,21 @@ Total=len(x)
 points=np.zeros(shape=(Total,2))
 
 for i in range(0,Total):
-    points[i,0]=x[i]
-    points[i,1]=y[i]
+    points[i,0] = x[i]
+    points[i,1] = y[i]
 
-# print(points[0,0],points[0,1])
-# points = np.array([[0, 0], [0, 1.1], [1, 0], [1, 1]])
 tri = Delaunay(points)
+
+"""
 
 plt.triplot(points[:,0], points[:,1], tri.simplices.copy())
 plt.plot(points[:,0], points[:,1], 'o')
+plt.show()
+"""
+
+print(len(tri.simplices))
+print(Total)
+
+plt.triplot(points[:,0], points[:,1])
 plt.show()
 

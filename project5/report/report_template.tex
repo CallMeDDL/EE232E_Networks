@@ -302,9 +302,45 @@ After implementing the Delaunay triangulation, the road mesh we obtained is in F
 
 \subsection{Calculate Road Traffic Flows}
 
+\textcolor{blue}{
+Question 12: Using simple math, calculate the traffic flow for each road in terms of cars/hour.
+}
+
+We can calculate the traffic flow i.e. $w$ cars/hour of each road by following equations.
+
+\begin{align}
+w = 2 \times \frac{60 \times 60}{2 + \frac{0.003}{v}}
+\end{align}
+\begin{align}
+v = \frac{ \text{euclidean distance} \times 69}{ \text{mean time}}
+\end{align}
+
+Also, we notice that not all the road exist in the real word, which means we can not find the mean traveling times for those fake road. To solve this problem, we use shortest path calculation in case they are missing.
+
+After going through all the node in the graph to calculate, the number of car of most roads is between 2000 and 3000 per hour.
+
 \subsection{Calculate the Max Flow}
+\textcolor{blue}{
+Question 13: Calculate the maximum number of cars that can commute per hour from Stanford to UCSC. Also calculate the number of edge-disjoint paths between the two spots. Does the number of edge-disjoint paths match what you see on your road map?
+}
+
+After calculation, the maximum number of cars that can commute per hour from Stanford to UCSC is $14892$ and the number of edge-disjoint paths between them is $5$, which seems like more than the real paths that I observe from the real Google map. As far as I am concerned, this phenomena can be explained by those fake roads we generate from the Delaunay triangulation.
 
 \subsection{Defoliate Your Graph}
+\textcolor{blue}{
+Question 14: Plot $G_{\Delta}$ on real map coordinates. Are real bridges pre- served?
+}
+
+In this part, we aim to delete these fake brights. There're no doubt that we can assume that these fake bridges are taking a really convoluted route to achieve the distance between two vertices, and hence their mean traveling times are going to be very higher. Therefore, we apply a threshold on the travel time of the roads.
+
+The average time for a road is $362$. However there're a little road' time even greater than $1000$. Those ridiculous time means that those roads don't exist in the real world at all. So we can set $1000$ as our threshold to prune those fake edges.
+ 
+
+\textcolor{blue}{
+Question 15: Now, repeat question 13 for $G_{\Delta}$ and report the results. Do you see any significant changes?
+}
+
+After defoliating the road map, we find that there're almost no significant change in the result of max flow even after removal of the fake edges. As far as I am concerned, even though when those fake roads exist, those roads especially fake brights can be seen as the outlier edges for the path between Stanford and UCSC so that they almost do not contribute to the any flow at all.
 
 
 
