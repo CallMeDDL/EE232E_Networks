@@ -171,7 +171,7 @@ Considering the reason why we use log-normalized return $r_i(t)$ instead of regu
 This is handy given much of classic statistics presumes normality.
 
 \textbf{(b)Approximate raw-log equality:} when returns are very small (common for trades with short holding durations), the following approximation ensures they are close in value to raw returns:
-\begin{displaymath}r_i(t) = \log(1 + q_i(t)) \approx q_i(t), where q_i(t)\ll 1\end{displaymath}
+\begin{displaymath}r_i(t) = \log(1 + q_i(t)) \approx q_i(t), \text{where } q_i(t)\ll 1\end{displaymath}
 
 \textbf{(c)time-additivity:} Consider a stock $i$ with an ordered sequence of $n$ trades. A statistic frequently calculated from this sequence is the compounding return, which is the running return of this sequence of trades over time:
 \begin{displaymath}q_i(1) \cdot q_i(2) \cdot q_i(3) \cdot...\cdot q_i(n)\end{displaymath}
@@ -225,13 +225,35 @@ We found that there is an interesting pattern in MST: stocks in same sector tend
 \end{figure}
 
 \subsection{Sector Clustering in MST's}
+\textcolor{blue}{Question 4: Report the value of $\alpha$ for the above two cases and provide an interpretation for the difference.
+}
+
+Answer:
+case1: $\alpha = 0.82893$
+case2: $\alpha = 0.11419$
+
+To predict the market sector of an unknown stock, two methods for performing the task are utilized and compared. In case1, $P(v_i \in S_) = |Q_i| / |N_i|$, where $Q_i$ is the set of neighbors of node $i$ that belong to the same sector as node i and $N_i$ is the set of neighbors of node $i$. For Case2, $P(v_i \in S_i) = |S_i| / |V|$. 
+
+The difference between these two results is that in case 1, information of neighbors of node i being predicted is used to infer its sector. The higher probability that its neighbors belong to certain sector, the higher chance it belongs to that sector. In case 2, however, the node i being predicted just is assigned with the label based on the percentage each sector takes up overall. The larger size the sector is, the higher probability it belongs to that sector, which is a naive random guess approach (sampling idea).
+
 
 
 \subsection{Correlation Graph for Weekly Data}
 
+\textcolor{blue}{Question 5: Extract the MST from the correlation graph based on weekly data. Compare the pattern of this MST with the pattern of the MST found in question 3.
+}
+
+The MST we got is shown in Figure \ref {fig:Q5}. 
+
+Comparing this MST of weekly data and the MST of daily data, we can see that when we consider a larger time interval (weekly compared to daily), the vertices(stocks) in the weekly graph from same sector seems not as clustered together as daily graph. In other words, daily stock closing price is more likely to be influenced by the sector a stock belongs to; however, the relation demonstrated weaker when considering the weekly data. This is in fact easy to understand since when time interval becomes bigger, there may be several other factors could affect the stock price like changes in market.
 
 
-
+\begin{figure}[h]
+\centering
+\scalebox{0.7}{\includegraphics{Figures/q5_monday_mst.png}}
+\caption{degree distribution of the correlation graph (weekly data)}
+\label{fig:Q5}
+\end{figure}
 
 
 
@@ -247,7 +269,43 @@ We found that there is an interesting pattern in MST: stocks in same sector tend
 
 \subsection{Build Your Graph}
 
+\textcolor{blue}{
+    Question 6: Report the number of nodes and edges in $G$.
+}
+
+After building the graph in which nodes represent the locations and undirected edges represent the mean traveling time, 
+
+(1) the number of nodes is $1880$;
+
+ (2) the number of edges is $311802$.
+
+
+
 \subsection{Traveling Salesman Problem}
+
+\textcolor{blue}{
+    Question 7: Build a minimum spanning tree (MST) of graph $G$. Report the street addresses of the two endpoints of a few edges. Are the results intuitive?
+}
+
+Some examples of the street addresses are presented as in Table. \ref{example_table}. The results are very intuitive since the locations are very close to each other and the mean traveling time is very similar to the traveling time that the Google Maps provided.
+
+\begin{table}[h]
+\center
+\caption{Examples of street addresses and mean traveling time}
+\scalebox{0.9}{
+\begin{tabular}{ccc}
+\toprule
+From & To & Mean traveling time (s)\\\toprule
+\makecell{3300 Brodie Drive,\\ South San Jose, San Jose} & \makecell{4300 La Torre Avenue,\\ South San Jose, San Jose} & $132.59$\\\midrule
+\makecell{3300 Brodie Drive,\\ South San Jose, San Jose} & \makecell{3700 McLaughlin Avenue,\\South San Jose, San Jose} & $126.24$\\\midrule
+\makecell{1700 Coyote Point Drive,\\ Shoreview, San Mateo} & \makecell{1800 Helene Court,\\ East San Mateo, San Mateo} & $80.985$\\\midrule
+\makecell{1700 Coyote Point Drive,\\ Shoreview, San Mateo} & \makecell{600 Lexington Way,\\ Oak Grove Manor, Burlingame} & $111.885$\\\midrule
+\makecell{1400 Calle Alegre,\\ South San Jose, San Jose} & \makecell{April Trail,\\ Almaden, San Jose} & $166.725$\\\midrule
+\makecell{1400 Calle Alegre,\\ South San Jose, San Jose} & \makecell{5600 Park Crest Drive,\\ South San Jose, San Jose} & $151.19$\\\midrule
+\end{tabular}}
+\label{example_table}
+\end{table}
+
 
 
 \textcolor{blue}{
@@ -269,7 +327,7 @@ After the random samplings of $1000$ triangles on the graph, the percentage of t
 
 According to the $2$-approximate algorithm analysis, we know
 \begin{align}
-\rho=\frac{\text{Approximate TSP Cost}}{\text{Optimal TSP Cost}}\le 2
+\rho=\frac{\text{Approximate TSP Cost}}{\text{Optimal TSP Cost}}\le 1.5698
 \end{align}
 
 
@@ -277,6 +335,15 @@ According to the $2$-approximate algorithm analysis, we know
     Question 10: Plot the trajectory that Santa has to travel!
 }
 
+After implementing the $2$-approximate algorithm, the trajectory that Santa has to travel is shown in Fig. \ref{fig:tour}.
+
+
+\begin{figure}[t]
+\centering
+\scalebox{1}{\includegraphics{Figures/tour.png}}
+\caption{Travel trajectory that Santa has to travel}
+\label{fig:tour}
+\end{figure}
 
 
 
@@ -289,14 +356,14 @@ According to the $2$-approximate algorithm analysis, we know
     Question 11: Plot the road mesh that you obtain and explain the result.
 Create a subgraph $G_{\Delta}$ induced by the edges produced by triangulation.
 }
-\begin{figure}[h]
+\begin{figure}[t]
 \centering
-\scalebox{0.7}{\includegraphics{Figures/triangulation.png}}
+\scalebox{0.8}{\includegraphics{Figures/triangulation.png}}
 \caption{Road mesh after triangulation}
 \label{fig:road_mesh}
 \end{figure}
 
-After implementing the Delaunay triangulation, the road mesh we obtained is in Fig. \ref{fig:road_mesh}.
+After implementing the Delaunay triangulation, the road mesh we obtained is in Fig. \ref{fig:road_mesh}. The road mesh is very similar to the actual map since more dots are needed to characterize the places with high transportation density. On the contrary, only a few number of dots are needed to characterize the wild areas. 
 
 
 

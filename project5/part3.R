@@ -35,6 +35,5 @@ road = data.frame(id1, id2, weight)
 g_r <- graph.data.frame(d = road, directed = FALSE)
 
 # Q13
-
 max_flow(g_r, source = V(g_r)["2607"], target = V(g_r)["1968"], capacity = E(g_r)$weight)
 edge_connectivity(g, source = V(g_r)["2607"], target = V(g_r)["1968"])
