@@ -269,7 +269,43 @@ Comparing this MST of weekly data and the MST of daily data, we can see that whe
 
 \subsection{Build Your Graph}
 
+\textcolor{blue}{
+    Question 6: Report the number of nodes and edges in $G$.
+}
+
+After building the graph in which nodes represent the locations and undirected edges represent the mean traveling time, 
+
+(1) the number of nodes is $1880$;
+
+ (2) the number of edges is $311802$.
+
+
+
 \subsection{Traveling Salesman Problem}
+
+\textcolor{blue}{
+    Question 7: Build a minimum spanning tree (MST) of graph $G$. Report the street addresses of the two endpoints of a few edges. Are the results intuitive?
+}
+
+Some examples of the street addresses are presented as in Table. \ref{example_table}. The results are very intuitive since the locations are very close to each other and the mean traveling time is very similar to the traveling time that the Google Maps provided.
+
+\begin{table}[h]
+\center
+\caption{Examples of street addresses and mean traveling time}
+\scalebox{0.9}{
+\begin{tabular}{ccc}
+\toprule
+From & To & Mean traveling time (s)\\\toprule
+\makecell{3300 Brodie Drive,\\ South San Jose, San Jose} & \makecell{4300 La Torre Avenue,\\ South San Jose, San Jose} & $132.59$\\\midrule
+\makecell{3300 Brodie Drive,\\ South San Jose, San Jose} & \makecell{3700 McLaughlin Avenue,\\South San Jose, San Jose} & $126.24$\\\midrule
+\makecell{1700 Coyote Point Drive,\\ Shoreview, San Mateo} & \makecell{1800 Helene Court,\\ East San Mateo, San Mateo} & $80.985$\\\midrule
+\makecell{1700 Coyote Point Drive,\\ Shoreview, San Mateo} & \makecell{600 Lexington Way,\\ Oak Grove Manor, Burlingame} & $111.885$\\\midrule
+\makecell{1400 Calle Alegre,\\ South San Jose, San Jose} & \makecell{April Trail,\\ Almaden, San Jose} & $166.725$\\\midrule
+\makecell{1400 Calle Alegre,\\ South San Jose, San Jose} & \makecell{5600 Park Crest Drive,\\ South San Jose, San Jose} & $151.19$\\\midrule
+\end{tabular}}
+\label{example_table}
+\end{table}
+
 
 
 \textcolor{blue}{
